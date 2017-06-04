@@ -3,7 +3,7 @@ import argparse
 import os
 
 parser = argparse.ArgumentParser(description='number of citations crawler')
-parser.add_argument('-input_file', type=str, default='ACL2016_long.txt')
+parser.add_argument('-input_file', type=str, default='ACL2016.txt')
 args = parser.parse_args()
 
 def main():

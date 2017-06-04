@@ -1,4 +1,4 @@
-# ACL2016_longpapers
+# ACL2016papers
 - [ ] A CALL system for learning preposition usage           0
 - [ ] A Character-level Decoder without Explicit Segmentation for Neural Machine Translation           0
 - [ ] A Continuous Space Rule Selection Model for Syntax-based Statistical Machine Translation           0
@@ -230,3 +230,99 @@
 - [ ] WikiReading: A Novel Large-scale Language Understanding Task over Wikipedia           0
 - [ ] Word-Based Neural Models for Chinese Segmentation           0
 - [ ] Zero Pronoun Resolution with Low-Dimensional Features           0
+- [ ] Stephane Clinchant, Gabriela Csurka and Boris Chidlovskii           0
+- [ ] Yanhui Gu           0
+- [ ] Xiaocheng Feng, Heng Ji, Duyu Tang, Bing Qin and Ting Liu           0
+- [ ] Weihua Hu and Jun'ichi Tsujii           0
+- [ ] Santanu Pal, Sudip Kumar Naskar, Mihaela Vela and Josef van Genabith           0
+- [ ] Fred Morstatter and Huan Liu           0
+- [ ] Gavin Saldanha, Or Biran, Kathleen McKeown and Alfio Gliozzo           0
+- [ ] Manny Rayner, Pierrette Bouillon, Sarah Ebling, Johanna Gerlach, Irene Strasly and Nikos Tsourakis           0
+- [ ] Masoud Jalili Sabet, Matteo Negri, Marco Turchi and Eduard Barbu           0
+- [ ] Omer Levy and Ido Dagan           0
+- [ ] Peng Zhou           0
+- [ ] Maximilian Köper and Sabine Schulte im Walde           0
+- [ ] Dirk Hovy and Shannon L. Spruit           0
+- [ ] Julian Brooke, Adam Hammond and Timothy Baldwin           0
+- [ ] Marta R. Costa-jussà and José A. R. Fonollosa           0
+- [ ] Yonatan Bilu and Noam Slonim           0
+- [ ] Debanjan Ghosh, Aquila Khanam and Smaranda Muresan           0
+- [ ] Yang Xu and David Reitter           0
+- [ ] Beat Gfeller, Vlad Schogol and Keith Hall           0
+- [ ] Takamasa Oshikiri, Kazuki Fukui and Hidetoshi Shimodaira           0
+- [ ] Anders Søgaard and Yoav Goldberg           0
+- [ ] Joël Legrand and Ronan Collobert           0
+- [ ] Jingjing Xu, Xu Sun and Xiaoyan Cai           0
+- [ ] Veronika Vincze, Gábor Gosztolya, László Tóth, Ildikó Hoffmann, Gréta Szatlóczki, Zoltán Bánréti, Magdolna Pákáski and János Kálmán           0
+- [ ] Jin Wang, Liang-Chih Yu, K. Robert Lai and Xuejie Zhang           0
+- [ ] Suzushi Tomori, Takashi Ninomiya and Shinsuke Mori           0
+- [ ] Duy Tin Vo and Yue Zhang           0
+- [ ] Katsuhiko Hayashi and Masaaki Nagata           0
+- [ ] Reza Ghaeini, Xiaoli Fern, Liang Huang and Prasad Tadepalli           0
+- [ ] Aubrie Woods           0
+- [ ] Lucie Flekova, Daniel Preoţiuc-Pietro and Lyle Ungar           0
+- [ ] Jan-Thorsten Peter, Weiyue Wang and Hermann Ney           0
+- [ ] Xianzhi Ruan, Steven Wilson and Rada Mihalcea           0
+- [ ] Michal Lukasik, P. K. Srijith, Kalina Bontcheva and Trevor Cohn           0
+- [ ] Carlos Ramisch, Silvio Cordeiro, Leonardo Zilio, Marco Idiart and Aline Villavicencio           0
+- [ ] Todor Mihaylov and Preslav Nakov           0
+- [ ] Andrej Zukov Gregoric, Zhiyuan Luo and Bartal Veyhe           0
+- [ ] Huan-Yuan Chen and Hsin-Hsi Chen           0
+- [ ] Jessica Ficler and Yoav Goldberg           0
+- [ ] Yimai Fang and Simone Teufel           0
+- [ ] louis onrust, Antal van den Bosch and Hugo Van hamme           0
+- [ ] Praveen Dakwale and Christof Monz           0
+- [ ] Abhishek Kumar and Jun Araki           0
+- [ ] James Cross and Liang Huang           0
+- [ ] Kim Anh Nguyen, Sabine Schulte im Walde and Ngoc Thang Vu           0
+- [ ] Ivan Vulić           0
+- [ ] Zhongyu Wei and Yang Liu           0
+- [ ] Anders Johannsen, Željko Agić and Anders Søgaard           0
+- [ ] Micha Elsner, Stephanie Antetomaso and Naomi Feldman           0
+- [ ] Ahmed Elgohary and Marine Carpuat           0
+- [ ] Adrian Benton, Raman Arora and Mark Dredze           0
+- [ ] Nanyun Peng and Mark Dredze           0
+- [ ] Teng Long, Ryan Lowe, Jackie Chi Kit Cheung and Doina Precup           0
+- [ ] Mrinmaya Sachan and Eric Xing           0
+- [ ] Francisco Guzmán, Lluís Màrquez and Preslav Nakov           0
+- [ ] Alexandre Salle, Aline Villavicencio and Marco Idiart           0
+- [ ] Varvara Logacheva, Michal Lukasik and Lucia Specia           0
+- [ ] Frances Yung, Kevin Duh, Taku Komura and Yuji Matsumoto           0
+- [ ] Katharina Kann and Hinrich Schütze           0
+- [ ] Ivan Vulić, Douwe Kiela, Stephen Clark and Marie-Francine Moens           0
+- [ ] Barbara Plank, Anders Søgaard and Yoav Goldberg           0
+- [ ] Yi Luan, Yangfeng Ji, Hannaneh Hajishirzi and Boyang Li           0
+- [ ] Dimitra Gkatzia, Oliver Lemon and Verena Rieser           0
+- [ ] Lili Mou, Rui Men, Ge Li, Yan Xu, Lu Zhang, Rui Yan and Zhi Jin           0
+- [ ] Kayhan Batmanghelich, Ardavan Saeedi, Karthik Narasimhan and Sam Gershman           0
+- [ ] Steffen Eger and Alexander Mehler           0
+- [ ] David Vilares, Carlos Gómez-Rodríguez and Miguel A. Alonso           0
+- [ ] Maria Barrett, Joachim Bingel and Anders Søgaard           0
+- [ ] Masaaki Nishino, Jun Suzuki and Masaaki Nagata           0
+- [ ] Liangyou Li, Andy Way and Qun Liu           0
+- [ ] Zornitsa Kozareva, Qi Li, Ke Zhai and Weiwei Guo           0
+- [ ] Marina Fomicheva and Lucia Specia           0
+- [ ] Young-Bum Kim, Karl Stratos and Ruhi Sarikaya           0
+- [ ] Mrinmaya Sachan, Kumar Dubey and Eric Xing           0
+- [ ] Beata Beigman Klebanov, Chee Wee Leong, E. Dario Gutierrez, Ekaterina Shutova and Michael Flor           0
+- [ ] Sara Rodríguez-Fernández, Luis Espinosa Anke, Roberto Carlini and Leo Wanner           0
+- [ ] Ondřej Dušek and Filip Jurcicek           0
+- [ ] Ellie Pavlick and Chris Callison-Burch           0
+- [ ] Gabriel Stanovsky, Ido Dagan and Meni Adler           0
+- [ ] Felix Stahlberg, Eva Hasler, Aurelien Waite and Bill Byrne           0
+- [ ] Joachim Bingel and Anders Søgaard           0
+- [ ] Dirk Hovy           0
+- [ ] Angeliki Lazaridou, Nghia The Pham and Marco Baroni           0
+- [ ] Wen-tau Yih, Matthew Richardson, Chris Meek, Ming-Wei Chang and Jina Suh           0
+- [ ] Stephane Clinchant, Boris Chidlovskii and Gabriela Csurka           0
+- [ ] Daniël de Kok and Erhard Hinrichs           0
+- [ ] Bhuwan Dhingra, Zhong Zhou, Dylan Fitzpatrick, Michael Muehl and William Cohen           0
+- [ ] Matti Varjokallio and Dietrich Klakow           0
+- [ ] Yang Yu, Xinjie Zhou and Xiaojun Wan           0
+- [ ] Kellie Webster and James R. Curran           0
+- [ ] Johann-Mattis List, Philippe Lopez and Eric Bapteste           0
+- [ ] Iris Hendrickx, Els Lefever, Ija Croijmans, Asifa Majid and Antal van den Bosch           0
+- [ ] Haitao Mi, Zhiguo Wang and Abe Ittycheriah           0
+- [ ] Zornitsa Kozareva and Makoto Yamada           0
+- [ ] Philip Schulz, Wilker Aziz and Khalil Sima'an           0
+- [ ] Sascha Rothe and Hinrich Schütze           0
