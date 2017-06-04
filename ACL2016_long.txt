@@ -1,0 +1,462 @@
+A CALL system for learning preposition usage
+John Lee
+A Character-level Decoder without Explicit Segmentation for Neural Machine Translation
+Junyoung Chung, Kyunghyun Cho and Yoshua Bengio
+A Continuous Space Rule Selection Model for Syntax-based Statistical Machine Translation
+Jingyi Zhang, Masao Utiyama, Eiichro Sumita, Graham Neubig and Satoshi Nakamura
+A Corpus-Based Analysis of Canonical Word Order of Japanese Double Object Constructions
+Ryohei Sasano and Manabu Okumura
+A Discriminative Topic Model using Document Network Structure
+Weiwei Yang, Jordan Boyd-Graber and Philip Resnik
+A Fast Unified Model for Parsing and Sentence Understanding
+Samuel R. Bowman, Jon Gauthier, Abhinav Rastogi, Raghav Gupta, Christopher D. Manning and Christopher Potts
+A Mean-Field Vector Space for Distributional Semantics for Entailment
+James Henderson and Diana Popa
+A Multi-media Approach to Cross-lingual Entity Knowledge Transfer
+Di Lu, Xiaoman Pan, Nima Pourdamghani, Heng Ji, Shih-Fu Chang and Kevin Knight
+A New Psychometric-inspired Evaluation Metric for Chinese Word Segmentation
+Peng Qian, Xipeng Qiu and Xuanjing Huang
+A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data
+Adam Trischler, Zheng Ye, Xingdi Yuan, Jing He and Phillip Bachman
+A Persona-Based Neural Conversation Model
+Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao and Bill Dolan
+A Search-Based Dynamic Reranking Model for Dependency Parsing
+Hao Zhou, Yue Zhang, Shujian Huang, Junsheng Zhou, XIN-YU DAI and Jiajun Chen
+A Sentence Interaction Network for Modeling Dependence between Sentences
+Biao Liu and Minlie Huang
+A short proof that O_2 is an MCFL
+Mark-Jan Nederhof
+A Thorough Examination of the CNN / Daily Mail Reading Comprehension Task
+Danqi Chen, Jason Bolton and Christopher D. Manning
+A Trainable Spaced Repetition Model for Language Learning
+Burr Settles and Brendan Meeder
+A Transition-Based System for Joint Lexical and Syntactic Analysis
+Matthieu Constant and Joakim Nivre
+A Word-based Neural Network Method for Chinese Word Segmentation
+Deng Cai and Hai Zhao
+Achieving open vocabulary neural machine translation with hybrid word-character models
+Minh-Thang Luong and Christopher D. Manning
+Active Learning for Dependency Parsing with Partial Annotation
+Zhenghua Li, Min Zhang, Yue Zhang, Zhanyi Liu, Wenliang Chen, Hua Wu and Haifeng Wang
+Adaptive Joint Learning of Compositional and Non-Compositional Phrase Embeddings
+Kazuma Hashimoto and Yoshimasa Tsuruoka
+Addressing Limited Data for Textual Entailment Across Domains
+Chaitanya Shivade, Preethi Raghavan and Siddharth Patwardhan
+Agreement-based Learning of Parallel Lexicons and Phrases from Non-Parallel Corpora
+Chunyang Liu, Yang Liu and Maosong Sun
+Alleviating Poor Context with Background Knowledge for Named Entity Disambiguation
+Ander Barrena, Aitor Soroa and Eneko Agirre
+ALTO: Active Learning with Topic Overviews for Speeding Label Induction and Document Labeling
+Forough Poursabzi-Sangdeh, Jordan Boyd-Graber, Leah Findlater and Kevin Seppi
+Analysing Biases in Human Perception of User Age and Gender from Text
+Lucie Flekova, Jordan Carpenter, Salvatore Giorgi, Lyle Ungar and Daniel Preoţiuc-Pietro
+Annotating and Predicting Non-Restrictive Noun Phrase Modifications
+Gabriel Stanovsky and Ido Dagan
+AraSenTi: Large-Scale Twitter-Specific Arabic Sentiment Lexicons
+Nora Al-Twairesh, Hend Al-Khalifa and Abdulmalik AlSalman
+Automatic identification of vector-space semantic content in speech to detect Alzheimer's disease
+Maria Yancheva and Frank Rudzicz
+Automatic Labeling of Topic Models Using Text Summaries
+Tianming Wang and Xiaojun Wan
+Automatic Stance Classification of Argumentative Essays
+Isaac Persing
+Automatic Text Scoring Using Neural Networks
+Dimitrios Alikaniotis, Helen Yannakoudakis and Marek Rei
+Beyond Plain Spatial Knowledge: Determining Where Entities Are and Are Not Located, and For How Long
+Alakananda Vempala and Eduardo Blanco
+Bi-Transferring Deep Neural Networks for Domain Adaptation
+Guangyou Zhou, Jun Zhao and Xiangji Jimmy Huang
+Bidirectional Recurrent Convolutional Neural Network for Relation Classification
+Rui Cai, Xiaodong Zhang and Houfeng WANG
+Bilingual Segmented Topic Model
+Akihiro Tamura and Eiichiro Sumita
+Case and Cause in Icelandic: Reconstructing Causal Networks of Cascaded Language Changes
+Fermin Moscoso del Prado Martin and Christian Brendel
+Causality of Verbs for Grounded Language Understanding
+Qiaozi Gao, Malcolm Doering, Shaohua Yang and Joyce Chai
+CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases
+Zihang Dai, Lei Li and Wei Xu
+Chinese Couplet Generation with Neural Network Structures
+Rui Yan
+Collective Entity Resolution with Multi-Focal Attention
+Amir Globerson, Nevena Lazic, Soumen Chakrabarti, Amarnag Subramanya, Michael Ringaard and Fernando Pereira
+Combining Natural Logic and Shallow Reasoning for Question Answering
+Gabor Angeli, Neha Nayak and Christopher D. Manning
+Commonsense Knowledge Base Completion
+Xiang Li, Aynaz Taheri, Lifu Tu and Kevin Gimpel
+Composing Distributed Representations of Relational Patterns
+Sho Takase, Naoaki Okazaki and Kentaro Inui
+Compositional Learning of Embeddings for Relation Paths in Knowledge Base and Text
+Kristina Toutanova, Victoria Lin, Wen-tau Yih, Hoifung Poon and Chris Quirk
+Compositional Sequence Labeling Models for Error Detection in Learner Writing
+Marek Rei and Helen Yannakoudakis
+Compressing Neural Language Models by Sparse Word Representations
+Yunchuan Chen, Lili Mou, Yan Xu, Ge Li and Zhi Jin
+Connotation Frames: A Data-Driven Investigation
+Hannah Rashkin, Sameer Singh and Yejin Choi
+Constrained Multi-Task Learning for Automated Essay Scoring
+Ronan Cummins, Meng Zhang and Ted Briscoe
+Context-aware Argumentative Relation Mining
+Huy Nguyen and Diane Litman
+Continuous Profile Models in ASL Syntactic Facial Expression Synthesis
+Hernisa Kacorri and Matt Huenerfauth
+Coordination Annotation Extension in the Penn Tree Bank
+Jessica Ficler and Yoav Goldberg
+Cross-domain Text Classification with Multiple Domains and Disparate Label Sets
+Himanshu Sharad Bhatt, Manjira Sinha and Shourya Roy
+Cross-Lingual Image Caption Generation
+Takashi Miyazaki and Nobuyuki Shimizu
+Cross-Lingual Lexico-Semantic Transfer in Language Learning
+Ekaterina Kochmar and Ekaterina Shutova
+Cross-lingual Models of Word Embeddings: An Empirical Comparison
+Shyam Upadhyay, Manaal Faruqui, Chris Dyer and Dan Roth
+Cross-Lingual Morphological Tagging for Low-Resource Languages
+Jan Buys and Jan A. Botha
+Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning
+Xinjie Zhou and Xiaojun Wan
+CSE: Conceptual Sentence Embeddings based on Attention Model
+Yashen Wang, Heyan Huang, Chong Feng, Qiang Zhou, Jiahui Gu and Xiong Gao
+Data Recombination for Neural Semantic Parsing
+Robin Jia and Percy Liang
+Deep Fusion LSTMs for Text Semantic Matching
+Pengfei Liu, Xipeng Qiu and Xuanjing Huang
+Deep Reinforcement Learning with a Natural Language Action Space
+Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng and Mari Ostendorf
+Dependency Parsing with Bounded Block Degree and Well-nestedness viaLagrangian Relaxation and Branch-and-Bound
+Caio Corro, Joseph Le Roux, Mathieu Lacroix, Antoine Rozenknop and Roberto Wolfler Calvo
+Detecting Common Discussion Topics Across Culture From News Reader Comments
+Bei Shi, Wai Lam, Lidong Bing and Yinqing Xu
+Detecting Events in FrameNet
+Shulin Liu, Kang Liu and Jun Zhao
+Diachronic word embeddings reveal laws of semantic change
+William Hamilton, Jure Leskovec and Dan Jurafsky
+Discovery of Treatments from Text Corpora
+Christian Fong and Justin Grimmer
+Discriminative Deep Random Walk for Network Classification
+Juzheng Li, Jun Zhu and Bo Zhang
+DocChat: An Information Retrieval Approach for Chatbot Engines Using Unstructured Documents
+Zhao Yan, Nan Duan, Junwei Bao, Peng Chen, Ming Zhou, Zhoujun Li and Jianshe Zhou
+Document-level Sentiment Inference with Social, Faction, and Discourse Context
+Eunsol Choi, Hannah Rashkin, Luke Zettlemoyer and Yejin Choi
+Domain Adaptation for Authorship Attribution: Improved Structural Correspondence Learning
+Upendra Sapkota, Thamar Solorio, Manuel Montes and Steven Bethard
+Easy Questions First? Curriculum Learning for Question Answering
+Mrinmaya Sachan and Eric Xing
+Easy Things First: Installments Improve Referring Expression Generation for Objects in Photographs
+Sina Zarrieß and David Schlangen
+Edge-Linear First-Order Dependency Parsing with Undirected Minimum Spanning Tree Inference
+Effi Levi, Roi Reichart and Ari Rappoport
+Effects of Text Corpus Properties on Short Text Clustering Performance
+Catherine Finegan-Dollak, Reed Coke, Rui Zhang, Xiangyi Ye and Dragomir Radev
+Efficient techniques for parsing with tree automata
+Jonas Groschwitz, Mark Johnson and Alexander Koller
+Embeddings for Word Sense Disambiguation: An Evaluation Study
+Ignacio Iacobacci, Mohammad Taher Pilehvar and Roberto Navigli
+End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures
+Makoto Miwa and Mohit Bansal
+End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
+Xuezhe Ma and Eduard Hovy
+Entropy converges between dialogue participants: explanations from an information-theoretic perspective
+Yang Xu and David Reitter
+Evaluating Sentiment Analysis in the Context of Securities Trading
+Siavash Kazemian, Shunan Zhao and Gerald Penn
+Exploring Convolutional and Recurrent Neural Networks in Sequential Labelling for Dialogue Topic Tracking
+Seokhwan Kim, Rafael Banchs and Haizhou Li
+Finding Non-Arbitrary Form-Meaning Systematicity Using String-Metric Learning for Kernel Regression
+E.D. Gutierrez, Roger Levy and Benjamin Bergen
+Finding the Middle Ground - A Model for Planning Satisficing Answers
+Sabine Janzen, Wolfgang Maaß and Tobias Kowatsch
+Generalized Transition-based Dependency Parsing via Control Parameters
+Bernd Bohnet, Ryan McDonald, Emily Pitler and Ji Ma
+Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus
+Iulian Vlad Serban, Alberto García-Durán, Caglar Gulcehre, Sungjin Ahn, Sarath Chandar, Aaron Courville and Yoshua Bengio
+Generating Natural Questions About an Image
+Nasrin Mostafazadeh, Ishan Misra, Jacob Devlin, Margaret Mitchell, Xiaodong He and Lucy Vanderwende
+Generative Topic Embedding: a Continuous Representation of Documents
+Shaohua Li, Tat-Seng Chua, Jun Zhu and Chunyan Miao
+Globally Normalized Transition-Based Neural Networks
+Daniel Andor, Chris Alberti, David Weiss, Aliaksei Severyn, Alessandro Presta, Kuzman Ganchev, Slav Petrov and Michael Collins
+Grammatical Error Correction: Machine Translation and Classifiers
+Alla Rozovskaya and Dan Roth
+Graph-based Dependency Parsing with Bidirectional LSTM
+Wenhui Wang and Baobao Chang
+Graph-Based Translation Via Graph Segmentation
+Liangyou Li, Andy Way and Qun Liu
+Grapheme-to-Phoneme Models for (Almost) Any Language
+Aliya Deri and Kevin Knight
+Harnessing Cognitive Features for Sarcasm Detection
+Abhijit Mishra, Diptesh Kanojia, Kuntal Dey, Seema Nagar and Pushpak Bhattacharyya
+Harnessing Deep Neural Networks with Logic Rules
+Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy and Eric Xing
+Hidden Softmax Sequence Model for Dialogue Structure Analysis
+Zhiyang He, Xien Liu, Ping Lv and Ji Wu
+How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions
+Arun Chaganty and Percy Liang
+How to Train Dependency Parsers with Inexact Search for Joint Sentence Boundary Detection and Parsing of Entire Documents
+Anders Björkelund, Agnieszka Faleńska, Wolfgang Seeker and Jonas Kuhn
+How well do Computers Solve Math Word Problems? Large-Scale Dataset Construction and Evaluation
+Danqing Huang, Shuming Shi, Chin-Yew Lin, Jian Yin and Wei-Ying Ma
+Identifying Causal Relations Using Parallel Wikipedia Articles
+Christopher Hidey and Kathy McKeown
+Idiom Token Classification using Sentential Distributed Semantics
+Giancarlo Salton, Robert Ross and John Kelleher
+Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network
+Jifan Chen, Qi Zhang and Xuanjing Huang
+Improved Representation Learning for Question Answer Matching
+Ming Tan, Cicero dos Santos, Bing Xiang and Bowen Zhou
+Improved Semantic Parsers For If-Then Statements
+I. Beltagy and Chris Quirk
+Improving Coreference Resolution by Learning Entity-Level Distributed Representations
+Kevin Clark and Christopher D. Manning
+Improving Hypernymy Detection with an Integrated Path-based and Distributional Method
+Vered Shwartz, Yoav Goldberg and Ido Dagan
+Improving Neural Machine Translation Models with Monolingual Data
+Rico Sennrich, Barry Haddow and Alexandra Birch
+Incorporating Copying Mechanism in Sequence-to-Sequence Learning
+Jiatao Gu, Zhengdong Lu, Hang Li and Victor O.K. Li
+Incremental Acquisition of Verb Hypothesis Space towards Physical World Interaction
+Lanbo She and Joyce Chai
+Inferring Logical Forms From Denotations
+Panupong Pasupat and Percy Liang
+Inferring Perceived Demographics from User Emotional Tone and User-Environment Emotional Contrast
+Svitlana Volkova and Yoram Bachrach
+Inner Attention based Recurrent Neural Network for Answer Selection
+Bingning Wang, Kang Liu and Jun Zhao
+Intrinsic Subspace Evaluation of Word Embedding Representations
+Yadollah Yaghoobzadeh and Hinrich Schütze
+Investigating Language Universal and Specific in Word Embedding
+Peng Qian, Xipeng Qiu and Xuanjing Huang
+Investigating LSTMs for Joint Extraction of Opinion Entities and Relations
+Arzoo Katiyar and Claire Cardie
+Investigating the Sources of Linguistic Alignment in Conversation
+Gabriel Doyle and Michael C. Frank
+Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling
+Deyu ZHOU, Tianmeng Gao and Yulan He
+Jointly Learning to Embed and Predict with Multiple Languages
+Daniel C. Ferreira, André F. T. Martins and Mariana S. C. Almeida
+Knowledge Base Completion via Coupled Path Ranking
+Quan Wang, Jing Liu, Yuanfei Luo, Bin Wang and Chin-Yew Lin
+Knowledge-Based Semantic Embedding for Machine Translation
+Chen Shi,  Shujie Liu, Shuo Ren, Shi Feng, Mu Li, Ming Zhou, Xu Sun, and Houfeng Wang
+Language to Logical Form with Neural Attention
+Li Dong and Mirella Lapata
+Language Transfer Learning for Supervised Lexical Substitution
+Gerold Hintz and Chris Biemann
+Larger-Context Language Modelling with Recurrent Neural Network
+Tian Wang and Kyunghyun Cho
+Latent Predictor Networks for Code Generation
+Wang Ling, Phil Blunsom, Edward Grefenstette, Karl Moritz Hermann, Tomáš Kočiský, Fumin Wang and Andrew Senior
+Learning Concept Taxonomies from Multi-modal Data
+Hao Zhang, Zhiting Hu, Yuntian Deng, Mrinmaya Sachan, Zhicheng Yan and Eric Xing
+Learning Language Games through Interaction
+Sida I. Wang, Percy Liang and Christopher D. Manning
+Learning Precise Partial Semantic Mappings via Linear Algebra
+Fereshte Khani, Martin Rinard and Percy Liang
+Learning Prototypical Event Structure from Photo Albums
+Antoine Bosselut, Jianfu Chen, David Warren, Hannaneh Hajishirzi and Yejin Choi
+Learning Semantically and Additively Compositional Distributional Representations
+Ran Tian, Naoaki Okazaki and Kentaro Inui
+Learning Structured Predictors from Partial Information for Interactive NLP
+Artem Sokolov, Julia Kreutzer, Chris Lo and Stefan Riezler
+Learning Text Pair Similarity with Context-sensitive Autoencoders
+Hadi Amiri, Philip Resnik, Jordan Boyd-Graber and Hal Daumé III
+Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning
+Yulia Tsvetkov, Manaal Faruqui, Wang Ling and Chris Dyer
+Learning To Use Formulas To Solve Simple Arithmetic Problems
+Arindam Mitra and Chitta Baral
+Learning Word Meta-Embeddings
+Wenpeng Yin and Hinrich Schütze
+Learning-Based Single-Document Summarization with Compression and Anaphoricity Constraints
+Greg Durrett, Taylor Berg-Kirkpatrick and Dan Klein
+Leveraging inflection tables for Stemming and Lemmatization via Discriminative String Transduction.
+Garrett Nicolai and Grzegorz Kondrak
+LexSemTm: A Semantic Dataset Based on All-words Unsupervised Sense Distribution Learning
+Andrew Bennett, Timothy Baldwin, Jey Han Lau, Diana McCarthy and Francis Bond
+Liberal Event Extraction and Event Schema Induction
+Lifu Huang, Taylor Cassidy, Xiaocheng Feng, Heng Ji, Clare R. Voss, Jiawei Han and Avirup Sil
+Literal and Metaphorical Senses in Compositional Distributional Semantic Models
+E.D. Gutierrez, Ekaterina Shutova, Tyler Marghetis and Benjamin Bergen
+Metaphor Detection Using Topic Transition, Emotion and Cognition in Context
+Hyeju Jang, Yohan Jo, Qinlan Shen, Michael Miller, Seungwhan Moon and Carolyn Rose
+Minimum Risk Training for Neural Machine Translation
+Shiqi Shen, Yong Cheng, Zhongjun He, Wei He, Hua Wu, Maosong Sun and Yang Liu
+Mining Paraphrasal Typed Templates from a Plain Text Corpus
+Or Biran, Terra Blevins and Kathleen McKeown
+Model Architectures for Quotation Detection
+Christian Scheible, Roman Klinger and Sebastian Padó
+Modeling Concept Dependencies in a Scientific Corpus
+Jonathan Gordon, Linhong Zhu, Gully Burns, Aram Galstyan and Prem Natarajan
+Modeling Coverage for Neural Machine Translation
+Zhaopeng Tu, Zhengdong Lu, Yang Liu, Xiaohua Liu and Hang Li
+Modeling Simpler Logical Forms via Model Projections
+Reginald Long, Panupong Pasupat and Percy Liang
+Modeling Social Norms Evolution for Personalized Sentiment Classification
+Lin Gong, Mohammad Al Boni and Hongning Wang
+Models and Inference for Prefix-Constrained Machine Translation
+Joern Wuebker, Spence Green, John DeNero, Sasa Hasan and Minh-Thang Luong
+Morphological Smoothing and Extrapolation of Word Embeddings
+Ryan Cotterell, Jason Eisner and Hinrich Schütze
+Most "babies" are "little" and most "problems" are "huge": Compositional Entailment in Adjective-Nouns
+Ellie Pavlick and Chris Callison-Burch
+Multimodal Pivots for Image Caption Translation
+Julian Hitschler, Shigehiko Schamoni and Stefan Riezler
+MUTT: Metric Unit TesTing for Language Generation Tasks
+William Boag, Renan Campos, Anna Rumshisky and Kate Saenko
+N-gram language models for massively parallel devices
+Nikolay Bogoychev and Adam Lopez
+Neural Greedy Constituent Parsing with Dynamic Oracles
+Maximin Coavoux and Benoit Crabbé
+Neural Machine Translation of Rare Words with Subword Units
+Rico Sennrich, Barry Haddow and Alexandra Birch
+Neural Network-Based Model for Japanese Predicate Argument Structure Analysis
+Tomohide Shibata, Daisuke Kawahara and Sadao Kurohashi
+Neural Networks For Negation Scope Detection
+Federico Fancellu, Adam Lopez and Bonnie Webber
+Neural Relation Extraction with Selective Attention over Instances
+Yankai Lin, Shiqi Shen, Zhiyuan Liu and Maosong Sun
+Neural Semantic Role Labeling with Dependency Path Embeddings
+Michael Roth and Mirella Lapata
+Neural Summarization by Extracting Sentences and Words
+Jianpeng Cheng and Mirella Lapata
+News Citation Recommendation with Implicit and Explicit Semantics
+Hao Peng, Jing Liu and Chin-Yew Lin
+Noise reduction and targeted exploration in imitation learning for Abstract Meaning Representation parsing
+James Goodman, Andreas Vlachos and Jason Naradowsky
+Normalising Medical Concepts in Social Media Texts by Learning Semantic Representation
+Nut Limsopatham and Nigel Collier
+Normalized Log-Linear Language Model Interpolation is Efficient
+Kenneth Heafield, Chase Geigle, Sean Massung and Lane Schwartz
+Off-topic Response Detection for Spontaneous Spoken English Assessment
+Andrey Malinin, Rogier van Dalen, Kate Knill, Yu Wang and Mark Gales
+On approximately searching similar word embeddings
+Kohei Sugawara, Hayato Kobayashi and Masajiro Iwasaki
+On the Role of Seed Lexicons in Learning Bilingual Word Embeddings
+Ivan Vulić and Anna Korhonen
+On the Similarities Between Native, Non-native and Translated Texts
+Ella Rabinovich, Sergiu Nisioi, Noam Ordan and Shuly Wintner
+On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems
+Pei-Hao Su, Milica Gasic, Nikola Mrkšić, Lina M. Rojas Barahona, Stefan Ultes, David Vandyke, Tsung-Hsien Wen and Steve Young
+One for All: Towards Language Independent Named Entity Linking
+Avirup Sil and Radu Florian
+Optimizing an approximation of ROUGE - a problem-reduction approach to extractive multi-document summarization
+Maxime Peyrard and Judith Eckle-Kohler
+Optimizing Spectral Learning for Parsing
+Shashi Narayan and Shay B. Cohen
+Part-of-Speech Induction from fMRI
+Joachim Bingel, Maria Barrett and Anders Søgaard
+Phrase Structure Annotation and Parsing for Learner English
+Ryo Nagata and Keisuke Sakaguchi
+Pointing the Unknown Words
+Caglar Gulcehre, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou and Yoshua Bengio
+Predicting the Compositionality of Nominal Compounds: Giving Word Embeddings a Hard Time
+Silvio Cordeiro, Carlos Ramisch, Marco Idiart and Aline Villavicencio
+Predicting the Rise and Fall of Scientific Topics from Linguistic Cues to their Scholarly Functions
+Vinodkumar Prabhakaran, William Hamilton, Dan McFarland and Dan Jurafsky
+Prediction of Prospective User Engagement with Intelligent Assistants
+Shumpei Sano, Nobuhiro Kaji and Manabu Sassano
+Probabilistic Graph-based Dependency Parsing with Convolutional Neural Network
+Zhisong Zhang and Hai Zhao
+Query Expansion with Locally-Trained Word Embeddings
+Fernando Diaz, Bhaskar Mitra and Nick Craswell
+Question Answering on Freebase via Relation Extraction and Textual Evidence
+Kun Xu, Yansong Feng, Siva Reddy and Songfang Huang
+RBPB: Regularization-Based Pattern Balancing Method for Event Extraction
+Lei Sha, Jing Liu, Chin-Yew Lin, Sujian Li, Baobao Chang, Zhifang Sui
+Reconstructing Hidden Documents from Observed Text
+Matthew Burgess, Eugenia Giraudy and Eytan Adar
+Recurrent neural network models for disease name recognition using domain invariant features
+Sunil Sahu and Ashish Anand
+Relation Classification via Multi-Level Attention CNNs
+Linlin Wang, Zhu Cao, Gerard de Melo and Zhiyuan Liu
+Resolving References to Objects in Photographs using the Words-As-Classifiers Model
+David Schlangen, Sina Zarrieß and Casey Kennington
+Scaling a Natural Language Generation System
+Jonathan Pfeil and Soumya Ray
+Segment-Level Sequence Modeling using Gated Recursive Semi-Markov Conditional Random Fields
+Jingwei Zhuo, Jun Zhu, Yong Cao, Zaiqing Nie and Bo Zhang
+Semi-Supervised Learning for Neural Machine Translation
+Yong Cheng and Yang Liu
+Sentence Rewriting for Semantic Parsing
+Bo Chen, Le Sun, Xianpei Han and Bo An
+Sentiment Domain Adaptation with Multiple Sources
+Fangzhao Wu and Yongfeng Huang
+Sequence-based Structured Prediction for Semantic Parsing
+Chunyang Xiao, Marc Dymetman and Claire Gardent
+Set-Theoretic Alignment for Comparable Corpora
+Thierry Etchegoyhen and Andoni Azpeitia
+Siamese CBOW: Optimizing Word Embeddings for Sentence Representations
+Tom Kenter, Alexey Borisov and Maarten de Rijke
+Situation entity types: automatic classification of clause-level aspect
+Annemarie Friedrich, Alexis Palmer and Manfred Pinkal
+Speech Act Modeling of Written Asynchronous Conversations with Task-Specific Embeddings and Conditional Structured Models
+Shafiq Joty and Enamul Hoque
+Stack-propagation: Improved Representation Learning for Syntax
+Yuan Zhang and David Weiss
+Strategies for Training Large Vocabulary Neural Language Models
+Wenlin Chen, David Grangier and Michael Auli
+Summarizing Source Code using a Neural Attention Model
+Srinivasan Iyer, Ioannis Konstas, Alvin Cheung and Luke Zettlemoyer
+Supersense Embeddings: A Unified Model for Supersense Interpretation, Prediction and Utilization
+Lucie Flekova and Iryna Gurevych
+Synthesizing Compound Words for Machine Translation
+Austin Matthews, Eva Schlinger, Alon Lavie and Chris Dyer
+Tables as Semi-structured Knowledge for Question Answering
+Sujay Kumar Jauhar, Peter Turney and Eduard Hovy
+Take and Took, Gaggle and Goose, Book and Read: Evaluating the Utility of Vector Differences for Lexical Relation Learning
+Ekaterina Vylomova, Laura Rimell, Trevor Cohn and Timothy Baldwin
+Target-Side Context for Discriminative Models in Statistical Machine Translation
+Aleš Tamchyna, Alexander Fraser and Ondřej Bojar
+Temporal Anchoring of Events for the TimeBank Corpus
+Nils Reimers, Nazanin Dehghani and Iryna Gurevych
+Text Understanding with the Attention Sum Reader Network
+Rudolf Kadlec, Martin Schmid, Ondřej Bajgar and Jan Kleindienst
+The Creation and Analysis of a Website Privacy Policy Corpus
+Shomir Wilson, Florian Schaub, Aswarth Abhilash Dara, Frederick Liu, Sushain Cherivirala, Pedro Giovanni Leon, Mads Schaarup Andersen, Sebastian Zimmeck, Kanthashree Mysore Sathyendra, N. Cameron Russell, Thomas B. Norton, Eduard Hovy, Joel Reidenberg and Norman Sadeh
+The LAMBADA dataset: Word prediction requiring a broad discourse context
+Denis Paperno, Raffaella Bernardi, Gemma Boleda, Raquel Fernandez, Germán Kruszewski, Angeliki Lazaridou, Ngoc Quan Pham and Marco Baroni
+The More Antecedents, the Merrier: Tackling Multiple Antecedents in Anaphor Resolution
+Hardik Vala, Andrew Piper and Derek Ruths
+The Top 14 Aspects of Editorial Quality Control of Online News
+Ioannis Arapakis, Filipa Peleja, Barla Berkant and Joao Magalhaes
+Together we stand: Siamese Networks for Similar Question Retrieval
+Arpita Das, Harish Yenala, Manoj Chinnakotla and Manish Shrivastava
+Topic Extraction from Microblog Posts Using Conversation Structures
+Jing Li, Ming Liao, Wei Gao, Yulan He and Kam-Fai Wong
+Toward Constructing Sports News from Live Text Commentary
+Jianmin Zhang, Jin-ge Yao and Xiaojun Wan
+Towards more variation in text generation Developing and evaluating variation models for choice of referential form
+Thiago Castro Ferreira
+TransG : A Generative Model for Knowledge Graph Embedding
+Han Xiao, Minlie Huang and Xiaoyan Zhu
+Transition-Based Left-Corner Parsing for Identifying PTB-Style Nonlocal Dependencies
+Yoshihide Kato and Shigeki Matsubara
+Tree-to-Sequence Attentional Neural Machine Translation
+Akiko Eriguchi, Kazuma Hashimoto and Yoshimasa Tsuruoka
+Two Discourse Driven Language Models for Semantics
+Haoruo Peng and Dan Roth
+Understanding Discourse on Work and Job-Related Well-Being in Public Social Media
+Tong Liu, Christopher Homan, Cecilia Ovesdotter Alm, Megan Lytle, Ann Marie White and Henry Kautz
+Universal Dependencies for Learner English
+Yevgeni Berzak, Jessica Kenney, Carolyn Spadine, Jing Xian Wang, Lucia Lam, Keiko Sophie Mori, Sebastian Garza and Boris Katz
+Unravelling Names of Fictional Characters
+Katerina Papantoniou and Stasinos Konstantopoulos
+Unsupervised Multi-Author Document Decomposition Based on Hidden Markov Model
+Khaled Aldebei, Xiangjian He, Wenjing Jia and Jie Yang
+Unsupervised Person Slot Filling based on Graph Mining
+Dian Yu and Heng Ji
+User Modeling in Language Learning with Macaronic Texts
+Adithya Renduchintala, Rebecca Knowles, Philipp Koehn and Jason Eisner
+Using Sentence-Level LSTM Language Models for Script Inference
+Karl Pichotta and Raymond J. Mooney
+Verbs taking clausal and non-finite arguments as signals of factuality or uncertainty – revisiting the issue of meaning grounded in syntax
+Judith Eckle-Kohler
+Which argument is more convincing? Analyzing and predicting convincingness of Web arguments using bidirectional LSTM
+Ivan Habernal and Iryna Gurevych
+Which Coreference Evaluation Metric Do You Trust? A Proposal for a Link-based Entity Aware Metric
+Nafise Sadat Moosavi and Michael Strube
+WikiReading: A Novel Large-scale Language Understanding Task over Wikipedia
+Daniel Hewlett, Alexandre Lacoste, Llion Jones, Illia Polosukhin, Andrew Fandrianto, Jay Han, Matthew Kelcey and David Berthelot
+Word-Based Neural Models for Chinese Segmentation
+Meishan Zhang and Yue Zhang
+Zero Pronoun Resolution with Low-Dimensional Features
+Chen Chen and Vincent Ng
