@@ -1,9 +1,12 @@
 import scholar
 import argparse
 import os
+import urllib2
+import time
+import numpy as np
 
 parser = argparse.ArgumentParser(description='number of citations crawler')
-parser.add_argument('-input_file', type=str, default='ACL2016.txt')
+parser.add_argument('-input_file', type=str, default='tmp.txt')
 args = parser.parse_args()
 
 def main():
@@ -12,6 +15,7 @@ def main():
     querier = scholar.ScholarQuerier()
     querier.apply_settings(settings)
     query = scholar.SearchScholarQuery()
+    query.set_scope(True)
     query.set_num_page_results(scholar.ScholarConf.MAX_PAGE_RESULTS)
 
 
@@ -24,19 +28,27 @@ def main():
     f_out = open(folder_name + '/README.md', 'w')
 
     num_papers = len(lines) / 2
+    citations = {}
+
     f_out.write('# ' + folder_name + 'papers\n')
     for i in range(num_papers):
         num_citations = 0
         title = lines[i * 2].strip()
-        f_out.write('- [ ] ' + title  + '           ' + str(num_citations) + '\n')
-        #query.set_phrase(title)
-        #querier.send_query(query)
-        #articles = querier.articles
-        #num_citations = articles[0].attrs['num_citations'][0]
+        citations[title] = 0
+        query.set_phrase(title)
+        querier.send_query(query)
+        articles = querier.articles
+        if len(articles) > 0: 
+            citations[title] += int(articles[0].attrs['num_citations'][0])
+        time.sleep(max(0, np.random.normal(10, 3, 1)[0]) * 10)
+
+    sorted_by_citations = sorted(citations.items(), key=lambda x:x[1])       
+    for i in range(num_papers):    
+        f_out.write('- [ ] ' + sorted_by_citations[i][0]  + '          ' + str(sorted_by_citations[i][1]) + '\n')
     f_out.close()    
         
 
-    '''    
+    '''  
     titles = ['A CALL system for learning preposition usage', 'A Character-level Decoder without Explicit Segmentation for Neural Machine Translation']
 
     for title in titles:
@@ -44,6 +56,6 @@ def main():
         querier.send_query(query)
         articles = querier.articles
         print articles[0].attrs['num_citations'][0]
-    '''        
+    '''
 if __name__ == "__main__":
     main()

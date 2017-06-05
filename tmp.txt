@@ -1,0 +1,10 @@
+A CALL system for learning preposition usage
+John Lee
+A Character-level Decoder without Explicit Segmentation for Neural Machine Translation
+Junyoung Chung, Kyunghyun Cho and Yoshua Bengio
+A Continuous Space Rule Selection Model for Syntax-based Statistical Machine Translation
+Jingyi Zhang, Masao Utiyama, Eiichro Sumita, Graham Neubig and Satoshi Nakamura
+A Corpus-Based Analysis of Canonical Word Order of Japanese Double Object Constructions
+Ryohei Sasano and Manabu Okumura
+A Discriminative Topic Model using Document Network Structure
+Weiwei Yang, Jordan Boyd-Graber and Philip Resnik
