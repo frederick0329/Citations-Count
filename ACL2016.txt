@@ -459,7 +459,8 @@ Daniel Hewlett, Alexandre Lacoste, Llion Jones, Illia Polosukhin, Andrew Fandria
 Word-Based Neural Models for Chinese Segmentation
 Meishan Zhang and Yue Zhang
 Zero Pronoun Resolution with Low-Dimensional Features
-Chen Chen and Vincent NgA Domain Adaptation Regularization for Denoising Autoencoders
+Chen Chen and Vincent Ng
+A Domain Adaptation Regularization for Denoising Autoencoders
 Stephane Clinchant, Gabriela Csurka and Boris Chidlovskii
 A Fast Algorithm for Semantic Short Texts Retrieval
 Yanhui Gu

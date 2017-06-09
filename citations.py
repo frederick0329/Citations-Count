@@ -6,7 +6,7 @@ import time
 import numpy as np
 
 parser = argparse.ArgumentParser(description='number of citations crawler')
-parser.add_argument('-input_file', type=str, default='tmp.txt')
+parser.add_argument('-input_file', type=str, default='ACL2016.txt')
 args = parser.parse_args()
 
 def main():
@@ -20,32 +20,33 @@ def main():
 
 
     with open(args.input_file, 'r') as f:
-        lines = f.readlines()  
+        lines = f.readlines()[202:]  
     folder_name = args.input_file.split('.')[0]
 
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)    
-    f_out = open(folder_name + '/README.md', 'w')
+    #f_out = open(folder_name + '/README.md', 'w')
 
     num_papers = len(lines) / 2
     citations = {}
 
-    f_out.write('# ' + folder_name + 'papers\n')
+    #f_out.write('# ' + folder_name + ' papers\n')
     for i in range(num_papers):
         num_citations = 0
         title = lines[i * 2].strip()
-        citations[title] = 0
+        citations[title] = -1
         query.set_phrase(title)
         querier.send_query(query)
         articles = querier.articles
         if len(articles) > 0: 
-            citations[title] += int(articles[0].attrs['num_citations'][0])
-        time.sleep(max(0, np.random.normal(10, 3, 1)[0]) * 10)
+            citations[title] += int(articles[0].attrs['num_citations'][0]) + 1
+        print title, citations[title]
+        time.sleep(max(0, np.random.normal(300, 50, 1)[0]))
 
-    sorted_by_citations = sorted(citations.items(), key=lambda x:x[1])       
-    for i in range(num_papers):    
-        f_out.write('- [ ] ' + sorted_by_citations[i][0]  + '          ' + str(sorted_by_citations[i][1]) + '\n')
-    f_out.close()    
+    #sorted_by_citations = sorted(citations.items(), key=lambda x:x[1])       
+    #for i in range(num_papers):    
+    #    f_out.write('- [ ] ' + sorted_by_citations[i][0]  + '          ' + str(sorted_by_citations[i][1]) + '\n')
+    #f_out.close()    
         
 
     '''  
