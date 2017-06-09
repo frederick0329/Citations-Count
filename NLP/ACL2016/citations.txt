@@ -141,3 +141,4 @@ Metaphor Detection Using Topic Transition, Emotion and Cognition in Context 1
 Minimum Risk Training for Neural Machine Translation 52
 Mining Paraphrasal Typed Templates from a Plain Text Corpus 0
 Model Architectures for Quotation Detection 1
+Modeling Concept Dependencies in a Scientific Corpus 2
