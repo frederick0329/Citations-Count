@@ -20,11 +20,11 @@ def main():
 
 
     with open(args.input_file, 'r') as f:
-        lines = f.readlines()[284:]  
+        lines = f.readlines()[384:]  
     folder_name = args.input_file.split('.')[0]
 
-    if not os.path.exists(folder_name):
-        os.makedirs(folder_name)    
+    #if not os.path.exists(folder_name):
+    #    os.makedirs(folder_name)    
     #f_out = open(folder_name + '/README.md', 'w')
 
     num_papers = len(lines) / 2
@@ -40,7 +40,7 @@ def main():
         articles = querier.articles
         if len(articles) > 0: 
             citations[title] += int(articles[0].attrs['num_citations'][0]) + 1
-        print title, citations[title]
+        print title + '\t' + str(citations[title])
         time.sleep(max(0, np.random.normal(300, 50, 1)[0]))
 
     #sorted_by_citations = sorted(citations.items(), key=lambda x:x[1])       

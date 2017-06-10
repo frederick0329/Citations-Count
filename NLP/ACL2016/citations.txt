@@ -142,3 +142,51 @@ Minimum Risk Training for Neural Machine Translation 52
 Mining Paraphrasal Typed Templates from a Plain Text Corpus 0
 Model Architectures for Quotation Detection 1
 Modeling Concept Dependencies in a Scientific Corpus 2
+Modeling Coverage for Neural Machine Translation 35
+Modeling Simpler Logical Forms via Model Projections -1
+Modeling Social Norms Evolution for Personalized Sentiment Classification 1
+Models and Inference for Prefix-Constrained Machine Translation 1
+Morphological Smoothing and Extrapolation of Word Embeddings 8
+Most "babies" are "little" and most "problems" are "huge": Compositional Entailment in Adjective-Nouns 0
+Multimodal Pivots for Image Caption Translation 10
+MUTT: Metric Unit TesTing for Language Generation Tasks 0
+N-gram language models for massively parallel devices 0
+Neural Greedy Constituent Parsing with Dynamic Oracles 3
+Neural Machine Translation of Rare Words with Subword Units 124
+Neural Network-Based Model for Japanese Predicate Argument Structure Analysis 1
+Neural Networks For Negation Scope Detection 2
+Neural Relation Extraction with Selective Attention over Instances 18
+Neural Semantic Role Labeling with Dependency Path Embeddings 11
+Neural Summarization by Extracting Sentences and Words 17
+News Citation Recommendation with Implicit and Explicit Semantics 0
+Noise reduction and targeted exploration in imitation learning for Abstract Meaning Representation parsing 4
+Normalising Medical Concepts in Social Media Texts by Learning Semantic Representation 6
+Normalized Log-Linear Language Model Interpolation is Efficient -1
+Off-topic Response Detection for Spontaneous Spoken English Assessment 0
+On approximately searching similar word embeddings 1
+On the Role of Seed Lexicons in Learning Bilingual Word Embeddings 10
+On the Similarities Between Native, Non-native and Translated Texts 0
+On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems 8
+One for All: Towards Language Independent Named Entity Linking 1
+Optimizing an approximation of ROUGE - a problem-reduction approach to extractive multi-document summarization 2
+Optimizing Spectral Learning for Parsing 2
+Part-of-Speech Induction from fMRI -1
+Phrase Structure Annotation and Parsing for Learner English 1
+Pointing the Unknown Words 36
+Predicting the Compositionality of Nominal Compounds: Giving Word Embeddings a Hard Time 1
+Predicting the Rise and Fall of Scientific Topics from Linguistic Cues to their Scholarly Functions -1
+Prediction of Prospective User Engagement with Intelligent Assistants 1
+Probabilistic Graph-based Dependency Parsing with Convolutional Neural Network 8
+Query Expansion with Locally-Trained Word Embeddings 18
+Question Answering on Freebase via Relation Extraction and Textual Evidence 13
+RBPB: Regularization-Based Pattern Balancing Method for Event Extraction 1
+Reconstructing Hidden Documents from Observed Text -1
+Recurrent neural network models for disease name recognition using domain invariant features 4
+Relation Classification via Multi-Level Attention CNNs 7
+Resolving References to Objects in Photographs using the Words-As-Classifiers Model 3
+Scaling a Natural Language Generation System 0
+Segment-Level Sequence Modeling using Gated Recursive Semi-Markov Conditional Random Fields 0
+Semi-Supervised Learning for Neural Machine Translation 10
+Sentence Rewriting for Semantic Parsing 0
+Sentiment Domain Adaptation with Multiple Sources 7
+Sequence-based Structured Prediction for Semantic Parsing 10

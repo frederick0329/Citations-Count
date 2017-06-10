@@ -448,7 +448,7 @@ User Modeling in Language Learning with Macaronic Texts
 Adithya Renduchintala, Rebecca Knowles, Philipp Koehn and Jason Eisner
 Using Sentence-Level LSTM Language Models for Script Inference
 Karl Pichotta and Raymond J. Mooney
-Verbs taking clausal and non-finite arguments as signals of factuality or uncertainty – revisiting the issue of meaning grounded in syntax
+Verbs taking clausal and non-finite arguments as signals of factuality or uncertainty - revisiting the issue of meaning grounded in syntax
 Judith Eckle-Kohler
 Which argument is more convincing? Analyzing and predicting convincingness of Web arguments using bidirectional LSTM
 Ivan Habernal and Iryna Gurevych
