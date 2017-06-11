@@ -297,3 +297,32 @@ Nonparametric Spherical Topic Modeling with Word Embeddings	4
 On the linearity of semantic change: Investigating meaning variation via dynamic graph models	2
 One model, two languages: training bilingual parsers with harmonized treebanks	7
 Part-of-speech induction from eye-tracking data	-1
+Phrase Table Pruning via Submodular Function Maximization	0
+Phrase-Level Combination of SMT and TM Using Constrained Word Lattice	1
+Recognizing Salient Entities in Shopping Queries	0
+Reference Bias in Monolingual Machine Translation Evaluation	4
+Scalable Semi-Supervised Query Classification Using Matrix Sketching	4
+Science Question Answering using Instructional Materials	5
+Semantic classifications for detection of verb metaphors	1
+Semantics-Driven Recognition of Collocations Using Word Embeddings	4
+Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and Strings	4
+Simple PPDB: A Paraphrase Database for Simplification	2
+Specifying and Annotating Reduced Argument Span Via QA-SRL	0
+Syntactically Guided Neural Machine Translation	8
+Text Simplification as Tree Labeling	0
+The Enemy in Your Own Camp: How Well Can We Detect Statistically-Generated Fake Reviews - An Adversarial Study	0
+The red one! Learning to predict attributes that discriminate a referent in a visual context	-1
+The Value of Semantic Parse Labeling for Knowledge Base Question Answering	6
+Transductive Adaptation of Black Box Predictions	1
+Transition-based dependency parsing with topological fields	1
+Tweet2Vec: Character-Based Distributed Representations for Social Media	12
+Unsupervised morph segmentation and statistical language models for vocabulary expansion	1
+User Embedding for Scholarly Microblog Recommendation	2
+Using mention accessibility to improve coreference resolution	0
+Using Sequence Similarity Networks to Identify Partial Cognates in Multilingual Wordlists	7
+Very quaffable and great fun: Applying NLP to wine reviews	1
+Vocabulary Manipulation for Large Vocabulary Neural Machine Translation	-1
+Which Tumblr Post Should I Read Next?	0
+Word Alignment without NULL Words	0
+Word Embedding Calculus in Meaningful Ultradense Subspaces	4
+Word Embedding with Limited Memory	-1

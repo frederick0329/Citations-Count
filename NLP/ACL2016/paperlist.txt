@@ -622,7 +622,7 @@ Syntactically Guided Neural Machine Translation
 Felix Stahlberg, Eva Hasler, Aurelien Waite and Bill Byrne
 Text Simplification as Tree Labeling
 Joachim Bingel and Anders Søgaard
-The Enemy in Your Own Camp: How Well Can We Detect Statistically-Generated Fake Reviews – An Adversarial Study
+The Enemy in Your Own Camp: How Well Can We Detect Statistically-Generated Fake Reviews - An Adversarial Study
 Dirk Hovy
 The red one! Learning to predict attributes that discriminate a referent in a visual context
 Angeliki Lazaridou, Nghia The Pham and Marco Baroni
