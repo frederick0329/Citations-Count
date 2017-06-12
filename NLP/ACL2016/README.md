@@ -32,6 +32,7 @@
 - [ ] Data Recombination for Neural Semantic Parsing          15
 - [ ] WikiReading: A Novel Large-scale Language Understanding Task over Wikipedia          15
 - [ ] Stack-propagation: Improved Representation Learning for Syntax          15
+- [ ] Vocabulary Manipulation for Large Vocabulary Neural Machine Translation          15
 - [ ] Improving Coreference Resolution by Learning Entity-Level Distributed Representations          13
 - [ ] Question Answering on Freebase via Relation Extraction and Textual Evidence          13
 - [ ] Integrating Distributional Lexical Contrast into Word Embeddings for Antonym-Synonym Distinction          12
@@ -51,6 +52,7 @@
 - [ ] Semi-Supervised Learning for Neural Machine Translation          10
 - [ ] Dimensional Sentiment Analysis Using a Regional CNN-LSTM Model          10
 - [ ] Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models          9
+- [ ] Single-Model Encoder-Decoder with Explicit Morphological Representation for Reinflection          9
 - [ ] Hunting for Troll Comments in News Community Forums          9
 - [ ] Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification          9
 - [ ] Deep Reinforcement Learning with a Natural Language Action Space          9
@@ -111,6 +113,7 @@
 - [ ] Learning Concept Taxonomies from Multi-modal Data          4
 - [ ] Semantics-Driven Recognition of Collocations Using Word Embeddings          4
 - [ ] Grapheme-to-Phoneme Models for (Almost) Any Language          4
+- [ ] Weakly Supervised Part-of-speech Tagging Using Eye-tracking Data          4
 - [ ] Which Coreference Evaluation Metric Do You Trust? A Proposal for a Link-based Entity Aware Metric          4
 - [ ] Inferring Logical Forms From Denotations          4
 - [ ] Resolving References to Objects in Photographs using the Words-As-Classifiers Model          3
@@ -178,6 +181,7 @@
 - [ ] Learning Text Pair Similarity with Context-sensitive Autoencoders          2
 - [ ] Modeling Concept Dependencies in a Scientific Corpus          2
 - [ ] A Multi-media Approach to Cross-lingual Entity Knowledge Transfer          1
+- [ ] Word Embedding with Limited Memory          1
 - [ ] Metaphor Detection Using Topic Transition, Emotion and Cognition in Context          1
 - [ ] Together we stand: Siamese Networks for Similar Question Retrieval          1
 - [ ] Claim Synthesis via Predicate Recycling          1
@@ -243,6 +247,7 @@
 - [ ] Automatic Semantic Classification of German Preposition Types: Comparing Hard and Soft Clustering Approaches across Features          0
 - [ ] Chinese Couplet Generation with Neural Network Structures          0
 - [ ] MUTT: Metric Unit TesTing for Language Generation Tasks          0
+- [ ] Matrix Factorization using Window Sampling for Improved Word Representations          0
 - [ ] Improved Parsing for Argument-Clusters Coordination          0
 - [ ] An Open Web Platform for Rule-Based Speech-to-Sign Translation          0
 - [ ] Which Tumblr Post Should I Read Next?          0
@@ -263,6 +268,7 @@
 - [ ] On the Similarities Between Native, Non-native and Translated Texts          0
 - [ ] News Citation Recommendation with Implicit and Explicit Semantics          0
 - [ ] Implicit Polarity and Implicit Aspect Recognition in Opinion Mining          0
+- [ ] The red one! Learning to predict attributes that discriminate a referent in a visual context          0
 - [ ] Dependency Parsing with Bounded Block Degree and Well-nestedness viaLagrangian Relaxation and Branch-and-Bound          0
 - [ ] Joint part-of-speech and dependency projection from multiple sources          0
 - [ ] Cross-Lingual Lexico-Semantic Transfer in Language Learning          0
@@ -285,6 +291,7 @@
 - [ ] Beyond Plain Spatial Knowledge: Determining Where Entities Are and Are Not Located, and For How Long          0
 - [ ] How to Train Dependency Parsers with Inexact Search for Joint Sentence Boundary Detection and Parsing of Entire Documents          0
 - [ ] Agreement-based Learning of Parallel Lexicons and Phrases from Non-Parallel Corpora          0
+- [ ] Finding Optimistic and Pessimistic Users on Twitter          0
 - [ ] The Enemy in Your Own Camp: How Well Can We Detect Statistically-Generated Fake Reviews - An Adversarial Study          0
 - [ ] A CALL system for learning preposition usage          0
 - [ ] Text Simplification as Tree Labeling          0
@@ -295,11 +302,8 @@
 - [ ] Empty element recovery by spinal parser operations          0
 - [ ] A Continuous Space Rule Selection Model for Syntax-based Statistical Machine Translation          0
 - [ ] A Latent Concept Topic Model for Robust Topic Inference          0
-- [ ] Word Embedding with Limited Memory          -1
 - [ ] Automatic identification of vector-space semantic content in speech to detect Alzheimer's disease          -1
 - [ ] A Fast Algorithm for Semantic Short Texts Retrieval          -1
-- [ ] Matrix Factorization using Window Sampling for Improved Word Representations          -1
-- [ ] Morphological Reinflection with Encoder-Decoder Models and Edit Trees          -1
 - [ ] A Word-based Neural Network Method for Chinese Word Segmentation          -1
 - [ ] Predicting the Rise and Fall of Scientific Topics from Linguistic Cues to their Scholarly Functions          -1
 - [ ] Modeling Simpler Logical Forms via Model Projections          -1
@@ -307,12 +311,10 @@
 - [ ] Toward Constructing Sports News from Live Text Commentary          -1
 - [ ] A Mean-Field Vector Space for Distributional Semantics for Entailment          -1
 - [ ] The More Antecedents, the Merrier: Tackling Multiple Antecedents in Anaphor Resolution          -1
-- [ ] Part-of-speech induction from eye-tracking data          -1
 - [ ] Learning Structured Predictors from Partial Information for Interactive NLP          -1
 - [ ] Learning easy to compose word representations via bilingual supervision          -1
 - [ ] Event Nugget Detection with Bidirectional Recurrent Neural Networks          -1
 - [ ] Effects of Text Corpus Properties on Short Text Clustering Performance          -1
-- [ ] The red one! Learning to predict attributes that discriminate a referent in a visual context          -1
 - [ ] Beyond Privacy: The Social Impact of Natural Language Processing          -1
 - [ ] Word-Based Neural Models for Chinese Segmentation          -1
 - [ ] Part-of-Speech Induction from fMRI          -1
@@ -323,7 +325,5 @@
 - [ ] The Top 14 Aspects of Editorial Quality Control of Online News          -1
 - [ ] Normalized Log-Linear Language Model Interpolation is Efficient          -1
 - [ ] Improved Semantic Parsers For If-Then Statements          -1
-- [ ] Finding Optimistic and Pessimistic Users on Twitter          -1
 - [ ] Easy Questions First? Curriculum Learning for Question Answering          -1
-- [ ] Vocabulary Manipulation for Large Vocabulary Neural Machine Translation          -1
 - [ ] Detecting Events in FrameNet          -1
