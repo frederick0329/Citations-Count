@@ -1,368 +1,736 @@
-Locally Uniform Comparison Image Descriptor Andrew Ziegler, Eric Christiansen, David Kriegman, Serge J. Belongie
-Learning from Distributions via Support Measure Machines Krikamol Muandet, Kenji Fukumizu, Francesco Dinuzzo, Prof. Bernhard Schölkopf
-Finding Exemplars from Pairwise Dissimilarities via Simultaneous Sparse Recovery Ehsan Elhamifar, Guillermo Sapiro, René Vidal
-Feature Clustering for Accelerating Parallel Coordinate Descent Chad Scherrer, Ambuj Tewari, Mahantesh Halappanavar, David Haglin
-Multi-scale Hyper-time Hardware Emulation of Human Motor Nervous System Based on Spiking Neurons using FPGA C. M. Niu, Sirish Nandyala, Won J. Sohn, Terence Sanger
-Active Learning of Model Evidence Using Bayesian Quadrature Michael Osborne, Roman Garnett, Zoubin Ghahramani, David K. Duvenaud, Stephen J. Roberts, Carl E. Rasmussen
-Coupling Nonparametric Mixtures via Latent Dirichlet Processes Dahua Lin, John W. Fisher
-Nonparametric Max-Margin Matrix Factorization for Collaborative Prediction Minjie Xu, Jun Zhu, Bo Zhang
-Bayesian Hierarchical Reinforcement Learning Feng Cao, Soumya Ray
-Dynamic Pruning of Factor Graphs for Maximum Marginal Prediction Christoph H. Lampert
-Local Supervised Learning through Space Partitioning Joseph Wang, Venkatesh Saligrama
-A Generative Model for Parts-based Object Segmentation S. Eslami, Christopher Williams
-Super-Bit Locality-Sensitive Hashing Jianqiu Ji, Jianmin Li, Shuicheng Yan, Bo Zhang, Qi Tian
-The Bethe Partition Function of Log-supermodular Graphical Models Nicholas Ruozzi
-Random Utility Theory for Social Choice Hossein Azari, David Parks, Lirong Xia
-Putting Bayes to sleep Dmitry Adamskiy, Manfred K. Warmuth, Wouter M. Koolen
-A new metric on the manifold of kernel matrices with application to matrix geometric means Suvrit Sra
-Mandatory Leaf Node Prediction in Hierarchical Multilabel Classification Wei Bi, James T. Kwok
-Smooth-projected Neighborhood Pursuit for High-dimensional Nonparanormal Graph Estimation Tuo Zhao, Kathryn Roeder, Han Liu
-Semiparametric Principal Component Analysis Fang Han, Han Liu
-Coding efficiency and detectability of rate fluctuations with non-Poisson neuronal firing Shinsuke Koyama
-The representer theorem for Hilbert spaces: a necessary and sufficient condition Francesco Dinuzzo, Prof. Bernhard Schölkopf
-On the (Non-)existence of Convex, Calibrated Surrogate Losses for Ranking Clément Calauzènes, Nicolas Usunier, Patrick Gallinari
-Exploration in Model-based Reinforcement Learning by Empirically Estimating Learning Progress Manuel Lopes, Tobias Lang, Marc Toussaint, Pierre-yves Oudeyer
-Supervised Learning with Similarity Functions Purushottam Kar, Prateek Jain
-Cocktail Party Processing via Structured Prediction Yuxuan Wang, Deliang Wang
-Robustness and risk-sensitivity in Markov decision processes Takayuki Osogami
-Dynamical And-Or Graph Learning for Object Shape Modeling and Detection Xiaolong Wang, Liang Lin
-Adaptive Stratified Sampling for Monte-Carlo integration of Differentiable functions Alexandra Carpentier, Rémi Munos
-Distributed Non-Stochastic Experts Varun Kanade, Zhenming Liu, Bozidar Radunovic
-Learning Image Descriptors with the Boosting-Trick Tomasz Trzcinski, Mario Christoudias, Vincent Lepetit, Pascal Fua
-Fast Resampling Weighted v-Statistics Chunxiao Zhou, Jiseong Park, Yun Fu
-Multi-task Vector Field Learning Binbin Lin, Sen Yang, Chiyuan Zhang, Jieping Ye, Xiaofei He
-Memorability of Image Regions Aditya Khosla, Jianxiong Xiao, Antonio Torralba, Aude Oliva
-Nonparametric Bayesian Inverse Reinforcement Learning for Multiple Reward Functions Jaedeug Choi, Kee-eung Kim
-Automatic Feature Induction for Stagewise Collaborative Filtering Joonseok Lee, Mingxuan Sun, Seungyeon Kim, Guy Lebanon
-Selective Labeling via Error Bound Minimization Quanquan Gu, Tong Zhang, Jiawei Han, Chris H. Ding
-Volume Regularization for Binary Classification Koby Crammer, Tal Wagner
-Image Denoising and Inpainting with Deep Neural Networks Junyuan Xie, Linli Xu, Enhong Chen
-Max-Margin Structured Output Regression for Spatio-Temporal Action Localization Du Tran, Junsong Yuan
-Transelliptical Component Analysis Fang Han, Han Liu
-Action-Model Based Multi-agent Plan Recognition Hankz H. Zhuo, Qiang Yang, Subbarao Kambhampati
-Visual Recognition using Embedded Feature Selection for Curvature Self-Similarity Angela Eigenstetter, Bjorn Ommer
-Non-parametric Approximate Dynamic Programming via the Kernel Method Nikhil Bhat, Vivek Farias, Ciamac C. Moallemi
-Optimal Regularized Dual Averaging Methods for Stochastic Optimization Xi Chen, Qihang Lin, Javier Pena
-The variational hierarchical EM algorithm for clustering hidden Markov models Emanuele Coviello, Gert R. Lanckriet, Antoni B. Chan
-Truncation-free Online Variational Inference for Bayesian Nonparametric Models Chong Wang, David M. Blei
-3D Social Saliency from Head-mounted Cameras Hyun S. Park, Eakta Jain, Yaser Sheikh
-Context-Sensitive Decision Forests for Object Detection Peter Kontschieder, Samuel R. Bulò, Antonio Criminisi, Pushmeet Kohli, Marcello Pelillo, Horst Bischof
-Learning Invariant Representations of Molecules for Atomization Energy Prediction Grégoire Montavon, Katja Hansen, Siamac Fazli, Matthias Rupp, Franziska Biegler, Andreas Ziehe, Alexandre Tkatchenko, Anatole V. Lilienfeld, Klaus-Robert Müller
-Bandit Algorithms boost Brain Computer Interfaces for motor-task selection of a brain-controlled button Joan Fruitet, Alexandra Carpentier, Maureen Clerc, Rémi Munos
-Multiplicative Forests for Continuous-Time Processes Jeremy Weiss, Sriraam Natarajan, David Page
-Patient Risk Stratification for Hospital-Associated C. diff as a Time-Series Classification Task Jenna Wiens, Eric Horvitz, John V. Guttag
-Nyström Method vs Random Fourier Features: A Theoretical and Empirical Comparison Tianbao Yang, Yu-feng Li, Mehrdad Mahdavi, Rong Jin, Zhi-Hua Zhou
-Multiclass Learning Approaches: A Theoretical Comparison with Implications Amit Daniely, Sivan Sabato, Shai S. Shwartz
-Stochastic Gradient Descent with Only One Projection Mehrdad Mahdavi, Tianbao Yang, Rong Jin, Shenghuo Zhu, Jinfeng Yi
-Neuronal Spike Generation Mechanism as an Oversampling, Noise-shaping A-to-D converter Dmitri B. Chklovskii, Daniel Soudry
-Deep Spatio-Temporal Architectures and Learning for Protein Structure Prediction Pietro D. Lena, Ken Nagata, Pierre F. Baldi
-Assessing Blinding in Clinical Trials Ognjen Arandjelovic
-Scalable nonconvex inexact proximal splitting Suvrit Sra
-Learning to Discover Social Circles in Ego Networks Jure Leskovec, Julian J. Mcauley
-A Conditional Multinomial Mixture Model for Superset Label Learning Liping Liu, Thomas G. Dietterich
-Majorization for CRFs and Latent Likelihoods Tony Jebara, Anna Choromanska
-Ensemble weighted kernel estimators for multivariate entropy estimation Kumar Sricharan, Alfred O. Hero
-Efficient high dimensional maximum entropy modeling via symmetric partition functions Paul Vernaza, Drew Bagnell
-Discriminatively Trained Sparse Code Gradients for Contour Detection Ren Xiaofeng, Liefeng Bo
-Analyzing 3D Objects in Cluttered Images Mohsen Hejrati, Deva Ramanan
-Nonconvex Penalization Using Laplace Exponents and Concave Conjugates Zhihua Zhang, Bojun Tu
-3D Object Detection and Viewpoint Estimation with a Deformable 3D Cuboid Model Sanja Fidler, Sven Dickinson, Raquel Urtasun
-Structured Learning of Gaussian Graphical Models Karthik Mohan, Mike Chung, Seungyeop Han, Daniela Witten, Su-in Lee, Maryam Fazel
-A Polylog Pivot Steps Simplex Algorithm for Classification Elad Hazan, Zohar Karnin
-Shifting Weights: Adapting Object Detectors from Image to Video Kevin Tang, Vignesh Ramanathan, Li Fei-fei, Daphne Koller
-A Scalable CUR Matrix Decomposition Algorithm: Lower Time Complexity and Tighter Bound Shusen Wang, Zhihua Zhang
-Convolutional-Recursive Deep Learning for 3D Object Classification Richard Socher, Brody Huval, Bharath Bath, Christopher D. Manning, Andrew Y. Ng
-Semi-Supervised Domain Adaptation with Non-Parametric Copulas David Lopez-paz, Jose M. Hernández-lobato, Prof. Bernhard Schölkopf
-Identification of Recurrent Patterns in the Activation of Brain Networks Firdaus Janoos, Weichang Li, Niranjan Subrahmanya, Istvan Morocz, William Wells
-Density-Difference Estimation Masashi Sugiyama, Takafumi Kanamori, Taiji Suzuki, Marthinus D. Plessis, Song Liu, Ichiro Takeuchi
-Variational Inference for Crowdsourcing Qiang Liu, Jian Peng, Alexander T. Ihler
-MCMC for continuous-time discrete-state systems Vinayak Rao, Yee W. Teh
-A P300 BCI for the Masses: Prior Information Enables Instant Unsupervised Spelling Pieter-jan Kindermans, Hannes Verschore, David Verstraeten, Benjamin Schrauwen
-Learning about Canonical Views from Internet Image Collections Elad Mezuman, Yair Weiss
-Learning High-Density Regions for a Generalized Kolmogorov-Smirnov Test in High-Dimensional Data Assaf Glazer, Michael Lindenbaum, Shaul Markovitch
-Multiresolution Gaussian Processes Emily Fox, David B. Dunson
-Localizing 3D cuboids in single-view images Jianxiong Xiao, Bryan Russell, Antonio Torralba
-Newton-Like Methods for Sparse Inverse Covariance Estimation Figen Oztoprak, Jorge Nocedal, Steven Rennie, Peder A. Olsen
-Learning to Align from Scratch Gary Huang, Marwan Mattar, Honglak Lee, Erik G. Learned-miller
-Homeostatic plasticity in Bayesian spiking networks as Expectation Maximization with posterior constraints Stefan Habenschuss, Johannes Bill, Bernhard Nessler
-Clustering Aggregation as Maximum-Weight Independent Set Nan Li, Longin J. Latecki
-Topology Constraints in Graphical Models Marcelo Fiori, Pablo Musé, Guillermo Sapiro
-Transelliptical Graphical Models Han Liu, Fang Han, Cun-hui Zhang
-Kernel Latent SVM for Visual Recognition Weilong Yang, Yang Wang, Arash Vahdat, Greg Mori
-Learning Partially Observable Models Using Temporally Abstract Decision Trees Erik Talvitie
-Proximal Newton-type methods for convex optimization Jason D. Lee, Yuekai Sun, Michael Saunders
-Regularized Off-Policy TD-Learning Bo Liu, Sridhar Mahadevan, Ji Liu
-Multi-criteria Anomaly Detection using Pareto Depth Analysis Ko-jen Hsiao, Kevin Xu, Jeff Calder, Alfred O. Hero
-Synchronization can Control Regularization in Neural Systems via Correlated Noise Processes Jake Bouvrie, Jean-jeacques Slotine
-Calibrated Elastic Regularization in Matrix Completion Tingni Sun, Cun-hui Zhang
-Predicting Action Content On-Line and in Real Time before Action Onset – an Intracranial Human Study Uri Maoz, Shengxuan Ye, Ian Ross, Adam Mamelak, Christof Koch
-Searching for objects driven by context Bogdan Alexe, Nicolas Heess, Yee W. Teh, Vittorio Ferrari
-Timely Object Recognition Sergey Karayev, Tobias Baumgartner, Mario Fritz, Trevor Darrell
-Nonparanormal Belief Propagation (NPNBP) Gal Elidan, Cobi Cario
-Deep Representations and Codes for Image Auto-Annotation Ryan Kiros, Csaba Szepesvári
-A Spectral Algorithm for Latent Dirichlet Allocation Anima Anandkumar, Dean P. Foster, Daniel J. Hsu, Sham M. Kakade, Yi-kai Liu
-Learning Halfspaces with the Zero-One Loss: Time-Accuracy Tradeoffs Aharon Birnbaum, Shai S. Shwartz
-Matrix reconstruction with the local max norm Rina Foygel, Nathan Srebro, Ruslan R. Salakhutdinov
-Analog readout for optical reservoir computers Anteo Smerieri, François Duport, Yvon Paquot, Benjamin Schrauwen, Marc Haelterman, Serge Massar
-Accuracy at the Top Stephen Boyd, Corinna Cortes, Mehryar Mohri, Ana Radovanovic
-Minimizing Sparse High-Order Energies by Submodular Vertex-Cover Andrew Delong, Olga Veksler, Anton Osokin, Yuri Boykov
-Perfect Dimensionality Recovery by Variational Bayesian PCA Shinichi Nakajima, Ryota Tomioka, Masashi Sugiyama, S. D. Babacan
-Mirror Descent Meets Fixed Share (and feels no regret) Nicolò Cesa-bianchi, Pierre Gaillard, Gabor Lugosi, Gilles Stoltz
-Near-optimal Differentially Private Principal Components Kamalika Chaudhuri, Anand Sarwate, Kaushik Sinha
-Random function priors for exchangeable arrays with applications to graphs and relational data James Lloyd, Peter Orbanz, Zoubin Ghahramani, Daniel M. Roy
-Inverse Reinforcement Learning through Structured Classification Edouard Klein, Matthieu Geist, Bilal Piot, Olivier Pietquin
-Augmented-SVM: Automatic space partitioning for combining multiple non-linear dynamics Ashwini Shukla, Aude Billard
-Efficient Bayes-Adaptive Reinforcement Learning using Sample-Based Search Arthur Guez, David Silver, Peter Dayan
-Dimensionality Dependent PAC-Bayes Margin Bound Chi Jin, Liwei Wang
-Latent Graphical Model Selection: Efficient Methods for Locally Tree-like Graphs Anima Anandkumar, Ragupathyraj Valluvan
-Learning Mixtures of Tree Graphical Models Anima Anandkumar, Daniel J. Hsu, Furong Huang, Sham M. Kakade
-Hamming Distance Metric Learning Mohammad Norouzi, David J. Fleet, Ruslan R. Salakhutdinov
-Spiking and saturating dendrites differentially expand single neuron computation capacity Romain Cazé, Mark Humphries, Boris S. Gutkin
-Clustering by Nonnegative Matrix Factorization Using Graph Random Walk Zhirong Yang, Tele Hao, Onur Dikmen, Xi Chen, Erkki Oja
-Delay Compensation with Dynamical Synapses Chi Fung, K. Wong, Si Wu
-ImageNet Classification with Deep Convolutional Neural Networks Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
-Recognizing Activities by Attribute Dynamics Weixin Li, Nuno Vasconcelos
-Compressive Sensing MRI with Wavelet Tree Sparsity Chen Chen, Junzhou Huang
-Training sparse natural image models with a fast Gibbs sampler of an extended state space Lucas Theis, Jascha Sohl-dickstein, Matthias Bethge
-A Bayesian Approach for Policy Learning from Trajectory Preference Queries Aaron Wilson, Alan Fern, Prasad Tadepalli
-GenDeR: A Generic Diversified Ranking Algorithm Jingrui He, Hanghang Tong, Qiaozhu Mei, Boleslaw Szymanski
-On Multilabel Classification and Ranking with Partial Feedback Claudio Gentile, Francesco Orabona
-The Lovász ϑ function, SVMs and finding large dense subgraphs Vinay Jethava, Anders Martinsson, Chiranjib Bhattacharyya, Devdatt Dubhashi
-Multi-Task Averaging Sergey Feldman, Maya Gupta, Bela Frigyik
-Unsupervised Structure Discovery for Semantic Analysis of Audio Sourish Chaudhuri, Bhiksha Raj
-A Marginalized Particle Gaussian Process Regression Yali Wang, Brahim Chaib-draa
-Angular Quantization-based Binary Codes for Fast Similarity Search Yunchao Gong, Sanjiv Kumar, Vishal Verma, Svetlana Lazebnik
-Optimal kernel choice for large-scale two-sample tests Arthur Gretton, Dino Sejdinovic, Heiko Strathmann, Sivaraman Balakrishnan, Massimiliano Pontil, Kenji Fukumizu, Bharath K. Sriperumbudur
-Factoring nonnegative matrices with linear programs Ben Recht, Christopher Re, Joel Tropp, Victor Bittorf
-Large Scale Distributed Deep Networks Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Mark Mao, Marc'aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, Quoc V. Le, Andrew Y. Ng
-Statistical Consistency of Ranking Methods in A Rank-Differentiable Probability Space Yanyan Lan, Jiafeng Guo, Xueqi Cheng, Tie-yan Liu
-Wavelet based multi-scale shape features on arbitrary surfaces for cortical thickness discrimination Won H. Kim, Deepti Pachauri, Charles Hatt, Moo. K. Chung, Sterling Johnson, Vikas Singh
-A Convex Formulation for Learning Scale-Free Networks via Submodular Relaxation Aaron Defazio, Tibério S. Caetano
-Fused sparsity and robust estimation for linear models with unknown variance Arnak Dalalyan, Yin Chen
-How Prior Probability Influences Decision Making: A Unifying Probabilistic Model Yanping Huang, Timothy Hanks, Mike Shadlen, Abram L. Friesen, Rajesh P. Rao
-High-Order Multi-Task Feature Learning to Identify Longitudinal Phenotypic Markers for Alzheimer's Disease Progression Prediction Hua Wang, Feiping Nie, Heng Huang, Jingwen Yan, Sungeun Kim, Shannon Risacher, Andrew Saykin, Li Shen
-Symmetric Correspondence Topic Models for Multilingual Text Analysis Kosuke Fukumasu, Koji Eguchi, Eric P. Xing
-Effective Split-Merge Monte Carlo Methods for Nonparametric Models of Sequential Data Michael C. Hughes, Emily Fox, Erik B. Sudderth
-Efficient coding provides a direct link between prior and likelihood in perceptual Bayesian inference Xue-xin Wei, Alan A. Stocker
-Efficient Sampling for Bipartite Matching Problems Maksims Volkovs, Richard S. Zemel
-Learning visual motion in recurrent neural networks Marius Pachitariu, Maneesh Sahani
-Learned Prioritization for Trading Off Accuracy and Speed Jiarong Jiang, Adam Teichert, Jason Eisner, Hal Daume
-Value Pursuit Iteration Amir M. Farahmand, Doina Precup
-Compressive neural representation of sparse, high-dimensional probabilities Xaq Pitkow
-Graphical Models via Generalized Linear Models Eunho Yang, Genevera Allen, Zhandong Liu, Pradeep K. Ravikumar
-CPRL -- An Extension of Compressive Sensing to the Phase Retrieval Problem Henrik Ohlsson, Allen Yang, Roy Dong, Shankar Sastry
-Co-Regularized Hashing for Multimodal Data Yi Zhen, Dit-Yan Yeung
-Convergence and Energy Landscape for Cheeger Cut Clustering Xavier Bresson, Thomas Laurent, David Uminsky, James V. Brecht
-Symbolic Dynamic Programming for Continuous State and Observation POMDPs Zahra Zamani, Scott Sanner, Pascal Poupart, Kristian Kersting
-Bayesian Probabilistic Co-Subspace Addition Lei Shi
-Scaled Gradients on Grassmann Manifolds for Matrix Completion Thanh Ngo, Yousef Saad
-Q-MKL: Matrix-induced Regularization in Multi-Kernel Learning with Applications to Neuroimaging Chris Hinrichs, Vikas Singh, Jiming Peng, Sterling Johnson
-Privacy Aware Learning Martin J. Wainwright, Michael I. Jordan, John C. Duchi
-Finite Sample Convergence Rates of Zero-Order Stochastic Optimization Methods Andre Wibisono, Martin J. Wainwright, Michael I. Jordan, John C. Duchi
-Hierarchical Optimistic Region Selection driven by Curiosity Odalric-ambrym Maillard
-Sparse Prediction with the k-Support Norm Andreas Argyriou, Rina Foygel, Nathan Srebro
-Active Learning of Multi-Index Function Models Tyagi Hemant, Volkan Cevher
-Learning Multiple Tasks using Shared Hypotheses Koby Crammer, Yishay Mansour
-On-line Reinforcement Learning Using Incremental Kernel-Based Stochastic Factorization Doina Precup, Joelle Pineau, Andre S. Barreto
-Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models Kei Wakabayashi, Takao Miura
-Communication-Efficient Algorithms for Statistical Optimization Yuchen Zhang, Martin J. Wainwright, John C. Duchi
-Identifiability and Unmixing of Latent Parse Trees Daniel J. Hsu, Sham M. Kakade, Percy S. Liang
-Bayesian nonparametric models for ranked data Francois Caron, Yee W. Teh
-Feature-aware Label Space Dimension Reduction for Multi-label Classification Yao-nan Chen, Hsuan-tien Lin
-Stochastic optimization and sparse statistical recovery: Optimal algorithms for high dimensions Alekh Agarwal, Sahand Negahban, Martin J. Wainwright
-Graphical Gaussian Vector for Image Categorization Tatsuya Harada, Yasuo Kuniyoshi
-Joint Modeling of a Matrix with Associated Text via Latent Binary Features Xianxing Zhang, Lawrence Carin
-Proper losses for learning from partial labels Jesús Cid-sueiro
-Iterative Thresholding Algorithm for Sparse Inverse Covariance Estimation Benjamin Rolfs, Bala Rajaratnam, Dominique Guillot, Ian Wong, Arian Maleki
-Selecting Diverse Features via Spectral Regularization Abhimanyu Das, Anirban Dasgupta, Ravi Kumar
-Monte Carlo Methods for Maximum Margin Supervised Topic Models Qixia Jiang, Jun Zhu, Maosong Sun, Eric P. Xing
-Parametric Local Metric Learning for Nearest Neighbor Classification Jun Wang, Alexandros Kalousis, Adam Woznica
-A Linear Time Active Learning Algorithm for Link Classification Nicolò Cesa-bianchi, Claudio Gentile, Fabio Vitale, Giovanni Zappella
-Bayesian Warped Gaussian Processes Miguel Lázaro-Gredilla
-Nonparametric Reduced Rank Regression Rina Foygel, Michael Horrell, Mathias Drton, John D. Lafferty
-Multiresolution analysis on the symmetric group Risi Kondor, Walter Dempsey
-Isotropic Hashing Weihao Kong, Wu-jun Li
-On Lifting the Gibbs Sampling Algorithm Deepak Venugopal, Vibhav Gogate
-On the connections between saliency and tracking Vijay Mahadevan, Nuno Vasconcelos
-Convex Multi-view Subspace Learning Martha White, Xinhua Zhang, Dale Schuurmans, Yao-liang Yu
-Spectral learning of linear dynamics from generalised-linear observations with application to neural population data Lars Buesing, Jakob H. Macke, Maneesh Sahani
-Mixability in Statistical Learning Tim V. Erven, Peter Grünwald, Mark D. Reid, Robert C. Williamson
-Waveform Driven Plasticity in BiFeO3 Memristive Devices: Model and Implementation Christian Mayr, Paul Stärke, Johannes Partzsch, Love Cederstroem, Rene Schüffny, Yao Shuai, Nan Du, Heidemarie Schmidt
-A lattice filter model of the visual pathway Karol Gregor, Dmitri B. Chklovskii
-Semantic Kernel Forests from Multiple Taxonomies Sung Ju Hwang, Kristen Grauman, Fei Sha
-Causal discovery with scale-mixture model for spatiotemporal variance dependencies Zhitang Chen, Kun Zhang, Laiwan Chan
-Natural Images, Gaussian Mixtures and Dead Leaves Daniel Zoran, Yair Weiss
-Dual-Space Analysis of the Sparse Linear Model Yi Wu, David P. Wipf
-Active Comparison of Prediction Models Christoph Sawade, Niels Landwehr, Tobias Scheffer
-Online Regret Bounds for Undiscounted Continuous Reinforcement Learning Ronald Ortner, Daniil Ryabko
-Semi-Crowdsourced Clustering: Generalizing Crowd Labeling by Robust Distance Metric Learning Jinfeng Yi, Rong Jin, Shaili Jain, Tianbao Yang, Anil K. Jain
-Learning curves for multi-task Gaussian process regression Peter Sollich, Simon Ashton
-Kernel Hyperalignment Alexander Lorbert, Peter J. Ramadge
-Multiple Choice Learning: Learning to Produce Multiple Structured Outputs Abner Guzmán-rivera, Dhruv Batra, Pushmeet Kohli
-Mixing Properties of Conditional Markov Chains with Unbounded Feature Functions Mathieu Sinn, Bei Chen
-Persistent Homology for Learning Densities with Bounded Support Florian T. Pokorny, Hedvig Kjellström, Danica Kragic, Carl Ek
-On the Use of Non-Stationary Policies for Stationary Infinite-Horizon Markov Decision Processes Bruno Scherrer, Boris Lesner
-Efficient Spike-Coding with Multiplicative Adaptation in a Spike Response Model Sander M. Bohte
-MAP Inference in Chains using Column Generation David Belanger, Alexandre Passos, Sebastian Riedel, Andrew McCallum
-Bayesian Nonparametric Modeling of Suicide Attempts Francisco Ruiz, Isabel Valera, Carlos Blanco, Fernando Pérez-Cruz
-Fiedler Random Fields: A Large-Scale Spectral Approach to Statistical Network Modeling Antonino Freno, Mikaela Keller, Marc Tommasi
-Neurally Plausible Reinforcement Learning of Working Memory Tasks Jaldert Rombouts, Pieter Roelfsema, Sander M. Bohte
-Efficient Monte Carlo Counterfactual Regret Minimization in Games with Many Player Actions Neil Burch, Marc Lanctot, Duane Szafron, Richard G. Gibson
-Repulsive Mixtures Francesca Petralia, Vinayak Rao, David B. Dunson
-Fully Bayesian inference for neural models with negative-binomial spiking James Scott, Jonathan W. Pillow
-Slice Normalized Dynamic Markov Logic Networks Tivadar Papai, Henry Kautz, Daniel Stefankovic
-Meta-Gaussian Information Bottleneck Melanie Rey, Volker Roth
-Diffusion Decision Making for Adaptive k-Nearest Neighbor Classification Yung-kyun Noh, Frank Park, Daniel D. Lee
-The Perturbed Variation Maayan Harel, Shie Mannor
-Communication/Computation Tradeoffs in Consensus-Based Distributed Optimization Konstantinos Tsianos, Sean Lawlor, Michael G. Rabbat
-The Coloured Noise Expansion and Parameter Estimation of Diffusion Processes Simon Lyons, Amos J. Storkey, Simo Särkkä
-Online allocation and homogeneous partitioning for piecewise constant mean-approximation Alexandra Carpentier, Odalric-ambrym Maillard
-Learning as MAP Inference in Discrete Graphical Models Xianghang Liu, James Petterson, Tibério S. Caetano
-A mechanistic model of early sensory processing based on subtracting sparse representations Shaul Druckmann, Tao Hu, Dmitri B. Chklovskii
-Multi-Stage Multi-Task Feature Learning Pinghua Gong, Jieping Ye, Chang-shui Zhang
-From Deformations to Parts: Motion-based Segmentation of 3D Objects Soumya Ghosh, Matthew Loper, Erik B. Sudderth, Michael J. Black
-Phoneme Classification using Constrained Variational Gaussian Process Dynamical System Hyunsin Park, Sungrack Yun, Sanghyuk Park, Jongmin Kim, Chang D. Yoo
-Bayesian estimation of discrete entropy with mixtures of stick-breaking priors Evan Archer, Il Memming Park, Jonathan W. Pillow
-A Geometric take on Metric Learning Søren Hauberg, Oren Freifeld, Michael J. Black
-Learning the Architecture of Sum-Product Networks Using Clustering on Variables Aaron Dennis, Dan Ventura
-Pointwise Tracking the Optimal Regression Function Yair Wiener, Ran El-Yaniv
-Bayesian nonparametric models for bipartite graphs Francois Caron
-Reducing statistical time-series problems to binary classification Daniil Ryabko, Jeremie Mary
-Tractable Objectives for Robust Policy Optimization Katherine Chen, Michael Bowling
-Classification Calibration Dimension for General Multiclass Losses Harish G. Ramaswamy, Shivani Agarwal
-Structure estimation for discrete graphical models: Generalized covariance matrices and their inverses Po-ling Loh, Martin J. Wainwright
-Collaborative Gaussian Processes for Preference Learning Neil Houlsby, Ferenc Huszar, Zoubin Ghahramani, Jose M. Hernández-lobato
-Approximating Concavely Parameterized Optimization Problems Joachim Giesen, Jens Mueller, Soeren Laue, Sascha Swiercy
-Gradient-based kernel method for feature extraction and variable selection Kenji Fukumizu, Chenlei Leng
-Strategic Impatience in Go/NoGo versus Forced-Choice Decision-Making Pradeep Shenoy, Angela J. Yu
-On Triangular versus Edge Representations --- Towards Scalable Modeling of Networks Qirong Ho, Junming Yin, Eric P. Xing
-Relax and Randomize : From Value to Algorithms Sasha Rakhlin, Ohad Shamir, Karthik Sridharan
-Minimax Multi-Task Learning and a Generalized Loss-Compositional Paradigm for MTL Nishant Mehta, Dongryeol Lee, Alexander G. Gray
-Spectral Learning of General Weighted Automata via Constrained Matrix Completion Borja Balle, Mehryar Mohri
-Optimal Neural Tuning Curves for Arbitrary Stimulus Distributions: Discrimax, Infomax and Minimum L_p Loss Zhuo Wang, Alan A. Stocker, Daniel D. Lee
-Algorithms for Learning Markov Field Policies Abdeslam Boularias, Jan R. Peters, Oliver B. Kroemer
-Affine Independent Variational Inference Edward Challis, David Barber
-Learning from the Wisdom of Crowds by Minimax Entropy Denny Zhou, Sumit Basu, Yi Mao, John C. Platt
-Clustering Sparse Graphs Yudong Chen, Sujay Sanghavi, Huan Xu
-Sketch-Based Linear Value Function Approximation Marc Bellemare, Joel Veness, Michael Bowling
-Multimodal Learning with Deep Boltzmann Machines Nitish Srivastava, Ruslan R. Salakhutdinov
-Learning with Target Prior Zuoguan Wang, Siwei Lyu, Gerwin Schalk, Qiang Ji
-Slice sampling normalized kernel-weighted completely random measure mixture models Nicholas Foti, Sinead Williamson
-Scalable Inference of Overlapping Communities Prem K. Gopalan, Sean Gerrish, Michael Freedman, David M. Blei, David M. Mimno
-Online L1-Dictionary Learning with Application to Novel Document Detection Shiva P. Kasiviswanathan, Huahua Wang, Arindam Banerjee, Prem Melville
-A systematic approach to extracting semantic information from functional MRI data Francisco Pereira, Matthew Botvinick
-Why MCA? Nonlinear sparse coding with spike-and-slab prior for neurally plausible image encoding Philip Sterne, Joerg Bornschein, Abdul-saboor Sheikh, Joerg Luecke, Jacquelyn A. Shelton
-Learning optimal spike-based representations Ralph Bourdoukan, David Barrett, Sophie Deneve, Christian K. Machens
-Collaborative Ranking With 17 Parameters Maksims Volkovs, Richard S. Zemel
-Rational inference of relative preferences Nisheeth Srivastava, Paul R. Schrater
-The topographic unsupervised learning of natural sounds in the auditory cortex Hiroki Terashima, Masato Okada
-Approximating Equilibria in Sequential Auctions with Incomplete Information and Multi-Unit Demand Amy Greenwald, Jiacui Li, Eric Sodomka
-A Divide-and-Conquer Method for Sparse Inverse Covariance Estimation Cho-jui Hsieh, Arindam Banerjee, Inderjit S. Dhillon, Pradeep K. Ravikumar
-A Simple and Practical Algorithm for Differentially Private Data Release Moritz Hardt, Katrina Ligett, Frank Mcsherry
-Bayesian active learning with localized priors for fast receptive field characterization Mijung Park, Jonathan W. Pillow
-Weighted Likelihood Policy Search with Model Selection Tsuyoshi Ueno, Kohei Hayashi, Takashi Washio, Yoshinobu Kawahara
-Learning the Dependency Structure of Latent Factors Yunlong He, Yanjun Qi, Koray Kavukcuoglu, Haesun Park
-Provable ICA with Unknown Gaussian Noise, with Implications for Gaussian Mixtures and Autoencoders Sanjeev Arora, Rong Ge, Ankur Moitra, Sushant Sachdeva
-Globally Convergent Dual MAP LP Relaxation Solvers using Fenchel-Young Margins Alex Schwing, Tamir Hazan, Marc Pollefeys, Raquel Urtasun
-Dip-means: an incremental clustering method for estimating the number of clusters Argyris Kalogeratos, Aristidis Likas
-No-Regret Algorithms for Unconstrained Online Convex Optimization Brendan Mcmahan, Matthew Streeter
-Bayesian models for Large-scale Hierarchical Classification Siddharth Gopal, Yiming Yang, Bing Bai, Alexandru Niculescu-mizil
-Recovery of Sparse Probability Measures via Convex Programming Mert Pilanci, Laurent E. Ghaoui, Venkat Chandrasekaran
-Multiple Operator-valued Kernel Learning Hachem Kadri, Alain Rakotomamonjy, Philippe Preux, Francis R. Bach
-Approximate Message Passing with Consistent Parameter Estimation and Applications to Sparse Learning Ulugbek Kamilov, Sundeep Rangan, Michael Unser, Alyson K. Fletcher
-A Better Way to Pretrain Deep Boltzmann Machines Geoffrey E. Hinton, Ruslan R. Salakhutdinov
-Towards a learning-theoretic analysis of spike-timing dependent plasticity David Balduzzi, Michel Besserve
-Learning Manifolds with K-Means and K-Flats Guillermo Canas, Tomaso Poggio, Lorenzo Rosasco
-Iterative ranking from pair-wise comparisons Sahand Negahban, Sewoong Oh, Devavrat Shah
-A Polynomial-time Form of Robust Regression Yao-liang Yu, Özlem Aslan, Dale Schuurmans
-Learning Probability Measures with respect to Optimal Transport Metrics Guillermo Canas, Lorenzo Rosasco
-Label Ranking with Partial Abstention based on Thresholded Probabilistic Models Weiwei Cheng, Eyke Hüllermeier, Willem Waegeman, Volkmar Welker
-Adaptive Learning of Smoothing Functions: Application to Electricity Load Forecasting Amadou Ba, Mathieu Sinn, Yannig Goude, Pascal Pompey
-Tensor Decomposition for Fast Parsing with Latent-Variable PCFGs Michael Collins, Shay B. Cohen
-Semi-supervised Eigenvectors for Locally-biased Learning Toke Hansen, Michael W. Mahoney
-Exponential Concentration for Mutual Information Estimation with Application to Forests Han Liu, Larry Wasserman, John D. Lafferty
-Augment-and-Conquer Negative Binomial Processes Mingyuan Zhou, Lawrence Carin
-Transferring Expectations in Model-based Reinforcement Learning Trung Nguyen, Tomi Silander, Tze Y. Leong
-Minimization of Continuous Bethe Approximations: A Positive Variation Jason Pacheco, Erik B. Sudderth
-Non-linear Metric Learning Dor Kedem, Stephen Tyree, Fei Sha, Gert R. Lanckriet, Kilian Q. Weinberger
-Factorial LDA: Sparse Multi-Dimensional Text Models Michael Paul, Mark Dredze
-Ancestor Sampling for Particle Gibbs Fredrik Lindsten, Thomas Schön, Michael I. Jordan
-Modelling Reciprocating Relationships with Hawkes Processes Charles Blundell, Jeff Beck, Katherine A. Heller
-Expectation Propagation in Gaussian Process Dynamical Systems Marc Deisenroth, Shakir Mohamed
-A quasi-Newton proximal splitting method Stephen Becker, Jalal Fadili
-Exact and Stable Recovery of Sequences of Signals with Sparse Increments via Differential _1-Minimization Demba Ba, Behtash Babadi, Patrick Purdon, Emery Brown
-Efficient Reinforcement Learning for High Dimensional Linear Quadratic Systems Morteza Ibrahimi, Adel Javanmard, Benjamin V. Roy
-Multilabel Classification using Bayesian Compressed Sensing Ashish Kapoor, Raajay Viswanathan, Prateek Jain
-Scaling MPE Inference for Constrained Continuous Markov Random Fields with Consensus Optimization Stephen Bach, Matthias Broecheler, Lise Getoor, Dianne O'leary
-A Stochastic Gradient Method with an Exponential Convergence _Rate for Finite Training Sets Nicolas L. Roux, Mark Schmidt, Francis R. Bach
-Query Complexity of Derivative-Free Optimization Kevin G. Jamieson, Robert Nowak, Ben Recht
-Emergence of Object-Selective Features in Unsupervised Feature Learning Adam Coates, Andrej Karpathy, Andrew Y. Ng
-Burn-in, bias, and the rationality of anchoring Falk Lieder, Thomas Griffiths, Noah Goodman
-Truly Nonparametric Online Variational Inference for Hierarchical Dirichlet Processes Michael Bryant, Erik B. Sudderth
-A Neural Autoregressive Topic Model Hugo Larochelle, Stanislas Lauly
-A Unifying Perspective of Parametric Policy Search Methods for Markov Decision Processes Thomas Furmston, David Barber
-Entangled Monte Carlo Seong-hwan Jun, Liangliang Wang, Alexandre Bouchard-côté
-Near-Optimal MAP Inference for Determinantal Point Processes Jennifer Gillenwater, Alex Kulesza, Ben Taskar
-Probabilistic Low-Rank Subspace Clustering S. D. Babacan, Shinichi Nakajima, Minh Do
-How They Vote: Issue-Adjusted Models of Legislative Behavior Sean Gerrish, David M. Blei
-Density Propagation and Improved Bounds on the Partition Function Stefano Ermon, Ashish Sabharwal, Bart Selman, Carla P. Gomes
-Perceptron Learning of SAT Alex Flint, Matthew Blaschko
-Learning Networks of Heterogeneous Influence Nan Du, Le Song, Ming Yuan, Alex J. Smola
-Multiclass Learning with Simplex Coding Youssef Mroueh, Tomaso Poggio, Lorenzo Rosasco, Jean-jeacques Slotine
-FastEx: Hash Clustering with Exponential Families Amr Ahmed, Sujith Ravi, Alex J. Smola, Shravan M. Narayanamurthy
-Topic-Partitioned Multinetwork Embeddings Peter Krafft, Juston Moore, Bruce Desmarais, Hanna M. Wallach
-Learning Label Trees for Probabilistic Modelling of Implicit Feedback Andriy Mnih, Yee W. Teh
-Learning with Recursive Perceptual Representations Oriol Vinyals, Yangqing Jia, Li Deng, Trevor Darrell
-Link Prediction in Graphs with Autoregressive Features Emile Richard, Stephane Gaiffas, Nicolas Vayatis
-Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images Dan Ciresan, Alessandro Giusti, Luca M. Gambardella, Juergen Schmidhuber
-Scalable imputation of genetic data with a discrete fragmentation-coagulation process Lloyd Elliott, Yee W. Teh
-Gradient Weights help Nonparametric Regressors Samory Kpotufe, Abdeslam Boularias
-Online Sum-Product Computation Over Trees Mark Herbster, Stephen Pasteris, Fabio Vitale
-Sparse Approximate Manifolds for Differential Geometric MCMC Ben Calderhead, Mátyás A. Sustik
-Fast Variational Inference in the Conjugate Exponential Family James Hensman, Magnus Rattray, Neil D. Lawrence
-Bayesian Pedigree Analysis using Measure Factorization Bonnie Kirkpatrick, Alexandre Bouchard-côté
-Accelerated Training for Matrix-norm Regularization: A Boosting Approach Xinhua Zhang, Dale Schuurmans, Yao-liang Yu
-Controlled Recognition Bounds for Visual Learning and Exploration Vasiliy Karasev, Alessandro Chiuso, Stefano Soatto
-Distributed Probabilistic Learning for Camera Networks with Missing Data Sejong Yoon, Vladimir Pavlovic
-Submodular-Bregman and the Lovász-Bregman Divergences with Applications Rishabh Iyer, Jeff A. Bilmes
-Minimizing Uncertainty in Pipelines Nilesh Dalvi, Aditya Parameswaran, Vibhor Rastogi
-Practical Bayesian Optimization of Machine Learning Algorithms Jasper Snoek, Hugo Larochelle, Ryan P. Adams
-Forging The Graphs: A Low Rank and Positive Semidefinite Graph Learning Approach Dijun Luo, Heng Huang, Feiping Nie, Chris H. Ding
-The Time-Marginalized Coalescent Prior for Hierarchical Clustering Levi Boyles, Max Welling
-Fusion with Diffusion for Robust Visual Tracking Yu Zhou, Xiang Bai, Wenyu Liu, Longin J. Latecki
-A nonparametric variable clustering model Konstantina Palla, Zoubin Ghahramani, David A. Knowles
-Priors for Diversity in Generative Latent Variable Models James T. Kwok, Ryan P. Adams
-A Nonparametric Conjugate Prior Distribution for the Maximizing Argument of a Noisy Function Pedro Ortega, Jordi Grau-moya, Tim Genewein, David Balduzzi, Daniel Braun
-Convergence Rate Analysis of MAP Coordinate Minimization Algorithms Ofer Meshi, Amir Globerson, Tommi S. Jaakkola
-Projection Retrieval for Classification Madalina Fiterau, Artur Dubrawski
-Hierarchical spike coding of sound Yan Karklin, Chaitanya Ekanadham, Eero P. Simoncelli
-Human memory search as a random walk in a semantic network Joseph L. Austerweil, Joshua T. Abbott, Thomas L. Griffiths
-Probabilistic n-Choose-k Models for Classification and Ranking Kevin Swersky, Brendan J. Frey, Daniel Tarlow, Richard S. Zemel, Ryan P. Adams
-Complex Inference in Neural Circuits with Probabilistic Population Codes and Topic Models Jeff Beck, Alexandre Pouget, Katherine A. Heller
-Cost-Sensitive Exploration in Bayesian Reinforcement Learning Dongho Kim, Kee-eung Kim, Pascal Poupart
-Learning with Partially Absorbing Random Walks Xiao-ming Wu, Zhenguo Li, Anthony M. So, John Wright, Shih-fu Chang
-Locating Changes in Highly Dependent Data with Unknown Number of Change Points Azadeh Khaleghi, Daniil Ryabko
-Probabilistic Event Cascades for Alzheimer's disease Jonathan Huang, Daniel Alexander
-Efficient and direct estimation of a neural subunit model for sensory coding Brett Vintch, Andrew Zaharia, J Movshon, Eero P. Simoncelli
-One Permutation Hashing Ping Li, Art Owen, Cun-hui Zhang
-Unsupervised Template Learning for Fine-Grained Object Recognition Shulin Yang, Liefeng Bo, Jue Wang, Linda G. Shapiro
-Risk Aversion in Markov Decision Processes via Near Optimal Chernoff Bounds Teodor M. Moldovan, Pieter Abbeel
-Fast Bayesian Inference for Non-Conjugate Gaussian Process Regression Emtiyaz Khan, Shakir Mohamed, Kevin P. Murphy
-Imitation Learning by Coaching He He, Jason Eisner, Hal Daume
-Small-Variance Asymptotics for Exponential Family Dirichlet Process Mixture Models Ke Jiang, Brian Kulis, Michael I. Jordan
-A latent factor model for highly multi-relational data Rodolphe Jenatton, Nicolas L. Roux, Antoine Bordes, Guillaume R. Obozinski
-Entropy Estimations Using Correlated Symmetric Stable Random Projections Ping Li, Cun-hui Zhang
-Simultaneously Leveraging Output and Task Structures for Multiple-Output Regression Piyush Rai, Abhishek Kumar, Hal Daume
-Continuous Relaxations for Discrete Hamiltonian Monte Carlo Yichuan Zhang, Zoubin Ghahramani, Amos J. Storkey, Charles A. Sutton
-Deep Learning of Invariant Features via Simulated Fixations in Video Will Zou, Shenghuo Zhu, Kai Yu, Andrew Y. Ng
-Best Arm Identification: A Unified Approach to Fixed Budget and Fixed Confidence Victor Gabillon, Mohammad Ghavamzadeh, Alessandro Lazaric
-On the Sample Complexity of Robust PCA Matthew Coudron, Gilad Lerman
-Latent Coincidence Analysis: A Hidden Variable Model for Distance Metric Learning Matthew Der, Lawrence K. Saul
-Discriminative Learning of Sum-Product Networks Robert Gens, Pedro Domingos
-Trajectory-Based Short-Sighted Probabilistic Planning Felipe Trevizan, Manuela Veloso
-Tight Bounds on Profile Redundancy and Distinguishability Jayadev Acharya, Hirakendu Das, Alon Orlitsky
-Interpreting prediction markets: a stochastic approach Rafael M. Frongillo, Nicholás Della Penna, Mark D. Reid
-Risk-Aversion in Multi-armed Bandits Amir Sani, Alessandro Lazaric, Rémi Munos
-Confusion-Based Online Learning and a Passive-Aggressive Scheme Liva Ralaivola
-Cardinality Restricted Boltzmann Machines Kevin Swersky, Ilya Sutskever, Daniel Tarlow, Richard S. Zemel, Ruslan R. Salakhutdinov, Ryan P. Adams
-Generalization Bounds for Domain Adaptation Chao Zhang, Lei Zhang, Jieping Ye
+Locally Uniform Comparison Image Descriptor
+Andrew Ziegler, Eric Christiansen, David Kriegman, Serge J. Belongie
+Learning from Distributions via Support Measure Machines
+Krikamol Muandet, Kenji Fukumizu, Francesco Dinuzzo, Prof. Bernhard Schölkopf
+Finding Exemplars from Pairwise Dissimilarities via Simultaneous Sparse Recovery
+Ehsan Elhamifar, Guillermo Sapiro, René Vidal
+Feature Clustering for Accelerating Parallel Coordinate Descent
+Chad Scherrer, Ambuj Tewari, Mahantesh Halappanavar, David Haglin
+Multi-scale Hyper-time Hardware Emulation of Human Motor Nervous System Based on Spiking Neurons using FPGA
+C. M. Niu, Sirish Nandyala, Won J. Sohn, Terence Sanger
+Active Learning of Model Evidence Using Bayesian Quadrature
+Michael Osborne, Roman Garnett, Zoubin Ghahramani, David K. Duvenaud, Stephen J. Roberts, Carl E. Rasmussen
+Coupling Nonparametric Mixtures via Latent Dirichlet Processes
+Dahua Lin, John W. Fisher
+Nonparametric Max-Margin Matrix Factorization for Collaborative Prediction
+Minjie Xu, Jun Zhu, Bo Zhang
+Bayesian Hierarchical Reinforcement Learning
+Feng Cao, Soumya Ray
+Dynamic Pruning of Factor Graphs for Maximum Marginal Prediction
+Christoph H. Lampert
+Local Supervised Learning through Space Partitioning
+Joseph Wang, Venkatesh Saligrama
+A Generative Model for Parts-based Object Segmentation
+S. Eslami, Christopher Williams
+Super-Bit Locality-Sensitive Hashing
+Jianqiu Ji, Jianmin Li, Shuicheng Yan, Bo Zhang, Qi Tian
+The Bethe Partition Function of Log-supermodular Graphical Models
+Nicholas Ruozzi
+Random Utility Theory for Social Choice
+Hossein Azari, David Parks, Lirong Xia
+Putting Bayes to sleep
+Dmitry Adamskiy, Manfred K. Warmuth, Wouter M. Koolen
+A new metric on the manifold of kernel matrices with application to matrix geometric means
+Suvrit Sra
+Mandatory Leaf Node Prediction in Hierarchical Multilabel Classification
+Wei Bi, James T. Kwok
+Smooth-projected Neighborhood Pursuit for High-dimensional Nonparanormal Graph Estimation
+Tuo Zhao, Kathryn Roeder, Han Liu
+Semiparametric Principal Component Analysis
+Fang Han, Han Liu
+Coding efficiency and detectability of rate fluctuations with non-Poisson neuronal firing
+Shinsuke Koyama
+The representer theorem for Hilbert spaces: a necessary and sufficient condition
+Francesco Dinuzzo, Prof. Bernhard Schölkopf
+On the (Non-)existence of Convex, Calibrated Surrogate Losses for Ranking
+Clément Calauzènes, Nicolas Usunier, Patrick Gallinari
+Exploration in Model-based Reinforcement Learning by Empirically Estimating Learning Progress
+Manuel Lopes, Tobias Lang, Marc Toussaint, Pierre-yves Oudeyer
+Supervised Learning with Similarity Functions
+Purushottam Kar, Prateek Jain
+Cocktail Party Processing via Structured Prediction
+Yuxuan Wang, Deliang Wang
+Robustness and risk-sensitivity in Markov decision processes
+Takayuki Osogami
+Dynamical And-Or Graph Learning for Object Shape Modeling and Detection
+Xiaolong Wang, Liang Lin
+Adaptive Stratified Sampling for Monte-Carlo integration of Differentiable functions
+Alexandra Carpentier, Rémi Munos
+Distributed Non-Stochastic Experts
+Varun Kanade, Zhenming Liu, Bozidar Radunovic
+Learning Image Descriptors with the Boosting-Trick
+Tomasz Trzcinski, Mario Christoudias, Vincent Lepetit, Pascal Fua
+Fast Resampling Weighted v-Statistics
+Chunxiao Zhou, Jiseong Park, Yun Fu
+Multi-task Vector Field Learning
+Binbin Lin, Sen Yang, Chiyuan Zhang, Jieping Ye, Xiaofei He
+Memorability of Image Regions
+Aditya Khosla, Jianxiong Xiao, Antonio Torralba, Aude Oliva
+Nonparametric Bayesian Inverse Reinforcement Learning for Multiple Reward Functions
+Jaedeug Choi, Kee-eung Kim
+Automatic Feature Induction for Stagewise Collaborative Filtering
+Joonseok Lee, Mingxuan Sun, Seungyeon Kim, Guy Lebanon
+Selective Labeling via Error Bound Minimization
+Quanquan Gu, Tong Zhang, Jiawei Han, Chris H. Ding
+Volume Regularization for Binary Classification
+Koby Crammer, Tal Wagner
+Image Denoising and Inpainting with Deep Neural Networks
+Junyuan Xie, Linli Xu, Enhong Chen
+Max-Margin Structured Output Regression for Spatio-Temporal Action Localization
+Du Tran, Junsong Yuan
+Transelliptical Component Analysis
+Fang Han, Han Liu
+Action-Model Based Multi-agent Plan Recognition
+Hankz H. Zhuo, Qiang Yang, Subbarao Kambhampati
+Visual Recognition using Embedded Feature Selection for Curvature Self-Similarity
+Angela Eigenstetter, Bjorn Ommer
+Non-parametric Approximate Dynamic Programming via the Kernel Method
+Nikhil Bhat, Vivek Farias, Ciamac C. Moallemi
+Optimal Regularized Dual Averaging Methods for Stochastic Optimization
+Xi Chen, Qihang Lin, Javier Pena
+The variational hierarchical EM algorithm for clustering hidden Markov models
+Emanuele Coviello, Gert R. Lanckriet, Antoni B. Chan
+Truncation-free Online Variational Inference for Bayesian Nonparametric Models
+Chong Wang, David M. Blei
+3D Social Saliency from Head-mounted
+Cameras Hyun S. Park, Eakta Jain, Yaser Sheikh
+Context-Sensitive Decision Forests for Object Detection
+Peter Kontschieder, Samuel R. Bulò, Antonio Criminisi, Pushmeet Kohli, Marcello Pelillo, Horst Bischof
+Learning Invariant Representations of Molecules for Atomization Energy Prediction
+Grégoire Montavon, Katja Hansen, Siamac Fazli, Matthias Rupp, Franziska Biegler, Andreas Ziehe, Alexandre Tkatchenko, Anatole V. Lilienfeld, Klaus-Robert Müller
+Bandit Algorithms boost Brain Computer Interfaces for motor-task selection of a brain-controlled button
+Joan Fruitet, Alexandra Carpentier, Maureen Clerc, Rémi Munos
+Multiplicative Forests for Continuous-Time Processes
+Jeremy Weiss, Sriraam Natarajan, David Page
+Patient Risk Stratification for Hospital-Associated C. diff as a Time-Series Classification Task
+Jenna Wiens, Eric Horvitz, John V. Guttag
+Nyström Method vs Random Fourier Features: A Theoretical and Empirical Comparison
+Tianbao Yang, Yu-feng Li, Mehrdad Mahdavi, Rong Jin, Zhi-Hua Zhou
+Multiclass Learning Approaches: A Theoretical Comparison with Implications
+Amit Daniely, Sivan Sabato, Shai S. Shwartz
+Stochastic Gradient Descent with Only One Projection
+Mehrdad Mahdavi, Tianbao Yang, Rong Jin, Shenghuo Zhu, Jinfeng Yi
+Neuronal Spike Generation Mechanism as an Oversampling, Noise-shaping A-to-D converter
+Dmitri B. Chklovskii, Daniel Soudry
+Deep Spatio-Temporal Architectures and Learning for Protein Structure Prediction
+Pietro D. Lena, Ken Nagata, Pierre F. Baldi
+Assessing Blinding in Clinical Trials
+Ognjen Arandjelovic
+Scalable nonconvex inexact proximal splitting
+Suvrit Sra
+Learning to Discover Social Circles in Ego Networks
+Jure Leskovec, Julian J. Mcauley
+A Conditional Multinomial Mixture Model for Superset Label Learning
+Liping Liu, Thomas G. Dietterich
+Majorization for CRFs and Latent Likelihoods
+Tony Jebara, Anna Choromanska
+Ensemble weighted kernel estimators for multivariate entropy estimation
+Kumar Sricharan, Alfred O. Hero
+Efficient high dimensional maximum entropy modeling via symmetric partition functions
+Paul Vernaza, Drew Bagnell
+Discriminatively Trained Sparse Code Gradients for Contour Detection
+Ren Xiaofeng, Liefeng Bo
+Analyzing 3D Objects in Cluttered Images
+Mohsen Hejrati, Deva Ramanan
+Nonconvex Penalization Using Laplace Exponents and Concave Conjugates
+Zhihua Zhang, Bojun Tu
+3D Object Detection and Viewpoint Estimation with a Deformable 3D Cuboid Model
+Sanja Fidler, Sven Dickinson, Raquel Urtasun
+Structured Learning of Gaussian Graphical Models
+Karthik Mohan, Mike Chung, Seungyeop Han, Daniela Witten, Su-in Lee, Maryam Fazel
+A Polylog Pivot Steps Simplex Algorithm for Classification
+Elad Hazan, Zohar Karnin
+Shifting Weights: Adapting Object Detectors from Image to Video
+Kevin Tang, Vignesh Ramanathan, Li Fei-fei, Daphne Koller
+A Scalable CUR Matrix Decomposition Algorithm: Lower Time Complexity and Tighter Bound
+Shusen Wang, Zhihua Zhang
+Convolutional-Recursive Deep Learning for 3D Object Classification
+Richard Socher, Brody Huval, Bharath Bath, Christopher D. Manning, Andrew Y. Ng
+Semi-Supervised Domain Adaptation with Non-Parametric Copulas
+David Lopez-paz, Jose M. Hernández-lobato, Prof. Bernhard Schölkopf
+Identification of Recurrent Patterns in the Activation of Brain Networks
+Firdaus Janoos, Weichang Li, Niranjan Subrahmanya, Istvan Morocz, William Wells
+Density-Difference Estimation
+Masashi Sugiyama, Takafumi Kanamori, Taiji Suzuki, Marthinus D. Plessis, Song Liu, Ichiro Takeuchi
+Variational Inference for Crowdsourcing
+Qiang Liu, Jian Peng, Alexander T. Ihler
+MCMC for continuous-time discrete-state systems
+Vinayak Rao, Yee W. Teh
+A P300 BCI for the Masses: Prior Information Enables Instant Unsupervised Spelling
+Pieter-jan Kindermans, Hannes Verschore, David Verstraeten, Benjamin Schrauwen
+Learning about Canonical Views from Internet Image Collections
+Elad Mezuman, Yair Weiss
+Learning High-Density Regions for a Generalized Kolmogorov-Smirnov Test in High-Dimensional Data
+Assaf Glazer, Michael Lindenbaum, Shaul Markovitch
+Multiresolution Gaussian Processes
+Emily Fox, David B. Dunson
+Localizing 3D cuboids in single-view images
+Jianxiong Xiao, Bryan Russell, Antonio Torralba
+Newton-Like Methods for Sparse Inverse Covariance Estimation
+Figen Oztoprak, Jorge Nocedal, Steven Rennie, Peder A. Olsen
+Learning to Align from Scratch
+Gary Huang, Marwan Mattar, Honglak Lee, Erik G. Learned-miller
+Homeostatic plasticity in Bayesian spiking networks as Expectation Maximization with posterior constraints
+Stefan Habenschuss, Johannes Bill, Bernhard Nessler
+Clustering Aggregation as Maximum-Weight Independent Set
+Nan Li, Longin J. Latecki
+Topology Constraints in Graphical Models
+Marcelo Fiori, Pablo Musé, Guillermo Sapiro
+Transelliptical Graphical Models
+Han Liu, Fang Han, Cun-hui Zhang
+Kernel Latent SVM for Visual Recognition
+Weilong Yang, Yang Wang, Arash Vahdat, Greg Mori
+Learning Partially Observable Models Using Temporally Abstract Decision Trees
+Erik Talvitie
+Proximal Newton-type methods for convex optimization
+Jason D. Lee, Yuekai Sun, Michael Saunders
+Regularized Off-Policy TD-Learning
+Bo Liu, Sridhar Mahadevan, Ji Liu
+Multi-criteria Anomaly Detection using Pareto Depth Analysis
+Ko-jen Hsiao, Kevin Xu, Jeff Calder, Alfred O. Hero
+Synchronization can Control Regularization in Neural Systems via Correlated Noise Processes
+Jake Bouvrie, Jean-jeacques Slotine
+Calibrated Elastic Regularization in Matrix Completion
+Tingni Sun, Cun-hui Zhang
+Predicting Action Content On-Line and in Real Time before Action Onset – an Intracranial Human Study
+Uri Maoz, Shengxuan Ye, Ian Ross, Adam Mamelak, Christof Koch
+Searching for objects driven by context
+Bogdan Alexe, Nicolas Heess, Yee W. Teh, Vittorio Ferrari
+Timely Object Recognition
+Sergey Karayev, Tobias Baumgartner, Mario Fritz, Trevor Darrell
+Nonparanormal Belief Propagation (NPNBP)
+Gal Elidan, Cobi Cario
+Deep Representations and Codes for Image Auto-Annotation
+Ryan Kiros, Csaba Szepesvári
+A Spectral Algorithm for Latent Dirichlet Allocation
+Anima Anandkumar, Dean P. Foster, Daniel J. Hsu, Sham M. Kakade, Yi-kai Liu
+Learning Halfspaces with the Zero-One Loss: Time-Accuracy Tradeoffs
+Aharon Birnbaum, Shai S. Shwartz
+Matrix reconstruction with the local max norm
+Rina Foygel, Nathan Srebro, Ruslan R. Salakhutdinov
+Analog readout for optical reservoir computers
+Anteo Smerieri, François Duport, Yvon Paquot, Benjamin Schrauwen, Marc Haelterman, Serge Massar
+Accuracy at the Top
+Stephen Boyd, Corinna Cortes, Mehryar Mohri, Ana Radovanovic
+Minimizing Sparse High-Order Energies by Submodular Vertex-Cover
+Andrew Delong, Olga Veksler, Anton Osokin, Yuri Boykov
+Perfect Dimensionality Recovery by Variational Bayesian PCA
+Shinichi Nakajima, Ryota Tomioka, Masashi Sugiyama, S. D. Babacan
+Mirror Descent Meets Fixed Share (and feels no regret)
+Nicolò Cesa-bianchi, Pierre Gaillard, Gabor Lugosi, Gilles Stoltz
+Near-optimal Differentially Private Principal Components
+Kamalika Chaudhuri, Anand Sarwate, Kaushik Sinha
+Random function priors for exchangeable arrays with applications to graphs and relational data
+James Lloyd, Peter Orbanz, Zoubin Ghahramani, Daniel M. Roy
+Inverse Reinforcement Learning through Structured Classification
+Edouard Klein, Matthieu Geist, Bilal Piot, Olivier Pietquin
+Augmented-SVM: Automatic space partitioning for combining multiple non-linear dynamics
+Ashwini Shukla, Aude Billard
+Efficient Bayes-Adaptive Reinforcement Learning using Sample-Based Search
+Arthur Guez, David Silver, Peter Dayan
+Dimensionality Dependent PAC-Bayes Margin Bound
+Chi Jin, Liwei Wang
+Latent Graphical Model Selection: Efficient Methods for Locally Tree-like Graphs
+Anima Anandkumar, Ragupathyraj Valluvan
+Learning Mixtures of Tree Graphical Models
+Anima Anandkumar, Daniel J. Hsu, Furong Huang, Sham M. Kakade
+Hamming Distance Metric Learning
+Mohammad Norouzi, David J. Fleet, Ruslan R. Salakhutdinov
+Spiking and saturating dendrites differentially expand single neuron computation capacity
+Romain Cazé, Mark Humphries, Boris S. Gutkin
+Clustering by Nonnegative Matrix Factorization Using Graph Random Walk
+Zhirong Yang, Tele Hao, Onur Dikmen, Xi Chen, Erkki Oja
+Delay Compensation with Dynamical Synapses
+Chi Fung, K. Wong, Si Wu
+ImageNet Classification with Deep Convolutional Neural Networks
+Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
+Recognizing Activities by Attribute Dynamics
+Weixin Li, Nuno Vasconcelos
+Compressive Sensing MRI with Wavelet Tree Sparsity
+Chen Chen, Junzhou Huang
+Training sparse natural image models with a fast Gibbs sampler of an extended state space
+Lucas Theis, Jascha Sohl-dickstein, Matthias Bethge
+A Bayesian Approach for Policy Learning from Trajectory Preference Queries
+Aaron Wilson, Alan Fern, Prasad Tadepalli
+GenDeR: A Generic Diversified Ranking Algorithm
+Jingrui He, Hanghang Tong, Qiaozhu Mei, Boleslaw Szymanski
+On Multilabel Classification and Ranking with Partial Feedback
+Claudio Gentile, Francesco Orabona
+The Lovász ϑ function, SVMs and finding large dense subgraphs
+Vinay Jethava, Anders Martinsson, Chiranjib Bhattacharyya, Devdatt Dubhashi
+Multi-Task Averaging
+Sergey Feldman, Maya Gupta, Bela Frigyik
+Unsupervised Structure Discovery for Semantic Analysis of Audio
+Sourish Chaudhuri, Bhiksha Raj
+A Marginalized Particle Gaussian Process Regression
+Yali Wang, Brahim Chaib-draa
+Angular Quantization-based Binary Codes for Fast Similarity Search
+Yunchao Gong, Sanjiv Kumar, Vishal Verma, Svetlana Lazebnik
+Optimal kernel choice for large-scale two-sample tests
+Arthur Gretton, Dino Sejdinovic, Heiko Strathmann, Sivaraman Balakrishnan, Massimiliano Pontil, Kenji Fukumizu, Bharath K. Sriperumbudur
+Factoring nonnegative matrices with linear programs
+Ben Recht, Christopher Re, Joel Tropp, Victor Bittorf
+Large Scale Distributed Deep Networks
+Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Mark Mao, Marc'aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, Quoc V. Le, Andrew Y. Ng
+Statistical Consistency of Ranking Methods in A Rank-Differentiable Probability Space
+Yanyan Lan, Jiafeng Guo, Xueqi Cheng, Tie-yan Liu
+Wavelet based multi-scale shape features on arbitrary surfaces for cortical thickness discrimination
+Won H. Kim, Deepti Pachauri, Charles Hatt, Moo. K. Chung, Sterling Johnson, Vikas Singh
+A Convex Formulation for Learning Scale-Free Networks via Submodular Relaxation
+Aaron Defazio, Tibério S. Caetano
+Fused sparsity and robust estimation for linear models with unknown variance
+Arnak Dalalyan, Yin Chen
+How Prior Probability Influences Decision Making: A Unifying Probabilistic Model
+Yanping Huang, Timothy Hanks, Mike Shadlen, Abram L. Friesen, Rajesh P. Rao
+High-Order Multi-Task Feature Learning to Identify Longitudinal Phenotypic Markers for Alzheimer's Disease Progression Prediction
+Hua Wang, Feiping Nie, Heng Huang, Jingwen Yan, Sungeun Kim, Shannon Risacher, Andrew Saykin, Li Shen
+Symmetric Correspondence Topic Models for Multilingual Text Analysis
+Kosuke Fukumasu, Koji Eguchi, Eric P. Xing
+Effective Split-Merge Monte Carlo Methods for Nonparametric Models of Sequential Data
+Michael C. Hughes, Emily Fox, Erik B. Sudderth
+Efficient coding provides a direct link between prior and likelihood in perceptual Bayesian inference
+Xue-xin Wei, Alan A. Stocker
+Efficient Sampling for Bipartite Matching Problems
+Maksims Volkovs, Richard S. Zemel
+Learning visual motion in recurrent neural networks
+Marius Pachitariu, Maneesh Sahani
+Learned Prioritization for Trading Off Accuracy and Speed
+Jiarong Jiang, Adam Teichert, Jason Eisner, Hal Daume
+Value Pursuit Iteration
+Amir M. Farahmand, Doina Precup
+Compressive neural representation of sparse, high-dimensional probabilities
+Xaq Pitkow
+Graphical Models via Generalized Linear Models
+Eunho Yang, Genevera Allen, Zhandong Liu, Pradeep K. Ravikumar
+CPRL -- An Extension of Compressive Sensing to the Phase Retrieval Problem
+Henrik Ohlsson, Allen Yang, Roy Dong, Shankar Sastry
+Co-Regularized Hashing for Multimodal Data
+Yi Zhen, Dit-Yan Yeung
+Convergence and Energy Landscape for Cheeger Cut Clustering
+Xavier Bresson, Thomas Laurent, David Uminsky, James V. Brecht
+Symbolic Dynamic Programming for Continuous State and Observation POMDPs
+Zahra Zamani, Scott Sanner, Pascal Poupart, Kristian Kersting
+Bayesian Probabilistic Co-Subspace Addition
+Lei Shi
+Scaled Gradients on Grassmann Manifolds for Matrix Completion
+Thanh Ngo, Yousef Saad
+Q-MKL: Matrix-induced Regularization in Multi-Kernel Learning with Applications to Neuroimaging
+Chris Hinrichs, Vikas Singh, Jiming Peng, Sterling Johnson
+Privacy Aware Learning
+Martin J. Wainwright, Michael I. Jordan, John C. Duchi
+Finite Sample Convergence Rates of Zero-Order Stochastic Optimization Methods
+Andre Wibisono, Martin J. Wainwright, Michael I. Jordan, John C. Duchi
+Hierarchical Optimistic Region Selection driven by Curiosity
+Odalric-ambrym Maillard
+Sparse Prediction with the k-Support Norm
+Andreas Argyriou, Rina Foygel, Nathan Srebro
+Active Learning of Multi-Index Function Models
+Tyagi Hemant, Volkan Cevher
+Learning Multiple Tasks using Shared Hypotheses
+Koby Crammer, Yishay Mansour
+On-line Reinforcement Learning Using Incremental Kernel-Based Stochastic Factorization
+Doina Precup, Joelle Pineau, Andre S. Barreto
+Forward-Backward Activation Algorithm for Hierarchical Hidden Markov Models
+Kei Wakabayashi, Takao Miura
+Communication-Efficient Algorithms for Statistical Optimization
+Yuchen Zhang, Martin J. Wainwright, John C. Duchi
+Identifiability and Unmixing of Latent Parse Trees
+Daniel J. Hsu, Sham M. Kakade, Percy S. Liang
+Bayesian nonparametric models for ranked data
+Francois Caron, Yee W. Teh
+Feature-aware Label Space Dimension Reduction for Multi-label Classification
+Yao-nan Chen, Hsuan-tien Lin
+Stochastic optimization and sparse statistical recovery: Optimal algorithms for high dimensions
+Alekh Agarwal, Sahand Negahban, Martin J. Wainwright
+Graphical Gaussian Vector for Image Categorization
+Tatsuya Harada, Yasuo Kuniyoshi
+Joint Modeling of a Matrix with Associated Text via Latent Binary Features
+Xianxing Zhang, Lawrence Carin
+Proper losses for learning from partial labels
+Jesús Cid-sueiro
+Iterative Thresholding Algorithm for Sparse Inverse Covariance Estimation
+Benjamin Rolfs, Bala Rajaratnam, Dominique Guillot, Ian Wong, Arian Maleki
+Selecting Diverse Features via Spectral Regularization
+Abhimanyu Das, Anirban Dasgupta, Ravi Kumar
+Monte Carlo Methods for Maximum Margin Supervised Topic Models
+Qixia Jiang, Jun Zhu, Maosong Sun, Eric P. Xing
+Parametric Local Metric Learning for Nearest Neighbor Classification
+Jun Wang, Alexandros Kalousis, Adam Woznica
+A Linear Time Active Learning Algorithm for Link Classification
+Nicolò Cesa-bianchi, Claudio Gentile, Fabio Vitale, Giovanni Zappella
+Bayesian Warped Gaussian Processes
+Miguel Lázaro-Gredilla
+Nonparametric Reduced Rank Regression
+Rina Foygel, Michael Horrell, Mathias Drton, John D. Lafferty
+Multiresolution analysis on the symmetric group
+Risi Kondor, Walter Dempsey
+Isotropic Hashing
+Weihao Kong, Wu-jun Li
+On Lifting the Gibbs Sampling Algorithm
+Deepak Venugopal, Vibhav Gogate
+On the connections between saliency and tracking
+Vijay Mahadevan, Nuno Vasconcelos
+Convex Multi-view Subspace Learning
+Martha White, Xinhua Zhang, Dale Schuurmans, Yao-liang Yu
+Spectral learning of linear dynamics from generalised-linear observations with application to neural population data
+Lars Buesing, Jakob H. Macke, Maneesh Sahani
+Mixability in Statistical Learning
+Tim V. Erven, Peter Grünwald, Mark D. Reid, Robert C. Williamson
+Waveform Driven Plasticity in BiFeO3 Memristive Devices: Model and Implementation
+Christian Mayr, Paul Stärke, Johannes Partzsch, Love Cederstroem, Rene Schüffny, Yao Shuai, Nan Du, Heidemarie Schmidt
+A lattice filter model of the visual pathway
+Karol Gregor, Dmitri B. Chklovskii
+Semantic Kernel Forests from Multiple Taxonomies
+Sung Ju Hwang, Kristen Grauman, Fei Sha
+Causal discovery with scale-mixture model for spatiotemporal variance dependencies
+Zhitang Chen, Kun Zhang, Laiwan Chan
+Natural Images, Gaussian Mixtures and Dead Leaves
+Daniel Zoran, Yair Weiss
+Dual-Space Analysis of the Sparse Linear Model
+Yi Wu, David P. Wipf
+Active Comparison of Prediction Models
+Christoph Sawade, Niels Landwehr, Tobias Scheffer
+Online Regret Bounds for Undiscounted Continuous Reinforcement Learning
+Ronald Ortner, Daniil Ryabko
+Semi-Crowdsourced Clustering: Generalizing Crowd Labeling by Robust Distance Metric Learning
+Jinfeng Yi, Rong Jin, Shaili Jain, Tianbao Yang, Anil K. Jain
+Learning curves for multi-task Gaussian process regression
+Peter Sollich, Simon Ashton
+Kernel Hyperalignment
+Alexander Lorbert, Peter J. Ramadge
+Multiple Choice Learning: Learning to Produce Multiple Structured Outputs
+Abner Guzmán-rivera, Dhruv Batra, Pushmeet Kohli
+Mixing Properties of Conditional Markov Chains with Unbounded Feature Functions
+Mathieu Sinn, Bei Chen
+Persistent Homology for Learning Densities with Bounded Support
+Florian T. Pokorny, Hedvig Kjellström, Danica Kragic, Carl Ek
+On the Use of Non-Stationary Policies for Stationary Infinite-Horizon Markov Decision Processes
+Bruno Scherrer, Boris Lesner
+Efficient Spike-Coding with Multiplicative Adaptation in a Spike Response Model
+Sander M. Bohte
+MAP Inference in Chains using Column Generation
+David Belanger, Alexandre Passos, Sebastian Riedel, Andrew McCallum
+Bayesian Nonparametric Modeling of Suicide Attempts
+Francisco Ruiz, Isabel Valera, Carlos Blanco, Fernando Pérez-Cruz
+Fiedler Random Fields: A Large-Scale Spectral Approach to Statistical Network Modeling
+Antonino Freno, Mikaela Keller, Marc Tommasi
+Neurally Plausible Reinforcement Learning of Working Memory Tasks
+Jaldert Rombouts, Pieter Roelfsema, Sander M. Bohte
+Efficient Monte Carlo Counterfactual Regret Minimization in Games with Many Player Actions
+Neil Burch, Marc Lanctot, Duane Szafron, Richard G. Gibson
+Repulsive Mixtures
+Francesca Petralia, Vinayak Rao, David B. Dunson
+Fully Bayesian inference for neural models with negative-binomial spiking
+James Scott, Jonathan W. Pillow
+Slice Normalized Dynamic Markov Logic Networks
+Tivadar Papai, Henry Kautz, Daniel Stefankovic
+Meta-Gaussian Information Bottleneck
+Melanie Rey, Volker Roth
+Diffusion Decision Making for Adaptive k-Nearest Neighbor Classification
+Yung-kyun Noh, Frank Park, Daniel D. Lee
+The Perturbed Variation
+Maayan Harel, Shie Mannor
+Communication/Computation Tradeoffs in Consensus-Based Distributed Optimization
+Konstantinos Tsianos, Sean Lawlor, Michael G. Rabbat
+The Coloured Noise Expansion and Parameter Estimation of Diffusion Processes
+Simon Lyons, Amos J. Storkey, Simo Särkkä
+Online allocation and homogeneous partitioning for piecewise constant mean-approximation
+Alexandra Carpentier, Odalric-ambrym Maillard
+Learning as MAP Inference in Discrete Graphical Models
+Xianghang Liu, James Petterson, Tibério S. Caetano
+A mechanistic model of early sensory processing based on subtracting sparse representations
+Shaul Druckmann, Tao Hu, Dmitri B. Chklovskii
+Multi-Stage Multi-Task Feature Learning
+Pinghua Gong, Jieping Ye, Chang-shui Zhang
+From Deformations to Parts: Motion-based Segmentation of 3D Objects
+Soumya Ghosh, Matthew Loper, Erik B. Sudderth, Michael J. Black
+Phoneme Classification using Constrained Variational Gaussian Process Dynamical System
+Hyunsin Park, Sungrack Yun, Sanghyuk Park, Jongmin Kim, Chang D. Yoo
+Bayesian estimation of discrete entropy with mixtures of stick-breaking priors
+Evan Archer, Il Memming Park, Jonathan W. Pillow
+A Geometric take on Metric Learning
+Søren Hauberg, Oren Freifeld, Michael J. Black
+Learning the Architecture of Sum-Product Networks Using Clustering on Variables
+Aaron Dennis, Dan Ventura
+Pointwise Tracking the Optimal Regression Function
+Yair Wiener, Ran El-Yaniv
+Bayesian nonparametric models for bipartite graphs
+Francois Caron
+Reducing statistical time-series problems to binary classification
+Daniil Ryabko, Jeremie Mary
+Tractable Objectives for Robust Policy Optimization
+Katherine Chen, Michael Bowling
+Classification Calibration Dimension for General Multiclass Losses
+Harish G. Ramaswamy, Shivani Agarwal
+Structure estimation for discrete graphical models: Generalized covariance matrices and their inverses
+Po-ling Loh, Martin J. Wainwright
+Collaborative Gaussian Processes for Preference Learning
+Neil Houlsby, Ferenc Huszar, Zoubin Ghahramani, Jose M. Hernández-lobato
+Approximating Concavely Parameterized Optimization Problems
+Joachim Giesen, Jens Mueller, Soeren Laue, Sascha Swiercy
+Gradient-based kernel method for feature extraction and variable selection
+Kenji Fukumizu, Chenlei Leng
+Strategic Impatience in Go/NoGo versus Forced-Choice Decision-Making
+Pradeep Shenoy, Angela J. Yu
+On Triangular versus Edge Representations --- Towards Scalable Modeling of Networks
+Qirong Ho, Junming Yin, Eric P. Xing
+Relax and Randomize : From Value to Algorithms
+Sasha Rakhlin, Ohad Shamir, Karthik Sridharan
+Minimax Multi-Task Learning and a Generalized Loss-Compositional Paradigm for MTL
+Nishant Mehta, Dongryeol Lee, Alexander G. Gray
+Spectral Learning of General Weighted Automata via Constrained Matrix Completion
+Borja Balle, Mehryar Mohri
+Optimal Neural Tuning Curves for Arbitrary Stimulus Distributions: Discrimax, Infomax and Minimum L_p Loss
+Zhuo Wang, Alan A. Stocker, Daniel D. Lee
+Algorithms for Learning Markov Field Policies
+Abdeslam Boularias, Jan R. Peters, Oliver B. Kroemer
+Affine Independent Variational Inference
+Edward Challis, David Barber
+Learning from the Wisdom of Crowds by Minimax Entropy
+Denny Zhou, Sumit Basu, Yi Mao, John C. Platt
+Clustering Sparse Graphs
+Yudong Chen, Sujay Sanghavi, Huan Xu
+Sketch-Based Linear Value Function Approximation
+Marc Bellemare, Joel Veness, Michael Bowling
+Multimodal Learning with Deep Boltzmann Machines
+Nitish Srivastava, Ruslan R. Salakhutdinov
+Learning with Target Prior
+Zuoguan Wang, Siwei Lyu, Gerwin Schalk, Qiang Ji
+Slice sampling normalized kernel-weighted completely random measure mixture models
+Nicholas Foti, Sinead Williamson
+Scalable Inference of Overlapping Communities
+Prem K. Gopalan, Sean Gerrish, Michael Freedman, David M. Blei, David M. Mimno
+Online L1-Dictionary Learning with Application to Novel Document Detection
+Shiva P. Kasiviswanathan, Huahua Wang, Arindam Banerjee, Prem Melville
+A systematic approach to extracting semantic information from functional MRI data
+Francisco Pereira, Matthew Botvinick
+Why MCA? Nonlinear sparse coding with spike-and-slab prior for neurally plausible image encoding
+Philip Sterne, Joerg Bornschein, Abdul-saboor Sheikh, Joerg Luecke, Jacquelyn A. Shelton
+Learning optimal spike-based representations
+Ralph Bourdoukan, David Barrett, Sophie Deneve, Christian K. Machens
+Collaborative Ranking With 17 Parameters
+Maksims Volkovs, Richard S. Zemel
+Rational inference of relative preferences
+Nisheeth Srivastava, Paul R. Schrater
+The topographic unsupervised learning of natural sounds in the auditory cortex
+Hiroki Terashima, Masato Okada
+Approximating Equilibria in Sequential Auctions with Incomplete Information and Multi-Unit Demand
+Amy Greenwald, Jiacui Li, Eric Sodomka
+A Divide-and-Conquer Method for Sparse Inverse Covariance Estimation
+Cho-jui Hsieh, Arindam Banerjee, Inderjit S. Dhillon, Pradeep K. Ravikumar
+A Simple and Practical Algorithm for Differentially Private Data Release
+Moritz Hardt, Katrina Ligett, Frank Mcsherry
+Bayesian active learning with localized priors for fast receptive field characterization
+Mijung Park, Jonathan W. Pillow
+Weighted Likelihood Policy Search with Model Selection
+Tsuyoshi Ueno, Kohei Hayashi, Takashi Washio, Yoshinobu Kawahara
+Learning the Dependency Structure of Latent Factors
+Yunlong He, Yanjun Qi, Koray Kavukcuoglu, Haesun Park
+Provable ICA with Unknown Gaussian Noise, with Implications for Gaussian Mixtures and Autoencoders
+Sanjeev Arora, Rong Ge, Ankur Moitra, Sushant Sachdeva
+Globally Convergent Dual MAP LP Relaxation Solvers using Fenchel-Young Margins
+Alex Schwing, Tamir Hazan, Marc Pollefeys, Raquel Urtasun
+Dip-means: an incremental clustering method for estimating the number of clusters
+Argyris Kalogeratos, Aristidis Likas
+No-Regret Algorithms for Unconstrained Online Convex Optimization
+Brendan Mcmahan, Matthew Streeter
+Bayesian models for Large-scale Hierarchical Classification
+Siddharth Gopal, Yiming Yang, Bing Bai, Alexandru Niculescu-mizil
+Recovery of Sparse Probability Measures via Convex Programming
+Mert Pilanci, Laurent E. Ghaoui, Venkat Chandrasekaran
+Multiple Operator-valued Kernel Learning
+Hachem Kadri, Alain Rakotomamonjy, Philippe Preux, Francis R. Bach
+Approximate Message Passing with Consistent Parameter Estimation and Applications to Sparse Learning
+Ulugbek Kamilov, Sundeep Rangan, Michael Unser, Alyson K. Fletcher
+A Better Way to Pretrain Deep Boltzmann Machines
+Geoffrey E. Hinton, Ruslan R. Salakhutdinov
+Towards a learning-theoretic analysis of spike-timing dependent plasticity
+David Balduzzi, Michel Besserve
+Learning Manifolds with K-Means and K-Flats
+Guillermo Canas, Tomaso Poggio, Lorenzo Rosasco
+Iterative ranking from pair-wise comparisons
+Sahand Negahban, Sewoong Oh, Devavrat Shah
+A Polynomial-time Form of Robust Regression
+Yao-liang Yu, Özlem Aslan, Dale Schuurmans
+Learning Probability Measures with respect to Optimal Transport Metrics
+Guillermo Canas, Lorenzo Rosasco
+Label Ranking with Partial Abstention based on Thresholded Probabilistic Models
+Weiwei Cheng, Eyke Hüllermeier, Willem Waegeman, Volkmar Welker
+Adaptive Learning of Smoothing Functions: Application to Electricity Load Forecasting
+Amadou Ba, Mathieu Sinn, Yannig Goude, Pascal Pompey
+Tensor Decomposition for Fast Parsing with Latent-Variable PCFGs
+Michael Collins, Shay B. Cohen
+Semi-supervised Eigenvectors for Locally-biased Learning
+Toke Hansen, Michael W. Mahoney
+Exponential Concentration for Mutual Information Estimation with Application to Forests
+Han Liu, Larry Wasserman, John D. Lafferty
+Augment-and-Conquer Negative Binomial Processes
+Mingyuan Zhou, Lawrence Carin
+Transferring Expectations in Model-based Reinforcement Learning
+Trung Nguyen, Tomi Silander, Tze Y. Leong
+Minimization of Continuous Bethe Approximations: A Positive Variation
+Jason Pacheco, Erik B. Sudderth
+Non-linear Metric Learning
+Dor Kedem, Stephen Tyree, Fei Sha, Gert R. Lanckriet, Kilian Q. Weinberger
+Factorial LDA: Sparse Multi-Dimensional Text Models
+Michael Paul, Mark Dredze
+Ancestor Sampling for Particle Gibbs
+Fredrik Lindsten, Thomas Schön, Michael I. Jordan
+Modelling Reciprocating Relationships with Hawkes Processes
+Charles Blundell, Jeff Beck, Katherine A. Heller
+Expectation Propagation in Gaussian Process Dynamical Systems
+Marc Deisenroth, Shakir Mohamed
+A quasi-Newton proximal splitting method
+Stephen Becker, Jalal Fadili
+Exact and Stable Recovery of Sequences of Signals with Sparse Increments via Differential _1-Minimization
+Demba Ba, Behtash Babadi, Patrick Purdon, Emery Brown
+Efficient Reinforcement Learning for High Dimensional Linear Quadratic Systems
+Morteza Ibrahimi, Adel Javanmard, Benjamin V. Roy
+Multilabel Classification using Bayesian Compressed Sensing
+Ashish Kapoor, Raajay Viswanathan, Prateek Jain
+Scaling MPE Inference for Constrained Continuous Markov Random Fields with Consensus Optimization
+Stephen Bach, Matthias Broecheler, Lise Getoor, Dianne O'leary
+A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets
+Nicolas L. Roux, Mark Schmidt, Francis R. Bach
+Query Complexity of Derivative-Free Optimization
+Kevin G. Jamieson, Robert Nowak, Ben Recht
+Emergence of Object-Selective Features in Unsupervised Feature Learning
+Adam Coates, Andrej Karpathy, Andrew Y. Ng
+Burn-in, bias, and the rationality of anchoring
+Falk Lieder, Thomas Griffiths, Noah Goodman
+Truly Nonparametric Online Variational Inference for Hierarchical Dirichlet Processes
+Michael Bryant, Erik B. Sudderth
+A Neural Autoregressive Topic Model
+Hugo Larochelle, Stanislas Lauly
+A Unifying Perspective of Parametric Policy Search Methods for Markov Decision Processes
+Thomas Furmston, David Barber
+Entangled Monte Carlo
+Seong-hwan Jun, Liangliang Wang, Alexandre Bouchard-côté
+Near-Optimal MAP Inference for Determinantal Point Processes
+Jennifer Gillenwater, Alex Kulesza, Ben Taskar
+Probabilistic Low-Rank Subspace Clustering
+S. D. Babacan, Shinichi Nakajima, Minh Do
+How They Vote: Issue-Adjusted Models of Legislative Behavior
+Sean Gerrish, David M. Blei
+Density Propagation and Improved Bounds on the Partition Function
+Stefano Ermon, Ashish Sabharwal, Bart Selman, Carla P. Gomes
+Perceptron Learning of SAT
+Alex Flint, Matthew Blaschko
+Learning Networks of Heterogeneous Influence
+Nan Du, Le Song, Ming Yuan, Alex J. Smola
+Multiclass Learning with Simplex Coding
+Youssef Mroueh, Tomaso Poggio, Lorenzo Rosasco, Jean-jeacques Slotine
+FastEx: Hash Clustering with Exponential Families
+Amr Ahmed, Sujith Ravi, Alex J. Smola, Shravan M. Narayanamurthy
+Topic-Partitioned Multinetwork Embeddings
+Peter Krafft, Juston Moore, Bruce Desmarais, Hanna M. Wallach
+Learning Label Trees for Probabilistic Modelling of Implicit Feedback
+Andriy Mnih, Yee W. Teh
+Learning with Recursive Perceptual Representations
+Oriol Vinyals, Yangqing Jia, Li Deng, Trevor Darrell
+Link Prediction in Graphs with Autoregressive Features
+Emile Richard, Stephane Gaiffas, Nicolas Vayatis
+Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images
+Dan Ciresan, Alessandro Giusti, Luca M. Gambardella, Juergen Schmidhuber
+Scalable imputation of genetic data with a discrete fragmentation-coagulation process
+Lloyd Elliott, Yee W. Teh
+Gradient Weights help Nonparametric Regressors
+Samory Kpotufe, Abdeslam Boularias
+Online Sum-Product Computation Over Trees
+Mark Herbster, Stephen Pasteris, Fabio Vitale
+Sparse Approximate Manifolds for Differential Geometric MCMC
+Ben Calderhead, Mátyás A. Sustik
+Fast Variational Inference in the Conjugate Exponential Family
+James Hensman, Magnus Rattray, Neil D. Lawrence
+Bayesian Pedigree Analysis using Measure Factorization
+Bonnie Kirkpatrick, Alexandre Bouchard-côté
+Accelerated Training for Matrix-norm Regularization: A Boosting Approach
+Xinhua Zhang, Dale Schuurmans, Yao-liang Yu
+Controlled Recognition Bounds for Visual Learning and Exploration
+Vasiliy Karasev, Alessandro Chiuso, Stefano Soatto
+Distributed Probabilistic Learning for Camera Networks with Missing Data
+Sejong Yoon, Vladimir Pavlovic
+Submodular-Bregman and the Lovász-Bregman Divergences with Applications
+Rishabh Iyer, Jeff A. Bilmes
+Minimizing Uncertainty in Pipelines
+Nilesh Dalvi, Aditya Parameswaran, Vibhor Rastogi
+Practical Bayesian Optimization of Machine Learning Algorithms
+Jasper Snoek, Hugo Larochelle, Ryan P. Adams
+Forging The Graphs: A Low Rank and Positive Semidefinite Graph Learning Approach
+Dijun Luo, Heng Huang, Feiping Nie, Chris H. Ding
+The Time-Marginalized Coalescent Prior for Hierarchical Clustering
+Levi Boyles, Max Welling
+Fusion with Diffusion for Robust Visual Tracking
+Yu Zhou, Xiang Bai, Wenyu Liu, Longin J. Latecki
+A nonparametric variable clustering model
+Konstantina Palla, Zoubin Ghahramani, David A. Knowles
+Priors for Diversity in Generative Latent Variable Models
+James T. Kwok, Ryan P. Adams
+A Nonparametric Conjugate Prior Distribution for the Maximizing Argument of a Noisy Function
+Pedro Ortega, Jordi Grau-moya, Tim Genewein, David Balduzzi, Daniel Braun
+Convergence Rate Analysis of MAP Coordinate Minimization Algorithms
+Ofer Meshi, Amir Globerson, Tommi S. Jaakkola
+Projection Retrieval for Classification
+Madalina Fiterau, Artur Dubrawski
+Hierarchical spike coding of sound
+Yan Karklin, Chaitanya Ekanadham, Eero P. Simoncelli
+Human memory search as a random walk in a semantic network
+Joseph L. Austerweil, Joshua T. Abbott, Thomas L. Griffiths
+Probabilistic n-Choose-k Models for Classification and Ranking
+Kevin Swersky, Brendan J. Frey, Daniel Tarlow, Richard S. Zemel, Ryan P. Adams
+Complex Inference in Neural Circuits with Probabilistic Population Codes and Topic Models
+Jeff Beck, Alexandre Pouget, Katherine A. Heller
+Cost-Sensitive Exploration in Bayesian Reinforcement Learning
+Dongho Kim, Kee-eung Kim, Pascal Poupart
+Learning with Partially Absorbing Random Walks
+Xiao-ming Wu, Zhenguo Li, Anthony M. So, John Wright, Shih-fu Chang
+Locating Changes in Highly Dependent Data with Unknown Number of Change Points
+Azadeh Khaleghi, Daniil Ryabko
+Probabilistic Event Cascades for Alzheimer's disease
+Jonathan Huang, Daniel Alexander
+Efficient and direct estimation of a neural subunit model for sensory coding
+Brett Vintch, Andrew Zaharia, J Movshon, Eero P. Simoncelli
+One Permutation Hashing
+Ping Li, Art Owen, Cun-hui Zhang
+Unsupervised Template Learning for Fine-Grained Object Recognition
+Shulin Yang, Liefeng Bo, Jue Wang, Linda G. Shapiro
+Risk Aversion in Markov Decision Processes via Near Optimal
+Chernoff Bounds Teodor M. Moldovan, Pieter Abbeel
+Fast Bayesian Inference for Non-Conjugate Gaussian Process Regression
+Emtiyaz Khan, Shakir Mohamed, Kevin P. Murphy
+Imitation Learning by Coaching
+He He, Jason Eisner, Hal Daume
+Small-Variance Asymptotics for Exponential Family Dirichlet Process Mixture Models
+Ke Jiang, Brian Kulis, Michael I. Jordan
+A latent factor model for highly multi-relational data
+Rodolphe Jenatton, Nicolas L. Roux, Antoine Bordes, Guillaume R. Obozinski
+Entropy Estimations Using Correlated Symmetric Stable Random Projections
+Ping Li, Cun-hui Zhang
+Simultaneously Leveraging Output and Task Structures for Multiple-Output Regression
+Piyush Rai, Abhishek Kumar, Hal Daume
+Continuous Relaxations for Discrete Hamiltonian Monte Carlo
+Yichuan Zhang, Zoubin Ghahramani, Amos J. Storkey, Charles A. Sutton
+Deep Learning of Invariant Features via Simulated Fixations in Video
+Will Zou, Shenghuo Zhu, Kai Yu, Andrew Y. Ng
+Best Arm Identification: A Unified Approach to Fixed Budget and Fixed Confidence
+Victor Gabillon, Mohammad Ghavamzadeh, Alessandro Lazaric
+On the Sample Complexity of Robust PCA
+Matthew Coudron, Gilad Lerman
+Latent Coincidence Analysis: A Hidden Variable Model for Distance Metric Learning
+Matthew Der, Lawrence K. Saul
+Discriminative Learning of Sum-Product Networks
+Robert Gens, Pedro Domingos
+Trajectory-Based Short-Sighted Probabilistic Planning
+Felipe Trevizan, Manuela Veloso
+Tight Bounds on Profile Redundancy and Distinguishability
+Jayadev Acharya, Hirakendu Das, Alon Orlitsky
+Interpreting prediction markets: a stochastic approach
+Rafael M. Frongillo, Nicholás Della Penna, Mark D. Reid
+Risk-Aversion in Multi-armed Bandits
+Amir Sani, Alessandro Lazaric, Rémi Munos
+Confusion-Based Online Learning and a Passive-Aggressive Scheme
+Liva Ralaivola
+Cardinality Restricted Boltzmann Machines
+Kevin Swersky, Ilya Sutskever, Daniel Tarlow, Richard S. Zemel, Ruslan R. Salakhutdinov, Ryan P. Adams
+Generalization Bounds for Domain Adaptation
+Chao Zhang, Lei Zhang, Jieping Ye

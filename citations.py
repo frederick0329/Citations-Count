@@ -20,7 +20,7 @@ def main():
 
 
     with open(args.input_file, 'r') as f:
-        lines = f.readlines()[0:]  
+        lines = f.readlines()[190:]  
     folder_name = args.input_file.split('.')[0]
 
     #if not os.path.exists(folder_name):
