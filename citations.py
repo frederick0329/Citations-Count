@@ -20,7 +20,7 @@ def main():
 
 
     with open(args.input_file, 'r') as f:
-        lines = f.readlines()[190:]  
+        lines = f.readlines()[0:190]  
     folder_name = args.input_file.split('.')[0]
 
     #if not os.path.exists(folder_name):
@@ -41,7 +41,7 @@ def main():
         if len(articles) > 0: 
             citations[title] += int(articles[0].attrs['num_citations'][0]) + 1
         print title + '\t' + str(citations[title])
-        time.sleep(max(0, np.random.normal(300, 50, 1)[0]))
+        #time.sleep(max(0, np.random.normal(300, 50, 1)[0]))
 
     #sorted_by_citations = sorted(citations.items(), key=lambda x:x[1])       
     #for i in range(num_papers):    
