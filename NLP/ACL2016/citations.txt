@@ -261,7 +261,7 @@ Event Nugget Detection with Bidirectional Recurrent Neural Networks	-1
 Exploiting Linguistic Features for Use in Sentence Completion	-1
 Exploring Stylistic Variation with Age and Income on Twitter	6
 Exponentially Decaying Bag-of-Words Input Features for Feed-Forward Neural Network in Statistical Machine Translation	0
-Finding Optimistic and Pessimistic Users on Twitter	-1
+Finding Optimistic and Pessimistic Users on Twitter	0
 Hawkes Processes for Continuous Time Sequence Classification: an Application to Rumour Stance Classification in Twitter	6
 How Naked is the Naked Truth? A Multilingual Lexicon of Nominal Compound Compositionality	2
 Hunting for Troll Comments in News Community Forums	9
@@ -284,10 +284,10 @@ Learning Word Segmentation Representations to Improve Named Entity Recognition f
 Leveraging Lexical Resources for Learning Entity Embeddings in Multi-Relational Data	1
 Machine Comprehension using Rich Semantic Representations	1
 Machine Translation Evaluation Meets Community Question Answering	4
-Matrix Factorization using Window Sampling for Improved Word Representations	-1
+Matrix Factorization using Window Sampling for Improved Word Representations	0
 Metrics for Evaluation of Word-level Machine Translation Quality Estimation	2
 Modelling the Interpretation of Discourse Connectives by Bayesian Pragmatics	2
-Morphological Reinflection with Encoder-Decoder Models and Edit Trees	-1
+Single-Model Encoder-Decoder with Explicit Morphological Representation for Reinflection	9
 Multi-Modal Representations for Improved Bilingual Lexicon Learning	4
 Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models	9
 Multiplicative Representations for Unsupervised Semantic Role Induction	1
@@ -296,7 +296,7 @@ Natural Language Inference by Tree-Based Convolution and Heuristic Matching	21
 Nonparametric Spherical Topic Modeling with Word Embeddings	4
 On the linearity of semantic change: Investigating meaning variation via dynamic graph models	2
 One model, two languages: training bilingual parsers with harmonized treebanks	7
-Part-of-speech induction from eye-tracking data	-1
+Weakly Supervised Part-of-speech Tagging Using Eye-tracking Data	4
 Phrase Table Pruning via Submodular Function Maximization	0
 Phrase-Level Combination of SMT and TM Using Constrained Word Lattice	1
 Recognizing Salient Entities in Shopping Queries	0
@@ -311,7 +311,7 @@ Specifying and Annotating Reduced Argument Span Via QA-SRL	0
 Syntactically Guided Neural Machine Translation	8
 Text Simplification as Tree Labeling	0
 The Enemy in Your Own Camp: How Well Can We Detect Statistically-Generated Fake Reviews - An Adversarial Study	0
-The red one! Learning to predict attributes that discriminate a referent in a visual context	-1
+The red one! Learning to predict attributes that discriminate a referent in a visual context	0
 The Value of Semantic Parse Labeling for Knowledge Base Question Answering	6
 Transductive Adaptation of Black Box Predictions	1
 Transition-based dependency parsing with topological fields	1
@@ -321,8 +321,8 @@ User Embedding for Scholarly Microblog Recommendation	2
 Using mention accessibility to improve coreference resolution	0
 Using Sequence Similarity Networks to Identify Partial Cognates in Multilingual Wordlists	7
 Very quaffable and great fun: Applying NLP to wine reviews	1
-Vocabulary Manipulation for Large Vocabulary Neural Machine Translation	-1
+Vocabulary Manipulation for Large Vocabulary Neural Machine Translation	15
 Which Tumblr Post Should I Read Next?	0
 Word Alignment without NULL Words	0
 Word Embedding Calculus in Meaningful Ultradense Subspaces	4
-Word Embedding with Limited Memory	-1
+Word Embedding with Limited Memory	1
