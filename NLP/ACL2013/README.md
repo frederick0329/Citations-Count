@@ -1,0 +1,217 @@
+# ACL2013 papers
+- [ ] Parsing With Compositional Vector Grammars          491
+- [ ] Paraphrase-Driven Learning For Open Question Answering          123
+- [ ] Large-Scale Semantic Parsing Via Schema Matching And Lexicon Extension          110
+- [ ] The Role Of Syntax In Vector Space Models Of Compositional Semantics          99
+- [ ] Grounded Language Learning From Videos Described With Sentences          95
+- [ ] Joint Event Extraction Via Structured Prediction With Global Features          94
+- [ ] Linking And Extending An Open Multilingual Wordnet          92
+- [ ] A Computational Approach To Politeness With Application To Social Factors          90
+- [ ] Transition-Based Dependency Parsing With Selectional Branching          85
+- [ ] Joint Inference For Fine-Grained Opinion Extraction          84
+- [ ] Align, Disambiguate And Walk: A Unified Approach For Measuring Semantic Similarity          83
+- [ ] Fast And Accurate Shift-Reduce Constituent Parsing          69
+- [ ] Entity Linking For Tweets          67
+- [ ] Question Answering Using Enhanced Lexical Semantic Models          63
+- [ ] Fine-Grained Semantic Typing Of Emerging Entities          55
+- [ ] Linking Tweets To News: A Framework To Enrich Short Text Data In Social Media          54
+- [ ] Combining Intra- And Multi-Sentential Rhetorical Parsing For Document-Level Discourse Analysis          54
+- [ ] Modelling Annotator Bias With Multi-Task Gaussian Processes: An Application To Machine Translation Quality Estimation          53
+- [ ] Connotation Lexicon: A Dash Of Sentiment Beneath The Surface Meaning          52
+- [ ] Learning Latent Personas Of Film Characters          51
+- [ ] Embedding Semantic Similarity In Tree Kernels For Domain Adaptation Of Relation Extraction          49
+- [ ] Using Supervised Bigram-Based Ilp For Extractive Summarization          48
+- [ ] Compositional-Ly Derived Representations Of Morphologically Complex Words In Distributional Semantics          48
+- [ ] Dirt Cheap Web-Scale Parallel Text From The Common Crawl          48
+- [ ] A User-Centric Model Of Voting Intention From Social Media          47
+- [ ] Can Markov Models Over Minimal Translation Units Help Phrase-Based Smt?          46
+- [ ] Aid Is Out There: Looking For Help From Tweets During A Large Scale Disaster          46
+- [ ] A Bayesian Model For Joint Unsupervised Induction Of Sentiment, Aspect And Discourse Representations          45
+- [ ] Linguistic Models For Analyzing And Detecting Biased Language          45
+- [ ] Aggregated Word Pair Features For Implicit Discourse Relation Disambiguation          45
+- [ ] Models Of Semantic Representation With Visual Attributes          43
+- [ ] Adaptation Data Selection Using Neural Language Models: Experiments In Machine Translation          42
+- [ ] Fast And Robust Compressive Summarization With Dual Decomposition And Multi-Task Learning          42
+- [ ] Learning To Extract International Relations From Political Context          41
+- [ ] Word Alignment Modeling With Context Dependent Deep Neural Network          41
+- [ ] Chinese Parsing Exploiting Characters          40
+- [ ] Mining Opinion Words And Opinion Targets In A Two-Stage Framework          39
+- [ ] Semantic Frames To Predict Stock Price Movement          37
+- [ ] Microblogs As Parallel Corpora          37
+- [ ] A Unified Morpho-Syntactic Scheme Of Stanford Dependencies          37
+- [ ] Improving Text Simplification Language Modeling Using Unsimplified Text Data          36
+- [ ] Fast And Adaptive Online Training Of Feature-Rich Translation Models          36
+- [ ] Using Conceptual Class Attributes To Characterize Social Media Users          35
+- [ ] Grounded Unsupervised Semantic Parsing          34
+- [ ] Offspring From Reproduction Problems: What Replication Failure Teaches Us          33
+- [ ] Social Text Normalization Using Contextual Graph Random Walks          32
+- [ ] Identification Of Speakers In Novels          31
+- [ ] Joint Word Alignment And Bilingual Named Entity Recognition Using Dual Decomposition          30
+- [ ] Benefactive/Malefactive Event And Writer Attitude Annotation          30
+- [ ] Crowdsourcing Interaction Logs To Understand Text Reuse From The Web          30
+- [ ] Syntactic Patterns Versus Word Alignment: Extracting Opinion Targets From Online Reviews          30
+- [ ] Parsing Graphs With Hyperedge Replacement Grammars          30
+- [ ] Graph Propagation For Paraphrasing Out-Of-Vocabulary Words In Statistical Machine Translation          29
+- [ ] Leveraging Synthetic Discourse Data Via Multi-Task Learning For Implicit Discourse Relation Recognition          29
+- [ ] Utterance-Level Multimodal Sentiment Analysis          29
+- [ ] Why-Question Answering Using Intra- And Inter-Sentential Causal Relations          29
+- [ ] From Natural Language Specifications To Program Input Parsers          27
+- [ ] Graph-Based Local Coherence Modeling          27
+- [ ] A Sentence Compression Based Framework To Query-Focused Multi-Document Summarization          27
+- [ ] Coordination Structures In Dependency Treebanks          27
+- [ ] Named Entity Recognition Using Cross-Lingual Resources: Arabic As An Example          27
+- [ ] Discriminative State Tracking For Spoken Dialog Systems          25
+- [ ] Cross-Lingual Transfer Of Semantic Role Labeling Models          25
+- [ ] Real-World Semi-Supervised Learning Of Pos-Taggers For Low-Resource Languages          25
+- [ ] Text-Driven Toponym Resolution Using Indirect Supervision          24
+- [ ] Graph-Based Semi-Supervised Model For Joint Chinese Word Segmentation And Part-Of-Speech Tagging          24
+- [ ] Decentralized Entity-Level Modeling For Coreference Resolution          24
+- [ ] Vector Space Model For Adaptation In Statistical Machine Translation          23
+- [ ] A Two Level Model For Context Sensitive Inference Rules          23
+- [ ] Heady: News Headline Abstraction Through Event Pattern Clustering          23
+- [ ] Additive Neural Networks For Statistical Machine Translation          23
+- [ ] Shallow Local Multi-Bottom-Up Tree Transducers In Statistical Machine Translation          22
+- [ ] Adaptive Parser-Centric Text Normalization          22
+- [ ] A Statistical Nlg Framework For Aggregated Planning And Realization          22
+- [ ] Summarization Through Submodularity And Dispersion          22
+- [ ] Extracting Bilingual Terminologies From Comparable Corpora          22
+- [ ] A Multi-Domain Translation Model Framework For Statistical Machine Translation          21
+- [ ] Impar: A Deterministic Algorithm For Implicit Semantic Role Labelling          21
+- [ ] Spred: Large-Scale Harvesting Of Semantic Predicates          20
+- [ ] Statistical Machine Translation Improves Question Retrieval In Community Question Answering Via Matrix Factorization          20
+- [ ] Stop-Probability Estimates Computed On A Large Corpus Improve Unsupervised Dependency Parsing          20
+- [ ] A Transition-Based Dependency Parser Using A Dynamic Parsing Strategy          20
+- [ ] Word Association Profiles And Their Use For Automated Scoring Of Essays          19
+- [ ] Universal Conceptual Cognitive Annotation (Ucca)          19
+- [ ] Conditional Random Fields For Responsive Surface Realisation Using Global Features          19
+- [ ] Learning A Phrase-Based Translation Model From Monolingual Data With Application To Domain Adaptation          19
+- [ ] Pargrambank: The Pargram Parallel Treebank          19
+- [ ] Derivbase: Inducing And Evaluating A Derivational Morphology Resource For German          19
+- [ ] Adapting Discriminative Reranking To Grounded Language Learning          18
+- [ ] Evaluating Text Segmentation Using Boundary Edit Distance          18
+- [ ] Collective Annotation Of Linguistic Resources: Basic Principles And A Formal Model          18
+- [ ] Subtree Extractive Summarization Via Submodular Maximization          18
+- [ ] Predicting And Eliciting Addressee'S Emotion In Online Dialogue          17
+- [ ] A Lightweight And High Performance Monolingual Word Aligner          17
+- [ ] Discriminative Learning With Natural Annotations: Word Segmentation As A Case Study          17
+- [ ] Using Subcategorization Knowledge To Improve Case Prediction For Translation To German          17
+- [ ] Improved Lexical Acquisition Through Dpp-Based Verb Clustering          17
+- [ ] Public Dialogue: Analysis Of Tolerance In Online Discussions          16
+- [ ] Identifying Bad Semantic Neighbors For Improving Distributional Thesauri          16
+- [ ] Towards Robust Abstractive Multi-Document Summarization: A Caseframe Analysis Of Centrality And Domain          16
+- [ ] Automatic Coupling Of Answer Extraction And Information Retrieval          16
+- [ ] Domain-Independent Abstract Generation For Focused Meeting Summarization          16
+- [ ] Character-To-Character Sentiment Analysis In Shakespeare'S Plays          16
+- [ ] A Novel Translation Framework Based On Rhetorical Structure Theory          15
+- [ ] Resolving Entity Morphs In Censored Data          15
+- [ ] Enlisting The Ghost: Modeling Empty Categories For Machine Translation          15
+- [ ] "Let Everything Turn Well In Your Wife": Generation Of Adult Humor Using Lexical Constraints          15
+- [ ] Discovering User Interactions In Ideological Discussions          15
+- [ ] Creating Similarity: Lateral Thinking For Vertical Similarity Judgments          15
+- [ ] Building Comparable Corpora Based On Bilingual Lda Model          15
+- [ ] The Haves And The Have-Nots: Leveraging Unlabelled Corpora For Sentiment Analysis          14
+- [ ] Unsupervised Transcription Of Historical Documents          14
+- [ ] Bi-Directional Inter-Dependencies Of Subjective Expressions And Targets And Their Value For A Joint Model          14
+- [ ] Glossboot: Bootstrapping Multilingual Domain Glossaries From The Web          14
+- [ ] A Structured Distributional Semantic Model For Event Co-Reference          14
+- [ ] Argument Inference From Relevant Event Mentions In Chinese Argument Extraction          14
+- [ ] Framenet On The Way To Babel: Creating A Bilingual Framenet Using Wiktionary As Interlingual Connection          14
+- [ ] Integrating Translation Memory Into Phrase-Based Machine Translation During Decoding          14
+- [ ] Brainsup: Brainstorming Support For Creative Sentence Generation          14
+- [ ] Modeling Thesis Clarity In Student Essays          13
+- [ ] Mining Informal Language From Chinese Microtext: Joint Word Recognition And Segmentation          13
+- [ ] An Empirical Examination Of Challenges In Chinese Parsing          13
+- [ ] A Decade Of Automatic Content Evaluation Of News Summaries: Reassessing The State Of The Art          13
+- [ ] A New Set Of Norms For Semantic Relatedness Measures          12
+- [ ] Automatically Predicting Sentence Translation Difficulty          12
+- [ ] Sentiment Relevance          12
+- [ ] Grammatical Error Correction Using Integer Linear Programming          12
+- [ ] An Empirical Study On Uncertainty Identification In Social Media Context          11
+- [ ] Machine Translation Detection From Monolingual Web-Text          11
+- [ ] Improved Bayesian Logistic Supervised Topic Models With Data Augmentation          11
+- [ ] Integrating Phrase-Based Reordering Features Into Chart-Based Decoder For Machine Translation          11
+- [ ] Punctuation Prediction With Transition-Based Parsing          11
+- [ ] Annotation Of Regular Polysemy And Underspecification          10
+- [ ] Nonconvex Global Optimization For Latent-Variable Models          10
+- [ ] A Relatedness Benchmark To Test The Role Of Determiners In Compositional Distributional Semantics          10
+- [ ] Integrating Multiple Dependency Corpora For Inducing Wide-Coverage Japanese Ccg Resources          10
+- [ ] Feature-Based Selection Of Dependency Paths In Ad Hoc Information Retrieval          10
+- [ ] A System For Summarizing Scientific Topics Starting From Keywords          10
+- [ ] Beam Search For Solving Substitution Ciphers          10
+- [ ] Bilingual Lexical Cohesion Trigger Model For Document-Level Machine Translation          9
+- [ ] Transfer Learning Based Cross-Lingual Knowledge Extraction For Wikipedia          9
+- [ ] Language-Independent Discriminative Parsing Of Temporal Expressions          9
+- [ ] Unsupervised Consonant-Vowel Prediction Over Hundreds Of Languages          9
+- [ ] Margin-Based Decomposed Amortized Inference          9
+- [ ] Bootstrapping Entity Translation On Weakly Comparable Corpora          9
+- [ ] Models Of Translation Competitions          9
+- [ ] A Tale About Pro And Monsters          9
+- [ ] Automated Pyramid Scoring Of Summaries Using Distributional Semantics          9
+- [ ] Improving Pairwise Coreference Models Through Feature Space Hierarchy Learning          9
+- [ ] An Infinite Hierarchical Bayesian Model Of Phrasal Translation          8
+- [ ] Name-Aware Machine Translation          8
+- [ ] Are Semantically Coherent Topic Models Useful For Ad Hoc Information Retrieval?          8
+- [ ] Bilingual Data Cleaning For Smt Using Graph-Based Random Walk          8
+- [ ] Advancements In Reordering Models For Statistical Machine Translation          8
+- [ ] Sensespotting: Never Let Your Parallel Data Tie You To An Old Domain          8
+- [ ] A Lattice-Based Framework For Joint Chinese Word Segmentation, Pos Tagging And Parsing          8
+- [ ] A Novel Graph-Based Compact Representation Of Word Alignment          8
+- [ ] Probabilistic Domain Modelling With Contextualized Distributional Semantic Vectors          7
+- [ ] Building And Evaluating A Distributional Memory For Croatian          7
+- [ ] A Markov Model Of Machine Translation Using Non-Parametric Bayesian Inference          7
+- [ ] Part-Of-Speech Induction In Dependency Trees For Statistical Machine Translation          7
+- [ ] Distortion Model Considering Rich Context For Statistical Machine Translation          7
+- [ ] Reconstructing An Indo-European Family Tree From Non-Native English Texts          7
+- [ ] An Annotated Corpus Of Quoted Opinions In News Articles          7
+- [ ] Is A 204 Cm Man Tall Or Small ? Acquisition Of Numerical Common Sense From The Web          7
+- [ ] Combining Referring Expression Generation And Surface Realization: A Corpus-Based Investigation Of Architectures          6
+- [ ] Automatic Detection Of Deception In Child-Produced Speech Using Syntactic Complexity Features          6
+- [ ] Smoothed Marginal Distribution Constraints For Language Modeling          6
+- [ ] Scalable Decipherment For Machine Translation Via Hash Sampling          6
+- [ ] Handling Ambiguities Of Bilingual Predicate-Argument Structures For Statistical Machine Translation          6
+- [ ] Lightly Supervised Learning Of Procedural Dialog Systems          6
+- [ ] An Information Theoretic Approach To Bilingual Word Clustering          6
+- [ ] Crowd Prefers The Middle Path: A New Iaa Metric For Crowdsourcing Reveals Turker Biases In Query Segmentation          6
+- [ ] Probabilistic Sense Sentiment Similarity Through Hidden Emotions          5
+- [ ] Deceptive Answer Prediction With User Preference Graph          5
+- [ ] Plurality, Negation, And Quantification:Towards Comprehensive Quantifier Scope Disambiguation          5
+- [ ] Recognizing Rare Social Phenomena In Conversation: Empowerment Detection In Support Group Chatrooms          5
+- [ ] Online Relative Margin Maximization For Statistical Machine Translation          5
+- [ ] Bilingually-Guided Monolingual Dependency Grammar Induction          5
+- [ ] Multilingual Affect Polarity And Valence Prediction In Metaphor-Rich Texts          5
+- [ ] Semi-Supervised Semantic Tagging Of Conversational Understanding Using Markov Topic Regression          4
+- [ ] A Joint Model Of Word Segmentation And Phonological Variation For English Word-Final /T/-Deletion          4
+- [ ] Language Acquisition And Probabilistic Models: Keeping It Simple          4
+- [ ] Non-Monotonic Sentence Alignment Via Semisupervised Learning          4
+- [ ] Generating Synthetic Comparable Questions For News Articles          4
+- [ ] Two-Neighbor Orientation Model With Cross-Boundary Global Contexts          4
+- [ ] A Context Free Tag Variant          4
+- [ ] Hierarchical Phrase Table Combination For Machine Translation          4
+- [ ] A Learner Corpus-Based Approach To Verb Suggestion For Esl          4
+- [ ] Bridging Languages Through Etymology: The Case Of Cross Language Text Categorization          4
+- [ ] Learning To Lemmatise Polish Noun Phrases          3
+- [ ] Broadcast News Story Segmentation Using Manifold Learning On Latent Topic Distributions          3
+- [ ] The Impact Of Topic Bias On Quality Flaw Prediction In Wikipedia          3
+- [ ] Decipherment Complexity In 1:1 Substitution Ciphers          3
+- [ ] Scaling Semi-Supervised Naive Bayes With Feature Marginals          3
+- [ ] Density Maximization In Context-Sense Metric Space For All-Words Wsd          3
+- [ ] Automatic Term Ambiguity Detection          3
+- [ ] Accurate Word Segmentation Using Transliteration And Language Model Projection          3
+- [ ] Co-Regression For Cross-Language Review Rating Prediction          3
+- [ ] A Novel Text Classifier Based On Quantum Computation          3
+- [ ] A Shift-Reduce Parsing Algorithm For Phrase-Based String-To-Dependency Translation          3
+- [ ] Cut The Noise: Mutually Reinforcing Reordering And Alignments For Improved Machine Translation          3
+- [ ] Building Japanese Textual Entailment Specialized Data Sets For Inference Of Basic Sentence Relations          2
+- [ ] A Tightly-Coupled Unsupervised Clustering And Bilingual Alignment Model For Transliteration          2
+- [ ] General Binarization For Parsing And Translation          2
+- [ ] A Random Walk Approach To Selectional Preferences Based On Preference Ranking And Propagation          2
+- [ ] Translating Italian Connectives Into Italian Sign Language          1
+- [ ] Transfer Learning For Constituency-Based Grammars          1
+- [ ] An Improved Mdl-Based Compression Algorithm For Unsupervised Word Segmentation          1
+- [ ] Training Nondeficient Variants Of Ibm-3 And Ibm-4 For Word Alignment          1
+- [ ] The Effect Of Non-Tightness On Bayesian Estimation Of Pcfgs          1
+- [ ] Automatic Interpretation Of The English Possessive          1
+- [ ] Arguments And Modifiers From The Learner'S Perspective          0
+- [ ] Are School-Of-Thought Words Characterizable?          0
+- [ ] Large Tagset Labeling Using Feed Forward Neural Networks. Case Study On Romanian Language          0
+- [ ] Evaluating A City Exploration Dialogue System With Integrated Question-Answering And Pedestrian Navigation          -1
