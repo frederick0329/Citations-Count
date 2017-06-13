@@ -27,7 +27,7 @@ def main():
 
     sorted_by_citations = sorted(citations_dict.items(), key=lambda x:-x[1])       
     for i in range(num_papers):    
-        f_out.write('- [ ] ' + sorted_by_citations[i][0]  + '          ' + str(sorted_by_citations[i][1]) + '\n')
+        f_out.write('- [ ] ' + sorted_by_citations[i][0].title()  + '          ' + str(sorted_by_citations[i][1]) + '\n')
     f_out.close()    
         
 if __name__ == "__main__":
