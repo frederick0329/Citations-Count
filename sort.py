@@ -4,7 +4,7 @@ import numpy as np
 
 parser = argparse.ArgumentParser(description='number of citations crawler')
 parser.add_argument('-field', type=str, default='NLP')
-parser.add_argument('-conf', type=str, default='ACL2016')
+parser.add_argument('-conf', type=str, default='ACL2015')
 args = parser.parse_args()
 
 def main():
