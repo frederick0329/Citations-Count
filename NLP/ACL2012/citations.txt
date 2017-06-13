@@ -110,3 +110,80 @@ SENTENCE SIMPLIFICATION BY MONOLINGUAL MACHINE TRANSLATION	79
 STRUCTURING E-COMMERCE INVENTORY	12
 TEXT SEGMENTATION BY LANGUAGE USING MINIMUM DESCRIPTION LENGTH	24
 YOU HAD ME AT HELLO: HOW PHRASING AFFECTS MEMORABILITY	54
+A Comparative Study of Target Dependency Structures for Statistical Machine Translation	4
+A Comparison of Chinese Parsers for Stanford Dependencies	19
+A Comprehensive Gold Standard for the Enron Organizational Hierarchy	19
+A Context-sensitive, Multi-faceted model of Lexico-Conceptual Affect	10
+A Corpus of Textual Revisions in Second Language Writing	4
+A Feature-Rich Constituent Context Model for Grammar Induction	8
+A Graph-based Cross-lingual Projection Approach for Weakly Supervised Relation Extraction	7
+A Meta Learning Approach to Grammatical Error Correction	7
+A Novel Burst-based Text Representation Model for Scalable Event Detection	19
+A Two-step Approach to Sentence Compression of Spoken Utterances	3
+An Exploration of Forest-to-String Translation: Does Translation Help or Hurt Parsing?	4
+Approximate Cube Pruning in Linear Time	-1
+Arabic Retrieval Revisited: Morphological Hole Filling	5
+Assessing the Effect of Inconsistent Assessors on Summarization Evaluation	2
+Authorship Attribution with Author-aware Topic Models	27
+Automatically Learning Measures of Child Language Development	12
+Automatically Mining Question Reformulation Patterns from Search Log Data	5
+Baselines and Bigrams: Simple, Good Sentiment and Topic Classification	301
+Beefmoves: Diffusion, diversity, and dynamics of English borrowings in a German hip hop forum	11
+Coarse Lexical Semantic Annotation with Supersenses: An Arabic Case Study	18
+Combining Textual Entailment and Argumentation Theory for Supporting Online Debates Interactions	54
+Combining Word-Based and Character-Based Models for Translating Between Related Languages	-1
+Corpus-based interpretation of instructions in virtual environments	3
+Coupling Label Propagation and Constraints for Temporal Fact Extraction	20
+Cross-Genre Subgroup Detection in Online Discussion Threads: A Study of the Implicit Attitude using Textual Latent Semantics	-1
+Cross-lingual Parse Disambiguation based on Semantic Correspondence	3
+Crowdsourcing Inference-Rule Evaluation	28
+Decoding Running Key Ciphers	0
+Detecting Semantic Equivalence and Information Disparity in Cross-lingual Documents	11
+Efficient Tree-Based Topic Modeling	16
+Enhancing Statistical Machine Translation with Character Alignment	8
+Estimating Compact Yet Rich Tree Insertion Grammars	5
+Event linking: grounding event reference in a news archive	14
+Exploiting Latent Information to Predict Diffusions of Novel Topics on Social Networks	7
+Fast and Robust Part-of-Speech Tagging Using Dynamic Model Selection	23
+Fast and Scalable Decoding with Language Model Look-Ahead for Phrase-based Statistical Machine Translation	3
+Fine Granular Aspect Analysis using Latent Structural Models	16
+Fully Abstractive Approach to Guided Summarization	46
+Generating Colloquial Arabic from Standard Arabic	-1
+Grammar Error Correction Using Pseudo-Error Sentences and Domain Adaptation	11
+Head-Driven Hierarchical Phrase-based Translation	9
+Higher-order Constituent Parsing and Parser Combination	3
+How Are Spelling Errors Generated and Corrected? A Study of Corrected and Uncorrected Spelling Errors Using Keystroke Logs	11
+Humor as circuits in semantic networks	11
+Identifying High-Impact Sub-Structures for Convolution Kernels in Document-level Sentiment Classification	16
+Improving the Performance of GIZA++ Using Variational Bayes	5
+Information-theoretic Multi-view Domain Adaptation	3
+Joint Evaluation of Morphological Segmentation and Syntactic Parsing	10
+Joint Learning of a Dual SMT System for Paraphrase Generation	3
+Learning Better Rule Extraction with Translation Span Alignment	0
+Learning the Latent Semantics of a Concept from its Definition	8
+Learning to Find Translations and Transliterations on the Web	3
+Learning to Temporally Order Medical Events in Clinical Text	9
+Lemmatisation as a Tagging Task	22
+Modeling and learning typical durations of habits and episodes from Twitter	-1
+Movie-DiC: a Movie Dialogue Corpus for Research and Development	38
+Native Language Detection with Tree Substitution Grammars	32
+Pattern Learning for Relation Extraction with Hierarchical Topic Models	-1
+Post-ordering by Parsing for Japanese-English Statistical Machine Translation	-1
+Private Access to Phrase Tables for Statistical Machine Translation	4
+Robust conversion of CCG derivations to phrase structure trees	2
+Self-Disclosure and Relationship Strength in Twitter Conversations	21
+Sentence Compression with Semantic Role Constraints	18
+Syntactic Stylometry for Deception Detection	115
+Tense and Aspect Error Correction for ESL learners Using Global Context	28
+Tokenization: Returning to a Long Solved Problem A Survey, Contrastive Experiment, Recommendations, and Toolkit	20
+Topic Models for Lexical Weight Adaptation in Machine Translation	-1
+Toward Automatically Assembling Hittite-Language Cuneiform Tablet Fragments into Larger Texts	1
+Towards the unsupervised acquisition of discourse relations	5
+Translation Model Size Reduction for Hierarchical Phrase-based Statistical Machine Translation	4
+Unsupervised Morphology Rivals Supervised Morphology for Arabic MT	13
+Unsupervised Semantic Role Induction with Global Role Ordering	10
+Unsupervized Word Segmentation: the case for Mandarin Chinese	18
+Using Discourse Relations to Improve Script Learning	-1
+Using Rejuvenation to Improve Particle Filtering for Bayesian Word Segmentation	9
+Using Search-Logs to Improve Query Tagging	21
+Word Epoch Disambiguation: Finding How Words Change Over Time	31
