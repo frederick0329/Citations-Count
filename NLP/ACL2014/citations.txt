@@ -1,0 +1,84 @@
+A Bayesian Mixed Effects Model of Literary Character	47
+A chance corrected measure of inter-annotator agreement for syntax	5
+A Decision-Theoretic Approach to Natural Language Generation	3
+A Discriminative Graph-Based Parser for the Abstract Meaning Representation	70
+A Generalized Language Model as the Combination of Skipped n-grams and Modified Kneser Ney Smoothing	11
+A Joint Graph Model for Pinyin-to-Chinese for Pinyin-to-Chinese Conversion with Typo Correction	-1
+A Lagrangian Relaxation Algorithm for Bidirectional Word Alignment	-1
+A Linear-Time Bottom-Up Discourse Parser with Constraints and Post-Editing	37
+A practical but linguistically-motivated approach to compositional distributional semantics	-1
+A Provably Correct Learning Algorithm for Latent-Variable PCFGs	12
+A Recursive Recurrent Neural Network for Statistical Machine Translation	47
+A Robust Approach to Aligning Heterogeneous Lexical Resources	24
+A Semiparametric Gaussian Copula Regression Model for Predicting Financial Risks from Earnings Calls	16
+A Sense-Based Translation Model for Statistical Machine Translation	15
+A Sentence Model based on Convolutional Neural Networks	6
+A Step-wise Usage-based Method for Inducing Polysemy-aware Verb Classes	5
+A Study of Concept-based Weighting Regularization for Medical Records Search	6
+A Unified Model for Soft Linguistic Reordering Constraints in Statistical Machine Translation	5
+Abstractive Summarization of Spoken and Written Conversations Based on Phrasal Queries	11
+Active Learning with Efficient Feature Weighting Methods for Improving Data Quality and Classification Accuracy	4
+Adaptive Quality Estimation for Document-Specific MT Post-editing	0
+Adaptive Quality Estimation for Machine Translation	12
+Ambiguity-aware Ensemble Training for Semi-supervised Dependency Parsing	11
+Anchors Regularized: Adding Robustness and Extensibility to Scalable Topic-Modeling Algorithms	12
+Approximation Strategies for Multi-Structure Sentence Compression	6
+Aspect Extraction with Automated Prior Knowledge Learning	65
+Automatic Keyphrase Extraction: A Survey	91
+Behavior of Negation Words in Modifying Sentiment	-1
+Bilingual Active Learning for Relation Classification via Pseudo Parallel Corpora	3
+Bilingually-constrained Phrase Embeddings for Machine Translation	55
+Bootstrapping into Filler-Gap: An Acquisition Story	0
+Can You Repeat That? Using Word Repetition to Improve Spoken Term Detection	4
+Character-Level Chinese Dependency Parsing	17
+Collective Tweet Wikification based on Semi-supervised Graph Regularization	28
+Comparing Multi-label Classification with Reinforcement Learning for Summarisation of Time-series Data	8
+ConnotationWordNet: Learning Connotation of the Word+Sense Network	-1
+Context-aware Learning for Sentence-level Sentiment with Posterior Regularization	35
+Context-dependent Semantic Parsing for Time Expressions	23
+Correcting Preposition Errors in Learner English Using Error Case Frames and Feedback Messages	1
+CoSimRank: A Flexible & Efficient Graph-Theoretic Similarity Measure	7
+Cross-narrative Temporal Ordering of Medical Events	8
+Discourse Complements Lexical Semantics for Non-factoid Answer Reranking	27
+Discovering Latent Structure in Task-Oriented Dialogues	18
+Distant Supervision for Relation Extraction with Matrix Completion	35
+Don't count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors	438
+Encoding Explicit Relation Requirements for Relation Extraction via Joint Inference	3
+Enhancing Grammatical Cohesion: Generating Transitional Expressions for SMT	6
+Exploiting Timelines to Enhance Multi-document Summarization	19
+Extracting Opinion Targets and Opinion Words from Online Reviews with Graph Co-ranking	38
+Fast and Robust Neural Network Joint Models for Statistical Machine Translation	247
+Generating Code-switched Text for Lexical Learning	3
+Grammatical Relations in Chinese: GB-Ground Extraction and Data-Driven Parsing	3
+Graph-based Semi-Supervised Learning of Translation Models from Monolingual Data	16
+Hierarchical Summarization: Scaling Up Multi-Document Summarization	7
+How to make words with vectors: Phrase generation in distributional semantics	18
+Hybrid Simplification using Deep Semantics and Machine Translation	28
+Incremental Joint Extraction of Entity Mentions and Relations	56
+Inferring User Political Preferences from Streaming Communications	51
+Information Extraction over Structured Data: Question Answering with Freebase	129
+Interpretable Semantic Vectors from a Joint Model of Brain- and Text- Based Meaning	23
+Is this a wampimuk? Linking distributional semantics to the world	-1
+Joint POS Tagging and Transition-based Constituent Parsing in Chinese with Non-local Features	16
+Joint Syntactic and Semantic Parsing with Combinatory Categorial Grammar	19
+Kneser-Ney Smoothing on Expected Counts	11
+Knowledge-Based Question Answering as Machine Translation	48
+Language-Aware Truth Assessment of Fact Candidates	13
+Lattice Desegmentation for Statistical Machine Translation	6
+Learning Continuous Phrase Representations for Translation Modeling	68
+Learning Grounded Meaning Representations with Autoencoders	56
+Learning New Semi-Supervised Deep Auto-encoder Features for Statistical Machine Translation	9
+Learning Semantic Hierarchies via Word Embeddings	83
+Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification	239
+Learning Soft Linear Constraints with Application to Citation Field Extraction	8
+Learning Structured Perceptrons for Coreference Resolution with Latent Antecendents and Non-local Features	44
+Learning to Automatically Solve Algebra Word Problems	53
+Learning to Predict Distributions of Words Across Domains	5
+Learning Topic Representation for SMT with Neural Networks	10
+Learning Word Sense Distributions, Detecting Unattested Senses and Identifying Novel Senses Using Topic Models	19
+Less Grammar, More Features	21
+Lexical Inference over Multi-Word Predicates: A Distributional Approach	3
+Linguistic Structured Sparsity in Text Categorization	24
+Logical Inference on Dependency-based Compositional Semantics	27
+Looking at Unbalanced Specialized Comparable Corpora for Bilingual Lexicon Extraction	13
+Low-Rank Tensors for Scoring Dependency Structures	57
