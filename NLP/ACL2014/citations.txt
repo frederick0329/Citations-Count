@@ -82,3 +82,94 @@ Linguistic Structured Sparsity in Text Categorization	24
 Logical Inference on Dependency-based Compositional Semantics	27
 Looking at Unbalanced Specialized Comparable Corpora for Bilingual Lexicon Extraction	13
 Low-Rank Tensors for Scoring Dependency Structures	57
+Low-Resource Semantic Role Labeling	11
+Max-Margin Tensor Neural Network for Chinese Word Segmentation	45
+Medical Relation Extraction With Manifold Models	18
+Metaphor Detection with Cross-Lingual Model Transfer	43
+Modelling Events through Memory-based, Open-IE Patterns for Abstractive Summarization	13
+Modelling function words improves unsupervised word segmentation	4
+Multilingual Models for Compositional Distributed Semantics	118
+Negation Focus Identification with Contextual Discourse Information	5
+New Word Detection for Sentiment Analysis	11
+Nonparametric Learning of Phonological Constraints in Optimality Theory	4
+Online Learning in Tensor Space	5
+Opinion Mining on YouTube	5
+Pattern Dictionary of English Prepositions	11
+Perplexity on Reduced Corpora	1
+Political Ideology Detection Using Recursive Neural Networks	57
+Polylingual Tree-Based Topic Models for Translation Domain Adaptation	20
+Predicting Instructor's Intervention in MOOC forums	25
+Predicting the relevance of distributional semantic similarity with contextual information	3
+Probabilistic Soft Logic for Semantic Textual Similarity	39
+Product Feature Mining: Semantic Clues versus Syntactic Constituents	12
+Prompt Adherence Measurement in Argumentative Text	-1
+Query-Chain Focused Summarization	4
+Recurrent Neural Networks for Word Alignment Model	31
+ReNew: A Semi-Supervised Framework for Generating Domain-Specific Lexicons and Sentiment Analysis	11
+Representation Learning for Text-level Discourse Parsing	42
+Response-based Learning for Grounded Machine Translation	6
+Robust Domain Adaptation for Relation Extraction via Clustering Consistency	1
+Robust Entity Clustering via Phylogenetic Inference	10
+Semantic Frame Identification with Distributed Word Representations	47
+Semantic Parsing via Paraphrasing	180
+Shallow Analysis Based Assessment of Syntactic Complexity for Automated Speech Scoring	4
+Shift-Reduce CCG Parsing with a Dependency Model	18
+Simple Negation Scope Resolution Through Deep Parsing: A Semantic Solution to a Semantic Problem	5
+Single-Agent vs. Multi-Agent Techniques for Concurrent Reinforcement Learning of Negotiation Dialogue Policies	9
+Smart Selection	46
+Sparser, Better, Faster GPU Parsing	8
+Spectral Unsupervised Parsing with Additive Tree Metrics	14
+Steps to Excellence: Simple Inference with Refined Scoring of Dependency Trees	13
+Strategies for Multiword Expression Analysis and Dependency Parsing	-1
+Structured Learning for Taxonomy Induction with Belief Propagation	12
+Surface Realisation from Knowledge-Bases	7
+Tagging The Web: Building A Robust Web Tagger with Neural Network	14
+Text-level Discourse Dependency Parsing	18
+That's sick dude!: Automatic identification of word sense change across different timescales	16
+That's Not What I Meant! Using Parsers to Avoid Structural Ambiguities in Generated Text	2
+The effect of wording on message propagation: Topic- and author-controlled natural experiments on Twitter	55
+The Omni-word Feature and Soft Constraint for Chinese Relation Extraction	9
+Toward Better Chinese Word Segmentation for SMT via Bilingual Constraints	6
+Toward Future Scenario Generation: Extracting Event Causality Exploiting Semantic Relation, Context, and Association Features	21
+Towards a General Rule for Identifying Deceptive Opinion Spam	51
+Translation Assistance by Translation of L1 Fragments in an L2 Context	3
+Two Heads are Better than One: Crowdsourcing Translation via a Two-Step Non-Professional Collaboration towards Professionals	-1
+Two Is Bigger (and Better) Than One: the Wikipedia Bitaxonomy Project	58
+Unsupervised Dependency Grammar Induction with Transferring Distribution and Entropy Regularization	-1
+Unsupervised Morphology-Based Vocabulary Expansion	9
+Unsupervised Solution Post Identification from Discussion Forums	6
+Using Discourse Structure Improves Machine Translation Evaluation	31
+Validating and Extending Semantic Knowledge Bases using Video Games with a Purpose	29
+Vector space semantics with frequency-driven motifs	6
+Weak semantic context helps phonetic learning in a model of infant language acquisition	7
+Weakly Supervised User Profile Extraction from Twitter	54
+Zero-shot Entity Extraction from Web Pages	18
+A Bayesian Method to Incorporate Background Knowledge during Automatic Text Summarization	3
+A Composite Kernel Approach for Dialog Topic Tracking with Structured Domain Knowledge from Wikipedia	1
+A Corpus of Sentence-level Revisions in Academic Writing: A Step towards Understanding Statement Strength in Communication	3
+A Feature-Enriched Tree Kernel for Relation Extraction	6
+A Hybrid Approach to Skeleton-based Translation	5
+A joint inference of deep case analysis and zero subject generation for Japanese-to-English statistical machine translation	4
+A Novel Content Enriching Model for Microblog Using News Corpus	1
+A Piece of My Mind: A Sentiment Analysis Approach for Online Dispute Detection	13
+A Simple Bayesian Modelling Approach to Event Extraction from Twitter	9
+A Supervised Topic Model for Learning Domain-specific Sentiment Lexicon	-1
+Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification	57
+An Annotation Framework for Dense Event Ordering	8
+An Extension of BLANC to System Mentions	11
+Applying a Naive Bayes Similarity Measure to Word Sense Disambiguation	6
+Applying Grammar Induction to Text Mining	6
+Assessing the Discourse Factors that Influence the Quality of Machine Translation	7
+Automatic Detection of Cognates Using Orthographic Alignment	10
+Automatic Detection of Machine Translated Text and Translation Quality Estimation	6
+Automatic Detection of Multilingual Dictionaries on the Web	0
+Automatic Labelling of Topic Models Learned from Twitter by Summarisation	11
+Automatically constructing Wordnet Synsets	6
+Automatically Detecting Corresponding Edit-Turn-Pairs in Wikipedia	8
+Automation and Evaluation of the Keyword Method for Second Language Learning	4
+Be Appropriate and Funny: Automatic Entity Morph Encoding	6
+Biases in Predicting the Human Language Model	1
+Bilingual Event Extraction: a Case Study on Trigger Type Determination	1
+Stochastic Contextual Edit Distance and Probabilistic FSTs	16
+Building Sentiment Lexicons for All Major Languages	21
+Cheap and easy entity evaluation	16
