@@ -498,3 +498,72 @@ Clustering Signed Networks with the Geometric Mean of Laplacians	2
 An urn model for majority voting in classification ensembles	-1
 Avoiding Imposters and Delinquents: Adversarial Crowdsourcing and Peer Prediction	5
 Fast and accurate spike sorting of high-channel count probes with KiloSort	1
+Combining Adversarial Guarantees and Stochastic Fast Rates in Online Learning	1
+Ancestral Causal Inference	4
+More Supervision, Less Computation: Statistical-Computational Tradeoffs in Weakly Supervised Learning	0
+Tagger: Deep Unsupervised Perceptual Grouping	53
+Efficient Algorithm for Streaming Submodular Cover	0
+Interaction Networks for Learning about Objects, Relations and Physics	14
+Efficient state-space modularization for planning: theory, behavioral and neural signatures	0
+Provable Efficient Online Matrix Completion via Non-convex Stochastic Gradient Descent	12
+Online Bayesian Moment Matching for Topic Modeling with Unknown Number of Topics	-1
+Computing and maximizing influence in linear threshold and triggering models	1
+Coevolutionary Latent Feature Processes for Continuous-Time User-Item Interactions	8
+Learning Deep Parsimonious Representations	-1
+Optimal Learning for Multi-pass Stochastic Gradient Methods	1
+Generative Adversarial Imitation Learning	20
+An End-to-End Approach for Natural Language to IFTTT Program Translation	0
+Dual Space Gradient Descent for Online Learning	1
+Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds	11
+Professor Forcing: A New Algorithm for Training Recurrent Networks	16
+Learning brain regions via large-scale online structured sparse dictionary learning	0
+Efficient Neural Codes under Metabolic Constraints	1
+Approximate maximum entropy principles via Goemans-Williamson with applications to provable variational methods	0
+Efficient High-Order Interaction-Aware Feature Selection Based on Conditional Mutual Information	1
+Bayesian Intermittent Demand Forecasting for Large Inventories	-1
+Visual Question Answering with Question Representation Update	2
+Learning Parametric Sparse Models for Image Super-Resolution	0
+Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning	0
+Asynchronous Parallel Greedy Coordinate Descent	3
+Iterative Refinement of the Approximate Posterior for Directed Belief Networks	3
+Assortment Optimization Under the Mallows model	3
+Disease Trajectory Maps	0
+Multistage Campaigning in Social Networks	1
+Learning in Games: Robustness of Fast Convergence	1
+Improving Variational Autoencoders with Inverse Autoregressive Flow	2
+Algorithms and matching lower bounds for approximately-convex optimization	0
+Unified Methods for Exploiting Piecewise Structure in Convex Optimization	1
+Kernel Bayesian Inference with Posterior Regularization	4
+Neural universal discrete denoiser	4
+Optimal Architectures in a Solvable Model of Deep Networks	6
+Conditional Image Generation with Pixel CNN Decoders	68
+Supervised Learning with Tensor Networks	-1
+Multi-step learning and underlying structure in statistical models	0
+Blind Optimal Recovery of Signals	-1
+An Architecture for Deep, Hierarchical Generative Models	4
+Feature selection for classification of functional data using recursive maxima hunting	0
+Achieving budget-optimality with adaptive schemes in crowdsourcing	7
+Near-Optimal Smoothing of Structured Conditional Probability Matrices	0
+Supervised Word Mover's Distance	3
+Exploiting Tradeoffs for Exact Recovery in Heterogeneous Stochastic Block Models	0
+Full-Capacity Unitary Recurrent Neural Networks	-1
+Threshold Bandits, With and Without Censored Feedback	2
+Understanding the Effective Receptive Field in Deep Convolutional Neural Networks	4
+Learning Supervised PageRank with Gradient-Based and Gradient-Free Optimization Methods	2
+k^*-Nearest Neighbors: From Global to Local	-1
+Normalized Spectral Map Synchronization	1
+Beyond Exchangeability: The Chinese Voting Process	2
+A posteriori error bounds for joint matrix decomposition problems	-1
+A Bayesian method for reducing bias in neural representational similarity analysis	-1
+Online ICA: Understanding Global Dynamics of Nonconvex Optimization via Diffusion Processes	1
+Following the Leader and Fast Rates in Linear Prediction: Curved Constraint Sets and Other Regularities	1
+SDP Relaxation with Randomized Rounding for Energy Disaggregation	2
+Recovery Guarantee of Non-negative Matrix Factorization via Alternating Updates	-1
+Unsupervised Learning of 3D Structure from Images	21
+Poisson-Gamma dynamical systems	2
+Gaussian Processes for Survival Analysis	1
+Dual Decomposed Learning with Factorwise Oracle for Structural SVM of Large Output Domain	1
+Optimal Binary Classifier Aggregation for General Losses	3
+Disentangling factors of variation in deep representation using adversarial training	4
+A primal-dual method for constrained consensus optimization	-1
+Fundamental Limits of Budget-Fidelity Trade-off in Label Crowdsourcing	1

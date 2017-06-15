@@ -1030,7 +1030,7 @@ An End-to-End Approach for Natural Language to IFTTT Program Translation
 Chang Liu*, University of Maryland; Xinyun Chen, Shanghai Jiaotong University; Richard Shin, ; Mingcheng Chen, University of Illinois, Urbana-Champaign; Dawn Song, UC Berkeley
 Dual Space Gradient Descent for Online Learning
 Trung Le*, University of Pedagogy Ho Chi Minh city; Tu Nguyen, Deakin University; Vu Nguyen, Deakin University; Dinh Phung, Deakin University
-Fast stochastic optimization on Riemannian manifolds
+Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds
 Hongyi Zhang*, MIT; Sashank Jakkam Reddi, Carnegie Mellon University; Suvrit Sra, MIT
 Professor Forcing: A New Algorithm for Training Recurrent Networks
 Alex Lamb, Montreal; Anirudh Goyal*, University of Montreal; ying Zhang, University of Montreal; Saizheng Zhang, University of Montreal; Aaron Courville, University of Montreal; Yoshua Bengio, U. Montreal
