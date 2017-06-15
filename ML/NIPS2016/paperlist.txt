@@ -270,7 +270,7 @@ Refined Lower Bounds for Adversarial Bandits
 Sébastien Gerchinovitz, ; Tor Lattimore*, 
 Theoretical Comparisons of Positive-Unlabeled Learning against Positive-Negative Learning
 Gang Niu*, University of Tokyo; Marthinus du Plessis, ; Tomoya Sakai, ; Yao Ma, ; Masashi Sugiyama, RIKEN / University of Tokyo
-Homotopy Smoothing for Non-Smooth Problems with Lower Complexity than O(1/ϵ)
+Homotopy Smoothing for Non-Smooth Problems with Lower Complexity than O(1/\epsilon)
 Yi Xu*, The University of Iowa; Yan Yan, University of Technology Sydney; Qihang Lin, ; Tianbao Yang, University of Iowa
 Finite-Sample Analysis of Fixed-k Nearest Neighbor Density Functionals Estimators
 Shashank Singh*, Carnegie Mellon University; Barnabas Poczos, 
