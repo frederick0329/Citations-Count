@@ -570,7 +570,7 @@ Improved Dropout for Shallow and Deep Learning
 Zhe Li, The University of Iowa; Boqing Gong, University of Central Florida; Tianbao Yang*, University of Iowa
 Constraints Based Convex Belief Propagation
 Yaniv Tenzer*, The Hebrew University; Alexander Schwing, ; Kevin Gimpel, ; Tamir Hazan, 
-Error Analysis of Generalized Nyström Kernel Regression
+Error Analysis of Generalized Nystrom Kernel Regression
 Hong Chen, University of Texas; Haifeng Xia, Huazhong Agricultural University; Heng Huang*, University of Texas Arlington
 A Probabilistic Framework for Deep Learning
 Ankit Patel, Baylor College of Medicine; Rice University; Tan Nguyen*, Rice University; Richard Baraniuk, 
@@ -712,7 +712,7 @@ Finite-Dimensional BFRY Priors and Variational Bayesian Inference for Power Law 
 Juho Lee*, POSTECH; Lancelot James, HKUST; Seungjin Choi, POSTECH
 Launch and Iterate: Reducing Prediction Churn
 Mahdi Fard, ; Quentin Cormier, Google; Kevin Canini, ; Maya Gupta*, 
-“Congruent” and “Opposite” Neurons: Sisters for Multisensory Integration and Segregation
+"Congruent" and "Opposite" Neurons: Sisters for Multisensory Integration and Segregation
 Wen-Hao Zhang*, Institute of Neuroscience, Chinese Academy of Sciences; He Wang, HKUST; K. Y. Michael Wong, HKUST; Si Wu, 
 Learning shape correspondence with anisotropic convolutional neural networks
 Davide Boscaini*, University of Lugano; Jonathan Masci, ; Emanuele Rodolà, University of Lugano; Michael Bronstein, University of Lugano
