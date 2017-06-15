@@ -1,0 +1,53 @@
+Learning Influence Functions from Incomplete Observations	0
+Learning Structured Sparsity in Deep Neural Networks	24
+Sample Complexity of Automated Mechanism Design	3
+Short-Dot: Computing Large Linear Transforms Distributedly Using Coded Short Dot Products	-1
+Brains on Beats	5
+Learning Transferrable Representations for Unsupervised Domain Adaptation	10
+Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles	4
+Active Learning from Imperfect Labelers	1
+Learning to Communicate with Deep Multi-Agent Reinforcement Learning	27
+Value Iteration Networks	23
+Blind Regression: Nonparametric Regression for Latent Variable Models via Collaborative Filtering	2
+On the Recursive Teaching Dimension of VC Classes	2
+InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets	0
+Hardness of Online Sleeping Combinatorial Optimization Problems	1
+Mixed Linear Regression with Multiple Components	1
+Sequential Neural Models with Stochastic Layers	6
+Stochastic Gradient Methods for Distributionally Robust Optimization with f-divergences	4
+Minimizing Quadratic Functions in Constant Time	0
+Improved Techniques for Training GANs	2
+DeepMath - Deep Sequence Models for Premise Selection	8
+Learning Multiagent Communication with Backpropagation	27
+Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity	15
+Learning the Number of Neurons in Deep Networks	2
+Finding significant combinations of features in the presence of categorical covariates	2
+Examples are not Enough, Learn to Criticize! Model Criticism for Interpretable Machine Learning	-1
+Optimistic Bandit Convex Optimization	1
+Safe Policy Improvement by Minimizing Robust Baseline Regret	3
+Graphons, mergeons, and so on!	2
+Hierarchical Clustering via Spreading Metrics	1
+Learning Bayesian networks with ancestral constraints	1
+Pruning Random Forests for Prediction on a Budget	4
+Clustering with Bregman Divergences: an Asymptotic Analysis	0
+Variational Autoencoder for Deep Learning of Images, Labels and Captions	10
+Encode, Review, and Decode: Reviewer Module for Caption Generation	0
+Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm	20
+A Bio-inspired Redundant Sensing Architecture	0
+Contextual semibandits via supervised learning oracles	1
+Blind Attacks on Machine Learners	0
+Universal Correspondence Network	11
+Satisfying Real-world Goals with Dataset Constraints	2
+Deep Learning for Predicting Human Strategic Behavior	1
+Phased Exploration with Greedy Exploitation in Stochastic Combinatorial Partial Monitoring Games	-1
+Eliciting and Aggregating Categorical Data	-1
+Measuring the reliability of MCMC inference with Bidirectional Monte Carlo	-1
+Breaking the Bandwidth Barrier: Geometrical Adaptive Entropy Estimation	1
+Selective inference for group-sparse linear models	3
+Graph Clustering: Block-models and model free results	1
+Maximizing Influence in an Ising Network: A Mean-Field Optimal Solution	2
+Hypothesis Testing in Unsupervised Domain Adaptation with Applications in Neuroscience	-1
+Geometric Dirichlet Means Algorithm for Topic Inference	11
+Structured Prediction Theory Based on Factor Graph Complexity	1
+Improved Dropout for Shallow and Deep Learning	3
+Constraints Based Convex Belief Propagation	4

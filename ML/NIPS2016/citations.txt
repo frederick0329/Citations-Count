@@ -1,0 +1,39 @@
+Scan Order in Gibbs Sampling: Models in Which it Matters and Bounds on How Much	2
+Deep ADMM-Net for Compressive Sensing MRI	8
+A scaled Bregman theorem with applications	0
+Swapout: Learning an ensemble of deep architectures	21
+On Regularizing Rademacher Observation Losses	2
+Without-Replacement Sampling for Stochastic Gradient Methods	9
+Fast and Provably Good Seedings for k-Means	5
+Unsupervised Learning for Physical Interaction through Video Prediction	39
+Matrix Completion and Clustering in Self-Expressive Models	-1
+Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling	-1
+Probabilistic Modeling of Future Frames from a Single Image	0
+Human Decision-Making under Limited Time	0
+Incremental Boosting Convolutional Neural Network for Facial Action Unit Recognition	0
+Natural-Parameter Networks: A Class of Probabilistic Neural Networks	2
+Tree-Structured Reinforcement Learning for Sequential Object Localization	3
+Unsupervised Domain Adaptation with Residual Transfer Networks	18
+Verification Based Solution for Structured MAB Problems	1
+Minimizing Regret on Reflexive Banach Spaces and Nash Equilibria in Continuous Zero-Sum Games	0
+Linear dynamical neural population models through nonlinear embeddings	6
+SURGE: Surface Regularized Geometry Estimation from a Single Image	0
+Interpretable Distribution Features with Maximum Testing Power	8
+Sorting out typicality with the inverse moment matrix SOS polynomial	1
+Multi-armed Bandits: Competing with Optimal Sequences	-1
+Multivariate tests of association based on univariate tests	-1
+Learning What and Where to Draw	20
+The Sound of APALM Clapping: Faster Nonsmooth Nonconvex Optimization with Stochastic Asynchronous PALM	0
+Integrator Nets	-1
+Combining Low-Density Separators with CNNs	-1
+CNNpack: Packing Convolutional Neural Networks in the Frequency Domain	0
+Cooperative Graphical Models	0
+f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization	0
+Bayesian Optimization for Probabilistic Programs	6
+Hierarchical Question-Image Co-Attention for Visual Question Answering	58
+Optimal Sparse Linear Encoders and Sparse PCA	3
+FPNN: Field Probing Neural Networks for 3D Data	9
+CRF-CNN: Modeling Structured Information in Human Pose Estimation	5
+Fairness in Learning: Classic and Contextual Bandits	-1
+Joint M-Best-Diverse Labelings as a Parametric Submodular Minimization	3
+Domain Separation Networks	27
