@@ -1,4 +1,5 @@
 # ACL2012 papers
+## Last Updated: 2017-06-15
 - [ ] Improving Word Representations Via Global Context And Multiple Word Prototypes          560
 - [ ] Baselines And Bigrams: Simple, Good Sentiment And Topic Classification          301
 - [ ] Aspect Extraction Through Semi-Supervised Modeling          179

@@ -360,7 +360,7 @@ A New Set of Norms for Semantic Relatedness Measures
 Sean Szumlanski, Fernando Gomez and Valerie Sims
 A Novel Graph-based Compact Representation of Word Alignment 
 Zhaopeng Tu, Qun Liu and Shouxun Lin
-A novel text classifier – based on quantum computation 
+A novel text classifier based on quantum computation 
 Ding Liu, Xiaofang Yang and Minghu Jiang
 A Novel Translation Framework Based on Rhetorical Structure Theory 
 Mei Tu, Yu Zhou and Chengqing Zong
@@ -524,7 +524,7 @@ Joint Apposition Extraction with Syntactic and Semantic Constraints
 Will Radford and James R. Curran
 Joint Inference for Heterogeneous Dependency Parsing 
 Guangyou Zhou and Jun Zhao
-Joint Modeling of News Reader’s and Comment Writer’s Emotions 
+Joint Modeling of News Reader's and Comment Writer's Emotions 
 Huanhuan Liu, Shoushan Li, Guodong Zhou, Chu-ren Huang and Peifeng Li
 LABR: A Large Scale Arabic Book Reviews Dataset 
 Mohamed Aly and Amir Atiya
