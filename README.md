@@ -7,6 +7,10 @@ The stats are used as a helper for paper reading.
 
 The main code used to crawl the number of citations is cloned from [scholar.py](https://github.com/ckreibich/scholar.py)
 
+Papers with -1 citations may due to the change of the title upon submission. 
+
+Pull requests are welcome.
+
 Source of list of accepted papers:
 
 * [NIPS2016](https://nips.cc/Conferences/2016/AcceptedPapers)
