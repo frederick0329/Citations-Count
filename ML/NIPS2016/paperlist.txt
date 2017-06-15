@@ -978,7 +978,7 @@ Quantifying and Reducing Stereotypes in Word Embeddings
 Tolga Bolukbasi*, Boston University; Kai-Wei Chang, ; James Zou, ; Venkatesh Saligrama, ; Adam Kalai, Microsoft Research
 beta-risk: a New Surrogate Risk for Learning from Weakly Labeled Data
 Valentina Zantedeschi*, UJM Saint-Etienne, France; Rémi Emonet, ; Marc Sebban, 
-Learning Additive Exponential Family Graphical Models via ℓ2,1-norm Regularized M-Estimation
+Learning Additive Exponential Family Graphical Models via L2,1-norm Regularized M-Estimation
 Xiaotong Yuan*, Nanjing University of Informat; Ping Li, ; Tong Zhang, ; Qingshan Liu, ; Guangcan Liu, NUIST
 Backprop KF: Learning Discriminative Deterministic State Estimators
 Tuomas Haarnoja*, UC Berkeley; Anurag Ajay, UC Berkeley; Sergey Levine, University of Washington; Pieter Abbeel, 
