@@ -9,9 +9,9 @@ The main code used to crawl the number of citations is cloned from [scholar.py](
 
 Papers with -1 citations may due to the change of the title upon submission. 
 
-Pull requests are welcome.
+Pull requests are welcome for updates on title or anything else.
 
-Source of list of accepted papers:
+Source of accepted papers:
 
 * [NIPS2016](https://nips.cc/Conferences/2016/AcceptedPapers)
 * [NIPS2015](https://nips.cc/Conferences/2015/AcceptedPapers)
