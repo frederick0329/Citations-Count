@@ -1,17 +1,17 @@
 Number of Citations
 ==========
 
-This repo contains number of citations for papers that appear in top conferences in the area of ML, NLP, and CV. 
+This repo contains number of citations for papers that appear in the area of ML, NLP, and CV. 
 
-These stats are used as a helper for my reading list.
+These stats are used to help decide what to read.
 
 The main code used to crawl the number of citations is cloned from [scholar.py](https://github.com/ckreibich/scholar.py)
 
 Papers with -1 citations may due to the change of the title upon submission. 
 
-Pull requests are welcome.
+Pull requests are welcome for updates on title or anything else.
 
-Source of list of accepted papers:
+Source of accepted papers:
 
 * [NIPS2016](https://nips.cc/Conferences/2016/AcceptedPapers)
 * [NIPS2015](https://nips.cc/Conferences/2015/AcceptedPapers)
