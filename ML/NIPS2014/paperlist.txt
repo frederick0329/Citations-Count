@@ -360,7 +360,7 @@ The Blinded Bandit: Learning with Adaptive Feedback
 Ofer Dekel, Elad Hazan, Tomer Koren
 Convex Optimization Procedure for Clustering: Theoretical Revisit
 Changbo Zhu, Huan Xu, Chenlei Leng, Shuicheng Yan
-Sparse Bayesian structure learning with “dependent relevance determination” priors
+Sparse Bayesian structure learning with "dependent relevance determination" priors
 Anqi Wu, Mijung Park, Oluwasanmi O. Koyejo, Jonathan W. Pillow
 Weakly-supervised Discovery of Visual Pattern Configurations
 Hyun Oh Song, Yong Jae Lee, Stefanie Jegelka, Trevor Darrell
@@ -430,7 +430,7 @@ Modeling Deep Temporal Dependencies with Recurrent "Grammar Cells"
 Vincent Michalski, Roland Memisevic, Kishore Konda
 Generalized Dantzig Selector: Application to the k-support norm
 Soumyadeep Chatterjee, Sheng Chen, Arindam Banerjee
-Neurons as Monte Carlo Samplers: Bayesian ￼Inference and Learning in Spiking Networks
+Neurons as Monte Carlo Samplers: Bayesian Inference and Learning in Spiking Networks
 Yanping Huang, Rajesh P. Rao
 The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification
 Been Kim, Cynthia Rudin, Julie A. Shah
@@ -556,7 +556,7 @@ Reputation-based Worker Filtering in Crowdsourcing
 Srikanth Jagabathula, Lakshminarayanan Subramanian, Ashwin Venkataraman
 Multi-Class Deep Boosting
 Vitaly Kuznetsov, Mehryar Mohri, Umar Syed
-A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method: Theory and Insights
+A Differential Equation for Modeling Nesterov's Accelerated Gradient Method: Theory and Insights
 Weijie Su, Stephen Boyd, Emmanuel Candes
 Difference of Convex Functions Programming for Reinforcement Learning
 Bilal Piot, Matthieu Geist, Olivier Pietquin
