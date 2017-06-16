@@ -1,9 +1,9 @@
 Number of Citations
 ==========
 
-This repo contains number of citations for top conferences in ML, NLP, and CV. 
+This repo contains number of citations for papers that appear in top conferences in the area of ML, NLP, and CV. 
 
-The stats are used as a helper for paper reading.
+These stats are used as a helper for my reading list.
 
 The main code used to crawl the number of citations is cloned from [scholar.py](https://github.com/ckreibich/scholar.py)
 
