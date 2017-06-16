@@ -341,7 +341,7 @@ Fast Training of Pose Detectors in the Fourier Domain	8
 An Accelerated Proximal Coordinate Gradient Method	58
 Communication-Efficient Distributed Dual Coordinate Ascent	113
 Simple MAP Inference via Low-Rank Relaxations	6
-A* Sampling	2133
+A* Sampling	24
 A Bayesian model for identifying hierarchically organised states in neural population activity	3
 Sequence to Sequence Learning with Neural Networks	1697
 Improved Distributed Principal Component Analysis	38

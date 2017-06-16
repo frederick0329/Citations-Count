@@ -1,6 +1,5 @@
 # NIPS2014 papers
 ## Last Updated: 2017-06-16
-- [ ] A* Sampling          2133
 - [ ] Sequence To Sequence Learning With Neural Networks          1697
 - [ ] Generative Adversarial Nets          809
 - [ ] Learning Deep Features For Scene Recognition Using Places Database          784
@@ -116,6 +115,7 @@
 - [ ] Learning Optimal Commitment To Overcome Insecurity          25
 - [ ] Sequential Monte Carlo For Graphical Models          25
 - [ ] A Latent Source Model For Online Collaborative Filtering          24
+- [ ] A* Sampling          24
 - [ ] Stochastic Variational Inference For Hidden Markov Models          24
 - [ ] Submodular Meets Structured: Finding Diverse Subsets In Exponentially-Large Structured Item Sets          24
 - [ ] Fundamental Limits Of Online And Distributed Algorithms For Statistical Learning And Estimation          23
