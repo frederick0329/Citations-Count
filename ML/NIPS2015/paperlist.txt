@@ -36,7 +36,7 @@ Bayesian Manifold Learning: Locally Linear Latent Variable Model (LL-LVM)
 Mijung Park*, UCL; Wittawat Jitkrittum, Gatsby unit, UCL; Ahmad Qamar, ; Zoltan Szabo, UCL; Lars Buesing, ; Maneesh Sahani,
 Color Constancy by Learning to Predict Chromaticity from Luminance
 Ayan Chakrabarti*, TTI Chicago
-Fast and Accurate Inference of Plackett–Luce Models
+Fast and Accurate Inference of Plackett-Luce Models
 Lucas Maystre*, EPFL; Matthias Grossglauser, EPFL
 Probabilistic Line Searches for Stochastic Optimization
 Maren Mahsereci, MPI for Intelligent Systems; Philipp Hennig*, MPI Tübingen
@@ -72,7 +72,7 @@ Optimal Ridge Detection using Coverage Risk
 Yen-Chi Chen*, Carnegie Mellon University; Christopher Genovese, Carnegie Mellon University; Shirley Ho, Carnegie Mellon University; Larry Wasserman, Carnegie Mellon University
 Top-k Multiclass SVM
 Maksim Lapin*, MPI Informatics; Matthias Hein, Saarland University; Bernt Schiele, Max Planck Institute for Informatics
-Policy Evaluation Using the Ω-Return
+Policy Evaluation Using the \Omega-Return
 Philip Thomas*, ; George Konidaris, Duke; Scott Niekum, UT Austin; Georgios Theocharous, Adobe
 Orthogonal NMF through Subspace Exploration
 Megasthenis Asteris*, University of Texas at Austin; Dimitris Papailiopoulos, UC Berkeley; Alex Dimakis, Utaustin
@@ -140,7 +140,7 @@ Tractable Bayesian Network Structure Learning with Bounded Vertex Cover Number
 Janne Korhonen, University of Helsinki; Pekka Parviainen*, Aalto University
 Learning Large-Scale Poisson DAG Models based on OverDispersion Scoring
 Gunwoong Park*, UW, Madison; Garvesh Raskutti, University of Wisconsin, Madison
-Training Restricted Boltzmann Machine via the ￼Thouless-Anderson-Palmer free energy
+Training Restricted Boltzmann Machine via the Thouless-Anderson-Palmer free energy
 Marylou Gabrie, Ecole Normale Superieure; Eric Tramel, LPS, École Normale Supérieure; Florent Krzakala*, Ecole Normale Superieure CNRS
 Character-level Convolutional Networks for Text Classification
 Xiang Zhang*, New York University; Junbo Zhao, New York University; Yann LeCun, New York University
