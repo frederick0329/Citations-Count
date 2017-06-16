@@ -286,7 +286,7 @@ Multi-Layer Feature Reduction for Tree Structured Group Lasso via Hierarchical P
 Jie Wang*, University of Michigan-Ann Arbor; Jieping Ye, University of Michigan
 Minimum Weight Perfect Matching via Blossom Belief Propagation
 Sungsoo Ahn, KAIST; Sejun Park, KAIST; Michael Chertkov, ; Jinwoo Shin*, KAIST
-Efficient Thompson Sampling for Online ￼Matrix-Factorization Recommendation
+Efficient Thompson Sampling for Online Matrix-Factorization Recommendation
 Jaya Kawale*, Adobe Research; Hung Bui, Adobe Research; Branislav Kveton, Adobe Research; Long Tran-Thanh, University of Southampton; Sanjay Chawla, University of Sydney
 Improved Iteration Complexity Bounds of Cyclic Block Coordinate Descent for Convex Problems
 Mingyi Hong*, ; Ruoyu Sun, Stanford university
@@ -328,7 +328,7 @@ Policy Gradient for Coherent Risk Measures
 Aviv Tamar*, Technion; Yinlam Chow, Stanford; Mohammad Ghavamzadeh, Adobe Research & INRIA; Shie Mannor, Technion
 Fast Rates for Exp-concave Empirical Risk Minimization
 Tomer Koren*, Technion; Kfir Levy, Technion
-Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks
+Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks
 Emily Denton*, New York University; Rob Fergus, Facebook AI Research; Arthur Szlam, Facebook; Soumith Chintala, Facebook AI Research
 Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
 Seunghoon Hong*, POSTECH; Hyeonwoo Noh, POSTECH; Bohyung Han, Postech
@@ -372,7 +372,7 @@ Infinite Factorial Dynamical Model
 Isabel Valera*, MPI-SWS; Francisco Ruiz, University Carlos III, Madrid; Lennart Svensson, Chalmers University of Technology, Göteborg; Fernando Perez-Cruz, 
 Regularization Path of Cross-Validation Error Lower Bounds
 Atsushi Shibagaki, Nagoya Institute of Technology; Yoshiki Suzuki, Nagoya Institute of Technology; Masayuki Karasuyama, Nagoya Institute of Technology; Ichiro Takeuchi*, Nagoya Institute of Technology
-Attractor Network Dynamics Enable Preplay and Rapid Path Planning in Maze–like Environments
+Attractor Network Dynamics Enable Preplay and Rapid Path Planning in Maze-like Environments
 Dane Corneil*, EPFL; Wulfram Gerstner, EPFL
 Teaching Machines to Read and Comprehend
 Karl Moritz Hermann*, Google DeepMind; Tomas Kocisky, Oxford University; Edward Grefenstette, Google DeepMind; Lasse Espeholt, Google DeepMind; Will Kay, Google DeepMind; Mustafa Suleyman, Google DeepMind; Phil Blunsom, Google DeepMind

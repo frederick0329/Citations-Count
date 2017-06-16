@@ -88,3 +88,100 @@ Fast Randomized Kernel Methods with Statistical Guarantees	15
 Online Learning for Adversaries with Memory: Price of Past Mistakes	0
 Convolutional spike-triggered covariance analysis for neural subunit models	2
 Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting	77
+GAP Safe screening rules for sparse multi-task and multi-class models	16
+Empirical Localization of Homogeneous Divergences on Discrete Sample Spaces	1
+Statistical Model Criticism using Kernel Two Sample Tests	19
+Precision-Recall-Gain Curves: PR Analysis Done Right	8
+A Generalization of Submodular Cover via the Diminishing Return Property on the Integer Lattice	8
+Bidirectional Recurrent Neural Networks as Generative Models	7
+Quartz: Randomized Dual Coordinate Ascent with Arbitrary Sampling	60
+Maximum Likelihood Learning With Arbitrary Treewidth via Fast-Mixing Parameter Sets	1
+Hessian-Free Optimization For Learning Deep Multidimensional Recurrent Neural Networks	0
+Large-scale probabilistic predictors with and without guarantees of validity	4
+Shepard Convolutional Neural Networks	16
+Manifold Optimization for Gaussian Mixture Models	0
+Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding	45
+Parallel Recursive Best-First AND/OR Search for Exact MAP Inference in Graphical Models	0
+Convolutional Neural Networks with Intra-Layer Recurrent Connections for Scene Labeling	19
+Bounding the Cost of Search-Based Lifted Inference	1
+Gradient-free Hamiltonian Monte Carlo with Efficient Kernel Exponential Families	15
+Linear Multi-Resource Allocation with Semi-Bandit Feedback	1
+Unsupervised Learning by Program Synthesis	5
+Enforcing balance allows local supervised learning in spiking recurrent networks	10
+Fast and Guaranteed Tensor Decomposition via Sketching	22
+Differentially private subspace clustering	0
+Predtron: A Family of Online Algorithms for General Prediction Problems	2
+Weighted Theta Functions and Embeddings with Applications to Max-Cut, Clustering and Summarization	1
+SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk	0
+On Top-k Selection in Multi-Armed Bandits and Hidden Bipartite Graphs	15
+The Brain Uses Reliability of Stimulus Information when Making Perceptual Decisions	1
+Fast Classification Rates for High-dimensional Conditional Gaussian Models	1
+Fast Distributed k-Center Clustering with Outliers on Massive Data	6
+Human Memory Search as Initial-Visit Emitting Random Walk	1
+Non-convex Statistical Optimization for Sparse Tensor Graphical Model	9
+Convergence Rates of Active Learning for Maximum Likelihood Estimation	31
+Learning to Rotate 3D Objects with Recurrent Convolutional Encoder-Decoder Networks	-1
+Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets	14
+Backpropagation for Energy-Efficient Neuromorphic Computing	47
+Alternating Minimization for Regression Problems with Vector-valued Outputs	2
+Learning both Weights and Connections for Efficient Neural Network	206
+Optimal Rates for Random Fourier Features	20
+The Population Posterior and Bayesian Inference on Streams	-1
+Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees	10
+Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks	127
+Unified View of Matrix Completion under General Structural Constraints	2
+Efficient Output Kernel Learning for Multiple Tasks	3
+Scalable Adaptation of State Complexity for Nonparametric Hidden Markov Models	1
+Variational Consensus Monte Carlo	11
+Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma	9
+Practical and Optimal LSH for Angular Distance	48
+Learning to Linearize Under Uncertainty	21
+Finite-Time Analysis of Projected Langevin Monte Carlo	8
+Deep Visual Analogy-Making	33
+Matrix Completion from Fewer Entries: Spectral Detectability and Rank Estimation	10
+Online Learning with Adversarial Delays	6
+Multi-Layer Feature Reduction for Tree Structured Group Lasso via Hierarchical Projection	5
+Minimum Weight Perfect Matching via Blossom Belief Propagation	3
+Efficient Thompson Sampling for Online Matrix-Factorization Recommendation	21
+Improved Iteration Complexity Bounds of Cyclic Block Coordinate Descent for Convex Problems	5
+Lifted Symmetry Detection and Breaking for MAP Inference	4
+Evaluating the statistical significance of biclusters	1
+Discriminative Robust Transformation Learning	5
+Bandits with Unobserved Confounders: A Causal Approach	10
+Scalable Semi-Supervised Aggregation of Classifiers	9
+Online Learning with Gaussian Payoffs and Side Observations	10
+Private Graphon Estimation for Sparse Graphs	18
+SubmodBoxes: Near-Optimal Search for a Set of Diverse Object Proposals	1
+Fast Second Order Stochastic Backpropagation for Variational Inference	12
+Stronger and Faster Approximate Singular Value Decomposition via the Block Lanczos Method	3
+Cross-Domain Matching for Bag-of-Words Data via Kernel Embeddings of Latent Distributions	1
+Scalable Automated Inference for Gaussian Process Models	-1
+Fast Bidirectional Probability Estimation in Markov Models	4
+Probabilistic Variational Bounds for Graphical Models	3
+Linear Response Methods for Accurate Covariance Estimates from Mean Field Variational Bayes	20
+Combinatorial Cascading Bandits	15
+Mixing Time Estimation in Reversible Markov Chains from a Single Sample Path	9
+Policy Gradient for Coherent Risk Measures	6
+Fast Rates for Exp-concave Empirical Risk Minimization	8
+Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks	252
+Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation	56
+Equilibrated adaptive learning rates for non-convex optimization	75
+BACKSHIFT: Learning causal cyclic graphs from unknown shift interventions	5
+Risk-Sensitive and Robust Decision-Making: a CVaR Optimization Approach	14
+Asynchronous stochastic approximation: the noise is in the noise and SGD don't care	-1
+Lifelong Learning with Non-i.i.d. Tasks	4
+Optimal Linear Estimation under Unknown Nonlinear Transform	15
+Learning with Group Invariant Features: A Kernel Perspective.	3
+Regularized EM Algorithms: A Unified Framework and Statistical Guarantees	8
+Distributionally Robust Logistic Regression	13
+Adaptive Stochastic Optimization: From Sets to Paths	4
+Beyond Convexity: Stochastic Quasi-Convex Optimization	11
+An Analytically Tractable Bayesian Approximation to Optimal Point Process Filtering	0
+Sum-of-Squares Lower Bounds for Sparse PCA	16
+Max-Margin Majority Voting for Learning from Crowds	14
+Learning with Incremental Iterative Regularization	7
+Halting in graph kernels	-1
+MCMC for Variationally Sparse Gaussian Processes	10
+Less is More: Nystrom Computational Regularization	30
+Infinite Factorial Dynamical Model	3
+Regularization Path of Cross-Validation Error Lower Bounds	2
