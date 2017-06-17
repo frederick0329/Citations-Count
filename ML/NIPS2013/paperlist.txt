@@ -610,7 +610,7 @@ Brendan McMahan, Jacob Abernethy
 Abhradeep Guha Thakurta, Adam Smith
 Curvature and Optimal Algorithms for Learning and Minimizing Submodular Functions
 Rishabh K. Iyer, Stefanie Jegelka, Jeff A. Bilmes
-Σ-Optimality for Active Learning on Gaussian Random Fields
+\Sigma-Optimality for Active Learning on Gaussian Random Fields
 Yifei Ma, Roman Garnett, Jeff Schneider
 Learning Kernels Using Local Rademacher Complexity
 Corinna Cortes, Marius Kloft, Mehryar Mohri
@@ -676,7 +676,8 @@ Bellman Error Based Feature Generation using Random Projections on Sparse Spaces
 Mahdi Milani Fard, Yuri Grinberg, Amir massoud Farahmand, Joelle Pineau, Doina Precup
 Learning and using language via recursive pragmatic reasoning about other agents
 Nathaniel J. Smith, Noah Goodman, Michael Frank
-Learning Stochastic Inverses Andreas Stuhlmüller, Jacob Taylor, Noah Goodman
+Learning Stochastic Inverses
+Andreas Stuhlmüller, Jacob Taylor, Noah Goodman
 Learning invariant representations and applications to face verification
 Qianli Liao, Joel Z. Leibo, Tomaso Poggio
 Optimization, Learning, and Games with Predictable Sequences
