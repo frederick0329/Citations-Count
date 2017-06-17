@@ -322,7 +322,7 @@ Joint Learning of a Dual SMT System for Paraphrase Generation
 Hong Sun and Ming Zhou
 Learning Better Rule Extraction with Translation Span Alignment 
 Jingbo Zhu, Tong Xiao and Chunliang Zhang
-Learning the Latent Semantics of a Concept from its Deﬁnition 
+Learning the Latent Semantics of a Concept from its Definition 
 Weiwei Guo and Mona Diab
 Learning to Find Translations and Transliterations on the Web 
 Joseph Z. Chang, Jason S. Chang and Roger Jyh-Shing Jang
@@ -352,7 +352,7 @@ Syntactic Stylometry for Deception Detection
 Song Feng, Ritwik Banerjee and Yejin Choi
 Tense and Aspect Error Correction for ESL learners Using Global Context 
 Toshikazu Tajiri, Mamoru Komachi and Yuji Matsumoto
-Tokenization: Returning to a Long Solved Problem — A Survey, Contrastive Experiment, Recommendations, and Toolkit — 
+Tokenization: Returning to a Long Solved Problem A Survey, Contrastive Experiment, Recommendations, and Toolkit
 Rebecca Dridan and Stephan Oepen
 Topic Models for Lexical Weight Adaptation in Machine Translation 
 Vladimir Eidelman, Jordan Boyd-Graber and Philip Resnik
