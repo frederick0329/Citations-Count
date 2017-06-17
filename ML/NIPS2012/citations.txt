@@ -1,0 +1,97 @@
+Locally Uniform Comparison Image Descriptor	36
+Learning from Distributions via Support Measure Machines	85
+Finding Exemplars from Pairwise Dissimilarities via Simultaneous Sparse Recovery	61
+Feature Clustering for Accelerating Parallel Coordinate Descent	52
+Multi-scale Hyper-time Hardware Emulation of Human Motor Nervous System Based on Spiking Neurons using FPGA	8
+Active Learning of Model Evidence Using Bayesian Quadrature	30
+Coupling Nonparametric Mixtures via Latent Dirichlet Processes	6
+Nonparametric Max-Margin Matrix Factorization for Collaborative Prediction	36
+Bayesian Hierarchical Reinforcement Learning	19
+Dynamic Pruning of Factor Graphs for Maximum Marginal Prediction	0
+Local Supervised Learning through Space Partitioning	35
+A Generative Model for Parts-based Object Segmentation	40
+Super-Bit Locality-Sensitive Hashing	47
+The Bethe Partition Function of Log-supermodular Graphical Models	41
+Random Utility Theory for Social Choice	61
+Putting Bayes to sleep	17
+A new metric on the manifold of kernel matrices with application to matrix geometric means	61
+Mandatory Leaf Node Prediction in Hierarchical Multilabel Classification	14
+Smooth-projected Neighborhood Pursuit for High-dimensional Nonparanormal Graph Estimation	4
+Semiparametric Principal Component Analysis	13
+Coding efficiency and detectability of rate fluctuations with non-Poisson neuronal firing	2
+The representer theorem for Hilbert spaces: a necessary and sufficient condition	32
+On the (Non-)existence of Convex, Calibrated Surrogate Losses for Ranking	25
+Exploration in Model-based Reinforcement Learning by Empirically Estimating Learning Progress	39
+Supervised Learning with Similarity Functions	20
+Cocktail Party Processing via Structured Prediction	23
+Robustness and risk-sensitivity in Markov decision processes	15
+Dynamical And-Or Graph Learning for Object Shape Modeling and Detection	14
+Adaptive Stratified Sampling for Monte-Carlo integration of Differentiable functions	3
+Distributed Non-Stochastic Experts	4
+Learning Image Descriptors with the Boosting-Trick	59
+Fast Resampling Weighted v-Statistics	0
+Multi-task Vector Field Learning	7
+Memorability of Image Regions	70
+Nonparametric Bayesian Inverse Reinforcement Learning for Multiple Reward Functions	26
+Automatic Feature Induction for Stagewise Collaborative Filtering	7
+Selective Labeling via Error Bound Minimization	8
+Volume Regularization for Binary Classification	3
+Image Denoising and Inpainting with Deep Neural Networks	197
+Max-Margin Structured Output Regression for Spatio-Temporal Action Localization	44
+Transelliptical Component Analysis	14
+Action-Model Based Multi-agent Plan Recognition	21
+Visual Recognition using Embedded Feature Selection for Curvature Self-Similarity	7
+Non-parametric Approximate Dynamic Programming via the Kernel Method	11
+Optimal Regularized Dual Averaging Methods for Stochastic Optimization	30
+The variational hierarchical EM algorithm for clustering hidden Markov models	10
+Truncation-free Online Variational Inference for Bayesian Nonparametric Models	67
+3D Social Saliency from Head-mounted	48
+Context-Sensitive Decision Forests for Object Detection	26
+Learning Invariant Representations of Molecules for Atomization Energy Prediction	32
+Bandit Algorithms boost Brain Computer Interfaces for motor-task selection of a brain-controlled button	10
+Multiplicative Forests for Continuous-Time Processes	12
+Patient Risk Stratification for Hospital-Associated C. diff as a Time-Series Classification Task	38
+Nystrom Method vs Random Fourier Features: A Theoretical and Empirical Comparison	107
+Multiclass Learning Approaches: A Theoretical Comparison with Implications	11
+Stochastic Gradient Descent with Only One Projection	14
+Neuronal Spike Generation Mechanism as an Oversampling, Noise-shaping A-to-D converter	4
+Deep Spatio-Temporal Architectures and Learning for Protein Structure Prediction	23
+Assessing Blinding in Clinical Trials	4
+Scalable nonconvex inexact proximal splitting	35
+Learning to Discover Social Circles in Ego Networks	626
+A Conditional Multinomial Mixture Model for Superset Label Learning	29
+Majorization for CRFs and Latent Likelihoods	11
+Ensemble weighted kernel estimators for multivariate entropy estimation	3
+Efficient high dimensional maximum entropy modeling via symmetric partition functions	16
+Discriminatively Trained Sparse Code Gradients for Contour Detection	155
+Analyzing 3D Objects in Cluttered Images	86
+Nonconvex Penalization Using Laplace Exponents and Concave Conjugates	14
+3D Object Detection and Viewpoint Estimation with a Deformable 3D Cuboid Model	100
+Structured Learning of Gaussian Graphical Models	40
+A Polylog Pivot Steps Simplex Algorithm for Classification	1
+Shifting Weights: Adapting Object Detectors from Image to Video	76
+A Scalable CUR Matrix Decomposition Algorithm: Lower Time Complexity and Tighter Bound	10
+Convolutional-Recursive Deep Learning for 3D Object Classification	236
+Semi-Supervised Domain Adaptation with Non-Parametric Copulas	11
+Identification of Recurrent Patterns in the Activation of Brain Networks	1
+Density-Difference Estimation	43
+Variational Inference for Crowdsourcing	148
+MCMC for continuous-time discrete-state systems	19
+A P300 BCI for the Masses: Prior Information Enables Instant Unsupervised Spelling	45
+Learning about Canonical Views from Internet Image Collections	17
+Learning High-Density Regions for a Generalized Kolmogorov-Smirnov Test in High-Dimensional Data	8
+Multiresolution Gaussian Processes	20
+Localizing 3D cuboids in single-view images	59
+Newton-Like Methods for Sparse Inverse Covariance Estimation	75
+Learning to Align from Scratch	116
+Homeostatic plasticity in Bayesian spiking networks as Expectation Maximization with posterior constraints	18
+Clustering Aggregation as Maximum-Weight Independent Set	7
+Topology Constraints in Graphical Models	8
+Transelliptical Graphical Models	48
+Kernel Latent SVM for Visual Recognition	26
+Learning Partially Observable Models Using Temporally Abstract Decision Trees	6
+Proximal Newton-type methods for convex optimization	70
+Regularized Off-Policy TD-Learning	32
+Multi-criteria Anomaly Detection using Pareto Depth Analysis	26
+Synchronization can Control Regularization in Neural Systems via Correlated Noise Processes	1
+Calibrated Elastic Regularization in Matrix Completion	9

@@ -104,7 +104,7 @@ Multiplicative Forests for Continuous-Time Processes
 Jeremy Weiss, Sriraam Natarajan, David Page
 Patient Risk Stratification for Hospital-Associated C. diff as a Time-Series Classification Task
 Jenna Wiens, Eric Horvitz, John V. Guttag
-Nyström Method vs Random Fourier Features: A Theoretical and Empirical Comparison
+Nystrom Method vs Random Fourier Features: A Theoretical and Empirical Comparison
 Tianbao Yang, Yu-feng Li, Mehrdad Mahdavi, Rong Jin, Zhi-Hua Zhou
 Multiclass Learning Approaches: A Theoretical Comparison with Implications
 Amit Daniely, Sivan Sabato, Shai S. Shwartz
@@ -192,7 +192,7 @@ Synchronization can Control Regularization in Neural Systems via Correlated Nois
 Jake Bouvrie, Jean-jeacques Slotine
 Calibrated Elastic Regularization in Matrix Completion
 Tingni Sun, Cun-hui Zhang
-Predicting Action Content On-Line and in Real Time before Action Onset – an Intracranial Human Study
+Predicting Action Content On-Line and in Real Time before Action Onset - an Intracranial Human Study
 Uri Maoz, Shengxuan Ye, Ian Ross, Adam Mamelak, Christof Koch
 Searching for objects driven by context
 Bogdan Alexe, Nicolas Heess, Yee W. Teh, Vittorio Ferrari
