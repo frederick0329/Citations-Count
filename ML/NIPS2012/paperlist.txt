@@ -256,7 +256,7 @@ GenDeR: A Generic Diversified Ranking Algorithm
 Jingrui He, Hanghang Tong, Qiaozhu Mei, Boleslaw Szymanski
 On Multilabel Classification and Ranking with Partial Feedback
 Claudio Gentile, Francesco Orabona
-The Lovász ϑ function, SVMs and finding large dense subgraphs
+The Lovasz \theta function, SVMs and finding large dense subgraphs
 Vinay Jethava, Anders Martinsson, Chiranjib Bhattacharyya, Devdatt Dubhashi
 Multi-Task Averaging
 Sergey Feldman, Maya Gupta, Bela Frigyik
