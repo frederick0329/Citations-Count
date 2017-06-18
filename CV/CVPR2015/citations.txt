@@ -1,0 +1,602 @@
+Going Deeper With Convolutions	3403
+Propagated Image Filtering	18
+Web Scale Photo Hash Clustering on A Single Machine	18
+Expanding Object Detector's Horizon: Incremental Learning Framework for Object Detection in Videos	14
+Supervised Discrete Hashing	166
+What do 15,000 Object Categories Tell Us About Classifying and Localizing Actions?	72
+Landmarks-Based Kernelized Subspace Alignment for Unsupervised Domain Adaptation	27
+Blur Kernel Estimation Using Normalized Color-Line Prior	9
+A Light Transport Model for Mitigating Multipath Interference in Time-of-Flight Sensors	11
+Traditional Saliency Reloaded: A Good Old Model in New Shape	38
+Automatic Construction Of Robust Spherical Harmonic Subspaces	6
+Leveraging Stereo Matching With Learning-Based Confidence Measures	24
+Saliency Detection via Cellular Automata	96
+Efficient Sparse-to-Dense Optical Flow Estimation Using a Learned Basis and Layers	30
+Learning Multiple Visual Tasks While Discovering Their Structure	4
+Projection Metric Learning on Grassmann Manifold With Application to Video Based Face Recognition	47
+Structural Sparse Tracking	79
+Data-Driven Depth Map Refinement via Multi-Scale Sparse Representation	16
+Uncalibrated Photometric Stereo Based on Elevation Angle Recovery From BRDF Symmetry of Isotropic Materials	11
+Attributes and Categories for Generic Instance Search From One Example	13
+Heat Diffusion Over Weighted Manifolds: A New Descriptor for Textured 3D Non-Rigid Shapes	4
+A Dynamic Programming Approach for Fast and Robust Object Pose Recognition From Range Images	13
+Beyond Gaussian Pyramid: Multi-Skip Feature Stacking for Action Recognition	93
+A Geodesic-Preserving Method for Image Warping	2
+Shape Driven Kernel Adaptation in Convolutional Neural Network for Robust Facial Traits Recognition	19
+From Categories to Subcategories: Large-Scale Image Classification With Partial Class Label Refinement	10
+Combination Features and Models for Human Detection	20
+Improving Object Detection With Deep Convolutional Networks via Bayesian Optimization and Structured Prediction	62
+A Metric Parametrization for Trifocal Tensors With Non-Colinear Pinholes	3
+An Efficient Volumetric Framework for Shape Tracking	16
+Structured Sparse Subspace Clustering: A Unified Optimization Framework	30
+Delving Into Egocentric Actions	40
+Latent Trees for Estimating Intensity of Facial Action Units	19
+Robust Regression on Image Manifolds for Ordered Label Denoising	2
+Privacy Preserving Optics for Miniature Vision Sensors	6
+Deep Transfer Metric Learning	39
+Small-Variance Nonparametric Clustering on the Hypersphere	9
+DynamicFusion: Reconstruction and Tracking of Non-Rigid Scenes in Real-Time	126
+Reliable Patch Trackers: Robust Visual Tracking by Exploiting Reliable Patches	79
+Predicting Eye Fixations Using Convolutional Neural Networks	42
+Kernel Fusion for Better Image Deblurring	6
+Direction Matters: Depth Estimation With a Surface Normal Classifier	12
+Modeling Local and Global Deformations in Deep Learning: Epitomic Convolution, Multiple Instance Learning, and Sliding Window Detection	24
+Grasp Type Revisited: A Modern Perspective on a Classical Feature for Vision	13
+Learning Hypergraph-Regularized Attribute Predictors	27
+A Coarse-to-Fine Model for 3D Pose Estimation and Sub-Category Recognition	13
+Deep Neural Networks Are Easily Fooled: High Confidence Predictions for Unrecognizable Images	336
+Deformable Part Models are Convolutional Neural Networks	147
+Hypercolumns for Object Segmentation and Fine-Grained Localization	333
+Mapping Visual Features to Semantic Profiles for Retrieval in Medical Imaging	9
+Event-Driven Stereo Matching for Real-Time 3D Panoramic Vision	7
+Graph-Based Simplex Method for Pairwise Energy Minimization With Binary Variables	1
+Image Denoising via Adaptive Soft-Thresholding Based on Non-Local Samples	17
+3D Scanning Deformable Objects With a Single RGBD Sensor	39
+Nested Motion Descriptors	3
+Efficient Minimal-Surface Regularization of Perspective Depth Maps in Variational Stereo	8
+Maximum Persistency via Iterative Relaxed Inference With Graphical Models	9
+Deep Hierarchical Parsing for Semantic Segmentation	52
+Designing Deep Networks for Surface Normal Estimation	75
+Layered RGBD Scene Flow Estimation	14
+Hashing With Binary Autoencoders	47
+SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite	117
+Collaborative Feature Learning From Social Media	11
+Diversity-Induced Multi-View Subspace Clustering	39
+Building a Bird Recognition App and Large Scale Dataset With Citizen Scientists: The Fine Print in Fine-Grained Dataset Collection	26
+Early Burst Detection for Memory-Efficient Image Retrieval	20
+Indoor Scene Structure Analysis for Single Image Depth Estimation	21
+Light Field Layer Matting	3
+Depth Camera Tracking With Contour Cues	10
+Radial Distortion Homography	15
+Efficient Object Localization Using Convolutional Networks	118
+Just Noticeable Defocus Blur Detection and Estimation	25
+How Do We Use Our Hands? Discovering a Diverse Set of Common Grasps	17
+Rotating Your Face Using Multi-Task Deep Neural Network	46
+Is Object Localization for Free? - Weakly-Supervised Learning With Convolutional Neural Networks	146
+Super-Resolution Person Re-Identification With Semi-Coupled Low-Rank Discriminant Dictionary Learning	37
+Dual Domain Filters Based Texture and Structure Preserving Image Non-Blind Deconvolution	3
+Region-Based Temporally Consistent Video Post-Processing	4
+Global Refinement of Random Forest	25
+Adaptive Region Pooling for Object Detection	9
+Discriminative and Consistent Similarities in Instance-Level Multiple Instance Learning	6
+MUlti-Store Tracker (MUSTer): A Cognitive Psychology Inspired Approach to Object Tracking	112
+Finding Action Tubes	133
+Learning a Convolutional Neural Network for Non-Uniform Motion Blur Removal	52
+Complexity-Adaptive Distance Metric for Object Proposals Generation	18
+High-Fidelity Pose and Expression Normalization for Face Recognition in the Wild	73
+Transformation of Markov Random Fields for Marginal Distribution Estimation	1
+Sparse Convolutional Neural Networks	64
+FaceNet: A Unified Embedding for Face Recognition and Clustering	565
+Cascaded Hand Pose Regression	58
+Cross-Scene Crowd Counting via Deep Convolutional Neural Networks	77
+The Application of Two-Level Attention Models in Deep Convolutional Neural Network for Fine-Grained Image Classification	88
+End-to-End Integration of a Convolution Network, Deformable Parts Model and Non-Maximum Suppression	38
+A Mixed Bag of Emotions: Model, Predict, and Transfer Emotion Distributions	30
+Neuroaesthetics in Fashion: Modeling the Perception of Fashionability	27
+Part-Based Modelling of Compound Scenes From Images	4
+Efficient Parallel Optimization for Potts Energy With Hierarchical Fusion	3
+Pooled Motion Features for First-Person Videos	53
+Functional Correspondence by Matrix Completion	29
+Elastic-Net Regularization of Singular Values for Robust Subspace Learning	9
+Hardware Compliant Approximate Image Codes	3
+Photometric Refinement of Depth Maps for Multi-Albedo Objects	5
+Predicting the Future Behavior of a Time-Varying Probability Distribution	9
+Classifier Based Graph Construction for Video Segmentation	25
+ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding	93
+Mid-Level Deep Pattern Mining	46
+Prediction of Search Targets From Fixations in Open-World Settings	15
+Understanding Image Representations by Measuring Their Equivariance and Equivalence	62
+Effective Learning-Based Illuminant Estimation Using Simple Features	20
+PAIGE: PAirwise Image Geometry Encoding for Improved Efficiency in Structure-From-Motion	13
+Dense, Accurate Optical Flow Estimation With Piecewise Parametric Model	37
+Single-Image Estimation of the Camera Response Function in Near-Lighting	2
+Multispectral Pedestrian Detection: Benchmark Dataset and Baseline	49
+A Low-Dimensional Step Pattern Analysis Algorithm With Application to Multimodal Retinal Image Registration	5
+Bilinear Heterogeneous Information Machine for RGB-D Action Recognition	21
+MRF Optimization by Graph Approximation	1
+SALICON: Saliency in Context	63
+Weakly Supervised Object Detection With Convex Clustering	38
+Interleaved Text/Image Deep Mining on a Very Large-Scale Radiology Database	20
+Learning Semantic Relationships for Better Action Retrieval in Images	18
+Hierarchical Recurrent Neural Network for Skeleton Based Action Recognition	179
+Depth and Surface Normal Estimation From Monocular Images Using Regression on Deep Features and Hierarchical CRFs	45
+Discriminative Shape From Shading in Uncalibrated Illumination	14
+Multi-Manifold Deep Metric Learning for Image Set Classification	40
+Target Identity-Aware Network Flow for Online Multiple Target Tracking	32
+Adaptive As-Natural-As-Possible Image Stitching	24
+EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow	143
+Learning Coarse-to-Fine Sparselets for Efficient Object Detection and Scene Classification	15
+Continuous Visibility Feature	4
+FlowWeb: Joint Image Set Alignment by Weaving Consistent, Pixel-Wise Correspondences	35
+Unsupervised Object Discovery and Localization in the Wild: Part-Based Matching With Bottom-Up Region Proposals	60
+Supervised Descriptor Learning for Multi-Output Regression	14
+A Statistical Model of Riemannian Metric Variation for Deformable Shape Analysis	7
+Temporally Coherent Interpretations for Long Videos Using Pattern Theory	9
+Line-Sweep: Cross-Ratio For Wide-Baseline Matching and 3D Reconstruction	8
+Simplified Mirror-Based Camera Pose Computation via Rotation Averaging	4
+On the Relationship Between Visual Attributes and Convolutional Networks	28
+Saliency Detection by Multi-Context Deep Learning	122
+DeepShape: Deep Learned Shape Descriptor for 3D Shape Matching and Retrieval	38
+Bayesian Adaptive Matrix Factorization With Automatic Model Selection	5
+Joint Action Recognition and Pose Estimation From Video	35
+Fast Action Proposals for Human Action Detection and Search	69
+Joint Multi-Feature Spatial Context for Scene Recognition on the Semantic Manifold	10
+Large-Scale Damage Detection Using Satellite Imagery	14
+A Novel Locally Linear KNN Model for Visual Recognition	12
+Bilinear Random Projections for Locality-Sensitive Binary Codes	8
+Combining Local Appearance and Holistic View: Dual-Source Deep Neural Networks for Human Pose Estimation	64
+Superpixel Segmentation Using Linear Spectral Clustering	43
+Person Count Localization in Videos From Noisy Foreground and Detections	5
+Good Features to Track for Visual SLAM	14
+Discovering States and Transformations in Image Collections	12
+Generalized Deformable Spatial Pyramid: Geometry-Preserving Dense Correspondence Estimation	12
+Classifier Adaptation at Prediction Time	9
+Phase-Based Frame Interpolation for Video	15
+Matching-CNN Meets KNN: Quasi-Parametric Human Parsing	52
+Absolute Pose for Cameras Under Flat Refractive Interfaces	4
+Protecting Against Screenshots: An Image Processing Approach	2
+Pose-Conditioned Joint Angle Limits for 3D Human Pose Reconstruction	53
+VisKE: Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases	42
+A Graphical Model Approach for Matching Partial Signatures	2
+From Captions to Visual Concepts and Back	286
+Semi-Supervised Low-Rank Mapping Learning for Multi-Label Classification	10
+ConceptLearner: Discovering Visual Concepts From Weakly Labeled Image Collections	23
+Computationally Bounded Retrieval	0
+Viewpoints and Keypoints	62
+Discrete Hyper-Graph Matching	22
+Rolling Shutter Motion Deblurring	13
+Learning to Generate Chairs With Convolutional Neural Networks	200
+Accurate Depth Map Estimation From a Lenslet Light Field Camera	57
+Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval	105
+Similarity Learning on an Explicit Polynomial Kernel Feature Map for Person Re-Identification	67
+Learning to Propose Objects	48
+Basis Mapping Based Boosting for Object Detection	2
+Computing the Stereo Matching Cost With a Convolutional Neural Network	125
+Recognize Complex Events From Static Images by Fusing Deep Channels	26
+Multi-Feature Max-Margin Hierarchical Bayesian Model for Action Recognition	7
+Model Recommendation: Generating Object Detectors From Few Samples	13
+A Linear Least-Squares Solution to Elastic Shape-From-Template	7
+Robust Large Scale Monocular Visual SLAM	8
+Membership Representation for Detecting Block-Diagonal Structure in Low-Rank or Sparse Subspace Clustering	7
+Bayesian Inference for Neighborhood Filters With Application in Denoising	5
+Deep LAC: Deep Localization, Alignment and Classification for Fine-Grained Recognition	47
+Unconstrained Realtime Facial Performance Capture	31
+Blind Optical Aberration Correction by Exploring Geometric and Visual Priors	3
+Ontological Supervision for Fine Grained Classification of Street View Storefronts	21
+Finding Distractors In Images	3
+From Image-Level to Pixel-Level Labeling With Convolutional Networks	95
+Semantic Alignment of LiDAR Data at City Scale	11
+Oriented Edge Forests for Boundary Detection	24
+Query-Adaptive Late Fusion for Image Search and Person Re-Identification	103
+Filtered Feature Channels for Pedestrian Detection	7
+GRSA: Generalized Range Swap Algorithm for the Efficient Optimization of MRFs	6
+PatchCut: Data-Driven Object Segmentation via Local Shape Transfer	12
+Illumination and Reflectance Spectra Separation of a Hyperspectral Image Meets Low-Rank Matrix Factorization	5
+Semantic Part Segmentation Using Compositional Model Combining Shape and Appearance	28
+A Discriminative CNN Video Representation for Event Detection	180
+24/7 Place Recognition by View Synthesis	29
+Understanding Image Virality	18
+Book2Movie: Aligning Video Scenes With Book Chapters	20
+3D Model-Based Continuous Emotion Recognition	12
+Learning to Rank in Person Re-Identification With Metric Ensembles	112
+Making Better Use of Edges via Perceptual Grouping	15
+Real-Time Joint Estimation of Camera Orientation and Vanishing Points	4
+Sketch-Based 3D Shape Retrieval Using Convolutional Neural Networks	46
+Salient Object Detection via Bootstrap Learning	80
+Towards Open World Recognition	36
+Data-Driven 3D Voxel Patterns for Object Category Recognition	53
+3D ShapeNets: A Deep Representation for Volumetric Shapes	210
+Robust Image Alignment With Multiple Feature Descriptors and Matching-Guided Neighborhoods	6
+Pushing the Frontiers of Unconstrained Face Detection and Recognition: IARPA Janus Benchmark A	91
+Depth From Shading, Defocus, and Correspondence Using Light-Field Angular Coherence	25
+New Insights Into Laplacian Similarity Search	3
+Feature-Independent Context Estimation for Automatic Image Annotation	22
+Category-Specific Object Reconstruction From a Single Image	49
+Active Sample Selection and Correction Propagation on a Gradually-Augmented Graph	4
+Efficient and Accurate Approximations of Nonlinear Convolutional Networks	33
+Ranking and Retrieval of Image Sequences From Multiple Paragraph Queries	11
+Casual Stereoscopic Panorama Stitching	4
+Superpixel Meshes for Fast Edge-Preserving Surface Reconstruction	17
+Best-Buddies Similarity for Robust Template Matching	18
+Superdifferential Cuts for Binary Energies	6
+The S-Hock Dataset: Analyzing Crowds at the Stadium	12
+Discriminant Analysis on Riemannian Manifold of Gaussian Distributions for Face Recognition With Image Sets	30
+Texture Representations for Image and Video Synthesis	3
+Shadow Optimization From Structured Deep Edge Detection	12
+Total Variation Regularization of Shape Signals	5
+Learning Similarity Metrics for Dynamic Scene Segmentation	7
+Subspace Clustering by Mixture of Gaussian Regression	15
+DASC: Dense Adaptive Self-Correlation Descriptor for Multi-Modal and Multi-Spectral Correspondence	17
+In Defense of Color-Based Model-Free Tracking	65
+Best of Both Worlds: Human-Machine Collaboration for Object Annotation	32
+Robust Multiple Homography Estimation: An Ill-Solved Problem	5
+Semi-Supervised Domain Adaptation With Subspace Learning for Visual Recognition	23
+Articulated Motion Discovery Using Pairs of Trajectories	4
+A Solution for Multi-Alignment by Transformation Synchronisation	10
+A Convex Optimization Approach to Robust Fundamental Matrix Estimation	4
+Simultaneous Pose and Non-Rigid Shape With Particle Dynamics	17
+Semi-Supervised Learning With Explicit Relationship Regularization	5
+Person Re-Identification by Local Maximal Occurrence Representation and Metric Learning	221
+Joint Patch and Multi-Label Learning for Facial Action Unit Detection	36
+Real-Time Visual Analysis of Microvascular Blood Flow for Critical Care	2
+JOTS: Joint Online Tracking and Segmentation	27
+Gaze-Enabled Egocentric Video Summarization via Constrained Submodular Maximization	45
+Sparse Depth Super Resolution	16
+Efficient Illuminant Estimation for Color Constancy Using Grey Pixels	13
+Can Humans Fly? Action Understanding With Multiple Classes of Actors	10
+Reweighted Laplace Prior Based Hyperspectral Compressive Sensing for Unknown Sparsity	10
+Class Consistent Multi-Modal Fusion With Binary Features	3
+R6P - Rolling Shutter Absolute Camera Pose	14
+Embedded Phase Shifting: Robust Phase Shifting With Embedded Signals	2
+Shape and Light Directions From Shading and Polarization	6
+3D Deep Shape Descriptor	43
+Cross-Age Face Verification by Coordinating With Cross-Face Age Verification	9
+Beyond Mahalanobis Metric: Cayley-Klein Metric Learning	6
+From Dictionary of Visual Words to Subspaces: Locality-Constrained Affine Subspace Coding	11
+FPA-CS: Focal Plane Array-Based Compressive Imaging in Short-Wave Infrared	16
+BOLD - Binary Online Learned Descriptor For Efficient Image Matching	26
+Defocus Deblurring and Superresolution for Time-of-Flight Depth Cameras	6
+Burst Deblurring: Removing Camera Shake Through Fourier Burst Accumulation	13
+SOM: Semantic Obviousness Metric for Image Quality Assessment	14
+DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection	105
+Efficient Globally Optimal Consensus Maximisation With Tree Search	10
+Mind's Eye: A Recurrent Visual Representation for Image Caption Generation	174
+Hierarchical Sparse Coding With Geometric Prior For Visual Geo-Location	3
+P3.5P: Pose Estimation With Unknown Focal Length	5
+Joint Vanishing Point Extraction and Tracking	5
+Learning a Non-Linear Knowledge Transfer Model for Cross-View Action Recognition	27
+Random Tree Walk Toward Instantaneous 3D Human Pose Estimation	19
+Deep Hashing for Compact Binary Codes Learning	90
+Completing 3D Object Shape From One Depth Image	28
+Encoding Based Saliency Detection for Videos and Images	11
+Online Sketching Hashing	32
+Enriching Object Detection With 2D-3D Registration and Continuous Viewpoint Estimation	16
+Representing 3D Texture on Mesh Manifolds for Retrieval and Recognition Applications	7
+Saliency Propagation From Simple to Difficult	31
+Learning an Efficient Model of Hand Shape Variation From Depth Images	11
+On the Minimal Problems of Low-Rank Matrix Factorization	6
+Symmetry-Based Text Line Detection in Natural Scenes	59
+DevNet: A Deep Event Network for Multimedia Event Detection and Evidence Recounting	63
+Learning to Detect Motion Boundaries	19
+Improving Object Proposals With Multi-Thresholding Straddling Expansion	37
+Visual Recognition by Counting Instances: A Multi-Instance Cardinality Potential Kernel	11
+Unconstrained 3D Face Reconstruction	27
+Becoming the Expert - Interactive Multi-Class Machine Teaching	7
+Long-Term Recurrent Convolutional Networks for Visual Recognition and Description	802
+Zero-Shot Object Recognition by Semantic Manifold Distance	53
+Hyper-Class Augmented and Regularized Deep Learning for Fine-Grained Image Classification	38
+Direct Structure Estimation for 3D Reconstruction	3
+Global Supervised Descent Method	59
+Robust Camera Location Estimation by Convex Programming	30
+Practical Robust Two-View Translation Estimation	8
+Learning From Massive Noisy Labeled Data for Image Classification	37
+KL Divergence Based Agglomerative Clustering for Automated Vitiligo Grading	3
+Robust Saliency Detection via Regularized Random Walks Ranking	43
+Weakly Supervised Semantic Segmentation for Social Images	24
+Image Specificity	84
+A Multi-Plane Block-Coordinate Frank-Wolfe Algorithm for Training Structural SVMs With a Costly Max-Oracle	8
+Web-Scale Training for Face Identification	66
+Dynamically Encoded Actions Based on Spacetime Saliency	6
+Three Viewpoints Toward Exemplar SVM	10
+Visual Recognition by Learning From Web Data: A Weakly Supervised Domain Generalization Approach	16
+Clustering of Static-Adaptive Correspondences for Deformable Object Tracking	40
+Geo-Semantic Segmentation	9
+Towards Unified Depth and Semantic Prediction From a Single Image	38
+Towards Force Sensing From Vision: Observing Hand-Object Interactions to Infer Manipulation Forces	16
+A MRF Shape Prior for Facade Parsing With Occlusions	7
+Probability Occupancy Maps for Occluded Depth Images	12
+Segment Based 3D Object Shape Priors	4
+Shape-From-Template in Flatland	1
+Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition	25
+Deep Roto-Translation Scattering for Object Classification	37
+Non-Rigid Registration of Images With Geometric and Photometric Deformation by Using Local Affine Fourier-Moment Matching	4
+Detector Discovery in the Wild: Joint Multiple Instance and Representation Learning	20
+Deeply Learned Face Representations Are Sparse, Selective, and Robust	190
+Unsupervised Visual Alignment With Similarity Graphs	6
+Video Anomaly Detection and Localization Using Hierarchical Feature Representation and Gaussian Process Regression	26
+Inferring 3D Layout of Building Facades From a Single Image	5
+Evaluation of Output Embeddings for Fine-Grained Image Classification	96
+Virtual View Networks for Object Reconstruction	18
+Real-Time Coarse-to-Fine Topologically Preserving Segmentation	15
+Supervised Mid-Level Features for Word Image Representation	20
+Learning Lightness From Human Judgement on Relative Reflectance	12
+Scene Classification With Semantic Fisher Vectors	52
+Don't Just Listen, Use Your Imagination: Leveraging Visual Common Sense for Non-Visual Tasks	28
+Co-Saliency Detection via Looking Deep and Wide	27
+Adopting an Unconstrained Ray Model in Light-Field Cameras for 3D Shape Reconstruction	6
+Towards 3D Object Detection With Bimodal Deep Boltzmann Machines Over RGBD Imagery	6
+An Active Search Strategy for Efficient Object Class Detection	28
+Geodesic Exponential Kernels: When Curvature and Linearity Conflict	21
+Transformation-Invariant Convolutional Jungles	8
+Exemplar SVMs as Visual Feature Encoders	15
+Object Scene Flow for Autonomous Vehicles	153
+Reflectance Hashing for Material Recognition	13
+Joint Photo Stream and Blog Post Summarization and Exploration	12
+Video Summarization by Learning Submodular Mixtures of Objectives	66
+Building Proteins in a Day: Efficient 3D Molecular Reconstruction	7
+Learning Descriptors for Object Recognition and 3D Pose Estimation	75
+Image Partitioning Into Convex Polygons	11
+Deep Visual-Semantic Alignments for Generating Image Descriptions	860
+Unsupervised Learning of Complex Articulated Kinematic Structures Combining Motion and Skeleton Information	12
+Elastic Functional Coding of Human Actions: From Vector-Fields to Latent Variables	25
+Show and Tell: A Neural Image Caption Generator	884
+Descriptor Free Visual Indoor Localization With Line Segments	9
+Fixation Bank: Learning to Reweight Fixation Candidates	3
+Deep Networks for Saliency Detection via Local Estimation and Global Search	68
+Reflection Removal Using Ghosting Cues	19
+A Dataset for Movie Description	82
+Fast and Robust Hand Tracking Using Detection-Guided Optimization	49
+Efficient SDP Inference for Fully-Connected CRFs Based on Low-Rank Decomposition	11
+Discriminative Learning of Iteration-Wise Priors for Blind Deconvolution	11
+Eye Tracking Assisted Extraction of Attentionally Important Objects From Videos	12
+Multi-View Feature Engineering and Learning	10
+Self Scaled Regularized Robust Regression	6
+Simultaneous Feature Learning and Hash Coding With Deep Neural Networks	108
+MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching	105
+Reconstructing the World* in Six Days *(As Captured by the Yahoo 100 Million Image Dataset)	50
+Exact Bias Correction and Covariance Estimation for Stereo Vision	6
+Computing Similarity Transformations From Only Image Correspondences	8
+Image Segmentation in Twenty Questions	8
+Interaction Part Mining: A Mid-Level Approach for Fine-Grained Action Recognition	26
+Sparse Projections for High-Dimensional Binary Codes	32
+Hierarchically-Constrained Optical Flow	3
+The k-Support Norm and Convex Envelopes of Cardinality and Rank	8
+Matching Bags of Regions in RGBD images	3
+Recurrent Convolutional Neural Network for Object Recognition	115
+Feedforward Semantic Segmentation With Zoom-Out Features	128
+The Aperture Problem for Refractive Motion	2
+Saliency-Aware Geodesic Video Object Segmentation	86
+DEEP-CARVING: Discovering Visual Attributes by Carving Deep Neural Nets	25
+Rent3D: Floor-Plan Priors for Monocular Layout Estimation	20
+Learning a Sequential Search for Landmarks	4
+Fully Convolutional Networks for Semantic Segmentation	1791
+Deep Correlation for Matching Images and Text	44
+Multi-Objective Convolutional Learning for Face Labeling	18
+Deep Multiple Instance Learning for Image Classification and Auto-Annotation	57
+Multi-Instance Object Segmentation With Occlusion Handling	22
+Material Recognition in the Wild With the Materials in Context Database	80
+Understanding Pedestrian Behaviors From Stationary Crowd Groups	34
+Depth From Focus With Your Mobile Phone	14
+Fusion Moves for Correlation Clustering	14
+Second-Order Constrained Parametric Proposals and Sequential Search-Based Structured Prediction for Semantic Segmentation in RGB-D Images	20
+Metric Imitation by Manifold Transfer for Efficient Vision Applications	12
+The Stitched Puppet: A Graphical Model of 3D Human Shape and Pose	22
+Scene Labeling With LSTM Recurrent Neural Networks	75
+FAemb: A Function Approximation-Based Embedding Method for Image Retrieval	11
+Automatically Discovering Local Visual Material Attributes	13
+Depth Image Enhancement Using Local Tangent Plane Approximations	6
+Video Co-Summarization: Video Summarization by Visual Co-Occurrence	43
+Watch and Learn: Semi-Supervised Learning for Object Detectors From Video	21
+Generalized Tensor Total Variation Minimization for Visual Data Recovery	8
+Active Learning for Structured Probabilistic Models With Histogram Approximation	4
+Image Parsing With a Wide Range of Classes and Scene-Level Context	14
+Bayesian Sparse Representation for Hyperspectral Image Super Resolution	21
+Semantic Object Segmentation via Detection in Weakly Labeled Video	28
+Learning With Dataset Bias in Latent Subcategory Models	5
+Project-Out Cascaded Regression With an Application to Face Alignment	84
+Image Retrieval Using Scene Graphs	59
+Unifying Holistic and Parts-Based Deformable Model Fitting	21
+Small Instance Detection by Integer Programming on Object Density Maps	8
+Motion Part Regularization: Improving Action Recognition via Trajectory Selection	28
+Multi-Task Deep Visual-Semantic Embedding for Video Thumbnail Selection	41
+Fine-Grained Visual Categorization via Multi-Stage Metric Learning	32
+Saturation-Preserving Specular Reflection Separation	4
+Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes	16
+Fisher Vectors Meet Neural Networks: A Hybrid Classification Architecture	52
+UniHIST: A Unified Framework for Image Restoration With Marginal Histogram Constraints	6
+Human Action Segmentation With Hierarchical Supervoxel Consistency	20
+Robust Manhattan Frame Estimation From a Single RGB-D Image	6
+Learning to Segment Under Various Forms of Weak Supervision	46
+Fast and Accurate Image Upscaling With Super-Resolution Forests	74
+Light Field From Micro-Baseline Image Pair	15
+Efficient ConvNet-Based Marker-Less Motion Capture in General Scenes With a Low Number of Cameras	30
+Learning Scene-Specific Pedestrian Detectors Without Real Data	29
+Deep Filter Banks for Texture Recognition and Segmentation	163
+Multiple Random Walkers and Their Application to Image Cosegmentation	20
+Beyond the Shortest Path : Unsupervised Domain Adaptation by Sampling Subspaces Along the Spline Flow	22
+Spherical Embedding of Inlier Silhouette Dissimilarities	1
+Semantics-Preserving Hashing for Cross-View Retrieval	47
+Object Proposal by Multi-Branch Hierarchical Segmentation	21
+Ambient Occlusion via Compressive Visibility Estimation	3
+Shape-Tailored Local Descriptors and Their Application to Segmentation and Tracking	4
+Scalable Object Detection by Filter Compression With Regularized Sparse Coding	4
+An Improved Deep Learning Architecture for Person Re-Identification	175
+Understanding Classifier Errors by Examining Influential Neighbors	6
+Riemannian Coding and Dictionary Learning: Kernels to the Rescue	35
+Scalable Structure From Motion for Densely Sampled Videos	10
+Parsing Occluded People by Flexible Compositions	28
+Joint Calibration of Ensemble of Exemplar SVMs	5
+Holistic 3D Scene Understanding From a Single Geo-Tagged Image	30
+A Large-Scale Car Dataset for Fine-Grained Categorization and Verification	67
+DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection	62
+Convolutional Feature Masking for Joint Object and Stuff Segmentation	127
+A Fixed Viewpoint Approach for Dense Reconstruction of Transparent Objects	5
+Low-Level Vision by Consensus in a Spatial Hierarchy of Regions	15
+Line Drawing Interpretation in a Multi-View Context	3
+Toward User-Specific Tracking by Detection of Human Shapes in Multi-Cameras	2
+Intra-Frame Deblurring by Leveraging Inter-Frame Camera Motion	5
+Salient Object Subitizing	32
+Hierarchical-PEP Model for Real-World Face Recognition	28
+The Common Self-Polar Triangle of Concentric Circles and Its Application to Camera Calibration	5
+Taking a Deeper Look at Pedestrians	92
+Learning to Segment Moving Objects in Videos	42
+GMMCP Tracker: Globally Optimal Generalized Maximum Multi Clique Problem for Multiple Object Tracking	52
+Learning Graph Structure for Multi-Label Image Classification via Clique Generation	8
+Matrix Completion for Resolving Label Ambiguity	8
+Video Magnification in Presence of Large Motions	17
+Flying Objects Detection From a Single Moving Camera	14
+Line-Based Multi-Label Energy Optimization for Fisheye Image Rectification and Calibration	2
+Adaptive Eye-Camera Calibration for Head-Worn Devices	3
+Modeling Object Appearance Using Context-Conditioned Component Analysis	3
+Displets: Resolving Stereo Ambiguities Using Object Knowledge	65
+Time-to-Contact From Image Intensity	4
+Transferring a Semantic Representation for Person Re-Identification and Search	55
+Robust Video Segment Proposals With Painless Occlusion Handling	11
+Face Alignment Using Cascade Gaussian Process Regression Trees	38
+Regularizing Max-Margin Exemplars by Reconstruction and Generative Models	1
+A Fast Algorithm for Elastic Shape Distances Between Closed Planar Curves	5
+Reflection Removal for In-Vehicle Black Box Videos	2
+Tree Quantization for Large-Scale Similarity Search and Classification	28
+Integrating Parametric and Non-Parametric Models For Scene Labeling	27
+Mining Semantic Affordances of Visual Object Categories	15
+Causal Video Object Segmentation From Persistence of Occlusions	30
+Multiple Instance Learning for Soft Bags via Top Instances	12
+Multiclass Semantic Video Segmentation With Object-Level Active Inference	21
+Effective Face Frontalization in Unconstrained Images	139
+Action Recognition With Trajectory-Pooled Deep-Convolutional Descriptors	237
+Weakly Supervised Localization of Novel Objects Using Appearance Transfer	11
+First-Person Pose Recognition Using Egocentric Workspaces	21
+Simultaneous Time-of-Flight Sensing and Photometric Stereo With a Single ToF Sensor	10
+Active Learning and Discovery of Object Categories in the Presence of Unnameable Instances	23
+Learning to Compare Image Patches via Convolutional Neural Networks	163
+Watch-n-Patch: Unsupervised Understanding of Actions and Relations	34
+Optimal Graph Learning With Partial Tags and Multiple Features for Image and Video Annotation	41
+DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection	69
+Picture: A Probabilistic Programming Language for Scene Perception	49
+Exploiting Uncertainty in Regression Forests for Accurate Camera Relocalization	17
+Fusing Subcategory Probabilities for Texture Classification	7
+Video Event Recognition With Deep Hierarchical Context Model	16
+Object-Based RGBD Image Co-Segmentation With Mutex Constraint	24
+Associating Neural Word Embeddings With Deep Image Representations Using Fisher Vectors	37
+3D Shape Estimation From 2D Landmarks: A Convex Relaxation Approach	31
+3D All The Way: Semantic Segmentation of Urban Scenes From Start to End in 3D	42
+Fast Bilateral-Space Stereo for Synthetic Defocus	30
+Large-Scale and Drift-Free Surface Reconstruction Using Online Subvolume Registration	17
+Fast Randomized Singular Value Thresholding for Nuclear Norm Minimization	16
+LMI-Based 2D-3D Registration: From Uncalibrated Images to Euclidean Scene	2
+Clique-Graph Matching by Preserving Global & Local Structure	23
+Appearance-Based Gaze Estimation in the Wild	64
+One-Day Outdoor Photometric Stereo via Skylight Estimation	11
+A New Retraction for Accelerating the Riemannian Three-Factor Low-Rank Matrix Completion Algorithm	2
+Heteroscedastic Max-Min Distance Analysis	10
+Sparse Composite Quantization	21
+Sparse Representation Classification With Manifold Constraints Transfer	25
+CIDEr: Consensus-Based Image Description Evaluation	185
+Joint Inference of Groups, Events and Human Roles in Aerial Videos	28
+Photometric Stereo With Near Point Lighting: A Solution by Mesh Deformation	16
+Efficient Label Collection for Unlabeled Image Datasets	11
+Separating Objects and Clutter in Indoor Scenes	7
+FaLRR: A Fast Low Rank Representation Solver	15
+Simulating Makeup Through Physics-Based Manipulation of Intrinsic Image Layers	5
+Correlation Filters With Limited Boundaries	30
+Shape-Based Automatic Detection of a Large Number of 3D Facial Landmarks	11
+Material Classification With Thermal Imagery	4
+Deeply Learned Attributes for Crowded Scene Understanding	57
+Learning To Look Up: Realtime Monocular Gaze Correction Using Machine Learning	6
+Background Subtraction via Generalized Fused Lasso Foreground Modeling	20
+Mirror, Mirror on the Wall, Tell Me, Is the Error Small?	17
+Beyond Short Snippets: Deep Networks for Video Classification	325
+segDeepM: Exploiting Segmentation and Context in Deep Neural Networks for Object Detection	62
+Situational Object Boundary Detection	11
+Real-Time 3D Head Pose and Facial Landmark Estimation From Depth Images Using Triangular Surface Patch Features	30
+Aligning 3D Models to RGB-D Images of Cluttered Scenes	53
+A Stable Multi-Scale Kernel for Topological Machine Learning	42
+The Treasure Beneath Convolutional Layers: Cross-Convolutional-Layer Pooling for Image Classification	62
+Face Video Retrieval With Image Query via Hashing Across Euclidean Space and Riemannian Manifold	17
+EgoSampling: Fast-Forward and Stereo for Egocentric Videos	25
+Social Saliency Prediction	23
+Beyond Principal Components: Deep Boltzmann Machines for Face Modeling	10
+Statistical Inference Models for Image Datasets With Systematic Variations	4
+Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues	34
+Superpixel-Based Video Object Segmentation Using Perceptual Organization and Location Prior	27
+Robust Image Filtering Using Joint Static and Dynamic Guidance	24
+Solving Multiple Square Jigsaw Puzzles With Missing Pieces	10
+A Dynamic Convolutional Layer for Short Range Weather Prediction	16
+SWIFT: Sparse Withdrawal of Inliers in a First Trial	3
+VIP: Finding Important People in Images	8
+Dataset Fingerprints: Exploring Image Collections Through Data Mining	12
+Transport-Based Single Frame Super Resolution of Very Low Resolution Face Images	14
+3D Reconstruction in the Presence of Glasses by Acoustic and Stereo Fusion	5
+Deep Sparse Representation for Robust Image Registration	11
+Real-Time Part-Based Visual Tracking via Adaptive Correlation Filters	77
+Beyond Spatial Pooling: Fine-Grained Representation Learning in Multiple Domains	12
+HC-Search for Structured Prediction in Computer Vision	16
+Revisiting Kernelized Locality-Sensitive Hashing for Improved Large-Scale Image Retrieval	19
+High-Speed Hyperspectral Video Acquisition With a Dual-Camera Architecture	8
+More About VLAD: A Leap From Euclidean to Riemannian Manifolds	17
+Camera Intrinsic Blur Kernel Estimation: A Reliable Framework	3
+Classifier Learning With Hidden Information	22
+Single Target Tracking Using Adaptive Clustered Decision Trees and Dynamic Multi-Level Appearance Models	18
+Simultaneous Video Defogging and Stereo Reconstruction	9
+Face Alignment by Coarse-to-Fine Shape Searching	102
+Learning Deep Representations for Ground-to-Aerial Geolocalization	54
+Unsupervised Simultaneous Orthogonal Basis Clustering Feature Selection	12
+Space-Time Tree Ensemble for Action Recognition	23
+Subgraph Decomposition for Multi-Target Tracking	27
+Understanding Image Structure via Hierarchical Shape Parsing	1
+Coarse-To-Fine Region Selection and Matching	3
+Label Consistent Quadratic Surrogate Model for Visual Saliency Prediction	3
+Subgraph Matching Using Compactness Prior for Robust Feature Correspondence	6
+Pedestrian Detection Aided by Deep Learning Semantic Tasks	71
+Multihypothesis Trajectory Analysis for Robust Visual Tracking	15
+Domain-Size Pooling in Local Descriptors: DSP-SIFT	48
+Object Detection by Labeling Superpixels	30
+Fast 2D Border Ownership Assignment	9
+From Single Image Query to Detailed 3D Reconstruction	20
+Fast and Flexible Convolutional Sparse Coding	37
+Iteratively Reweighted Graph Cut for Multi-Label MRFs With Non-Convex Priors	5
+Pairwise Geometric Matching for Large-Scale Object Retrieval	26
+Deep Convolutional Neural Fields for Depth Estimation From a Single Image	114
+Data-Driven Sparsity-Based Restoration of JPEG-Compressed Images in Dual Transform-Pixel Domain	16
+TVSum: Summarizing Web Videos Using Titles	46
+Understanding Deep Image Representations by Inverting Them	243
+Single Image Super-Resolution From Transformed Self-Exemplars	105
+Constrained Planar Cuts - Object Partitioning for Point Clouds	12
+A Weighted Sparse Coding Framework for Saliency Detection	14
+Handling Motion Blur in Multi-Frame Super-Resolution	16
+Approximate Nearest Neighbor Fields in Video	3
+Inverting RANSAC: Global Model Detection via Inlier Rate Estimation	6
+Robust Multi-Image Based Blind Face Hallucination	9
+On Learning Optimized Reaction Diffusion Processes for Effective Image Restoration	53
+A Flexible Tensor Block Coordinate Ascent Scheme for Hypergraph Matching	18
+TILDE: A Temporally Invariant Learned DEtector	24
+A Maximum Entropy Feature Descriptor for Age Invariant Face Recognition	12
+Sense Discovery via Co-Clustering on Images and Text	9
+An Approximate Shading Model for Object Relighting	2
+Deep Domain Adaptation for Describing People Based on Fine-Grained Clothing Attributes	49
+A Convolutional Neural Network Cascade for Face Detection	153
+Visual Vibrometry: Estimating Material Properties From Small Motion in Video	26
+Jointly Learning Heterogeneous Features for RGB-D Activity Recognition	45
+Convolutional Neural Networks at Constrained Time Cost	78
+Fine-Grained Histopathological Image Analysis via Robust Segmentation and Large-Scale Retrieval	20
+L0TV: A New Method for Image Restoration in the Presence of Impulse Noise	19
+Modeling Video Evolution for Action Recognition	102
+Long-Term Correlation Tracking	97
+Joint Tracking and Segmentation of Multiple Targets	53
+RGBD-Fusion: Real-Time High Precision Depth Recovery	34
+Modeling Deformable Gradient Compositions for Single-Image Super-Resolution	9
+Generalized Video Deblurring for Dynamic Scenes	21
+Active Pictorial Structures	21
+Ego-Surfing First-Person Videos	13
+Visual Saliency Based on Multiscale Deep Features	86
+Recovering Inner Slices of Translucent Objects by Multi-Frequency Illumination	-1
+Local High-Order Regularization on Data Manifolds	4
+Fine-Grained Classification of Pedestrians in Video: Benchmark and State of the Art	13
+Curriculum Learning of Multiple Tasks	21
+How Many Bits Does it Take for a Stimulus to Be Salient?	16
+Discrete Optimization of Ray Potentials for Semantic 3D Reconstruction	22
+SOLD: Sub-Optimal Low-rank Decomposition for Efficient Video Segmentation	22
+On the Appearance of Translucent Edges	1
+On Pairwise Costs for Network Flow Multi-Object Tracking	30
+Fine-Grained Recognition Without Part Annotations	97
+Robust Reconstruction of Indoor Scenes	64
