@@ -257,3 +257,112 @@ Collaborative Ranking With 17 Parameters	34
 Rational inference of relative preferences	8
 The topographic unsupervised learning of natural sounds in the auditory cortex	13
 Approximating Equilibria in Sequential Auctions with Incomplete Information and Multi-Unit Demand	9
+A Divide-and-Conquer Method for Sparse Inverse Covariance Estimation	44
+A Simple and Practical Algorithm for Differentially Private Data Release	161
+Bayesian active learning with localized priors for fast receptive field characterization	12
+Weighted Likelihood Policy Search with Model Selection	1
+Learning the Dependency Structure of Latent Factors	8
+Provable ICA with Unknown Gaussian Noise, with Implications for Gaussian Mixtures and Autoencoders	53
+Globally Convergent Dual MAP LP Relaxation Solvers using Fenchel-Young Margins	19
+Dip-means: an incremental clustering method for estimating the number of clusters	31
+No-Regret Algorithms for Unconstrained Online Convex Optimization	14
+Bayesian models for Large-scale Hierarchical Classification	31
+Recovery of Sparse Probability Measures via Convex Programming	30
+Multiple Operator-valued Kernel Learning	10
+Approximate Message Passing with Consistent Parameter Estimation and Applications to Sparse Learning	52
+A Better Way to Pretrain Deep Boltzmann Machines	63
+Towards a learning-theoretic analysis of spike-timing dependent plasticity	10
+Learning Manifolds with K-Means and K-Flats	29
+Iterative ranking from pair-wise comparisons	112
+A Polynomial-time Form of Robust Regression	10
+Learning Probability Measures with respect to Optimal Transport Metrics	10
+Label Ranking with Partial Abstention based on Thresholded Probabilistic Models	15
+Adaptive Learning of Smoothing Functions: Application to Electricity Load Forecasting	26
+Tensor Decomposition for Fast Parsing with Latent-Variable PCFGs	25
+Semi-supervised Eigenvectors for Locally-biased Learning	5
+Exponential Concentration for Mutual Information Estimation with Application to Forests	19
+Augment-and-Conquer Negative Binomial Processes	24
+Transferring Expectations in Model-based Reinforcement Learning	8
+Minimization of Continuous Bethe Approximations: A Positive Variation	3
+Non-linear Metric Learning	114
+Factorial LDA: Sparse Multi-Dimensional Text Models	25
+Ancestor Sampling for Particle Gibbs	40
+Modelling Reciprocating Relationships with Hawkes Processes	89
+Expectation Propagation in Gaussian Process Dynamical Systems	22
+A quasi-Newton proximal splitting method	65
+Exact and Stable Recovery of Sequences of Signals with Sparse Increments via Differential _1-Minimization	7
+Efficient Reinforcement Learning for High Dimensional Linear Quadratic Systems	9
+Multilabel Classification using Bayesian Compressed Sensing	33
+Scaling MPE Inference for Constrained Continuous Markov Random Fields with Consensus Optimization	48
+A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets	3
+Query Complexity of Derivative-Free Optimization	43
+Emergence of Object-Selective Features in Unsupervised Feature Learning	57
+Burn-in, bias, and the rationality of anchoring	44
+Truly Nonparametric Online Variational Inference for Hierarchical Dirichlet Processes	58
+A Neural Autoregressive Topic Model	70
+A Unifying Perspective of Parametric Policy Search Methods for Markov Decision Processes	15
+Entangled Monte Carlo	8
+Near-Optimal MAP Inference for Determinantal Point Processes	51
+Probabilistic Low-Rank Subspace Clustering	9
+How They Vote: Issue-Adjusted Models of Legislative Behavior	54
+Density Propagation and Improved Bounds on the Partition Function	5
+Perceptron Learning of SAT	0
+Learning Networks of Heterogeneous Influence	80
+Multiclass Learning with Simplex Coding	28
+FastEx: Hash Clustering with Exponential Families	5
+Topic-Partitioned Multinetwork Embeddings	12
+Learning Label Trees for Probabilistic Modelling of Implicit Feedback	9
+Learning with Recursive Perceptual Representations	42
+Link Prediction in Graphs with Autoregressive Features	15
+Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images	372
+Scalable imputation of genetic data with a discrete fragmentation-coagulation process	5
+Gradient Weights help Nonparametric Regressors	5
+Online Sum-Product Computation Over Trees	1
+Sparse Approximate Manifolds for Differential Geometric MCMC	11
+Fast Variational Inference in the Conjugate Exponential Family	42
+Bayesian Pedigree Analysis using Measure Factorization	1
+Accelerated Training for Matrix-norm Regularization: A Boosting Approach	75
+Controlled Recognition Bounds for Visual Learning and Exploration	12
+Distributed Probabilistic Learning for Camera Networks with Missing Data	7
+Submodular-Bregman and the Lovasz-Bregman Divergences with Applications	29
+Minimizing Uncertainty in Pipelines	6
+Practical Bayesian Optimization of Machine Learning Algorithms	818
+Forging The Graphs: A Low Rank and Positive Semidefinite Graph Learning Approach	10
+The Time-Marginalized Coalescent Prior for Hierarchical Clustering	3
+Fusion with Diffusion for Robust Visual Tracking	25
+A nonparametric variable clustering model	12
+Priors for Diversity in Generative Latent Variable Models	48
+A Nonparametric Conjugate Prior Distribution for the Maximizing Argument of a Noisy Function	0
+Convergence Rate Analysis of MAP Coordinate Minimization Algorithms	19
+Projection Retrieval for Classification	6
+Hierarchical spike coding of sound	9
+Human memory search as a random walk in a semantic network	20
+Probabilistic n-Choose-k Models for Classification and Ranking	9
+Complex Inference in Neural Circuits with Probabilistic Population Codes and Topic Models	19
+Cost-Sensitive Exploration in Bayesian Reinforcement Learning	6
+Learning with Partially Absorbing Random Walks	36
+Locating Changes in Highly Dependent Data with Unknown Number of Change Points	11
+Probabilistic Event Cascades for Alzheimer's disease	8
+Efficient and direct estimation of a neural subunit model for sensory coding	27
+One Permutation Hashing	39
+Unsupervised Template Learning for Fine-Grained Object Recognition	102
+Risk Aversion in Markov Decision Processes via Near Optimal	11
+Fast Bayesian Inference for Non-Conjugate Gaussian Process Regression	16
+Imitation Learning by Coaching	34
+Small-Variance Asymptotics for Exponential Family Dirichlet Process Mixture Models	44
+A latent factor model for highly multi-relational data	148
+Entropy Estimations Using Correlated Symmetric Stable Random Projections	3
+Simultaneously Leveraging Output and Task Structures for Multiple-Output Regression	27
+Continuous Relaxations for Discrete Hamiltonian Monte Carlo	15
+Deep Learning of Invariant Features via Simulated Fixations in Video	99
+Best Arm Identification: A Unified Approach to Fixed Budget and Fixed Confidence	75
+On the Sample Complexity of Robust PCA	6
+Latent Coincidence Analysis: A Hidden Variable Model for Distance Metric Learning	15
+Discriminative Learning of Sum-Product Networks	113
+Trajectory-Based Short-Sighted Probabilistic Planning	4
+Tight Bounds on Profile Redundancy and Distinguishability	11
+Interpreting prediction markets: a stochastic approach	17
+Risk-Aversion in Multi-armed Bandits	22
+Confusion-Based Online Learning and a Passive-Aggressive Scheme	10
+Cardinality Restricted Boltzmann Machines	16
+Generalization Bounds for Domain Adaptation	14
