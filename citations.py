@@ -6,7 +6,7 @@ import time
 import numpy as np
 
 parser = argparse.ArgumentParser(description='number of citations crawler')
-parser.add_argument('-input_file', type=str, default='NLP/ACL2015/paperlist.txt')
+parser.add_argument('-input_file', type=str, default='ML/NIPS2012/paperlist.txt')
 args = parser.parse_args()
 
 def main():
@@ -20,7 +20,7 @@ def main():
 
 
     with open(args.input_file, 'r') as f:
-        lines = f.readlines()[610:]  
+        lines = f.readlines()[258:]  
     folder_name = args.input_file.split('.')[0]
 
     #if not os.path.exists(folder_name):
