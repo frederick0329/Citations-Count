@@ -446,7 +446,7 @@ Automatic Features for Essay Scoring – An Empirical Study
 Fei Dong and Yue Zhang
 Vector-space models for PPDB paraphrase ranking in context 
 Marianna Apidianaki
-Human Attention in Visual Question Answering: Do Humans and Deep Networks look at the same regions? 
+Human Attention in Visual Question Answering: Do Humans and Deep Networks look at the same regions?
 Abhishek Das, Harsh Agrawal, Larry Zitnick, Devi Parikh and Dhruv Batra
 Learning to Identify Metaphors from a Corpus of Proverbs 
 Gözde Özbal, Carlo Strapparava, Serra Sinem Tekiroglu and Daniele Pighin
@@ -456,7 +456,7 @@ Orthographic Syllable as basic unit for SMT between Related Languages
 Anoop Kunchukuttan and Pushpak Bhattacharyya
 Transition-Based Dependency Parsing with Heuristic Backtracking 
 Jacob Buckman, Miguel Ballesteros and Chris Dyer
-There’s No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction 
+There's No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction
 Courtney Napoles, Keisuke Sakaguchi and Joel Tetreault
 Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation 
 Toshiaki Nakazawa and Sadao Kurohashi
