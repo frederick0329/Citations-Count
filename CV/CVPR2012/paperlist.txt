@@ -306,7 +306,7 @@ Fast Radial Symmetry Detection Under Affine Transformations
 Jie Ni; Maneesh Singh; Claus Bahlmann
 SURFing the Point Clouds: Selective 3D Spatial Pyramids for Category-level Object Recognition
 Carolina Cabrera; Roberto López-Sastre; Javier Acevedo-Rodríguez; Saturnino Maldonado-Bas
-cónCross-based local multipoint filtering
+conCross-based local multipoint filtering
 Jiangbo Lu; Keyang Shi; Dongbo Min; Liang Lin; Minh Do
 Scene Warping: Layer-based Stereoscopic Image Resizing
 Ken-Yi Lee; Cheng-da Chung; Yung-Yu Chuang
@@ -554,7 +554,7 @@ Maximum Weight Cliques with Mutex Constraints for Video Object Segmentation
 Tianyang Ma; Longin Jan Latecki
 Decomposing and Regularizing Sparse/Non-sparse Components for Motion Field Estimation
 Zhuoyuan CHEN; Ying Wu; Jiang Wang
-Reconﬁgurable Models for Scene Recognition
+Reconfigurable Models for Scene Recognition
 Sobhan Naderi Parizi; John Oberlin; Pedro Felzenszwalb
 Linear Solution to Scale Invariant Global Figure Ground Separation
 Hao Jiang
@@ -654,7 +654,7 @@ Optimal Integration of Photometric and Geometric Surface Measurements Using Inac
 Takayuki Okatani; Koichiro Deguchi
 Sparse Representation for Blind Image Quality Assessment
 Lihuo He
-Robust Stereo with Flash and No-ﬂash Image Pairs
+Robust Stereo with Flash and No-flash Image Pairs
 Changyin Zhou; Alejandro Troccoli; Kari Pulli
 Substructure and Boundary Modeling for Continuous Action Recognition
 Zhaowen Wang; Jinjun Wang; Jing Xiao; Kai-Hsiang Lin; Thomas Huang
@@ -896,7 +896,7 @@ Fast Dynamic Programming for Labeling Problems with Ordering Constraints
 Junjie Bai; Qi Song; Olga Veksler; Xiaodong Wu
 Distribution Fields for Tracking
 Laura Sevilla; Erik Learned-Miller
-The Schrödinger Distance Transform (SDT) for point-sets and curves
+The Schrodinger Distance Transform (SDT) for point-sets and curves
 Manu Sethi; Anand Rangarajan; Karthik Gurumoorthy
 Online Continuous Stereo Extrinsic Parameter Estimation
 Peter Hansen; Peter Rander; Hatem Alismail; Brett Browning

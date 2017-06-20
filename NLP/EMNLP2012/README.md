@@ -1,0 +1,141 @@
+# EMNLP2012 papers
+## Last Updated: 2017-06-19
+- [ ] Semantic Compositionality Through Recursive Matrix-Vector Spaces	548
+- [ ] Open Language Learning For Information Extraction	275
+- [ ] Multi-Instance Multi-Label Learning For Relation Extraction	213
+- [ ] A Transition-Based System For Joint Part-Of-Speech Tagging And Labeled Non-Projective Dependency Parsing	194
+- [ ] Patty: A Taxonomy Of Relational Patterns With Semantic Types	184
+- [ ] A Comparison Of Vector-Based Representations For Semantic Composition	143
+- [ ] Natural Language Questions For The Web Of Data	119
+- [ ] Automatically Constructing A Normalisation Dictionary For Microblogs	105
+- [ ] Joint Entity And Event Coreference Resolution Across Documents	103
+- [ ] Exploring Topic Coherence Over Many Models And Many Topics	91
+- [ ] Supervised Text-Based Geolocation Using Language Models On An Adaptive Grid	85
+- [ ] An Entity-Topic Model For Entity Linking	68
+- [ ] Wiki-Ly Supervised Part-Of-Speech Tagging	68
+- [ ] Opinion Target Extraction Using Word-Based Translation Model	63
+- [ ] Multiple Aspect Summarization Using Integer Linear Programming	61
+- [ ] An "Ai Readability" Formula For French As A Foreign Language	54
+- [ ] Grounded Models Of Semantic Representation	52
+- [ ] Joint Inference For Event Timeline Construction	51
+- [ ] No Noun Phrase Left Behind: Detecting And Typing Unlinkable Entities	50
+- [ ] Ensemble Semantics For Large-Scale Unsupervised Relation Extraction	49
+- [ ] Discovering Diverse And Salient Threads In Document Collections	48
+- [ ] Document-Wide Decoding For Phrase-Based Statistical Machine Translation	47
+- [ ] Bilingual Lexicon Extraction From Comparable Corpora Using Label Propagation	46
+- [ ] Learning-Based Multi-Sieve Co-Reference Resolution With Knowledge.	46
+- [ ] Extracting Opinion Expressions With Semi-Markov Conditional Random Fields	45
+- [ ] Reading The Web With Learned Syntactic-Semantic Inference Rules	45
+- [ ] Excitatory Or Inhibitory: A New Semantic Orientation Extracts Contradiction And Causality From The Web	44
+- [ ] Active Learning For Imbalanced Sentiment Classification	43
+- [ ] User Demographics And Language In An Implicit Social Network	40
+- [ ] Generalized Higher-Order Dependency Parsing With Cube Pruning	40
+- [ ] Parser Showdown At The Wall Street Corral: An Empirical Investigation Of Error Types In Parser Output	40
+- [ ] Polarity Inducing Latent Semantic Analysis	39
+- [ ] Inducing A Discriminative Parser To Optimize Machine Translation Reordering	39
+- [ ] Syntactic Transfer Using A Bilingual Lexicon	38
+- [ ] A Phrase-Discovering Topic Model Using Hierarchical Pitman-Yor Processes	37
+- [ ] A Coherence Model Based On Syntactic Patterns	36
+- [ ] A Beam-Search Decoder For Grammatical Error Correction	36
+- [ ] An Empirical Investigation Of Statistical Significance In Nlp	35
+- [ ] Resolving Complex Cases Of Definite Pronouns: The Winograd Schema Challenge	35
+- [ ] Why Question Answering Using Sentiment Analysis And Word Classes	34
+- [ ] A Systematic Comparison Of Phrase Table Pruning Techniques	33
+- [ ] Unsupervised Pcfg Induction For Grounded Language Learning With Highly Ambiguous Supervision	33
+- [ ] A Novel Discriminative Framework For Sentence-Level Discourse Analysis	33
+- [ ] Employing Compositional Semantics And Discourse Consistency In Chinese Event Extraction	30
+- [ ] Exploring Adaptor Grammars For Native Language Identification	29
+- [ ] Sshlda: A Semi-Supervised Hierarchical Topic Model	29
+- [ ] Spectral Dependency Parsing With Latent Variables	29
+- [ ] Improved Parsing And Pos Tagging Using Inter-Sentence Consistency Constraints	29
+- [ ] Joint Chinese Word Segmentation, Pos Tagging And Parsing	27
+- [ ] Streaming Analysis Of Discourse Participants	27
+- [ ] A Sequence Labelling Approach To Quote Attribution	26
+- [ ] Learning Syntactic Categories Using Paradigmatic Representations Of Word Context	25
+- [ ] Do Neighbours Help? An Exploration Of Graph-Based Algorithms For Cross-Domain Sentiment Classification	24
+- [ ] A New Minimally-Supervised Framework For Domain Word Sense Disambiguation	24
+- [ ] Joint Learning For Coreference Resolution With Markov Logic	24
+- [ ] A Statistical Relational Learning Approach To Identifying Evidence Based Medicine Categories	23
+- [ ] Besting The Quiz Master: Crowdsourcing Incremental Classification Games	22
+- [ ] Learning Verb Inference Rules From Linguistically-Motivated Evidence	21
+- [ ] Entity Based Q&A Retrieval	21
+- [ ] Optimising Incremental Dialogue Decisions Using Information Density For Interactive Systems	21
+- [ ] Sketch Algorithms For Estimating Point Queries In Nlp	20
+- [ ] Multi-Domain Learning: When Do Domains Matter?	20
+- [ ] A Bayesian Model For Learning Scfgs With Discontiguous Rules	19
+- [ ] First Order Vs. Higher Order Modification In Distributional Semantics	18
+- [ ] Source Language Adaptation For Resource-Poor Machine Translation	18
+- [ ] Improving Nlp Through Marginalization Of Hidden Syntactic Structure	18
+- [ ] Lyrics, Music, And Emotions	18
+- [ ] Locally Training The Log-Linear Model For Smt	17
+- [ ] Exploiting Reducibility In Unsupervised Dependency Parsing	17
+- [ ] Biased Representation Learning For Domain Adaptation	17
+- [ ] Enlarging Paraphrase Collections Through Generalization And Instantiation	16
+- [ ] Modelling Sequential Text With An Adaptive Topic Model	16
+- [ ] Unambiguity Regularization For Unsupervised Learning Of Probabilistic Grammars	16
+- [ ] Using Discourse Information For Paraphrase Extraction	16
+- [ ] Mixed Membership Markov Models For Unsupervised Conversation Modeling	16
+- [ ] Identifying Event-Related Bursts Via Social Media Activities	16
+- [ ] Type-Supervised Hidden Markov Models For Part-Of-Speech Tagging With Incomplete Tag Dictionaries	16
+- [ ] Parse, Price And Cut-Delayed Column And Row Generation For Graph Based Parsers	15
+- [ ] Word Salad: Relating Food Prices And Descriptions	15
+- [ ] Minimal Dependency Length In Realization Ranking	15
+- [ ] Unified Dependency Parsing Of Chinese Morphological And Syntactic Structures	15
+- [ ] Three Dependency-And-Boundary Models For Grammar Induction	15
+- [ ] Entropy-Based Pruning For Phrase-Based Machine Translation	14
+- [ ] Automatic Text Summarization Using Reinforcement Learning	14
+- [ ] Learning Lexicon Models From Search Logs For Query Expansion	13
+- [ ] Learning Constraints For Consistent Timeline Extraction	13
+- [ ] Aligning Predicates Across Monolingual Comparable Texts Using Graph-Based Clustering	13
+- [ ] Characterizing Stylistic Elements In Syntactic Structure	12
+- [ ] Language Model Rest Costs And Space-Efficient Storage	12
+- [ ] Transforming Trees To Improve Syntactic Convergence	12
+- [ ] Assessment Of Esl Learners' Syntactic Competence Based On Similarity Measures	11
+- [ ] Dynamic Programming For Higher Order Parsing Of Gap-Minding Trees	10
+- [ ] On Amortizing Inference Cost For Structured Prediction	10
+- [ ] Collocation Polarity Disambiguation Using Web-Based Pseudo Contexts	10
+- [ ] Generalizing Sub-Sentential Paraphrase Acquisition Across Original Signal Of Text Pairs	9
+- [ ] A Weakly Supervised Model For Sentence-Level Semantic Orientation Analysis With Multiple Experts	9
+- [ ] A Discriminative Model For Query Spelling Correction With Latent Structural Svm	9
+- [ ] Regularized Interlingual Projections: Evaluation On Multilingual Transliteration	9
+- [ ] Towards Efficient Named-Entity Rule Induction For Customizability	9
+- [ ] Fast Large-Scale Approximate Graph Construction For Nlp	9
+- [ ] Training Factored Pcfgs With Expectation Propagation	8
+- [ ] Exploiting Chunk-Level Features To Improve Phrase Chunking	7
+- [ ] Exact Sampling And Decoding In High-Order Hidden Markov Models	7
+- [ ] Revisiting The Predictability Of Language: Response Completion In Social Media	7
+- [ ] Translation Model Based Cross-Lingual Language Model Adaptation: From Word Models To Phrase Models	6
+- [ ] Domain Adaptation For Coreference Resolution: An Adaptive Ensemble Approach	6
+- [ ] Concurrent Acquisition Of Word Meaning And Lexical Categories	6
+- [ ] Re-Training Monolingual Parser Bilingually For Syntactic Smt	5
+- [ ] Constructing Task-Specific Taxonomies For Document Collection Browsing	5
+- [ ] Resolving "This-Issue" Anaphora	5
+- [ ] Generative Goal-Driven User Simulation For Dialog Management	5
+- [ ] Identifying Constant And Unique Relations By Using Time-Series Texts	5
+- [ ] Universal Grapheme-To-Phoneme Prediction Over Latin Alphabets: A Graphical Model Approach	5
+- [ ] Iterative Annotation Transformation With Predict-Self Reestimation For Chinese Word Segmentation	5
+- [ ] Explore Person Specific Evidence In Web Person Name Disambiguation	4
+- [ ] A Unified Approach To Transliteration-Based Text Input With Online Spelling Correction	4
+- [ ] Lexical Differences In Autobiographical Narratives From Schizophrenic Patients And Healthy Controls	4
+- [ ] Forest Reranking Through Subtree Ranking	4
+- [ ] Generating Non-Projective Word Order In Statistical Linearization	3
+- [ ] Left-To-Right Tree-To-String Decoding With Dynamic Future Cost	3
+- [ ] Building A Lightweight Semantic Model For Unsupervised Information Extraction On Short Listings	2
+- [ ] Part-Of-Speech Tagging For Chinese-English Mixed Texts With Dynamic Features	2
+- [ ] Probabilistic Finite State Machines For Regression-Based Mt Evaluation	2
+- [ ] Improving Transition-Based Dependency Parsing With Buffer Transitions	1
+- [ ] Cross-Lingual Language Modeling With Syntactic Reordering For Low-Resource Speech Recognition	1
+- [ ] Forced Derivation Tree Based Model Training To Statistical Machine Translation	0
+- [ ] Answering Product Opinionated Questions By Exploiting Hierarchical Organization Of Consumer Reviews	-1
+- [ ] Extending Machine Translation Evaluation Metrics For Document Level Evaluation Based On Lexical Cohesion	-1
+- [ ] Resolving Metonymies With Local And Global Context	-1
+- [ ] N-Gram-Based Tense Model For Statistical Machine Translation	-1
+- [ ] Joining Languages Pays Off: A Multilingual Joint Approach To Knowledge-Based Word Sense Disambiguation	-1
+- [ ] Learning To Map Into Universal Pos Tagset	-1
+- [ ] Weakly Supervised Semantic Parsing	-1
+- [ ] Monte Carlo Mcmc: Efficient Inference For High-Degree Graphical Models Using Approximate Mcmc	-1
+- [ ] Syntactic Surprisal Has An Effect On Spoken Word Duration	-1
+- [ ] Improving Out Of Domain Machine Translation With Decipherment	-1
+- [ ] Resolving Named Entities To Any Database	-1
+- [ ] Signed Attitude Networks: Predicting Positive And Negative Links Using Linguistic Analysis	-1
+- [ ] Learning String-To-String Transducers Via Transformation Models	-1

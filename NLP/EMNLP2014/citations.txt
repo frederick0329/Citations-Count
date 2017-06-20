@@ -1,0 +1,224 @@
+Modeling Interestingness with Deep Neural Networks	68
+Translation Modeling with Bidirectional Recurrent Neural Networks	54
+A Neural Network Approach to Selectional Preference Acquisition	14
+Learning Image Embeddings using Convolutional Neural Networks for Improved Multi-Modal Semantics	58
+Identifying Argumentative Discourse Structures in Persuasive Essays	-1
+Policy Learning for Domain Selection in an Extensible Multi-domain Spoken Dialogue System	11
+A Constituent-Based Approach to Argument Labeling with Joint Inference in Discourse Parsing	19
+Strongly Incremental Repair Detection	10
+Semi-Supervised Chinese Word Segmentation Using Partial-Label Learning With Conditional Random Fields	12
+Accurate Word Segmentation and POS Tagging for Japanese Microblogs: Corpus Annotation and Joint Modeling with Lexical Normalization	9
+Revisiting Embedding Features for Simple Semi-supervised Learning	55
+Combining Punctuation and Disfluency Prediction: An Empirical Study	5
+Submodularity for Data Selection in Machine Translation	22
+Aligning context-based statistical models of language with brain activity during reading	11
+A Cognitive Model of Semantic Network Learning	2
+Learning Abstract Concept Embeddings from Multi-Modal Data: Since You Probably Can't See What I Mean	28
+Go Climb a Dependency Tree and Correct the Grammatical Errors	3
+An Unsupervised Model for Instance Level Subcategorization Acquisition	15
+Parsing low-resource languages using Gibbs sampling for PCFGs with latent annotations	4
+Incremental Semantic Role Labeling with Tree Adjoining Grammar	4
+A Graph-based Approach for Contextual Text Normalization	9
+ReNoun: Fact Extraction for Nominal Attributes	32
+Hierarchical Discriminative Classification for Text-Based Geolocation	18
+Probabilistic Models of Cross-Lingual Semantic Similarity in Context Based on Latent Cross-Lingual Concepts Induced from Comparable Data	11
+Multi-Predicate Semantic Role Labeling	13
+Werdy: Recognition and Disambiguation of Verbs and Verb Phrases with Syntactic and Semantic Pruning	10
+Multi-Resolution Language Grounding with Weak Supervision	6
+Incorporating Vector Space Similarity in Random Walk Inference over Knowledge Bases	43
+An I-vector Based Approach to Compact Multi-Granularity Topic Spaces Representation of Textual Documents	10
+Explaining the Stars: Weighted Multiple-Instance Learning for Aspect-Based Sentiment Analysis	14
+Sentiment Analysis on the People's Daily	4
+A Joint Segmentation and Classification Framework for Sentiment Analysis	9
+Positive Unlabeled Learning for Deceptive Reviews Detection	20
+Resolving Shell Nouns	4
+A Comparison of Selectional Preference Models for Automatic Verb Classification	2
+Learning to Solve Arithmetic Word Problems with Verb Categorization	49
+NaturalLI: Natural Logic Inference for Common Sense Reasoning	31
+Modeling Term Translation for Document-informed Machine Translation	3
+Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation	8
+Latent Domain Phrase-based Models for Adaptation	6
+Translation Rules with Right-Hand Side Lattices	6
+Learning to Translate: A Query-Specific Combination Approach for Cross-Lingual Information Retrieval	5
+Semantic-Based Multilingual Document Clustering via Tensor Modeling	4
+A Neural Network for Factoid Question Answering over Paragraphs	133
+Finding Good Enough: A Task-Based Evaluation of Query Biased Summarization for Cross-Language Information Retrieval	1
+Chinese Poetry Generation with Recurrent Neural Networks	39
+Fear the REAPER: A System for Automatic Multi-Document Summarization with Reinforcement Learning	5
+Improving Multi-documents Summarization by Sentence Compression based on Expanded Constituent Parse Trees	20
+Evaluating Neural Word Representations in Tensor-Based Compositional Settings	44
+Opinion Mining with Deep Recurrent Neural Networks	89
+The Inside-Outside Recursive Neural Network model for Dependency Parsing	37
+A Fast and Accurate Dependency Parser using Neural Networks	502
+Why are You Taking this Stance? Identifying and Classifying Reasons in Ideological Debates	42
+Chinese Zero Pronoun Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers	4
+Unsupervised Sentence Enhancement for Automatic Summarization	15
+ReferItGame: Referring to Objects in Photographs of Natural Scenes	72
+Unsupervised Template Mining for Semantic Category Understanding	1
+Taxonomy Construction Using Syntactic Contextual Evidence	20
+Analysing recall loss in named entity slot filling	8
+Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features	12
+Syllable weight encodes mostly the same information for English word segmentation as dictionary stress	1
+A Joint Model for Unsupervised Chinese Word Segmentation	7
+Domain Adaptation for CRF-based Chinese Word Segmentation using Free Annotations	14
+What Can We Get From 1000 Tokens? A Case Study of Multilingual POS Tagging For Resource-Poor Languages	11
+An Experimental Comparison of Active Learning Strategies for Partially Labeled Sequences	8
+Language Modeling with Functional Head Constraint for Code Switching Speech Recognition	3
+A Polynomial-Time Dynamic Oracle for Non-Projective Dependency Parsing	38
+Ambiguity Resolution for Vt-N Structures in Chinese	2
+Neural Networks Leverage Corpus-wide Information for Part-of-speech Tagging	13
+System Combination for Grammatical Error Correction	12
+Data Driven Grammatical Error Detection in Transcripts of Children's Speech	2
+A* CCG Parsing with a Supertag-factored Model	-1
+A Dependency Parser for Tweets	95
+Greed is Good if Randomized: New Inference for Dependency Parsing	28
+A Unified Model for Word Sense Representation and Disambiguation	102
+Reducing Dimensions of Tensors in Type-Driven Distributional Semantics	15
+An Etymological Approach to Cross-Language Orthographic Similarity. Application on Romanian	6
+Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space	138
+Tailor knowledge graph for query understanding: linking intent topics by propagation	0
+Queries as a Source of Lexicalized Commonsense Knowledge	3
+Question Answering over Linked Data Using First-order Logic	13
+Knowledge Graph and Corpus Driven Segmentation and Answer Inference for Telegraphic Entity-seeking Queries	18
+A Regularized Competition Model for Question Difficulty Estimation in Community Question Answering Services	3
+Vote Prediction on Comments in Social Polls	3
+Exploiting Community Emotion for Microblog Event Detection	5
+Detecting Disagreement in Conversations using Pseudo-Monologic Rhetorical Structure	10
++/-EffectWordNet: Sense-level Lexicon Acquisition for Opinion Inference	13
+A Sentiment-aligned Topic Model for Product Aspect Rating Prediction	18
+An Iterative Link-based Method for Parallel Web Page Mining	5
+Human Effort and Machine Learnability in Computer Aided Translation	22
+Exact Decoding for Phrase-Based Statistical Machine Translation	2
+Large-scale Expected BLEU Training of Phrase-based Reordering Models	13
+Confidence-based Rewriting of Machine Translation Output	0
+Learning Compact Lexicons for CCG Semantic Parsing	14
+Morpho-syntactic Lexical Generalization for CCG Semantic Parsing	7
+Semantic Parsing Using Content and Context: A Case Study from Requirements Elicitation	3
+Semantic Parsing with Relaxed Hybrid Trees	4
+Low-dimensional Embeddings for Interpretable Anchor-based Topic Inference	12
+Weakly-Supervised Learning with Cost-Augmented Contrastive Estimation	0
+Don't Until the Final Verb Wait: Reinforcement Learning for Simultaneous Machine Translation	10
+PCFG Induction for Unsupervised Parsing and Language Modelling	2
+Can characters reveal your native language? A language-independent approach to native language identification	21
+Formalizing Word Sampling for Vocabulary Prediction as Graph-based Active Learning	2
+Device-Dependent Readability for Improved Text Understanding	1
+Predicting Chinese Abbreviations with Minimum Semantic Unit and Global Constraints	0
+Using Structured Events to Predict Stock Price Movement: An Empirical Investigation	17
+Extracting Clusters of Specialist Terms from Unstructured Text	2
+Citation-Enhanced Keyphrase Extraction from Research Papers: A Supervised Approach	20
+Language Modeling with Power Low Rank Ensembles	2
+Modeling Biological Processes for Reading Comprehension	57
+Sensicon: An Automatically Constructed Sensorial Lexicon	3
+Word Semantic Representations using Bayesian Probabilistic Tensor Factorization	9
+Glove: Global Vectors for Word Representation	1849
+Jointly Learning Word Representations and Composition Functions Using Predicate-Argument Structures	15
+Combining Distant and Partial Supervision for Relation Extraction	56
+Typed Tensor Decomposition of Knowledge Bases for Relation Extraction	71
+A convex relaxation for weakly supervised relation extraction	6
+Knowledge Graph and Text Jointly Embedding	69
+Abstractive Summarization of Product Reviews Using Discourse Structure	30
+Clustering Aspect-related Phrases by Leveraging Sentiment Distribution Consistency	9
+Automatic Generation of Related Work Sections in Scientific Papers: An Optimization Approach	2
+Fast and Accurate Misspelling Correction in Large Corpora	2
+Assessing the Impact of Translation Errors on Machine Translation Quality with Mixed-effects Models	4
+Refining Word Segmentation Using a Manually Aligned Corpus for Statistical Machine Translation	2
+Improving Pivot-Based Statistical Machine Translation by Pivoting the Co-occurrence Count of Phrase Pairs	10
+Word Translation Prediction for Morphologically Rich Languages with Bilingual Neural Networks	10
+Dependency-Based Bilingual Language Models for Reordering in Statistical Machine Translation	8
+Combining String and Context Similarity for Bilingual Term Alignment from Comparable Corpora	7
+Random Manhattan Integer Indexing: Incremental L1 Normed Vector Space Construction	9
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation	1136
+Type-based MCMC for Sampling Tree Fragments from Forests	3
+Modeling Joint Entity and Relation Extraction with Table Representation	10
+ZORE: A Syntax-based System for Chinese Open Relation Extraction	9
+Coarse-grained Candidate Generation and Fine-grained Re-ranking for Chinese Abbreviation Prediction	0
+Type-Aware Distantly Supervised Relation Extraction with Linked Arguments	15
+Automatic Inference of the Tense of Chinese Events Using Implicit Linguistic Information	4
+Joint Inference for Knowledge Base Population	0
+Search-Aware Tuning for Machine Translation	6
+Latent-Variable Synchronous CFGs for Hierarchical Translation	7
+Gender and Power: How Gender and Gender Environment Affect Manifestations of Power	9
+Online topic model for Twitter considering dynamics of user interests and topic trends	11
+Self-disclosure topic model for classifying and analyzing Twitter conversations	10
+Major Life Event Extraction from Twitter based on Congratulations/Condolences Speech Acts	31
+Brighter than Gold: Figurative Language in User Generated Comparisons	7
+Classifying Idiomatic and Literal Expressions Using Topic Models and Intensity of Emotions	10
+Learning Spatial Knowledge for Text to 3D Scene Generation	25
+A Model of Coherence Based on Distributed Sentence Representation	25
+Discriminative Reranking of Discourse Parses Using Tree Kernels	11
+Recursive Deep Models for Discourse Parsing	46
+Recall Error Analysis for Coreference Resolution	11
+A Rule-Based System for Unrestricted Bridging Resolution: Recognizing Bridging Anaphora and Finding Links to Antecedents	6
+Resolving Referring Expressions in Conversational Dialogs for Natural User Interfaces	10
+Building Chinese Discourse Corpus with Connective-driven Dependency Tree Structure	21
+Prune-and-Score: Learning for Greedy Coreference Resolution	18
+Improve Statistical Machine Translation with Context-Sensitive Bilingual Semantic Embedding Model	8
+Transformation from Discontinuous to Continuous Word Alignment Improves Translation Quality	0
+Unsupervised Word Alignment Using Frequency Constraint in Posterior Regularized EM	4
+Asymmetric Features Of Human Generated Translation	5
+Syntax-Augmented Machine Translation using Syntax-Label Clustering	4
+Testing for Significance of Increased Correlation with Human Judgment	8
+Syntactic SMT Using a Discriminative Text Generation Model	5
+Learning Hierarchical Translation Spans	8
+Neural Network Based Bilingual Language Model Growing for Statistical Machine Translation	19
+Better Statistical Machine Translation through Linguistic Treatment of Phrasal Verbs	7
+Fitting Sentence Level Translation Evaluation with Many Dense Features	13
+A Human Judgement Corpus and a Metric for Arabic MT Evaluation	2
+Learning to Differentiate Better from Worse Translations	6
+Two Improvements to Left-to-Right Decoding for Hierarchical Phrase-based Machine Translation	3
+Reordering Model for Forest-to-String Machine Translation	1
+Composition of Word Representations Improves Semantic Role Labelling	21
+Automatic Domain Assignment for Word Sense Alignment	0
+Nothing like Good Old Frequency: Studying Context Filters for Distributional Thesauri	7
+Aligning English Strings with Abstract Meaning Representation Graphs	14
+A Shortest-path Method for Arc-factored Semantic Role Labeling	2
+Semantic Kernels for Semantic Parsing	1
+Lexical Substitution for the Medical Domain	1
+Question Answering with Subgraph Embeddings	130
+Correcting Keyboard Layout Errors and Homoglyphs in Queries	0
+Non-linear Mapping for Improved Identification of 1300+ Languages	7
+Joint Relational Embeddings for Knowledge-based Question Answering	29
+Adding High-Precision Links to Wikipedia	8
+Analyzing Stemming Approaches for Turkish Multi-Document Summarization	0
+Balanced Korean Word Spacing with Structural SVM	1
+Morphological Segmentation for Keyword Spotting	14
+Dependency parsing with latent refinements of part-of-speech tags	2
+Importance weighting and unsupervised domain adaptation of POS taggers: a negative result	1
+POS Tagging of English-Hindi Code-Mixed Social Media Content	42
+Exploiting Social Relations and Sentiment for Stock Prediction	13
+Developing Age and Gender Predictive Lexica over Social Media	53
+Dependency Parsing for Weibo: An Efficient Probabilistic Logic Programming Approach	2
+Learning Emotion Indicators from Tweets: Hashtags, Hashtag Patterns, and Phrases	12
+Fine-Grained Contextual Predictions for Hard Sentiment Words	2
+Language Transfer Hypotheses with Linear SVM Weights	17
+Predicting Dialect Variation in Immigrant Contexts Using Light Verb Constructions	1
+Using Mined Coreference Chains as a Resource for a Semantic Task	8
+Financial Keyword Expansion via Continuous Word Vector Representations	2
+Intrinsic Plagiarism Detection using N-gram Classes	3
+Verifiably Effective Arabic Dialect Identification	14
+Keystroke Patterns as Prosody in Digital Writings: A Case Study with Deceptive Reviews and Essays	9
+Leveraging Effective Query Modeling Techniques for Speech Recognition and Summarization	6
+Staying on Topic: An Indicator of Power in Political Debates	9
+Convolutional Neural Networks for Sentence Classification	875
+Sometimes Average is Best: The Importance of Averaging for Prediction using MCMC Inference in Topic Modeling	10
+Large-scale Reordering Model for Statistical Machine Translation using Dual Multinomial Logistic Regression	2
+Improved Decipherment of Homophonic Ciphers	2
+Cipher Type Detection	4
+Joint Learning of Chinese Words, Terms and Keywords	1
+Cross-Lingual Part-of-Speech Tagging through Ambiguous Learning	18
+Comparing Representations of Semantic Roles for String-To-Tree Decoding	2
+Detecting Non-compositional MWE Components using Wiktionary	2
+Joint Emotion Analysis via Multi-task Gaussian Processes	11
+Detecting Latent Ideology in Expert Text: Evidence From Academic Papers in Economics	7
+A Model of Individual Differences in Gaze Control During Reading	1
+Muli-label Text Categorization with Hidden Components	0
+#TagSpace: Semantic Embeddings from Hashtags	40
+Joint Decoding of Tree Transduction Models for Sentence Compression	2
+Dependency-based Discourse Parser for Single-Document Summarization	19
+Improving Word Alignment using Word Similarity	16
+Constructing Information Networks Using One Single Model	24
+Event Role Extraction using Domain-Relevant Word Representations	4
+Combining Visual and Textual Features for Information Extraction from Online Flyers	6
+CTPs: Contextual Temporal Profiles for Time Scoping Facts using State Change Detection	1
+Noisy Or-based model for Relation Extraction using Distant Supervision	6
+Summarizing Online Forum Discussions - Can Dialog Acts of Individual Messages Help?	4

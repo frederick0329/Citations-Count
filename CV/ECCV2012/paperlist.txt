@@ -1,0 +1,816 @@
+Semi-Intrinsic Mean shift on Riemannian Manifolds
+Rui Caseiro (Institute Systems Robotics), Joao F Henriques (ISR), PedroMartins (ISR), Jorge Batista (Institute Systems Robotics – University Coimbra- Portugal)
+Online Learning of Linear Predictors for Real-Time Tracking
+Stefan Holzer (Technische Universität München), Marc Pollefeys,Slobodan Ilic (TUM), David Joseph Tan (Technische Universität München), Nassir Navab (Technische Universität München)
+Learning to Efficiently Detect Repeatable Interest Points in Depth Data
+Stefan Holzer (Technische Universität München), Jamie Shotton (MicrosoftResearch Cambridge), Pushmeet Kohli
+Effective Use of Frequent Itemset Mining for Image Classification
+Basura Fernando (K.U. Leuven), Elisa Fromont (University Jean Monnet Saint Etienne France), Tinne Tuytelaars
+Diverse M-Best Solutions in Markov Random Fields
+Dhruv Batra (TTIC), Payman Yadollahpour (TTIC), Abner Guzman-Rivera (UIUC), Greg Shakhnarovich (TTIC)
+Attributes for classifier feedback
+Amar Prakash (IIIT-D), Devi Parikh (TTIC)
+Lie Bodies: A Manifold Representation of 3D Human Shape
+Oren Freifeld (Brown University), Michael Black (Max Planck Institute for Intelligent Systems)
+Modeling Complex Temporal Composition of Actionlets for Activity Prediction
+Kang Li, Jie Hu (State University of New York (SUNY) at Buffalo), YunFu (SUNY at Buffalo)
+Object Co-detection
+Yinzge Bao (U of Michigan at Ann Arbor), Yu Xiang (University of Michigan), Silvio Savarese (The University of Michigan - Ann Arbor)
+Shape and Reflectance from Natural Illumination
+Geoffrey Oxholm (Drexel University), Ko Nishino (Drexel University)
+Efficient Discriminative Projections for Compact Binary Descriptors
+Tomasz Trzcinski (EPFL), Vincent Lepetit
+Efficient Nonlocal Regularization for Optical Flow
+Philipp KrähenbÂ¸hl (Stanford University), Vladlen Koltun (Stanford University)
+Morphable Displacement Field based Image Matching for Face RecognitionAcross Pose
+shaoxin Li (ICT - CAS), xin Liu (Institute of Computing Chinese Academy of Science), Xiujuan Chai (ICT -CAS), Haihong Zhang (Omron), Shihong Lao (Omron),Shiguang Shan (ICT - CAS)
+Frequency Analysis of Transient Light Transport with Applications in BareSensor Imaging
+Di Wu (MIT Media Lab), GordonWetzstein (MIT Media Lab), Christopher Barsi (MIT Media Lab), Thomas Willwacher (Harvard University), Matthew O’Toole (University of Toronto),Nikhil Naik (MIT Media Lab), Qionghai Dai (Tsinghua University), Kyros Kutulakos, Ramesh Raskar (MIT Media Lab)
+Descriptor Learning Revisited
+Karen Simonyan (University of Oxford), Andrea Vedaldi (Oxford U), Andrew Zisserman
+Reconstructing the World's Museums
+Jianxiong Xiao (MIT), Yasutaka Furukawa (Google)
+Online Learned Discriminative Part-Based Appearance Models forMulti-Human Tracking
+Bo Yang (USC), Ram Nevatia
+Fast Fusion Moves for Multi-Model Estimation
+Andrew Delong (University of Western Ontario), Olga Veksler (University of Western Ontario), Yuri Boykov (University of Western Ontario)
+Segmentation with non-linear regional constraints via line-search cuts
+Lena Gorelick (University of Western Ontario), Frank Schmidt (ESIEE), Yuri Boykov (University of Western Ontario), Andrew Delong (University of Western Ontario), Aaron Ward (University of Western Ontario)
+Hausdorff Distance Constraint for Multi-Surface Segmentation
+Frank Schmidt (ESIEE), Yuri Boykov (University of Western Ontario)
+Background Subtraction using Group Sparsity and Low Rank constraint
+Xinyi Cui (Rutgers University), Junzhou Huang, shaoting Zhang (Rutgers University), Dimitris Metaxas (Rutgers University)
+Exposure Stacks of Live Scenes with Hand-held Cameras
+Jun Hu (Duke University), Orazio Gallo (NVIDIA Research), Kari Pulli (NVIDIA Research)
+Frequency-Space Decomposition and Acquisition of Light Transport under Spatially Varying Illumination
+Dikpal Reddy (UC Berkeley), Ravi Ramamoorthi, Brian Curless
+Worldwide Pose Estimation Using 3D Point Cloud Models
+Yunpeng Li (EPFL), Noah Snavely (Cornell University), Daniel Huttenlocher, Pascal Fua (EPFL)
+Combining Per-Frame and Per-Track Cues for Multi-Person ActionRecognition
+Sameh Khamis (University of Maryland), Vlad Morariu (University of Maryland), Larry Davis (University of Maryland)
+A graph cut algorithm based on approximating the signed bi-form graph
+Alex Fix (Cornell), Joyce Chen (Cornell), Endre Boros (Rutgers), RaminZabih
+Recursive Bilateral Filtering
+Qingxiong Yang (City University of Hong Kong)
+Accelerated Large-Scale Optimization by Concomitant Hashing
+Yadong Mu (Columbia University), John Wright (Columbia University), Shih-Fu Chang (Columbia)
+Graph Degree Linkage: Agglomerative Clustering on a Directed Graph
+Wei Zhang (CUHK), Xiaogang Wang (The Chinese University of HK), Deli Zhao (CUHK), Xiaoou Tang
+Joint Image and Word Sense Discrimination For Image Retrieval
+Aurelien Lucchi (EPFL), Jason Weston (google)
+Supervised Earth Mover’s Distance Learning and Its Computer Vision Applications
+Fan Wang (Stanford University), Leonidas Guibas (Stanford University)
+Metric Learning for Large Scale Image Classification: Generalizing to New Classes at Near-Zero Cost
+Thomas Mensink (INRIA Rhone Alpes), Jakob Verbeek, Gabriela Csurka (XRCE), Florent Perronnin (XRCE)
+Knowledge-Oriented Sketch Segmentation
+Zhenbang Sun (Shanghai Jiao Tong University), Changhu Wang (Microsoft Research Asia), Liqing Zhang (Shanghai Jiao Tong University), Lei Zhang (MSRA)
+Global Optimization of Object Pose and Motion from a Single RollingShutter Image with Automatic 2D-3D Matching
+Ludovic MAGERAND (Clermont-UniversitÃ©)
+Script Data for Attribute-based Recognition of Composite Activities
+Marcus Rohrbach (MPI Informatics), Michaela Regneri (Saarland University), Mykhaylo Andriluka (MPI Informatik), Sikandar Amin (Max-Planck - TU Munich),Manfred Pinkal, Bernt Schiele
+Auto-grouped Sparse Representation for Visual Analysis
+Jiashi Feng (NUS), Xiaotong Yuan, zilei Wang, Huan Xu, Shuicheng Yan
+Dual-force Metric Learning for Robust Distractor Resistant Tracker
+Zhibin Hong (University of Technology - Sydn)
+Undoing the Damage of Dataset Bias
+Aditya Khosla (MIT), Tinghui Zhou (CMU), Tomasz Malisiewicz (MIT), Alyosha Efros (CMU), Antonio Torralba (MIT)
+[Best Paper Award] Segmentation Propagation in ImageNet
+Daniel Kuettel (ETH Zurich), Matthieu Guillaumin (ETH Zurich), Vittorio Ferrari
+Improved Reconstruction of Deforming Surfaces by Cancelling Ambient Occlusion
+Thabo Beeler (ETH), Derek Bradley (Disney Research Zurich), Henning Zimmer (ETH Zurich), Markus Gross (ETH Zurich)
+A Unified Framework for Multi-Target Tracking and Collective Activity Recognition
+Wongun Choi (The University of Michigan), Silvio Savarese (The University of Michigan - Ann Arbor)
+Dog Breed Classi?cation Using Part Localization
+Jiongxin Liu (Columbia University), Angjoo Kanazawa, David Jacobs, Peter Belhumeur (Columbia University)
+On the statistical determination of optimal camera configurations in multi-camera surveillance networks
+Junbin Liu (QUT), Tim Wark (CSIRO), Sridha Sridharan (Queensland University of Technology)
+A Dictionary Learning Approach for Classification: Separating the Particularity and the Commonality
+Donghui Wang (Zhejiang University), Shu Kong (Zhejiang University)
+Exact Acceleration of Linear Object Detectors
+Charles Dubout (Idiap), FranÃ§ois Fleuret (Idiap)
+Bottom-Up Perceptual Organization of Images into Object Part Hypotheses
+Maruthi Narayanan (Brown University), Benjamin Kimia (Brown University)
+Learning Human Interaction by Interactive Phrases
+Yu Kong (Beijing Institute of Technology), Yunde Jia (Beijing Inst. of Tech.), Yun Fu (SUNY at Buffalo)
+Structured Image Segmentation using Kernelized Features
+Aurelien Lucchi (EPFL), Yunpeng Li (EPFL), Kevin Smith (EHTZ), Pascal Fua (EPFL)
+The Scale of Geometric Texture
+Geoffrey Oxholm (Drexel University), Ko Nishino (Drexel University)
+Salient Object Detection: A Benchmark
+Ali Borji (University of Southern Califor), Dicky Sihite (University of Southern California), Laurent Itti (University of Southern California)
+Multi-Task Order Preserving Sparse Coding For Time Sequence Classification
+Bingbing Ni (ADSC), Shuicheng Yan, Pierre Moulin (UIUC)
+Shape Sharing for Object Segmentation
+Jaechul Kim (University of Texas at Austin), Kristen Grauman
+Efficient Articulated Trajectory Reconstruction using Dynamic Programming and Filters
+Jack Valmadre (CSIRO), Yingying Zhu (Csiro), Sridha Sridharan (Queensland University of Technology), Simon Lucey (CSIRO)
+Nonuniform Lattice Regression for Modeling the Camera Imaging Pipeline
+Hai Ting Lin (NUS), Zheng Lu (University of Texas At Austin), Seon JooKim (SUNY Korea), Michael S. Brown
+Background Inpainting for Videos with Dynamic Objects and a Free-moving Camera
+Miguel Granados (MPI Informatik), Kwang In Kim (MPI for Informatics), James Tompkin (UCL), Jan Kautz (UCL), Christian Theobalt (MPI Informatik)
+Match Graph Construction for Large Image Databases
+Kwang In Kim (MPI for Informatics), James Tompkin (University College London), Martin Theobald, Jan Kautz (UCL), Christian Theobalt (MPI forInformatics)
+From Meaningful Contours to Discriminative Object Shape
+Pradeep krishna Yarlagadda (University of Heidelberg), Bjorn Ommer
+[Best Paper Award Honorable Mention] Activity Forecasting
+Kris Kitani (Carnegie Mellon University), James Bagnell, Martial Hebert
+Context-Based Automatic Local Image Enhancement
+Sung Ju Hwang (University of Texas - Austin), Ashish Kapoor (Microsoft Research), Sing Bing Kang (Microsoft Research)
+Statistics of Patch Offsets for Image Completion
+Kaiming He (Microsoft Research Asia), Jian Sun (Microsoft Research Asia)
+Min-Space Integral Histogram
+SÃˆverine Dubuisson (LIP6 – UPMC), Christophe Gonzales (LIP6 – UPMC)
+Automatic Segmentation of Unknown Objects, with Application to Baggage Security
+Leo Grady (Siemens Corporate Research), Vivek Singh, Timo Kohlberger, Christopher Alvino, Claus Bahlmann
+Optimal Templates for Non-Rigid Surface Reconstruction
+Markus Moll (K.U.Leuven), Luc Van Gool
+Heliometric Stereo: Shape from Sun Position
+Austin Abrams (Washington University), Christopher Hawley, Robert Pless (Washington University)
+Multi-channel Shape-Flow Kernel Descriptors for Robust Video Event Detection and Retrieval
+Pradeep Natarajan (Raytheon BBN Technologies), Shuang Wu (Raytheon BBN Technologies), Unsang Park (Raytheon BBNTechnologies), Shiv Vitaladevuni (Raytheon BBN Technologies), Rohit Prasad (Raytheon BBN Technologies - Inc), Premkumar Natarajan (Raytheon BBN Technologies -Inc)
+A Particle Filter Framework for Contour Detection
+Nicolas Widynski (University of Montreal), Max Mignotte (University ofMontreal)
+Action Recognition with Exemplar Based 2.5D Graph Matching
+Bangpeng Yao (Stanford University), Li Fei-fei
+TriCoS: A Tri-level Class-Discriminative Co-Segmentation Method for Image Classification
+Yuning Chai (ETH Zurich), Esa Rahtu, Andrew Zisserman, VictorLempitsky, Luc Van Gool
+On Learning Higher-Order Consistency Potentials for Multi-class Pixel Labeling
+Kyoungup Park (ANU), Stephen Gould (ANU)
+Spectral Demons – Image Registration via Global Spectral Correspondence
+Ã©e Lombaert (Polytechnique), Leo Grady (Siemens Corporate Research), Xavier Pennec (INRIA Sophia-Antipolis), Nicholas Ayache (INRIASophia-Antipolis), Farida Cheriet (Polytechnique)
+Multi-view Discriminant Analysis
+Meina Kan (ICT - GUCAS - China), Shiguang Shan (ICT - CAS), Haihong Zhang (Omron), Shihong Lao (Omron Company), xilin Chen
+Multi-scale Patch based Collaborative Representation for Face Recognition with Margin Distribution Optimization
+Pengfei Zhu (The Hong Kong PolyU), Lei Zhang (The Hong Kong Polytechnic Univ), Qinghua Hu (Tianjin University), Simon Shiu (The Hong Kong PolyU)
+Learning to Recognize Daily Actions using Gaze
+Alireza Fathi (Georgia Institute of Technolog), Yin Li (Georgia Institute of Technology), James Rehg (Georgia Institute of Technology)
+Multi-Scale Clustering of Frame-to-Frame Correspondences for Motion Segmentation
+Ralf Dragon (Leibniz Universit\auml),t Hannover, Bodo Rosenhahn, Joern Ostermann
+Learning Domain Knowledge for Facade Labelling
+Dengxin Dai (ETH Zurich), Mukta Prasad (ETH Zurich), Gerhard Schmitt (ETHZ), Luc Van Gool
+Object detection using strongly-supervised deformable part models
+Hossein Azizpour (KTH), Ivan Laptev
+Simultaneous Shape and Pose Adaption of Articulated Models using Linear Optimization
+Matthias Straka (Graz University Of Technology), Stefan Hauswiesner (Graz University of Technology), Matthias Rüther (Graz University of Technology), Horst Bischof
+Efficient Misalignment-Robust Representation for Real-Time FaceRecognition
+Meng Yang (The Hong Kong Polytechnic Univ), Lei Zhang (The Hong Kong Polytechnic Univ), David Zhang (The Hong Kong Polytechnic Univ)
+Monocular Object Detection using 3D Geometric Primitives
+Peter Carr (Disney Research), Yaser Sheikh (CMU), Iain Matthews (Disney Research)
+Object-centric spatial pooling for image classification
+Olga Russakovsky (Stanford University), Yuanqing Lin (NEC Laboratories America), Kai Yu (NEC Laboratories America), Li Fei-fei
+Efficient Spanning Structure Mining in Large Image Collections
+Yin Lou (Cornell University), Noah Snavely (Cornell University), JohannesGehrke
+Sparse Coding and Dictionary Learning for Symmetric Positive Definite Matrices: A Kernel Approach
+Mehrtash Harandi (National ICT Australia -NICTA), Conrad Sanderson (National ICT Australia -NICTA), Richard Hartley (National ICT Australia-NICTA), Brian Lovell (National ICT Australia -NICTA)
+V1-Inspired Features Induce a Weighted Margin in SVMs
+Hilton Bristow (CSIRO), Simon Lucey (CSIRO)
+Propagative Hough Voting for Human Activity Recognition
+Gang YU (NTU), Junsong Yuan (NTU), Zicheng Liu (MSR)
+People Watching: Human Actions as a Cue for Single View Geometry
+David Fouhey (Carnegie Mellon University), Vincent Delaitre, Alyosha Efros (CMU), Abhinav Gupta, Ivan Laptev, Josef Sivic (INRIA / Ecole Normale Superieure)
+Renormalization Returns: Hyper-renormalization and Its Applications
+Kenichi Kanatani (Okayama University), Ali Al-Sharadqah (University of Mississippi), Nikolai Chernov (University of Alabama at Birmingham), YasuyukiSugaya (Toyohashi University of Technology)
+Real-time Compressive Tracking
+Kaihua Zhang (The HK PolyU), Lei Zhang (The Hong Kong Polytechnic Univ), Ming-Hsuan Yang (University of California at Merced)
+Shape from Single Scattering for Translucent Objects
+Chika Inoshita (Osaka University), Yasuhiro Mukaigawa (Osaka University), Yasu Matsushita, Yasushi Yagi (Osaka University)
+Joint Face Alignment: Rescue Bad Alignments with Good Ones by Regularized Re-fitting
+Xiaowei Zhao (ICT -CAS -China), Xiujuan Chai (ICT -CAS), Shiguang Shan (ICT -CAS)
+Depth Extraction from Video Using Non-parametric Sampling
+Kevin Karsch (UIUC), Ce Liu (Microsoft Research New England), Sing BingKang (Microsoft Research)
+Scale Invariant Optical Flow
+Li Xu (CUHK), Zhenlong Dai (CUHK), jiaya Jia (CUHK)
+Learning Class-to-Image Distance via Large Margin and L1-norm Regularization
+Zhengxiang Wang (NanyangTechnologicalUniversity), Shenghua Gao, Liang-Tien Chia
+Taxonomic Multi-class Prediction and Person Layout using Efficient Structured Ranking
+Arpit Mittal (University of Oxford), Matthew Blaschko (É), cole Centrale Paris, Andrew Zisserman, Phil Torr
+Unsupervised Discovery of Mid-Level Discriminative Patches
+Saurabh Singh (Carnegie Mellon University), Abhinav Gupta, Alyosha Efros (CMU)
+Self-Similar Sketch
+Andrea Vedaldi (Oxford U), Andrew Zisserman
+Blind Correction of Optical Aberrations
+Christian Schuler (MPI for Intelligent Systems), Michael Hirsch (MPI for Intelligent Systems), Stefan Harmeling (MPI for Intelligent Systems), BernhardSchË†lkopf (MPI for Intelligent Systems)
+Depth Matters: Influence of Depth Cues on Visual Saliency
+Lang Congyan (Beijijng Jiaotong University), Tam Nguyen (NUS - Singapore), harish Katti (National University of Singapore), Karthik Yadati (National University of Singapore), Shuicheng Yan, Mohan Kankanhalli (National University of Singapore)
+Gait Recognition by Ranking
+Raù,l Martì,n Fè,lez (Universitat Jaume I), Tao Xiang (Queen Mary University of London)
+Robust Point Matching Revisited: A Concave Optimization Approach
+Wei Lian (Changzhi Univ), Lei Zhang (The Hong Kong Polytechnic Univ)
+Quaternion-based Spectral Saliency Detection for Human Eye Fixation Point Prediction
+Boris Schauerte (Karlsruhe Inst. Tech.), Rainer Stiefelhagen (KarlsruheInst. of Technology)
+Learning Discriminative Spatial Relations for Detector Dictionaries: an Application to Pedestrian Detection
+Enver Sangineto (Istituto Italiano di Tecnologia), Marco Cristani, Alessio Del Bue, Vittorio Murino
+Learning Deformations with Parallel Transport
+Donglai Wei (Mit), Dahua Lin (MIT), John Fisher III (MIT)
+Dynamic Facial Expression Recognition using Longitudinal Facial Expression Atlases
+Yimo Guo (Oulu University), Guoying Zhao (Oulu University), Matti Pietikäinen (Oulu University)
+Polynomial Regression on Riemannian Manifolds
+Jacob Hinkle (University of Utah), Prasanna Muralidharan (University of Utah), P Thomas Fletcher (University of Utah), Sarang Joshi (University of Utah)
+Crosstalk Cascades for Frame-Rate Pedestrian Detection
+Piotr Dollar (Microsoft Research), Ron Appel (Caltech), Wolf Kienzle (Microsoft Research)
+Query Specific Fusion for Image Retrieval
+shaoting Zhang (Rutgers University), Ming Yang (NEC laboratories America), Timothee Cour (NEC Laboratories America), Kai Yu (NEC Laboratories America), Dimitris Metaxas (Rutgers University)
+Approximate Gaussian Mixtures for Large Scale Vocabularies
+Yannis Avrithis (NTUA), Yannis Kalantidis (NTUA)
+Tracking Using Motion Patterns for Very Crowded Scenes
+Xuemei Zhao (Univ. of Southern California), Dian Gong (Univ. of Southern California), Gerard Medioni (University of Southern California)
+Constrained Semi-Supervised Learning via Attributes and Comparative Attributes
+Abhinav Shrivastava (Carnegie Mellon University), Saurabh Singh (Carnegie Mellon University), Abhinav Gupta
+Long-Range Spatio-Temporal Modeling with Application to Fire Detection
+Avinash Ravichandran (UCLA), Stefano Soatto (UCLA)
+Geodesic Saliency Using Background Priors
+Yichen Wei (Microsoft Research), Fang Wen, Wangjiang Zhu (Tsinghua University), Jian Sun (Microsoft Research Asia)
+Human Actions as Stochastic Kronecker Graphs
+Sinisa Todorovic (Oregon State University)
+GMCP-Tracker: Global Multi-object Tracking Using Generalized Minimum Clique Graphs
+Amir Roshan Zamir (UCF), Afshin Dehghan (University of Central Florida)
+Robust Fitting for Multiple View Geometry
+Olof Enqvist (Lund University), Erik Ask (Lund University), Fredrik Kahl (Lund University), Kalle Âle,strö,m (Lund University)
+Improving Image-Based Localization by Active Correspondence Search
+Torsten Sattler (RWTH Aachen University), Bastian Leibe (RWTH AachenUniversity), Leif Kobbelt (RWTH Aachen University)
+Nested Sparse Quantization for Efficient Feature Coding
+Gemma Roig Noguera (ETH), Xavier Boix (ETH), Christian Leistner, Luc Van Gool
+Inverse Rendering of Faces on a Cloudy Day
+Oswald Aldrian (University of York), William A. P. Smith (University of York)
+On Tensor-Based PDEs and their Corresponding Variational Formulations with Application to Color Image Denoising
+Freddie Ã…strÃ¶m (LinkÃ¶ping University), George Baravdish (LinkÃ¶ping University), Michael Felsberg (LinkÃ¶ping University)
+Size Matters: Exhaustive Geometric Verification for Image Retrieval
+Henrik Stewenius (Google), Steinar Gunderson (Google), Julien Pilet (Google)
+“Clustering by Composition” for Unsupervised Discovery of ImageCategories
+Alon Faktor (Weizmann Institute of Science), Michal Irani
+Joint Face Alignment with Non-Parametric Shape Models
+Brandon Smith (Univ. of Wisconsin %u2013 Madison), Li Zhang (Univ. of Wisconsin %u2013 Madison)
+Kernelized Temporal Cut for Online Hierarchical Human Action Segmentation and Recognition
+Dian Gong (Univ. of Southern California), Gerard Medioni (University of Southern California), Sikai Zhu (University of Southern California), XuemeiZhao (Univ. of Southern California)
+Scene Aligned Pooling for Complex Video Recognition
+Liangliang Cao (IBM Research), Yadong Mu (Columbia University), Apostol Natsev (Google), Shih-FuChang (Columbia), Gang Hua (Stevens Institute of Technolog), John Smith (IBM)
+Comparative Evaluation of Binary Features
+Jared Heinly (UNC Chapel Hill), Enrique Dunn (UNC), Jan-Michael Frahm (UNC-CH)
+Group Tracking: Exploring Mutual Relations for Multiple Object Tracking
+Genquan Duan (Tsinghua University), Song Cao (Tsinghua University),Haizhou Ai (Tsinghua University), Shihong Lao (Omron Company)
+Discovering Latent Domains for Multisource Domain Adaptation
+Judy Hoffman (UC Berkeley), Kate Saenko (UC Berkeley - Harvard - ICSI),Brian Kulis (Ohio State), Trevor Darrell (UC Berkeley - ICSI)
+Grain Segmentation of 3D Superalloy Images Using MultiChannel EWCVT under Human Annotation Constraints
+Yu Cao (University of South Carolina), Lili Ju (University of South Carolina), Song Wang (University of South Carolina)
+A Discrete Chain Graph Model for 3d+t Cell Tracking with High Misdetection Robustness
+Bernhard Kausler (University of Heidelberg), Martin Schiegg (University of Heidelberg), Bjoern Andres (Harvard University), Martin Lindner (University of Heidelberg), Heike Leitte (University of Heidelberg), Lars Hufnagel (European Molecular Biology Laboratory),Ullrich Koethe (University of Heidelberg), Fred Hamprecht (University of Heidelberg)
+Image Enhancement using Calibrated Lens Simulations
+YiChang Shih (M.I.T.), Neel Joshi (Microsoft Research), Brian Guenter (Microsoft Research)
+Hough Regions for Joining Instance Localization and Segmentation
+Hayko Riemenschneider (Graz University of Technology), Sabine Sternig (Graz University of Technology), Michael Donoser (Graz University ofTechnology), Peter Roth (Graz University of Technology), Horst Bischof
+Exploiting Color in Shape, Albedo, and Illumination from Shading
+Jonathan Barron (UC Berkeley), Jitendra Malik (UC Berkeley)
+Discriminative Bayesian Active Shape Models
+Pedro Martins (ISR-University of Coimbra), João F. Henriques (ISR-University of Coimbra), Rui Caseiro (ISR-University of Coimbra), Jorge Batista (ISR-University of Coimbra)
+Patch Based Synthesis for Single Depth Image Super-Resolution
+Oisin Mac Aodha (UCL), Neill Campbell, Arun Nair, Gabriel Brostow
+Facial Action Transfer with Personalized Bilinear Regression
+Dong Huang (Carnegie Mellon University), Fernando De la Torre (Carnegie Mellon University)
+A Fast Illumination and Deformation Insensitive Image Comparison Algorithm Using Wavelet-Based Geodesics
+Anne Jorstad (University of Maryland - CP), David Jacobs
+Point of Gaze Estimation through Corneal Surface Reflection in an Active Illumination Environment
+Atsushi Nakazawa (Osaka University - Cybermedia Center), Christian Nitschke (Osaka University - Cybermedia C)
+Manifold Statistics for Essential Matrices
+Gijs Dubbelman (CMU)
+Robust Tracking with Weighted Online Structured Learning
+Rui Yao (NWPU), Qinfeng Shi (University of Adelaide), Chunhua Shen (University of Adelaide), Yanning Zhang (Northwestern Polytechnical Univ.),Anton van den hengel (University of Adelaide)
+Annotation Propagation in Large Image Databases via Dense Image Correspondence
+Michael Rubinstein (MIT), Ce Liu (Microsoft Research New England), WilliamFreeman (Massachusetts Institute of Technology)
+Covariance Propagation and Next Best View Planning for 3D Reconstruction
+Sebastian Haner (Lund University), Anders Heyden (Lund University)
+Dilated Divergence based Scale-Space Representation for Curve Analysis
+Max W.K. Law (GE Healthcare), Andrew Leung (Western University), Keng-YeowTay (Western University), Shuo Li (GE Healthcare)
+Parameterless Line Segment and Elliptical Arc Detector with Controlled Number of False Positives
+Viorica Patraucean (University of Toulouse), Pierre Gurdjos, RafaelGrompone von Gioi, GÃˆraldine Morin (University of Toulouse)
+Learning to segment a video to clips based on scene and camera motion
+Adarsh Kowdle (Cornell University), Tsuhan Chen (Cornell University)
+Numerically Stable Optimization of Polynomial Solvers for MinimalProblems
+Yubin Kuang (Lund University), Kalle â‰ˆstrË†m (Lund University)
+Has my algorithm succeeded? Evaluating human pose estimators
+Nataraj Jammalamadaka (IIIT - Hyderabad), Andrew Zisserman, MarcinEichner (ETH zurich), Vittorio Ferrari, Jawahar C. V. (IIIT - Hyderabad)
+Full Body Performance Capture under Uncontrolled and Varying Illumination: A Shading-based Approach
+Chenglei Wu (Max Planck Institut Informatik), Kiran Varanasi (MPIInformatik), Christian Theobalt (MPI for Informatics)
+Visual Recognition using Local Quantized Patterns
+Sibt ul Hussain (UniversitÃˆ de Caen), Bill Triggs (Laboratoire JeanKuntzmann)
+Detecting and Reconstructing 3D Mirror Symmetric Objects
+Rick Szeliski, Krishnan Ramnath (Microsoft Research), Sudipta Sinha (Microsoft Research), Sudipta Sinha
+3D Reconstruction of Dynamic Scenes with Multiple Handheld Cameras
+Hanqing Jiang (Zhejiang University), Haomin Liu (Zhejiang University), PingTan (National University of Singapore), Guofeng Zhang (Zhejiang University),Hujun Bao (Zhejiang University)
+Globally Optimal Closed-surface Segmentation for Connectomics
+Bjoern Andres (Harvard University),Thorben Kroeger (HCI - University of Heidelberg), Kevin Briggman (NIH), WinfriedDenk (Max-Planck-Institute for Medical Research), Natalya Korogod (EPFL),Graham Knott (EPFL), Ullrich Koethe (University of Heidelberg - Germany), FredHamprecht (University of Heidelberg - Germany)
+Performance Capture of Interacting Characters with Handheld Kinects
+Genzhi Ye (Tsinghua University), Yebin Liu (Tsinghua University), NilsHasler (Max-Planck-Institute for Informatics), Xiangyang Ji (TsinghuaUniversity), Qionghai Dai (Tsinghua University), Christian Theobalt (MPI forInformatics)
+Reduced Analytical Dependency Modeling for Classifier Fusion
+Andy Jinhua Ma (Hong Kong Baptist University), Pong Yuen (Hong KongBaptist University)
+Randomized Spatial Partition for Scene Recognition
+Yuning Jiang (NTU), Junsong Yuan (NTU), Gang YU (NTU)
+Evaluation of Image Segmentation Quality by Adaptive Ground Truth Composition
+Bo Peng (The Hong Kong Polytechnic University), Lei Zhang (The Hong KongPolytechnic Univ)
+Ensemble Partitioning for Unsupervised Image Categorization
+Dengxin Dai (ETH Zurich), Mukta Prasad (ETH Zurich), Christian Leistner,Luc Van Gool, Gerhard Schmitt (ETHZ)
+Set Based Discriminative Ranking for Recognition
+Yang Wu (Kyoto University), Michihiko Minoh (Kyoto University), MasayukiMukunoki (Kyoto University), Shihong Lao (Omron Company)
+A Global Hypotheses Verification Method for 3D Object Recognition
+Aitor Aldoma (TU Wien), Federico Tombari (University of Bologna), Luigi DiStefano, Markus Vincze (TU Wien)
+Learning to Match Appearances by Correlations in a Covariance Metric Space
+Slawomir Bak (INRIA), Guillaume Charpiat (INRIA), Etienne Corvee (INRIA),Francois Bremond (INRIA), Monique Thonnat (INRIA)
+Scale Robust Multi View Stereo
+Christian Bailer, Manuel Finckh (Tuebingen University), Hendrik Lensch (Tuebingen University)
+Fast Regularization of Matrix-Valued Images
+Guy Rosman (Technion), Yu Wang, Xue-Cheng Tai (University of Bergen), Ron Kimmel (Technion), Alfred Bruckstein (Technion)
+Tracking feature points in uncalibrated images with radial distortion
+Miguel LourenÃo (ISR-Coimbra), Joâ€žo Pedro Barreto (ISR)
+Laplacian Meshes for Monocular 3D Shape Recovery
+Jonas Östlund (CVLab - EPFL - Lausanne), Aydin Varol (EPFL), Pascal Fua (EPFL)
+On the Convergence of Graph Matching: Graduated Assignment Revisited
+Yu Tian, Junchi Yan (Shanghai Jiao Tong University), Hequan Zhang (Beijing Institute of Technology)
+Divergence-free motion estimation
+Dominque BÃˆrÃˆziat (UPMC), Isabelle Herlin (INRIA), Nicolas Mercier (INRIA),Sergiy Zhuk (CWI)
+Negative evidences and co-occurences in image retrieval: the benefit of PCA and whitening
+Ã©Ãˆ JÃˆgou (INRIA), Ondrej Chum (CVUT)
+Large-Scale Gaussian Process Classification with Flexible Adaptive Histogram Kernels
+Erik Rodner (University of Jena - Germany), Alexander Freytag (University of Jena - Germany), Paul Bodesheim (University of Jena - Germany), Joachim Denzler (University of Jena - Germany)
+Visual Tracking via Adaptive Tracker Selection with Multiple Features
+Ju Hong Yoon (GIST), Du Yong Kim (Gwangju Institute of Science andTechnology), Kuk-Jin Yoon (GIST)
+Are You Really Smiling at Me? Spontaneous versus Posed Enjoyment Smiles
+Hamdi Dibeklioglu (University of Amsterdam), Albert Ali Salah (Bogazici University), Theo Gevers (University of Amsterdam)
+Background Subtraction with Dirichlet Processes
+Tom Haines (Queen Mary - Uni. of London), Tao Xiang (Queen Mary University of London)
+Soft inextensibility constraints for template-free non-rigid reconstruction
+Sara Vicente (Queen Mary University of Londo), Lourdes Agapito (QueenMary University of Londo)
+Image Annotation Using Metric Learning in Semantic Neighbourhoods
+Yashaswi Verma (IIIT - Hyderabad), Jawahar C. V. (IIIT - Hyderabad)
+Movies and Sports: Large-Scale Dynamic Human Eye Movement Datasets and Consistency Studies for Visual Action Recognition
+Stefan Mathe (Romanian Academy of Science), Cristian Sminchisescu (University of Bonn)
+Efficient Monte Carlo sampler for detecting parametric objects in large scenes
+Yannick Verdié (INRIA), Florent Lafarge (INRIA)
+Exploiting the Circulant Structure of Tracking-by-detection with Kernels
+João F Henriques (ISR), Rui Caseiro (Institute Systems Robotics), Pedro Martins (ISR), Jorge Batista (Institute Systems Robotics - University Coimbra- Portugal)
+WαSH: Weighted α-Shapes for Local Feature Detection
+Christos Varytimidis (NTUA), Konstantinos Rapantzikos (NTUA), Yannis Avrithis (NTUA)
+Detecting and Localizing Activities at Different Scales under Budget
+Mohamed Amer (Oregon State University), Dan Xie (UCLA), Mingtian Zhao (UCLA), Yaofei Feng (OREGON STATE UNIVERSITY), Behrooz Mahasseni (OREGON STATEUNIVERSITY), Sinisa Todorovic (Oregon State University), Song-Chun Zhu (UCLA)
+Dynamic Programming for Approximate Expansion Algorithm
+Olga Veksler (University of Western Ontario)
+Sparselet Models for Efficient Multiclass Object Detection
+Hyun Oh Song (UC Berkeley), Stefan Zickler (IRobot Corp.), Tim Althoff (UCBerkeley), Ross Girshick (University of Chicago), Christopher Geyer (IRobotCorporation), Mario Fritz (MPI Informatik), Pedro Felzenszwalb (BrownUniversity), Trevor Darrell (UC Berkeley - ICSI)
+Mobile Product Image Search by Automatic Query Object Extraction
+Xiaohui Shen (Northwestern University), Zhe Lin (Adobe), Jonathan Brandt (Adobe Systems), Ying Wu (Northwestern University)
+Fast Tiered Labeling with Topological Priors
+Ying Zheng (Duke University - Computer Science), Steve Gu (DukeUniversity - Computer Scie), Carlo Tomasi
+Nested Pictorial Structures
+Steve Gu (Duke University - Computer Scie), Ying Zheng (Duke University -Computer Science), Carlo Tomasi
+Describing Clothing by Semantic Attributes
+Huizhong Chen (Stanford University), andrew Gallagher (Eastman Kodak),Bernd Girod (Stanford University)
+Analyzing the Subspace Structure of Related Images: Concurrent Segmentation of Image Sets
+Lopamudra Mukherjee (University of Wisc Whitewater), Vikas Singh (University of Wisconsin Madison), Jia Xu (University of Wisconsin Madison), Maxwell D. Collins (University of Wisconsin Madison)
+Graph Matching via Sequential Monte Carlo
+Yumin Suh (Seoul National University), Minsu Cho (Seoul National University), Kyoung Mu Lee (Seoul National University)
+Artistic image classification: an analysis on the ART database
+Gustavo Carneiro (The University of Adelaide), Nuno Pinho da Silva (ISR@IST-UTL), Alessio Del Bue, Joao Costeira (Instituto Superior Tecnico)
+Supervised Geodesic Propagation for Semantic Label Transfer
+Xiaowu Chen (Beihang University), Qing Li (Beihang University), YafeiSong (Beihang University), Xin Jin (Beihang), Qinping Zhao (Beihang University)
+Bayesian Face Revisited: A Joint Formulation
+Dong Chen (University of Science and Technology of China), Xudong Cao (MSRA), Liwei Wang (The Chinese University of Hong Kong), Fang Wen, Jian Sun (Microsoft Research Asia)
+Coherent Filtering: Detecting Coherent Motions from Clutters
+Bolei Zhou (The Chinese University of HK), Xiaogang Wang (The ChineseUniversity of HK), Xiaoou Tang
+Beyond Bounding Boxes: Learning Object-Form by Model-driven Grouping
+Juan Antonio Monroy (IWR -University of Heidelberg), Bjorn Ommer
+Supervised Assessment of Segmentation Hierarchies
+Jordi Pont-Tuset (UPC), Ferran Marques (Universitat Politècnica de Catalunya)
+TreeCANN – k-d tree Coherence Approximate Nearest Neighbor algorithm
+Igor Olonetsky (Tel Aviv University), Shai Avidan
+Jet-Based Local Image Descriptors
+Anders Boesen Lindbo Larsen (University of Copenhagen), Sune Darkner (diku.dk), Anders Dahl (dtu.dk), Kim Pedersen (diku.dk)
+Automatic Exposure Correction of Consumer Photographs
+Lu Yuan (Microsoft Research Asia), Jian Sun (Microsoft Research Asia)
+Robust Regression
+Dong Huang (Carnegie Mellon University), Ricardo Cabral (Carnegie Mellon University),Fernando De la Torre (Carnegie Mellon University)
+Image Guided Tone Mapping with Locally Nonlinear Model Image Guided Tone Mapping with Locally Nonlinear Model Image Guided Tone Mapping with Locally Nonlinear Model
+Huxiang Gu (CASIA), Ying Wang (NLPR), Shiming Xiang (NLPR), Gaofeng MENG (Chinese Academy of Science), Chunhong Pan (NLPR)
+Domain Adaptive Dictionary Learning
+Qiang Qiu (Univ. of Maryland College Park), Vishal Patel (UMIACS), PavanTuraga (University of Arizona State), Rama Chellappa (Univ. of Maryland -College Park)
+Latent Hough Transform for Object Detection
+Nima Razavi (ETH Zurich), Juergen Gall (ETH Zurich), Pushmeet Kohli, LucVan Gool
+Canonical Scene based Contextual Model for Abnormal Object Detection
+Sangdon Park, Wonsik Kim (Seoul National University), Kyoung Mu Lee (Seoul National University)
+Robust 3D Action Recognition with Random Occupancy Patterns
+Jiang Wang (Northwestern University), Zicheng Liu (MSR), Jan Chorowski (University of Louisville), Zhuoyuan Chen (Northwestern University), Ying Wu (Northwestern University)
+Shapecollage: occlusion-aware, example-based shape interpretation
+Forrester Cole (MIT), Phillip Isola (MIT), Edward Adelson (MIT), WilliamFreeman (Massachusetts Institute of Technology ), Fredo Durand (MIT)
+A new image database for Image Quality Assessment
+Javier Silvestre-Blanes (UPV), Ian Van Der Linde (ARU), RubÃˆnPÃˆrez-LlorÃˆns (UPV)
+Image Labeling on a Network:\\Using Social-Network Metadata for Image Classification
+Julian McAuley (Stanford), Jure Leskovec (Stanford)
+Spatio-Temporal Phrases for Activity Recognition
+Yimeng Zhang (Cornell University), Xiaoming Liu (Ge Global Research),Ming-Ching Chang (Ge Global Research), Weina Ge (Ge Global Research), TsuhanChen (Cornell University)
+Spatial and Angular Variational Super-resolution of 4D Light Fields
+Sven Wanner (HCI), Bastian Goldluecke (HCI)
+Blur-Kernel Estimation from Spectral Irregularities
+Amit Goldstein (Hebrew University of Jerusalem), Raanan Fattal (HebrewUniversity of Jerusalem)
+A Robust and Efficient Doubly Regularized Metric Learning Approach
+Meizhu Liu (Siemens Corporate Research), Baba Vemuri (University ofFlorida)
+A QCQP Approach to Triangulation
+Chris Aholt (University of Washington), Sameer Agarwal (Google), RekhaThomas (University of Washington)
+Interactive Facial Feature Localization
+Vuong Le (University of Illinois), Jonathan Brandt (Adobe Systems),Lubomir Bourdev Adobe SystemsInc., Zhe Lin (Adobe), Thomas Huang (UIUC)
+Segmentation Based Particle Filtering for Real-Time 2D Object Tracking
+Vasileios Belagiannis (Technische Universität München), Falk Schubert (EADS Innovation Works), Nassir Navab (Technische Universität München), SlobodanIlic (TUM)
+Deconvolving PSFs for A Better Motion Deblurring using Multiple Images
+Xiang Zhu (UC Santa Cruz), Filip Sroubek (UTIA - Academy of Sciences ofCR), Peyman Milanfar (UC Santa Cruz)
+A Discriminative Data-dependent Mixture-Model Approach for Multiple Instance Learning in Image Classification
+Qifan Wang (Purdue University), Luo Si (Purdue), Dan Zhang (Purdue)
+Multi-Component Models for Object Detection
+Chunhui Gu (UC Berkeley), Pablo Arbelaez (UC Berkeley), Yuanqing Lin (NECLaboratories Amertica), Kai Yu (NEC Laboratories Amertica), Jitendra Malik (UCBerkeley)
+Discriminative Decorrelation for Clustering and Classification
+Bharath Hariharan (UC Berkeley), Jitendra Malik (UC Berkeley), DevaRamanan
+Spatiotemporal Descriptor for Wide-Baseline Stereo Reconstruction of Non-Rigid and Ambiguous Scenes
+Eduard Trulls Fortuny (Institut de RobÃštica -IRI), Alberto Sanfeliu (IRI), Francesc Moreno-Noguer (Institut de RobÃštica i Informâ€¡tica Industrial-IRI)
+Recognizing Actions, Poses, and Objects with Relational Phraselets
+Chaitanya Desai (University of California Irvine), Deva Ramanan
+No Bias Left Behind: Covariate Shift Adaptation for Discriminative 3D Pose Estimation
+Makoto Yamada (Tokyo Institute of Technology), Leonid Sigal (DisneyResearch Pittsburgh), Michalis Raptis (Disney Research Pittsburgh)
+Surface Elevation Angle Estimation from Reflectance Monotonicity
+Boxin Shi (The University of Tokyo), Ping Tan (National University ofSingapore), Yasu Matsushita, Katsushi Ikeuchi
+Generic Cuts: An Efficient Optimal Algorithm for Submodular MRF-MAP Problems with Higher Order Cliques
+Chetan Arora (IIT Delhi), Subhashis Banerjee (IIT Delhi), Prem Kalra (IITDelhi), S.N. Maheshwari (IIT Delhi)
+Complex Events Detection using Data-driven Concepts
+Yang Yang (UCF)
+Directional Space-Time Oriented Gradients for 3D Pattern Analysis
+Ehsan Norouznezhad (NICTA - UQ), Mehrtash Harandi (National ICT Australia-NICTA), Abbas Bigdeli (NICTA - UQ), Mahsa Baktash (NICTA - UQ), Adam Postula (UQ), Brian Lovell (National ICT Australia -NICTA)
+Learning to Recognize Unsuccessful Activities in Depth Videos Using aTwo-Layer Latent Structural Model
+Qiang Zhou (ADSC -Singapore), Gang Wang (Nanyang Technological U)
+Action Recognition Using Subtensor Constraint
+Qiguang Liu (Tianjin University), Xiaochun Cao
+In Defence of Negative Mining for Annotating Weakly Labeled Data
+Parthipan Siva (Queen Mary University of Londo), Tao Xiang (Queen Mary University ofLondon), Chris Russell (Queen Mary - University of Lond)
+Beyond Spatial Pyramids: A New Feature Extraction Framework with Dense Spatial Sampling for Image Classification
+Shengye Yan (Nanyang technological universi), Xinxing Xu (NanyangTechnological University), Dong Xu, Steve Lin
+Reading Ancient Coins: Automatically Identifying Denarii using Obverse Legend Seeded Retrieval
+Ognjen Arandjelovic (Swansea University)
+Depth and Deblurring from a Spectrally-varying Depth-of-Field
+Ayan Chakrabarti (Harvard University), Todd Zickler
+Labeling Images by Integrating Sparse Multiple Distance Learning andSemantic Context Modeling
+Chuanjun Ji (Fudan University - China), Xiangdong Zhou (Fudan University -China)
+PatchMatchGraph: Building a Graph of Dense Patch Correspondences for Label Transfer
+Stephen Gould (ANU), Yuhang Zhang (ANU)
+Online Video Segmentation by Bayesian Split-Merge Clustering
+Juho Lee (POSTECH), Suha Kwak (POSTECH), Bohyung Han (POSTECH), Seungjin Choi (POSTECH)
+Joint Classification-Regression Forests for Spatially Structured Multi-Object Segmentation
+Ben Glocker (Microsoft Research Cambridge), Olivier Pauly (TechnischeUniversitaet Muenchen), Ender Konukoglu (Microsoft Research Cambridge), AntonioCriminisi (Microsoft Research Cambridge)
+Robust and Practical Face Recognition via Structured Sparsity
+Kui Jia (Adv. Digital Sciences Center), Tsung-Han Chan (ADSC - Singapore), Yi Ma
+Segmentation over Detection by Coupled Global and Local Sparse Representations
+Wei Xia (NUS), Zheng Song (NUS), Jiashi Feng (NUS), Loong Fah Cheong (NUS),Shuicheng Yan
+Subspace Learning in Krein Spaces: Complete Kernel Fisher Discriminant with Indefinite Kernels
+Stefanos Zafeiriou (Imperial College London)
+Online Spatio-Temporal Structural Context Learning for Visual Tracking in Unconstrained Environments
+Longyin Wen (CBSR.CASIA), Zhaowei Cai (CBSR.CASIA), Zhen Lei (CBSR.CASIA), Dong Yi (CASIA), Stan Z. Li (CASIA - China)
+Automatic tracking a large number of moving targets in 3D
+Ye Liu (Fudan University), Hui Li, Yan Qiu Chen
+A Three-Layered Approach to Facade Parsing
+Andelo Martinovic (KU Leuven), Markus Mathias (KU Leuven), Julien Weissenberg (ETHZ), Luc Van Gool (KU Leuven)
+A Novel Material-aware Feature Descriptor for Volumetric Image Registration in Diffusion Tensor Space
+Shuai Li (Beihang University - China), Qinping Zhao (Beihang University), Shengfa Wang (Stony Brook University), Tingbo Hou (Stony Brook University),Aimin Hao (Beihang University), Hong Qin (Stony Brook University)
+A Unifying Theory of Active Discovery and Learning
+Timothy Hospedales (Queen Mary University - London), Shaogang Gong (Queen Mary University - London), Tao Xiang (Queen Mary University of London)
+Moving Object Segmentation Using Motor Signals
+Jingen Liu (SRI International Sarnoff)
+Block-sparse RPCA for Consistent Foreground Detection
+Zhi Gao (National unviersity of singapo)
+Attribute Learning for Understanding Unstructured Social Activity
+Yanwei Fu (EECS - QMUL), Timothy Hospedales (Queen Mary University -London), Tao Xiang (Queen MaryUniversity of London), Shaogang Gong (Queen Mary University - London)
+Multiple View Object Cosegmentation using Appearance and Stereo Cues
+Adarsh Kowdle (Cornell University), Sudipta Sinha, Rick Szeliski
+Extracting 3D Scene-consistent Object Proposals and Depth from Stereo Images
+Michael Bleyer (Vienna Univerity of Technology), Christoph Rhemann (Vienna University of Technolog), Carsten Rother
+Efficient Closed-Form Solution to Generalized Boundary Detection
+Marius Leordeanu (IMAR), Rahul Sukthankar (Google Research and CMU),Cristian Sminchisescu (University of Bonn)
+Recognizing Materials by Transfering Appearance from Virtual to RealExamples
+Mario Fritz (MPI Informatik), Wenbin Li (MPI Informatics)
+Local Log-Euclidean Covariance Matrix (L$^{2}$ECM) for Image Representation and Its Applications
+Peihua Li (Heilongjiang University), Qilong Wang
+Scene Recognition on the Semantic Manifold
+Roland Kwitt (Kitware Inc.), Nuno Vasconcelos (University of California, San Diego), Nikhil Rasiwasia (Yahoo Research)
+Repairing Sparse Low-Rank Texture
+Xiao Liang (Tsinghua University), Xiang Ren (Microsoft Research Asia),Zhengdong Zhang (Microsoft Research Asia), Yi Ma
+Statistical Inference of Motion in the Invisible
+Haroon Idrees (UCF), Imran Saleemi (UCF), Mubarak Shah (UCF)
+Using linking features in learning non-parametric part models
+Leonid Karlinsky (Weizmann Institute of Science), Shimon Ullman (WeizmannInstitute of Science)
+Unsupervised Temporal Commonality Discovery
+Wen-Sheng Chu (Carnegie Mellon University), Feng Zhou (Carnegie Mellon University), Fernando De la Torre (Carnegie Mellon University)
+Finding People Using Scale, Rotation and Articulation Invariant Matching
+Hao Jiang (Boston College)
+A Generative Model for Simultaneous Estimation of Human Body Shape and Pixel-level Segmentation
+Ingmar Rauschert (Penn State), Robert Collins (Penn State)
+Camera Pose Estimation Using First-Order Curve Differential Geometry
+Ricardo Fabbri (Brown University), Peter J. Giblin (University of Liverpool), Benjamin Kimia (Brown University)
+Patch Complexity, Finite Pixel Correlations and Optimal Denoising
+Anat Levin (Weizmann Institute), Boaz Nadler (Weizmann Inst), Fredo Durand (MIT), William Freeman (Massachusetts Institute of Technology)
+Measuring Image Distances via Embedding in a Semantic Manifold
+Chen Fang (Dartmouth College), Lorenzo Torresani (Dartmouth)
+Efficient Point-to-Subspace Query in L1 with Application to Robust Face Recognition (technical report)
+Ju Sun (Columbia University), Yuqian Zhang (Columbia University), John Wright (ColumbiaUniversity)
+Unsupervised and Supervised Visual Codes with Restricted Boltzmann Machines
+Hanlin Goh (Université Pierre et Marie Curie), Nicolas Thome ( Université Pierre et Marie Curie), Matthieu Cord ( Université Pierre et Marie Curie), Joo-Hwee Lim (Institute for Infocomm Research)
+Towards Optimal Non-rigid Surface Tracking
+Martin Klaudiny (University of Surrey), Adrian Hilton (University ofSurrey)
+Beyond Feature Points: Structured Prediction for Monocular Non-rigid 3D Reconstruction
+Mathieu Salzmann (NICTA), Raquel Urtasun (TTIC)
+Filter-based Mean-Field Inference for Random Fields with Higher Order Terms and Product Label-Spaces
+Jonathan Warrell (Oxford Brookes University), Phil Torr, Vibhav Vineet (Oxford Brookes University)
+A new biologically inspired color- and shape-based image descriptor
+Jun Zhang (Brown University), Youssef Barhomi (Brown University), ThomasSerre (Brown University)
+Going With the Flow: Pedestrian Efficiency in Crowded Scenes
+Louis Kratz (Drexel University), Ko Nishino (Drexel University)
+Learning Spatially-Smooth Mappings in Non-Rigid Structure from Motion
+Onur Hamsici (Qualcomm), Paulo Gotardo (The Ohio State University), AleixMartinez (The Ohio State University)
+Reconstructing 3D Human Pose from 2D Image Landmarks.
+Varun Ramakrishna (Carnegie Mellon University), Takeo Kanade , YaserSheikh (CMU)
+Good Regions to Deblur
+Zhe Hu (UC Merced), Ming-Hsuan Yang (University of California at Merced)
+Active Frame Selection for Label Propagation in Videos
+Sudheendra Vijayanarasimhan, Kristen Grauman
+Non-causal Temporal Prior for Video Deblocking
+Deqing Sun (Brown University), Ce Liu (Microsoft Research New England)
+Mediating Trajectory and Detection Graphs for Tracking through Persistent Occlusions
+Katerina Fragkiadaki (University of Pennsylvania), Weiyu Zhang (University of Pennsylvania)
+Finding Correspondence from Multiple Images via Sparse and Low-rank Decomposition
+Zinan Zeng (Nanyang Technological Uni), Tsung-Han Chan (ADSC - Singapore), Kui Jia (Adv.Digital Sciences Center), Dong Xu
+Indoor Segmentation and Support Inference from RGBD Images
+Nathan Silberman (NYU), Rob Fergus, Derek Hoiem (Non-AC) (UIUC),Pushmeet Kohli
+Taking Mobile Multi-Object Tracking to the Next Level: People, Unknown Objects, and Carried Items
+Dennis Mitzel (RWTH Aachen University), Bastian Leibe (RWTH AachenUniversity)
+Towards Optimal Design of Time and Color Multiplexing Codes
+Tsung-Han Chan (ADSC -Singapore), Kui Jia (Adv. Digital Sciences Center), Eliot Wycoff (ADSC -Singapore), Chong-Yung Chi (National Tsing Hua University), Yi Ma
+Text Image Deblurring Using Text-specific Properties
+Hojin Cho (POSTECH), Jue Wang (Adobe Systems), Seungyong Lee (POSTECH)
+Sequential Spectral Learning to Hash with Multiple Representations
+Saehoon Kim (POSTECH), Yoonseop Kang (POSTECH), Seungjin Choi (POSTECH)
+Efficient Exact Inference for 3D Indoor Scene Understanding
+Alexander Schwing (ETH Zurich), Raquel Urtasun (TTIC)
+Multidimensional Spectral Hashing
+Yair Weiss, Rob Fergus, Antonio Torralba (MIT)
+Dynamic Context for Tracking Behind Occlusions
+Fei Xiong (Northeastern University), Octavia Camps (Northeastern University), Mario Sznaier (Northeastern University)
+Seam Segment Carving: Irregular Shape Image Retargeting
+Shaoyu Qi (University of Florida), Jeffrey Ho (University of Florida)
+Reflectance and Natural Illumination from a Single Image
+Stephen Lombardi (Drexel University), Ko Nishino (Drexel University)
+Recognizing Complex Events using Large Margin Joint Low-Level Event Model
+Hamid Izadinia (UCF), Mubarak Shah (UCF)
+Categorizing Turn-Taking Interactions
+Karthir Prabhakar (Georgia Tech), James Rehg
+To Track or To Detect? An Ensemble Framework for Optimal Selection
+XU YAN (University of Houston), Xuqing Wu, Ioannis A Kakadiaris (University of Houston), Shishir Shah (University of Houston)
+Local Expert Forest of Score Fusion for Video Event Classification
+Jingchen Liu (Pennsylvania State Univ.), Scott McCloskey (Honeywell)
+View-Invariant Action Recognition using Latent Kernelized Structural SVM
+Xinxiao Wu (Beijing Institute ofTechnology), Yunde Jia (Beijing Inst. ofTech.)
+Learning Hybrid Part Filters for Scene Recognition
+Yingbin Zheng (Fudan University), Yu-Gang Jiang (Fudan University),Xiangyang Xue (Fudan University)
+Trajectory-Based Modeling of Human Actions with Motion Reference Points
+Yu-Gang Jiang (Fudan University), Qi Dai (Fudan University), XiangyangXue (Fudan University), Wei Liu (Columbia University), Chong-Wah Ngo (CityUniversity of Hong Kong)
+Visual Dictionary Learning for Joint Object Categorization and Segmentation
+Rene Vidal (Johns Hopkins University), Aastha Jain (Johns HopkinsUniversity)
+Stixels motion estimation without optical flow computation
+Bertan Günyel (KU Leuven), Rodrigo Benenson (KU Leuven), Radu Timofte (KULeuven), Luc Van Gool (KU Leuven)
+Parametric Manifold of an Object under Different Viewing Directions
+Xiaozheng Zhang (National ICT Australia), Yongsheng Gao (GriffithUniversity), Terry Caelli (National ICT Australia)
+Video Matting Using Multi-Frame Nonlocal Matting Laplacain
+Inchang Choi (KAIST), Yu-Wing Tai (KAIST), Minhaeng Lee (KAIST)
+Automatic localization of balloon markers and guidewire in rotational fluoroscopy with application to 3D stent reconstruction
+Yu Wang (Siemens Corporate Research), Terrence Chen (Siemens CorporateResearch), Peng Wang, Christopher Rohkohl, Dorin Comaniciu
+In Defence of RANSAC for Outlier Rejection in Deformable Registration
+Quoc Huy Tran (The University of Adelaide), Tat-Jun Chin (The Universityof Adelaide), Gustavo Carneiro (The University of Adelaide), Michael S. Brown (), David Suter (The University of Adelaide)
+Dating Historical Color Images
+Frank Palermo (Carnegie Mellon University), Alyosha Efros (CMU)
+Estimation of Intrinsic Image Sequences from Image+Depth Video
+Kyong Joon Lee (Seoul National University), Qi Zhao (University of California – Santa Cruz), Xin Tong (Microsoft Research Asia), Minmin Gong (Microsoft Research Asia), Shahram Izadi (Microsoft Research Cambridge), Sang Uk Lee (Seoul National University), PingTan, Steve Lin
+What Makes a Good Detector? — Structured Priors for Learning From Few Examples
+Tianshi Gao (Stanford University), Michael Stark, Daphne Koller (Stanford University)
+Temporally Consistent 3D Scene Flow Estimation for Multi-View Data
+Jaesik Park (KAIST), Tae Hyun Oh (KAIST), Jiyoung Jung (KAIST), Yu-WingTai (KAIST), In So Kweon (KAIST)
+Diagnosing Error in Object Detectors
+Derek Hoiem (University of Illinois), Yodsawalai Chodpathumwan (University of Illinois), Qieyun Dai (University of Illinois)
+Two-view Underwater Structure and Motion for Cameras under Flat Refractive Interfaces
+Lai Kang (University of Alberta), National University of DefenseTechnology, Lingda Wu, Yee-Hong Yang
+Rainbow Flash Camera: Depth Edge Extraction Using Complementary Colors
+Yuichi Taguchi (MERL)
+Fast approximations to structured sparse coding and applications to object classification
+Arthur Szlam (City college of new york), Karol Gregor (Howard HughesMedical Institute), Yann LeCun (New York University)
+A Naturalistic Open Source Movie for Optical Flow Evaluation
+Daniel Butler (University of Washington), Jonas Wulff (Max Planck Institute for Intelligent Systems), Garrett Stanley (Department of Biomedical Engineering - Georgia Institute of Technology), Michael Black (Max Planck Institute for Intelligent Systems)
+A Convolutional Treelets Binary Feature Approach to Fast Keypoint Recognition
+Chenxia Wu (Zhejiang University), Jianke Zhu (Zhejiang University), DengCai (Zhejiang University), Chun Chen
+Online Moving Camera Background Subtraction
+Ali Elqursh (Rutgers University), Ahmed Elgammal (Rutgers University)
+Bayesian Blind Deconvolution with General Sparse Image Priors
+S. Derin Babacan (University of Illinois at Urbana-Champaign), RafaelMolina (Universidad de Granada), Minh Do (University of Illinois atUrbana-Champaign), Aggelos Katsaggelos (Northwestern University)
+Shape From Fluorescence
+Tali Treibitz (UCSD), Zack Murez (UCSD), David Kriegman
+A probabilistic derivative measure based on the distribution of intensity difference
+Youngbae Hwang (KETI)
+Enhancing Descriptor Approaches by a Template Structure for Face Recognition
+Liang Chen (Uni. of N. British Columbia), Ling Yan
+3D^2PM – 3D Deformable Part Models
+Bojan Pepik (Max Planck Informatics), Michael Stark, Peter Gehler, Bernt Schiele
+Latent Pyramidal Regions for Recognizing Scenes
+Fereshteh Sadeghi (University of Central Florida), Marshall Tappen (UCF)
+Super-Resolution-based inpainting
+Olivier Le Meur (University of Rennes 1), Christine Guillemot (INRIA)
+Guaranteed Ellipse Fitting with the Sampson Distance
+Zygmunt Szpak (University of Adelaide), Wojciech Chojnacki (TheUniversity of Adelaide), Anton van den Hengel (University of Adelaide)
+Fast Planar Correlation Clustering for Image Segmentation
+Julian Yarkony (UC Irvine), Alexander Ihler (UC Irvine), Charless Fowlkes (UC Irvine)
+Coregistration: Simultaneous Alignment and Modeling of Articulated 3D Shape
+David Hirshberg (MPI for Intelligent Systems), Matthew Loper (MPI for Intelligent Systems), Eric Rachlin (MPI for Intelligent Systems), Michael Black (Max Planck Institute for Intelligent Systems)
+Pairwise Rotation Invariant Co-occurrence Local Binary Pattern
+Xianbiao Qi (BUPT), Rong Xiao (microsoft), Lei Zhang (MSRA), Jun Guo (BUPT)
+Improving NCC-based Direct Visual Tracking
+Glauco Scandaroli (INRIA %u2013 Sophia Antipolis), Rogerio Richa (Johns Hopkins University), Maxime Meilland
+Efficient Similarity Derived From Kernel-based Transition Probability
+Takumi Kobayashi (National Institute of AIST), Nobuyuki Otsu
+Simultaneous Compaction and Factorization of Sparse Image Motion Matrices
+Susanna Ricco (Duke University), Carlo Tomasi
+Efficient Optimization For Low-Rank Integrated Bilinear Classifiers
+Takumi Kobayashi (National Institute of AIST), Nobuyuki Otsu
+Per-patch Descriptor Selection using Surface and Scene Properties
+Ivo Everts (UvA), Jan van Gemert (UvA), Theo Gevers (UvA)
+Leafsnap: A Computer Vision System for Automatic Plant Species Identification
+Neeraj Kumar (University of Washington), Peter Belhumeur (Columbia University), Arijit Biswas (University of Maryland), David W. Jacobs (University of Maryland), W. John Kress (Smithsonian Institution), Ida Lopez (Smithsonian Institution), João V. B. Soares (University of Maryland)
+A Convex Discrete-Continuous Approach for Markov Random Fields
+Christopher Zach (Microsoft Research), Pushmeet Kohli
+Augmented Attribute Representations
+Viktoriia Sharmanska (IST Austria), Novi Quadrianto (University of Cambridge), Christoph Lampert (IST Austria)
+A Locally Linear Regression Model for Boundary Preserving Regularization in Stereo Matching
+Shengqi Zhu (Univ of Wisconsin – Madison), Li Zhang (Univ. of Wisconsin -Madison), Hailin Jin
+Exploring the Spatial Hierarchy of Mixture Models for Human Pose Estimation
+Yuandong Tian (Carnegie Mellon University), C. Lawrence Zitnick (Microsoft Research), Srinivasa Narasimhan (Carnegie Mellon University)
+People Orientation Recognition by Mixtures of Wrapped Distributions on Random Trees
+Davide Baltieri (University of Modena and Reggio Emilia), RobertoVezzani (University of Modena and Reggio Emilia), Rita Cucchiara (Universityof Modena and Reggio Emilia)
+A Novel Fast Method for $L_\infty$ Problems in Multiview Geometry
+Zhijun Dai (Intelligence Engineering Labor), Yihong Wu, HonganWang
+Low-Rank Sparse Learning for Robust Visual Tracking
+Tianzhu Zhang (ADSC), Bernard Ghanem, Narendra Ahuja (University ofIllinois - Urbana Champaign)
+Robust and Efficient Subspace Segmentation via Least Squares Regression
+Can-Yi Lu (USTC,NUS), Hai Min (USTC), Zhong-Qiu Zhao (HUT), Lin Zhu (USTC), De-Shuang Huang (TJU), Shuicheng Yan (NUS)
+Visibility Probability Structure from SfM Dataset and Applications
+Siddharth Choudhary (IIIT Hyderabad), P J Narayanan (IIIT Hyderabad)
+Hybrid Classifiers for Object Classification with a Rich Background
+Margarita Osadchy (University of Haifa), Daniel Keren (University ofHaifa), Bella Specktor (University of Haifa)
+A Generative Model for Online Depth Fusion
+Oliver Woodford (Toshiba Research Europe Ltd), George Vogiatzis (AstonUniversity)
+Mixed-Resolution Patch-Matching
+Harshit Sureka (IIIT-Hyderabad), P J Narayanan
+Depth Recovery Using an Adaptive Color-Guided Auto-Regressive Model
+Jingyu Yang (Tianjin University), Xinchen Ye (Tianjin University), Kun Li (Tianjin University), Chunping Hou (Tianjin University)
+Real-Time Camera Tracking: When is High Frame-Rate Best?
+Ankur Handa (Imperial College London), Richard Newcombe (Imperial CollegeLondon), Adrien Angeli, Andrew Davison (Imperial College London)
+Motion Interchange Patterns for Action Recognition in Unconstrained Videos
+Orit Kliper-Gross (Weizmann Institute of Science), Yaron Gurovich (Tel-Aviv University), Tal Hassner (The Open University of Israel), Lior Wolf (Tel-Aviv University)
+Exploiting Sparse Representations for Robust Analysis of Noisy Complex Video Scenes
+Gloria Zen (University of Trento), Elisa Ricci (University of Perugia),Nicu Sebe (University of Trento)
+An Automatic Pose Invariant FRAD Approach
+Eslam Mostafa (University of Louisville), Asem Ali, Aly Farag
+A non-parametric hierarchical model to discover behavior dynamics from tracks
+Dariu Gavrila (University of Amsterdam), Julian Kooij, GwennEnglebienne
+Generalized Roof Duality for Multi-Label Optimization: Optimal Lower Bounds and Persistency
+Thomas Windheuser (Technische Universität München), Hiroshi Ishikawa, Daniel Cremers
+Semantic Segmentation with Second-Order Pooling
+Joao Carreira (University of Coimbra), Rui Caseiro (Institute Systems Robotics), Jorge Batista (Institute Systems Robotics – University Coimbra -Portugal), Cristian Sminchisescu (University of Bonn)
+Separability Oriented Preprocessing for Illumination-invariant Face Recognition
+Hu Han (Michigan State University), Shiguang Shan (ICT - CAS), Xilin Chen (ICT - CAS), Shihong Lao (Omron Company), Wen Gao (Peking University)
+Minimal Correlation Ensemble
+Noga Levy (Tel Aviv University), Lior Wolf (Tel-Aviv University)
+Elastic Shape Matching of Parameterized Surfaces Using Square Root Normal Fields
+Ian Jermyn, Sebastian Kurtek, Eric Klassen (Florida StateUniversity), Anuj Srivastava (Florida State University)
+Contextual Object Detection using Set-based Classification
+Ramazan Gokberk CINBIS (INRIA Grenoble), Stan Sclaroff (Boston University)
+A Bayesian Approach to Alignment-based Image Hallucination
+Marshall Tappen (UCF), Ce Liu (Microsoft Research New England)
+KAZE Features
+Pablo FernÂ·ndez Alcantarilla (UniversitÃˆ d’Auvergne), Adrien Bartoli (ISIT), Andrew Davison (Imperial College London)
+Saliency Modeling from Image Histograms
+Shijian Lu (I2R - A*STAR), Joo-Hwee Lim (Institute for Infocomm Research)
+N-tuple Color Segmentation for Multi-View Silhouette Extraction
+Abdelaziz Djelouah (Inria), technicolor, edmond boyer (INRIA),Jean-Sebastien Franco (INRIA), Patrick Perez (technicolor), FranÃois Le Clerc (Technicolor)
+Local Label Descriptor for Example based Semantic Image Labeling
+Yiqing Yang (Univ of Wisconsin – Madison), Zhouyuan Li (Univ of Wisconsin- Madison), Li Zhang (Univ. of Wisconsin – Madison), Christopher Murphy (Univof Wisconsin – Madison), Jim Hoeve (Univ of Wisconsin – Madison), HongruiJiang
+Photo-Sequensing
+Tali Basha (Tel Aviv University), Shai Avidan, Yael Moses (IDC)
+Age Invariant Face Verification with Relative Craniofacial Growth Model
+Tao Wu (University of Maryland), Rama Chellappa (Univ. of Maryland -College Park)
+Sparse Embedding: A framework for Sparsity Promoting Dimensionality Reduction
+Hien Nguyen (University of Maryland), Vishal Patel (UMIACS), NasserNasrabadi (Army Research Laboratory), Rama Chellappa (Univ. of Maryland -College Park)
+Inferring gene interaction networks from ISH images via kernelized graphical models
+Kriti Puniyani (Carnegie Mellon University), Eric Xing
+Random Forest for Image Annotation
+Hao Fu (University of Nottingham), Qian Zhang (University of Nottingham), Guoping Qiu (University of Nottingham)
+Continuous Markov Random Fields for Robust Stereo Estimation
+Koichiro Yamaguchi (TTI Chicago), Tamir Hazan (TTI Chicago), DavidMcAllester (TTI Chicago), Raquel Urtasun (TTIC)
+Loss-Specific Training of Non-Parametric Image Restoration Models: A New State of the Art
+Jeremy Jancsary (OFAI), Sebastian Nowozin (Microsoft Research), CarstenRother
+A Probabilistic Approach to Robust Matrix Factorization
+Naiyan Wang (HKUST), Tiansheng Yao, Jingdong Wang (Microsoft ResearchAsia), Dit-Yan Yeung
+Continuous Regression for Non-Rigid Image Alignment
+Enrique Sanchez Lozano (Gradiant), Fernando De la Torre (Carnegie Mellon University), Daniel Gonzalez Jimenez (Gradiant)
+Fourier Kernel Learning
+Eduard-Gabriel Bazavan (IMAR), Fuxin Li (Georgia Inst. of Tech.), Cristian Sminchisescu (University of Bonn)
+(MP)2T: Multiple People Multiple Parts Tracker
+Hamid Izadinia (UCF), Imran Saleemi (UCF), Wenhui Li (UCF), Mubarak Shah (UCF)
+Information Theoretic Learning for Pixel-based Visual Agents
+Marco Maggini (University of Siena), Stefano Melacci (University ofSiena), Marco Gori (University of Siena), Marco Lippi (University of Siena)
+Large Scale Visual Geo-Localization of Images in Mountainous Terrain
+Georges Baatz (ETHZ), Olivier Saurer (ETHZ), Kevin Koeser (ETHZ), Marc Pollefeys
+A theoretical analysis of camera response functions in image deblurring
+Xiaogang Chen (Shanghai Jiaotong University), Jingyi Yu, Jie Yang,Feng Li (University of Delaware)
+Fast Parameter Sensitivity Analysis of PDE-based Image Processing Methods
+Torben Pätz (Jacobs University Bremen), Tobias Preusser (JacobsUniversity Bremen)
+The Lazy Flipper: Efficient Depth-limited Exhaustive Search in Discrete Graphical Models
+Bjoern Andres (Harvard University), JË†rg Kappes (Heidelberg University), Thorsten Beier (University of Heidelberg), Ullrich Koethe (University of Heidelberg - Germany), Fred Hamprecht (University of Heidelberg - Germany)
+Road Scene Segmentation from a Single Image
+Jose Alvarez (Computer Vision Center), Theo Gevers (UvA), Yann LeCun (New York University), AntonioLopez (Computer Vision Center)
+Mixture Component Identification and Learning for Visual Recognition
+Omid Aghazadeh (CVAP - KTH), Hossein Azizpour (CVAP - KTH), Josephine Sullivan, Stefan Carlsson (CVAP -KTH)
+Predictable and Discriminative Binary Codes
+Mohammad Rastegari (Dartmouth college), Ali Farhadi, David Forsyth
+Scene semantics from long-term observation of people
+Vincent Delaitre, David Fouhey (Carnegie Mellon University, Ivan Laptev, Josef Sivic (INRIA / Ecole Normale Superieure), Abhinav Gupta, Alyosha Efros (CMU)
+Local Higher-order Statistics (LHS) for Texture Categorization and FacialAnalysis
+Gaurav Sharma (University of Caen), Sibt ul Hussain (University of Caen), Frederic Jurie (University of Caen)
+Motion-Aware Structured Light Using Spatio-Temporal Decodable Patterns
+Yuichi Taguchi (MERL), Amit Agrawal (MERL), Oncel Tuzel (MERL)
+Face Association across Unconstrained Video Frames Using Conditional Random Fields
+Ming Du (University of Maryland), Rama Chellappa (Univ. of Maryland -College Park)
+Non-Rigid Shape Registration: A Single Linear Least Squares Framework
+Mohammad Rouhani (CVC), Angel Sappa (Computer Vision Center)
+Image Retrieval with Structured Object Queries Using Latent Ranking SVM
+Tian Lan (Simon Fraser University), Weilong Yang (Simon FraserUniversity), Yang Wang (UIUC), Greg Mori
+Similarity Constrained Latent Support Vector Machine: An Application to Weakly Supervised Action Classification
+Nataliya Shapovalova (SFU), Arash Vahdat (SFU), Kevin Cannons (SFU), TianLan (SFU), Greg Mori
+Refractive Calibration of Underwater Cameras
+Anne Sedlazeck (Kiel University), Reinhard Koch
+Detection of Independently Moving Objects in Non-planar Scenes via Multi-Frame Monocular Epipolar Constraint
+Vladimir Reilly (University of Central Florida), Soumyabrata Dey (University of Central Florida), Mubarak Shah (UCF)
+SEEDS: Superpixels Extracted via Energy-Driven Sampling
+Michael Van den Bergh (ETH Zurich), Gemma Roig Noguera (ETH), Xavier Boix (ETH), Luc Van Gool
+Shape from Angle Regularity
+Aamer Zaheer (LUMS School of Science and Engineering), Maheen Rashid (LUMS School of Science and Engineering), Sohaib Khan (LUMS School of Science andEng)
+Streaming Hierarchical Video Segmentation
+Chenliang Xu (SUNY at Buffalo), Caiming Xiong (SUNY at Buffalo), Jason Corso (SUNY at Buffalo)
+Co-inference for Multi-modal Scene Analysis
+Daniel Munoz (Carnegie Mellon University), James Bagnell, Martial Hebert
+A Unified View on Deformable Shape Factorizations
+Roland Angst (ETH Zurich), Marc Pollefeys
+Large-lexicon attribute-consistent text recognition in natural images
+Tatiana Novikova (Moscow State University), Olga Barinova (Moscow StateUniversity), Pushmeet Kohli, Victor Lempitsky
+Team Activity Recognition in Sports
+Cem Direkoglu (Dublin City University), Noel O’Connor (Dublin City University)
+Dictionary-based Face Recognition from Video
+Yi-Chen Chen (UMIACS), Vishal Patel (UMIACS), Jonathon Phillips, Rama Chellappa (Univ. of Maryland - College Park)
+Efficient Learning of Camera Transitions for Person Re-Identification
+Martin Hirzer (Graz University of Technology), Peter Roth (Graz University of Technology), Horst Bischof
+Saliency-Based Space-Variant Descriptor Sampling for Action Recognition
+Eleonora Vig (Rowland Institute at Harvard), Michael Dorr (Schepens Eye Research Institute - Harvard Medical School), David Cox (Rowland Institute atHarvard)
+Finding the exact rotation between two images independently of the translation
+Laurent Kneip (ETH Zurich), Roland Siegwart (ETH Zurich), Marc Pollefeys
+Contraction Moves for Geometric Model Fitting
+Oliver Woodford (Toshiba Research Europe), Minh-Tri Pham (Toshiba Research Europe), Atsuto Maki (Toshiba Research Europe), Riccardo Gherardi (Toshiba Research Europe), Frank Perbet (Toshiba Research Europe), BjornStenger (Toshiba Research Europe)
+Dynamic Probabilistic CCA for Analysis of Affective Behaviour
+Mihalis Nicolaou (Imperial College London), Vladimir Pavlovic (Rutgers University), Maja Pantic (Imperial College London)
+Connecting Missing Links: Object Discovery from Sparse Observations
+Hongwen Kang (Carnegie Mellon University), Martial Hebert, Takeo Kanade
+General and Nested Wiberg Minimization: L_2 and Maximum Likelihood
+Dennis Strelow (Google)
+Motion Capture of Hands in Action using Discriminative Salient Points
+Luca Ballan (ETH Zurich), Aparna Taneja (ETH Zurich), Juergen Gall (ETH Zurich), Luc Van Gool, Marc Pollefeys
+A new set of quartic trivariate polynomial equations for stratified camera self-calibration under zero-skew and constant parameters assumptions
+Adlane Habed (University of Bourgogne), Kassem Al Ismaeil (University of Luxembourg), David Fofi (University of Bourgogne)
+A minimal solution for camera calibration using independent pairwise correspondences
+Francisco Vasconcelos (ISR – Coimbra), Joâ€žo Pedro Barreto (ISR), edmondboyer (INRIA)
+Robust and Accurate Shape Model Fitting using Random Forest Regression Voting
+Tim Cootes (The University of Manchester), Mircea Ionita (The Universityof Manchester), Claudia Lindner (The University of Manchester), Patrick Sauer (The University of Manchester)
+Disentangling factors of variation for facial expression recognition
+Salah Rifai (Universite de Montreal), Yoshua Bengio (U. Montreal), Aaron Courville (U. Montreal), Pascal Vincent (UniversitÃˆ de MontrÃˆal), Mehdi Mirza (U. Montreal)
+Recording and playback of camera shake: benchmarking blind deconvolution with a real-world database
+Rolf Koehler (MPI for Intelligent Systems), Michael Hirsch (MPI forIntelligent Systems), Stefan Harmeling (MPI for Intelligent Systems), BettyMohler, Bernhard SchË†lkopf (MPI for Intelligent Systems)
+Joint Image Classification and Annotation via Biased Random Walk on Tri-Relationship Graph
+Xiao Cai (UTA), Feiping Nie (UTA), Heng Huang (University of Texas atArlington)
+Real–Time Human Pose Tracking using Range Cameras
+Varun Ganapathi (Google), Christian Plagemann (Google Research), DaphneKoller (Stanford University), Sebastian Thrun (Google)
+Spring Lattice Counting Grids: Scene recognition using deformable positional constraints
+Alessandro Perina (Microsoft Research), Nebojsa Jojic (Microsoft Research)
+Efficient Recursive Algorithms for Computing the Mean Diffusion Tensorand Applications to DTI Segmentation
+Hesamoddin Salehian (University of Florida), Guang Cheng (University of Florida), Baba Vemuri (University of Florida)
+Semi-Nonnegative Matrix Factorization for Motion Segmentation with Missing Data
+Quanyi Mo (Colorado State University), Bruce Draper (Colorado StateUniversity)
+Learning-Based Symmetry Detection in Natural Images
+Stavros Tsogkas (Ecole Centrale de Paris), Iasonas Kokkinos (Ecole Centrale Paris/INRIA)
+Beyond the line of sight: labeling the underlying surfaces
+Ruiqi Guo (UIUC), Derek Hoiem (University of Illinois)
+Hand Pose Estimation and Hand Shape Classification using Multi–layered Randomized Decision Forests
+Cem Keskin (Bo?aziÃi University), Yunus Emre Kara, Furkan KiraÃ§, Lale Akarun
+Nonmetric Priors for Continuous Multilabel Optimization
+Evgeny Strekalovskiy (Technical University Munich), Claudia Nieuwenhuis (TU München), Daniel Cremers

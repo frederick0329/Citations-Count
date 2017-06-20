@@ -650,7 +650,7 @@ Controlled Recognition Bounds for Visual Learning and Exploration
 Vasiliy Karasev, Alessandro Chiuso, Stefano Soatto
 Distributed Probabilistic Learning for Camera Networks with Missing Data
 Sejong Yoon, Vladimir Pavlovic
-Submodular-Bregman and the Lovász-Bregman Divergences with Applications
+Submodular-Bregman and the Lovasz-Bregman Divergences with Applications
 Rishabh Iyer, Jeff A. Bilmes
 Minimizing Uncertainty in Pipelines
 Nilesh Dalvi, Aditya Parameswaran, Vibhor Rastogi
