@@ -256,7 +256,7 @@ Semantic Parsing on Freebase from Question-Answer Pairs
 Jonathan Berant, Roy Frostig, Andrew Chou and Percy Liang
 Semi-Markov Phrase-based Monolingual Alignment
 Xuchen Yao, Benjamin Van Durme, Chris Callison-Burch and Peter Clark
-Semi-Supervised Representation Learning for Cross-Lingual Text Classiﬁcation
+Semi-Supervised Representation Learning for Cross-Lingual Text Classification
 Min Xiao and Yuhong Guo
 Sentiment Analysis: How to Derive Prior Polarities from SentiWordNet
 Marco Guerini, Lorenzo Gatti and Marco Turchi
