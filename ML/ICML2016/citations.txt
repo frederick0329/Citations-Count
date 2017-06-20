@@ -1,0 +1,93 @@
+No Oops, You Won't Do It Again: Mechanisms for Self-correction in Crowdsourcing	1
+Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues	19
+Uprooting and Rerooting Graphical Models	4
+A Deep Learning Approach to Unsupervised Ensemble Learning	3
+Revisiting Semi-Supervised Learning with Graph Embeddings	34
+Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization	30
+Diversity-Promoting Bayesian Learning of Latent Variable Models	3
+Additive Approximations in High Dimensional Nonparametric Regression via the SALSA	2
+Hawkes Processes with Stochastic Excitations	5
+Data-driven Rank Breaking for Efficient Rank Aggregation	3
+Dropout distillation	4
+Metadata-conscious anonymous messaging	0
+The Teaching Dimension of Linear Learners	9
+Truthful Univariate Estimators	2
+Why Regularized Auto-Encoders learn Sparse Representation?	6
+k-variates++: more pluses in the k-means++	0
+Multi-Player Bandits - a Musical Chairs Approach	1
+The Information Sieve	5
+Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin	175
+On the Consistency of Feature Selection With Lasso for Non-linear Targets	0
+Minimum Regret Search for Single- and Multi-Task Optimization	3
+CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy	31
+The Variational Nystrom method for large-scale spectral problems	5
+Multi-Bias Non-linear Activation in Deep Neural Networks	12
+Asymmetric Multi-task Learning Based on Task Relatedness and Loss	2
+Accurate Robust and Efficient Error Estimation for Decision Trees	1
+Fast Stochastic Algorithms for SVD and PCA: Convergence Properties and Convexity	28
+Convergence of Stochastic Gradient Descent for PCA	16
+Dealbreaker: A Nonlinear Latent Variable Model for Educational Data	0
+A Kernelized Stein Discrepancy for Goodness-of-fit Tests	10
+Variable Elimination in the Fourier Domain	2
+Low-Rank Matrix Approximation with Stability	6
+Linking losses for density ratio and class-probability estimation	4
+Stochastic Variance Reduction for Nonconvex Optimization	32
+Hierarchical Variational Models	43
+Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams	0
+Binary embeddings with structured hashed projections	8
+A Variational Analysis of Stochastic Gradient Algorithms	12
+Adaptive Sampling for SGD by Exploiting Side Information	1
+Learning from Multiway Data: Simple and Efficient Tensor Regression	3
+A Distributed Variational Inference Framework for Unifying Parallel Sparse Gaussian Process Regression Models	2
+Online Stochastic Linear Optimization under One-bit Feedback	1
+Adaptive Algorithms for Online Convex Optimization with Long-term Constraints	5
+Actively Learning Hemimetrics with Applications to Eliciting User Preferences	4
+Learning Simple Algorithms from Examples	31
+Learning Physical Intuition of Block Towers by Example	46
+Structure Learning of Partitioned Markov Networks	0
+Tracking Slowly Moving Clairvoyant: Optimal Dynamic Regret of Online Learning with True and Noisy Gradient	4
+Beyond CCA: Moment Matching for Multi-View Models	5
+Fast methods for estimating the Numerical rank of large matrices	6
+Unsupervised Deep Embedding for Clustering Analysis	23
+Efficient Private Empirical Risk Minimization for High-dimensional Learning	2
+Parameter Estimation for Generalized Thurstone Choice Models	2
+Large-Margin Softmax Loss for Convolutional Neural Networks	11
+A Random Matrix Approach to Echo-State Neural Networks	0
+Supervised and Semi-Supervised Text Categorization using LSTM for Region Embeddings	7
+Optimality of Belief Propagation for Crowdsourced Classification	8
+Stability of Controllers for Gaussian Process Forward Models	1
+Learning privately from multiparty data	11
+Network Morphism	8
+A Kronecker-factored approximate Fisher matrix for convolution layers	2
+Experimental Design on a Budget for Sparse Linear Models and Applications	1
+Minding the Gaps for Block Frank-Wolfe Optimization of Structured SVMs	10
+Exact Exponent in Optimal Rates for Crowdsourcing	4
+Augmenting Supervised Neural Networks with Unsupervised Objectives for Large-scale Image Classification	13
+Online Low-Rank Subspace Clustering by Basis Dictionary Pursuit	5
+A Self-Correcting Variable-Metric Algorithm for Stochastic Optimization	1
+Stochastic Quasi-Newton Langevin Monte Carlo	10
+Doubly Robust Off-policy Value Evaluation for Reinforcement Learning	14
+Fast Rate Analysis of Some Stochastic Optimization Algorithms	0
+Fast k-Nearest Neighbour Search via Dynamic Continuous Indexing	2
+Smooth Imitation Learning for Online Sequence Prediction	4
+Community Recovery in Graphs with Locality	4
+Variance Reduction for Faster Non-Convex Optimization	44
+Loss factorization, weakly supervised learning and label noise robustness	12
+Analysis of Deep Neural Networks with Extended Data Jacobian Matrix	4
+Doubly Decomposing Nonparametric Tensor Regression	3
+Hyperparameter optimization with approximate gradient	7
+SDCA without Duality, Regularization, and Individual Convexity	18
+Heteroscedastic Sequences: Beyond Gaussianity	0
+A Neural Autoregressive Approach to Collaborative Filtering	8
+On the Quality of the Initial Basin in Overspecified Neural Networks	17
+Primal-Dual Rates and Certificates	7
+Minimizing the Maximal Loss: How and Why	3
+The Information-Theoretic Requirements of Subspace Clustering with Missing Data	4
+Online Learning with Feedback Graphs Without the Graphs	3
+PAC learning of Probabilistic Automaton based on the Method of Moments	4
+Estimating Structured Vector Autoregressive Models	6
+Mixing Rates for the Alternating Gibbs Sampler over Restricted Boltzmann Machines and Friends	1
+Polynomial Networks and Factorization Machines: New Insights and Efficient Training Algorithms	11
+A New PAC-Bayesian Perspective on Domain Adaptation	9
+Correlation Clustering and Biclustering with Locally Bounded Errors	1
+PAC Lower Bounds and Efficient Algorithms for The Max K-Armed Bandit Problem	1

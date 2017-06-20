@@ -1,4 +1,4 @@
-No Oops, You Won’t Do It Again: Mechanisms for Self-correction in Crowdsourcing
+No Oops, You Won't Do It Again: Mechanisms for Self-correction in Crowdsourcing
 Nihar Shah, Dengyong Zhou ; PMLR 48:1-10
 Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues
 Nihar Shah, Sivaraman Balakrishnan, Aditya Guntuboyina, Martin Wainwright ; PMLR 48:11-20
@@ -30,7 +30,7 @@ Why Regularized Auto-Encoders learn Sparse Representation?
 Devansh Arpit, Yingbo Zhou, Hung Ngo, Venu Govindaraju ; PMLR 48:136-144
 k-variates++: more pluses in the k-means++
 Richard Nock, Raphael Canyasse, Roksana Boreli, Frank Nielsen ; PMLR 48:145-154
-Multi-Player Bandits – a Musical Chairs Approach
+Multi-Player Bandits - a Musical Chairs Approach
 Jonathan Rosenski, Ohad Shamir, Liran Szlak ; PMLR 48:155-163
 The Information Sieve
 Greg Ver Steeg, Aram Galstyan ; PMLR 48:164-172
