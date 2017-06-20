@@ -262,6 +262,7 @@
 - [ ] Interactive: Inter-Layer Activeness Propagation	10
 - [ ] Inferring Forces And Learning Human Utilities From Videos	10
 - [ ] What Players Do With The Ball: A Physically Constrained Interaction Modeling	10
+- [ ] Craft Objects From Images	10
 - [ ] Reconnet: Non-Iterative Reconstruction Of Images From Compressively Sensed Measurements	10
 - [ ] Learning With Side Information Through Modality Hallucination	10
 - [ ] Fine-Grained Image Classification By Exploring Bipartite-Graph Labels	10

@@ -640,3 +640,4 @@ PPP: Joint Pointwise and Pairwise Image Label Prediction	7
 Cataloging Public Objects Using Aerial and Street-Level Images - Urban Trees	7
 Deep Exemplar 2D-3D Detection by Adapting From Real to Rendered Views	17
 Zero-Shot Learning via Joint Latent Similarity Embedding	35
+CRAFT Objects From Images	10

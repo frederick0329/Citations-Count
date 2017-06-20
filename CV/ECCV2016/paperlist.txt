@@ -1,0 +1,830 @@
+CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples
+Filip Radenović, Giorgos Tolias, Ondřej Chum
+SSD: Single Shot MultiBox Detector
+Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu et al.
+A Recurrent Encoder-Decoder Network for Sequential Face Alignment
+Xi Peng, Rogerio S. Feris, Xiaoyu Wang, Dimitris N. Metaxas
+Robust Facial Landmark Detection via Recurrent Attentive-Refinement Networks
+Shengtao Xiao, Jiashi Feng, Junliang Xing, Hanjiang Lai, Shuicheng Yan, Ashraf Kassim
+Learning to Refine Object Segments
+Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, Piotr Dollár
+Deep Automatic Portrait Matting
+Xiaoyong Shen, Xin Tao, Hongyun Gao, Chao Zhou, Jiaya Jia
+Segmentation from Natural Language Expressions
+Ronghang Hu, Marcus Rohrbach, Trevor Darrell
+Semantic Object Parsing with Graph LSTM
+Xiaodan Liang, Xiaohui Shen, Jiashi Feng, Liang Lin, Shuicheng Yan
+SSHMT: Semi-supervised Hierarchical Merge Tree for Electron Microscopy Image Segmentation
+Ting Liu, Miaomiao Zhang, Mehran Javanmardi, Nisha Ramesh, Tolga Tasdizen
+Towards Viewpoint Invariant 3D Human Pose Estimation
+Albert Haque, Boya Peng, Zelun Luo, Alexandre Alahi, Serena Yeung, Li Fei-Fei
+Person Re-Identification by Unsupervised ℓ1ℓ1 Graph Learning
+Elyor Kodirov, Tao Xiang, Zhenyong Fu, Shaogang Gong
+Deep Learning the City: Quantifying Urban Perception at a Global Scale
+Abhimanyu Dubey, Nikhil Naik, Devi Parikh, Ramesh Raskar, César A. Hidalgo
+4D Match Trees for Non-rigid Surface Alignment
+Armin Mustafa, Hansung Kim, Adrian Hilton
+Eigen Appearance Maps of Dynamic Shapes
+Adnane Boukhayma, Vagia Tsiminaki, Jean-Sébastien Franco, Edmond Boyer
+Learnable Histogram: Statistical Context Features for Deep Neural Networks
+Zhe Wang, Hongsheng Li, Wanli Ouyang, Xiaogang Wang
+Pedestrian Behavior Understanding and Prediction with Deep Neural Networks
+Shuai Yi, Hongsheng Li, Xiaogang Wang
+Real-Time RGB-D Activity Prediction by Soft Regression
+Jian-Fang Hu, Wei-Shi Zheng, Lianyang Ma, Gang Wang, Jianhuang Lai
+A 3D Morphable Eye Region Model for Gaze Estimation
+Erroll Wood, Tadas Baltrušaitis, Louis-Philippe Morency, Peter Robinson, Andreas Bulling
+Foreground Segmentation via Dynamic Tree-Structured Sparse RPCA
+Salehe Erfanian Ebadi, Ebroul Izquierdo
+Contextual Priming and Feedback for Faster R-CNN
+Abhinav Shrivastava, Abhinav Gupta
+Efficient Multi-view Surface Refinement with Adaptive Resolution Control
+Shiwei Li, Sing Yu Siu, Tian Fang, Long Quan
+Gaussian Process Density Counting from Weak Supervision
+Matthias von Borstel, Melih Kandemir, Philip Schmidt, Madhavi K. Rao, Kumar Rajamani, Fred A. Hamprecht
+Region-Based Semantic Segmentation with End-to-End Training
+Holger Caesar, Jasper Uijlings, Vittorio Ferrari
+Fast 6D Pose Estimation from a Monocular Image Using Hierarchical Pose Trees
+Yoshinori Konishi, Yuki Hanzawa, Masato Kawade, Manabu Hashimoto
+Learning Models for Actions and Person-Object Interactions with Transfer to Question Answering
+Arun Mallya, Svetlana Lazebnik
+A Software Platform for Manipulating the Camera Imaging Pipeline
+Hakki Can Karaimer, Michael S. Brown
+A Benchmark and Simulator for UAV Tracking
+Matthias Mueller, Neil Smith, Bernard Ghanem
+Scene Depth Profiling Using Helmholtz Stereopsis
+Hironori Mori, Roderick Köhle, Markus Kamm
+Projective Bundle Adjustment from Arbitrary Initialization Using the Variable Projection Method
+Je Hyeong Hong, Christopher Zach, Andrew Fitzgibbon, Roberto Cipolla
+Localizing and Orienting Street Views Using Overhead Imagery
+Nam N. Vo, James Hays
+Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding
+Gunnar A. Sigurdsson, Gül Varol, Xiaolong Wang, Ali Farhadi, Ivan Laptev, Abhinav Gupta
+Shuffle and Learn: Unsupervised Learning Using Temporal Order Verification
+Ishan Misra, C. Lawrence Zitnick, Martial Hebert
+DOC: Deep OCclusion Estimation from a Single Image
+Peng Wang, Alan Yuille
+RepMatch: Robust Feature Matching and Pose for Reconstructing Modern Cities
+Wen-Yan Lin, Siying Liu, Nianjuan Jiang, Minh. N. Do, Ping Tan, Jiangbo Lu
+Convolutional Oriented Boundaries
+Kevis-Kokitsi Maninis, Jordi Pont-Tuset, Pablo Arbeláez, Luc Van Gool
+Superpixel Convolutional Networks Using Bilateral Inceptions
+Raghudeep Gadde, Varun Jampani, Martin Kiefel, Daniel Kappler, Peter V. Gehler
+Sublabel-Accurate Convex Relaxation of Vectorial Multilabel Energies
+Emanuel Laude, Thomas Möllenhoff, Michael Moeller, Jan Lellmann, Daniel Cremers
+Building Dual-Domain Representations for Compression Artifacts Reduction
+Jun Guo, Hongyang Chao
+Geometric Neural Phrase Pooling: Modeling the Spatial Co-occurrence of Neurons
+Lingxi Xie, Qi Tian, John Flynn, Jingdong Wang, Alan Yuille
+Photo Aesthetics Ranking Network with Attributes and Content Adaptation
+Shu Kong, Xiaohui Shen, Zhe Lin, Radomir Mech, Charless Fowlkes
+SDF-2-SDF: Highly Accurate 3D Object Reconstruction
+Miroslava Slavcheva, Wadim Kehl, Nassir Navab, Slobodan Ilic
+Knowledge Transfer for Scene-Specific Motion Prediction
+Lamberto Ballan, Francesco Castaldo, Alexandre Alahi, Francesco Palmieri, Silvio Savarese
+Weakly Supervised Localization Using Deep Feature Maps
+Archith John Bency, Heesung Kwon, Hyungtae Lee, S. Karthikeyan, B. S. Manjunath
+Embedding Deep Metric for Person Re-identification: A Study Against Large Variations
+Hailin Shi, Yang Yang, Xiangyu Zhu, Shengcai Liao, Zhen Lei, Weishi Zheng et al.
+Learning to Track at 100 FPS with Deep Regression Networks
+David Held, Sebastian Thrun, Silvio Savarese
+Matching Handwritten Document Images
+Praveen Krishnan, C. V. Jawahar
+Semantic Clustering for Robust Fine-Grained Scene Recognition
+Marian George, Mandar Dixit, Gábor Zogg, Nuno Vasconcelos
+Ambient Sound Provides Supervision for Visual Learning
+Andrew Owens, Jiajun Wu, Josh H. McDermott, William T. Freeman, Antonio Torralba
+Grounding of Textual Phrases in Images by Reconstruction
+Anna Rohrbach, Marcus Rohrbach, Ronghang Hu, Trevor Darrell, Bernt Schiele
+Improving Multi-label Learning with Missing Labels by Structured Semantic Correlations
+Hao Yang, Joey Tianyi Zhou, Jianfei Cai
+Visual Relationship Detection with Language Priors
+Cewu Lu, Ranjay Krishna, Michael Bernstein, Li Fei-Fei
+The Curious Robot: Learning Visual Representations via Physical Interactions
+Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta
+Image Co-localization by Mimicking a Good Detector’s Confidence Score Distribution
+Yao Li, Lingqiao Liu, Chunhua Shen, Anton van den Hengel
+Facilitating and Exploring Planar Homogeneous Texture for Indoor Scene Understanding
+Shahzor Ahmad, Loong-Fah Cheong
+An Empirical Study and Analysis of Generalized Zero-Shot Learning for Object Recognition in the Wild
+Wei-Lun Chao, Soravit Changpinyo, Boqing Gong, Fei Sha
+Modeling Context in Referring Expressions
+Licheng Yu, Patrick Poirson, Shan Yang, Alexander C. Berg, Tamara L. Berg
+Taxonomy-Regularized Semantic Deep Convolutional Neural Networks
+Wonjoon Goo, Juyong Kim, Gunhee Kim, Sung Ju Hwang
+Playing for Data: Ground Truth from Computer Games
+Stephan R. Richter, Vibhav Vineet, Stefan Roth, Vladlen Koltun
+Human Re-identification in Crowd Videos Using Personal, Social and Environmental Constraints
+Shayan Modiri Assari, Haroon Idrees, Mubarak Shah
+Revisiting Additive Quantization
+Julieta Martinez, Joris Clement, Holger H. Hoos, James J. Little
+Single Image Dehazing via Multi-scale Convolutional Neural Networks
+Wenqi Ren, Si Liu, Hua Zhang, Jinshan Pan, Xiaochun Cao, Ming-Hsuan Yang
+Photometric Stereo Under Non-uniform Light Intensities and Exposures
+Donghyeon Cho, Yasuyuki Matsushita, Yu-Wing Tai, Inso Kweon
+Visual Motif Discovery via First-Person Vision
+Ryo Yonetani, Kris M. Kitani, Yoichi Sato
+A Cluster Sampling Method for Image Matting via Sparse Coding
+Xiaoxue Feng, Xiaohui Liang, Zili Zhang
+Fundamental Matrices from Moving Objects Using Line Motion Barcodes
+Yoni Kasten, Gil Ben-Artzi, Shmuel Peleg, Michael Werman
+Fashion Landmark Detection in the Wild
+Ziwei Liu, Sijie Yan, Ping Luo, Xiaogang Wang, Xiaoou Tang
+Human Pose Estimation Using Deep Consensus Voting
+Ita Lifshitz, Ethan Fetaya, Shimon Ullman
+Leveraging Visual Question Answering for Image-Caption Ranking
+Xiao Lin, Devi Parikh
+DAVE: A Unified Framework for Fast Vehicle Detection and Annotation
+Yi Zhou, Li Liu, Ling Shao, Matt Mellor
+Real-Time Joint Tracking of a Hand Manipulating an Object from RGB-D Input
+Srinath Sridhar, Franziska Mueller, Michael Zollhöfer, Dan Casas, Antti Oulasvirta, Christian Theobalt
+DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation
+Yaroslav Ganin, Daniil Kononenko, Diana Sungatullina, Victor Lempitsky
+Non-rigid 3D Shape Retrieval via Large Margin Nearest Neighbor Embedding
+Ioannis Chiotellis, Rudolph Triebel, Thomas Windheuser, Daniel Cremers
+Multi-Task Zero-Shot Action Recognition with Prioritised Data Augmentation
+Xun Xu, Timothy M. Hospedales, Shaogang Gong
+Head Reconstruction from Internet Photos
+Shu Liang, Linda G. Shapiro, Ira Kemelmacher-Shlizerman
+Support Discrimination Dictionary Learning for Image Classification
+Yang Liu, Wei Chen, Qingchao Chen, Ian Wassell
+Accelerating the Super-Resolution Convolutional Neural Network
+Chao Dong, Chen Change Loy, Xiaoou Tang
+Symmetric Non-rigid Structure from Motion for Category-Specific Object Structure Estimation
+Yuan Gao, Alan L. Yuille
+Peak-Piloted Deep Network for Facial Expression Recognition
+Xiangyun Zhao, Xiaodan Liang, Luoqi Liu, Teng Li, Yugang Han, Nuno Vasconcelos et al.
+Is Faster R-CNN Doing Well for Pedestrian Detection?
+Liliang Zhang, Liang Lin, Xiaodan Liang, Kaiming He
+Coarse-to-fine Planar Regularization for Dense Monocular Depth Estimation
+Stephan Liwicki, Christopher Zach, Ondrej Miksik, Philip H. S. Torr
+Deep Attributes Driven Multi-camera Person Re-identification
+Chi Su, Shiliang Zhang, Junliang Xing, Wen Gao, Qi Tian
+An Occlusion-Resistant Ellipse Detection Method by Joining Coelliptic Arcs
+Halil Ibrahim Cakir, Cihan Topal, Cuneyt Akinlar
+Branching Path Following for Graph Matching
+Tao Wang, Haibin Ling, Congyan Lang, Jun Wu
+Higher Order Conditional Random Fields in Deep Neural Networks
+Anurag Arnab, Sadeep Jayasumana, Shuai Zheng, Philip H. S. Torr
+LSTM-CF: Unifying Context Modeling and Fusion with LSTMs for RGB-D Scene Labeling
+Zhen Li, Yukang Gan, Xiaodan Liang, Yizhou Yu, Hui Cheng, Liang Lin
+Stereo Video Deblurring
+Anita Sellent, Carsten Rother, Stefan Roth
+Robust Image and Video Dehazing with Visual Artifact Suppression via Gradient Residual Minimization
+Chen Chen, Minh N. Do, Jue Wang
+Smooth Neighborhood Structure Mining on Multiple Affinity Graphs with Applications to Context-Sensitive Similarity
+Song Bai, Shaoyan Sun, Xiang Bai, Zhaoxiang Zhang, Qi Tian
+Title Generation for User Generated Videos
+Kuo-Hao Zeng, Tseng-Hung Chen, Juan Carlos Niebles, Min Sun
+Natural Image Matting Using Deep Convolutional Neural Networks
+Donghyeon Cho, Yu-Wing Tai, Inso Kweon
+Double-Opponent Vectorial Total Variation
+Freddie Åström, Christoph Schnörr
+Learning to Count with CNN Boosting
+Elad Walach, Lior Wolf
+Amodal Instance Segmentation
+Ke Li, Jitendra Malik
+Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+Justin Johnson, Alexandre Alahi, Li Fei-Fei
+An Efficient Fusion Move Algorithm for the Minimum Cost Lifted Multicut Problem
+Thorsten Beier, Björn Andres, Ullrich Köthe, Fred A. Hamprecht
+ℓ0ℓ0-Sparse Subspace Clustering
+Yingzhen Yang, Jiashi Feng, Nebojsa Jojic, Jianchao Yang, Thomas S. Huang
+Normalized Cut Meets MRF
+Meng Tang, Dmitrii Marin, Ismail Ben Ayed, Yuri Boykov
+Fast Global Registration
+Qian-Yi Zhou, Jaesik Park, Vladlen Koltun
+Polysemous Codes
+Matthijs Douze, Hervé Jégou, Florent Perronnin
+Binary Hashing with Semidefinite Relaxation and Augmented Lagrangian
+Thanh-Toan Do, Anh-Dzung Doan, Duc-Thanh Nguyen, Ngai-Man Cheung
+Efficient Continuous Relaxations for Dense CRF
+Alban Desmaison, Rudy Bunel, Pushmeet Kohli, Philip H. S. Torr, M. Pawan Kumar
+Complexity of Discrete Energy Minimization Problems
+Mengtian Li, Alexander Shekhovtsov, Daniel Huber
+A Convex Solution to Spatially-Regularized Correspondence Problems
+Thomas Windheuser, Daniel Cremers
+A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance
+Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma
+Reflection Symmetry Detection via Appearance of Structure Descriptor
+Ibragim R. Atadjanov, Seungkyu Lee
+Faceless Person Recognition: Privacy Implications in Social Media
+Seong Joon Oh, Rodrigo Benenson, Mario Fritz, Bernt Schiele
+Segmental Spatiotemporal CNNs for Fine-Grained Action Segmentation
+Colin Lea, Austin Reiter, René Vidal, Gregory D. Hager
+Structure from Motion on a Sphere
+Jonathan Ventura
+Evaluation of LBP and Deep Texture Descriptors with a New Robustness Benchmark
+Li Liu, Paul Fieguth, Xiaogang Wang, Matti Pietikäinen, Dewen Hu
+MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition
+Yandong Guo, Lei Zhang, Yuxiao Hu, Xiaodong He, Jianfeng Gao
+Hierarchical Beta Process with Gaussian Process Prior for Hyperspectral Image Super Resolution
+Naveed Akhtar, Faisal Shafait, Ajmal Mian
+A 4D Light-Field Dataset and CNN Architectures for Material Recognition
+Ting-Chun Wang, Jun-Yan Zhu, Ebi Hiroaki, Manmohan Chandraker, Alexei A. Efros, Ravi Ramamoorthi
+Graph-Based Consistent Matching for Structure-from-Motion
+Tianwei Shen, Siyu Zhu, Tian Fang, Runze Zhang, Long Quan
+All-Around Depth from Small Motion with a Spherical Panoramic Camera
+Sunghoon Im, Hyowon Ha, François Rameau, Hae-Gon Jeon, Gyeongmin Choe, In So Kweon
+On Volumetric Shape Reconstruction from Implicit Forms
+Li Wang, Franck Hétroy-Wheeler, Edmond Boyer
+Multi-attributed Graph Matching with Multi-layer Random Walks
+Han-Mu Park, Kuk-Jin Yoon
+Deep Learning of Local RGB-D Patches for 3D Object Detection and 6D Pose Estimation
+Wadim Kehl, Fausto Milletari, Federico Tombari, Slobodan Ilic, Nassir Navab
+A Neural Approach to Blind Motion Deblurring
+Ayan Chakrabarti
+Joint Face Representation Adaptation and Clustering in Videos
+Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang
+Uncovering Symmetries in Polynomial Systems
+Viktor Larsson, Kalle Åström
+ATGV-Net: Accurate Depth Super-Resolution
+Gernot Riegler, Matthias Rüther, Horst Bischof
+Indoor-Outdoor 3D Reconstruction Alignment
+Andrea Cohen, Johannes L. Schönberger, Pablo Speciale, Torsten Sattler, Jan-Michael Frahm, Marc Pollefeys
+The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition
+Jonathan Krause, Benjamin Sapp, Andrew Howard, Howard Zhou, Alexander Toshev, Tom Duerig et al.
+A Simple Hierarchical Pooling Data Structure for Loop Closure
+Xiaohan Fei, Konstantine Tsotsos, Stefano Soatto
+A Versatile Approach for Solving PnP, PnPf, and PnPfr Problems
+Gaku Nakano
+Depth Map Super-Resolution by Deep Multi-Scale Guidance
+Tak-Wai Hui, Chen Change Loy, Xiaoou Tang
+SEAGULL: Seam-Guided Local Alignment for Parallax-Tolerant Image Stitching
+Kaimo Lin, Nianjuan Jiang, Loong-Fah Cheong, Minh Do, Jiangbo Lu
+Grid Loss: Detecting Occluded Faces
+Michael Opitz, Georg Waltner, Georg Poier, Horst Possegger, Horst Bischof
+Large-Scale R-CNN with Classifier Adaptive Quantization
+Ryota Hinami, Shin’ichi Satoh
+Face Detection with End-to-End Integration of a ConvNet and a 3D Model
+Yunzhu Li, Benyuan Sun, Tianfu Wu, Yizhou Wang
+Large Scale Asset Extraction for Urban Images
+Lama Affara, Liangliang Nan, Bernard Ghanem, Peter Wonka
+Multi-label Active Learning Based on Maximum Correntropy Criterion: Towards Robust and Discriminative Labeling
+Zengmao Wang, Bo Du, Lefei Zhang, Liangpei Zhang, Meng Fang, Dacheng Tao
+Shading-Aware Multi-view Stereo
+Fabian Langguth, Kalyan Sunkavalli, Sunil Hadap, Michael Goesele
+Fine-Scale Surface Normal Estimation Using a Single NIR Image
+Youngjin Yoon, Gyeongmin Choe, Namil Kim, Joon-Young Lee, In So Kweon
+Pixelwise View Selection for Unstructured Multi-View Stereo
+Johannes L. Schönberger, Enliang Zheng, Jan-Michael Frahm, Marc Pollefeys
+Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
+Golnaz Ghiasi, Charless C. Fowlkes
+Generic 3D Representation via Pose Estimation and Matching
+Amir R. Zamir, Tilman Wekel, Pulkit Agrawal, Colin Wei, Jitendra Malik, Silvio Savarese
+Hand Pose Estimation from Local Surface Normals
+Chengde Wan, Angela Yao, Luc Van Gool
+Abundant Inverse Regression Using Sufficient Reduction and Its Applications
+Hyunwoo J. Kim, Brandon M. Smith, Nagesh Adluru, Charles R. Dyer, Sterling C. Johnson, Vikas Singh
+Learning Diverse Models: The Coulomb Structured Support Vector Machine
+Martin Schiegg, Ferran Diego, Fred A. Hamprecht
+Pose Hashing with Microlens Arrays
+Ian Schillebeeckx, Robert Pless
+The Fast Bilateral Solver
+Jonathan T. Barron, Ben Poole
+Phase-Based Modification Transfer for Video
+Simone Meyer, Alexander Sorkine-Hornung, Markus Gross
+Colorful Image Colorization
+Richard Zhang, Phillip Isola, Alexei A. Efros
+Focal Flow: Measuring Distance and Velocity with Defocus and Differential Motion
+Emma Alexander, Qi Guo, Sanjeev Koppal, Steven Gortler, Todd Zickler
+An Evaluation of Computational Imaging Techniques for Heterogeneous Inverse Scattering
+Ioannis Gkioulekas, Anat Levin, Todd Zickler
+Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks
+Chuan Li, Michael Wand
+Fast Guided Global Interpolation for Depth and Motion
+Yu Li, Dongbo Min, Minh N. Do, Jiangbo Lu
+Learning High-Order Filters for Efficient Blind Deconvolution of Document Photographs
+Lei Xiao, Jue Wang, Wolfgang Heidrich, Michael Hirsch
+Multi-view Inverse Rendering Under Arbitrary Illumination and Albedo
+Kichang Kim, Akihiko Torii, Masatoshi Okutomi
+DAPs: Deep Action Proposals for Action Understanding
+Victor Escorcia, Fabian Caba Heilbron, Juan Carlos Niebles, Bernard Ghanem
+A Large Contextual Dataset for Classification, Detection and Counting of Cars with Deep Learning
+T. Nathan Mundhenk, Goran Konjevod, Wesam A. Sakla, Kofi Boakye
+Reliable Attribute-Based Object Recognition Using High Predictive Value Classifiers
+Wentao Luan, Yezhou Yang, Cornelia Fermüller, John S. Baras
+Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition
+Jun Liu, Amir Shahroudy, Dong Xu, Gang Wang
+Going Further with Point Pair Features
+Stefan Hinterstoisser, Vincent Lepetit, Naresh Rajkumar, Kurt Konolige
+Webly-Supervised Video Recognition by Mutually Voting for Relevant Web Images and Web Video Frames
+Chuang Gan, Chen Sun, Lixin Duan, Boqing Gong
+HFS: Hierarchical Feature Selection for Efficient Image Segmentation
+Ming-Ming Cheng, Yun Liu, Qibin Hou, Jiawang Bian, Philip Torr, Shi-Min Hu et al.
+Generating Visual Explanations
+Lisa Anne Hendricks, Zeynep Akata, Marcus Rohrbach, Jeff Donahue, Bernt Schiele, Trevor Darrell
+Marker-Less 3D Human Motion Capture with Monocular Image Sequence and Height-Maps
+Yu Du, Yongkang Wong, Yonghao Liu, Feilin Han, Yilin Gui, Zhen Wang et al.
+Tensor Representations via Kernel Linearization for Action Recognition from 3D Skeletons
+Piotr Koniusz, Anoop Cherian, Fatih Porikli
+Manhattan-World Urban Reconstruction from Point Clouds
+Minglei Li, Peter Wonka, Liangliang Nan
+From Multiview Image Curves to 3D Drawings
+Anil Usumezbas, Ricardo Fabbri, Benjamin B. Kimia
+Shape from Selfies: Human Body Shape Estimation Using CCA Regression Forests
+Endri Dibra, Cengiz Öztireli, Remo Ziegler, Markus Gross
+Can We Jointly Register and Reconstruct Creased Surfaces by Shape-from-Template Accurately?
+Mathias Gallardo, Toby Collins, Adrien Bartoli
+Distractor-Supported Single Target Tracking in Extremely Cluttered Scenes
+Jingjing Xiao, Linbo Qiao, Rustam Stolkin, Aleš Leonardis
+Connectionist Temporal Modeling for Weakly Supervised Action Labeling
+De-An Huang, Li Fei-Fei, Juan Carlos Niebles
+Deep Joint Image Filtering
+Yijun Li, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang
+Efficient Multi-frequency Phase Unwrapping Using Kernel Density Estimation
+Felix Järemo Lawin, Per-Erik Forssén, Hannes Ovrén
+A Multi-scale CNN for Affordance Segmentation in RGB Images
+Anirban Roy, Sinisa Todorovic
+Hierarchical Dynamic Parsing and Encoding for Action Recognition
+Bing Su, Jiahuan Zhou, Xiaoqing Ding, Hao Wang, Ying Wu
+Distinct Class-Specific Saliency Maps for Weakly Supervised Semantic Segmentation
+Wataru Shimoda, Keiji Yanai
+A Diagram is Worth a Dozen Images
+Aniruddha Kembhavi, Mike Salvato, Eric Kolve, Minjoon Seo, Hannaneh Hajishirzi, Ali Farhadi
+Automatic Attribute Discovery with Neural Activations
+Sirion Vittayakorn, Takayuki Umeda, Kazuhiko Murasaki, Kyoko Sudo, Takayuki Okatani, Kota Yamaguchi
+“What Happens If...” Learning to Predict the Effect of Forces in Images
+Roozbeh Mottaghi, Mohammad Rastegari, Abhinav Gupta, Ali Farhadi
+View Synthesis by Appearance Flow
+Tinghui Zhou, Shubham Tulsiani, Weilun Sun, Jitendra Malik, Alexei A. Efros
+Top-Down Learning for Structured Labeling with Convolutional Pseudoprior
+Saining Xie, Xun Huang, Zhuowen Tu
+Generative Image Modeling Using Style and Structure Adversarial Networks
+Xiaolong Wang, Abhinav Gupta
+Joint Learning of Semantic and Latent Attributes
+Peixi Peng, Yonghong Tian, Tao Xiang, Yaowei Wang, Tiejun Huang
+A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection
+Zhaowei Cai, Quanfu Fan, Rogerio S. Feris, Nuno Vasconcelos
+Deep Specialized Network for Illuminant Estimation
+Wu Shi, Chen Change Loy, Xiaoou Tang
+Weakly-Supervised Semantic Segmentation Using Motion Cues
+Pavel Tokmakov, Karteek Alahari, Cordelia Schmid
+Human-in-the-Loop Person Re-identification
+Hanxiao Wang, Shaogang Gong, Xiatian Zhu, Tao Xiang
+Real-Time Monocular Segmentation and Pose Tracking of Multiple Objects
+Henning Tjaden, Ulrich Schwanecke, Elmar Schömer
+Estimation of Human Body Shape in Motion with Wide Clothing
+Jinlong Yang, Jean-Sébastien Franco, Franck Hétroy-Wheeler, Stefanie Wuhrer
+A Shape-Based Approach for Salient Object Detection Using Deep Learning
+Jongpil Kim, Vladimir Pavlovic
+Fast Optical Flow Using Dense Inverse Search
+Till Kroeger, Radu Timofte, Dengxin Dai, Luc Van Gool
+Global Registration of 3D Point Sets via LRS Decomposition
+Federica Arrigoni, Beatrice Rossi, Andrea Fusiello
+Recognition from Hand Cameras: A Revisit with Deep Learning
+Cheng-Sheng Chan, Shou-Zhong Chen, Pei-Xuan Xie, Chiung-Chih Chang, Min Sun
+XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks
+Mohammad Rastegari, Vicente Ordonez, Joseph Redmon, Ali Farhadi
+Top-Down Neural Attention by Excitation Backprop
+Jianming Zhang, Zhe Lin, Jonathan Brandt, Xiaohui Shen, Stan Sclaroff
+Learning Recursive Filters for Low-Level Vision via a Hybrid Neural Network
+Sifei Liu, Jinshan Pan, Ming-Hsuan Yang
+Learning Representations for Automatic Colorization
+Gustav Larsson, Michael Maire, Gregory Shakhnarovich
+Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation
+Muhammad Ghifary, W. Bastiaan Kleijn, Mengjie Zhang, David Balduzzi, Wen Li
+Learning Without Forgetting
+Zhizhong Li, Derek Hoiem
+Identity Mappings in Deep Residual Networks
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Deep Networks with Stochastic Depth
+Gao Huang, Yu Sun, Zhuang Liu, Daniel Sedra, Kilian Q. Weinberger
+Less Is More: Towards Compact CNNs
+Hao Zhou, Jose M. Alvarez, Fatih Porikli
+Unsupervised Visual Representation Learning by Graph-Based Consistent Constraints
+Dong Li, Wei-Chih Hung, Jia-Bin Huang, Shengjin Wang, Narendra Ahuja, Ming-Hsuan Yang
+Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation
+Alexander Kolesnikov, Christoph H. Lampert
+Patch-Based Low-Rank Matrix Completion for Learning of Shape and Motion Models from Few Training Samples
+Jan Ehrhardt, Matthias Wilms, Heinz Handels
+Chained Predictions Using Convolutional Neural Networks
+Georgia Gkioxari, Alexander Toshev, Navdeep Jaitly
+Multi-region Two-Stream R-CNN for Action Detection
+Xiaojiang Peng, Cordelia Schmid
+Semantic Co-segmentation in Videos
+Yi-Hsuan Tsai, Guangyu Zhong, Ming-Hsuan Yang
+Attribute2Image: Conditional Image Generation from Visual Attributes
+Xinchen Yan, Jimei Yang, Kihyuk Sohn, Honglak Lee
+Modeling Context Between Objects for Referring Expression Understanding
+Varun K. Nagaraja, Vlad I. Morariu, Larry S. Davis
+Friction from Reflectance: Deep Reflectance Codes for Predicting Physical Surface Properties from One-Shot In-Field Reflectance
+Hang Zhang, Kristin Dana, Ko Nishino
+Saliency Detection with Recurrent Fully Convolutional Networks
+Linzhao Wang, Lijun Wang, Huchuan Lu, Pingping Zhang, Xiang Ruan
+Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks
+Junyuan Xie, Ross Girshick, Ali Farhadi
+Temporal Model Adaptation for Person Re-identification
+Niki Martinel, Abir Das, Christian Micheloni, Amit K. Roy-Chowdhury
+Image Quality Assessment Using Similar Scene as Reference
+Yudong Liang, Jinjun Wang, Xingyu Wan, Yihong Gong, Nanning Zheng
+MOON: A Mixed Objective Optimization Network for the Recognition of Facial Attributes
+Ethan M. Rudd, Manuel Günther, Terrance E. Boult
+Degeneracies in Rolling Shutter SfM
+Cenek Albl, Akihiro Sugimoto, Tomas Pajdla
+Deep Deformation Network for Object Landmark Localization
+Xiang Yu, Feng Zhou, Manmohan Chandraker
+Learning Visual Storylines with Skipping Recurrent Neural Networks
+Gunnar A. Sigurdsson, Xinlei Chen, Abhinav Gupta
+Towards Large-Scale City Reconstruction from Satellites
+Liuyun Duan, Florent Lafarge
+Weakly Supervised Object Localization Using Size Estimates
+Miaojing Shi, Vittorio Ferrari
+Supervised Transformer Network for Efficient Face Detection
+Dong Chen, Gang Hua, Fang Wen, Jian Sun
+A Geometric Approach to Image Labeling
+Freddie Åström, Stefania Petra, Bernhard Schmitzer, Christoph Schnörr
+ActionSnapping: Motion-Based Video Synchronization
+Jean-Charles Bazin, Alexander Sorkine-Hornung
+A Minimal Solution for Non-perspective Pose Estimation from Line Correspondences
+Gim Hee Lee
+Natural Image Stitching with the Global Similarity Prior
+Yu-Sheng Chen, Yung-Yu Chuang
+Minimal Solvers for Generalized Pose and Scale Estimation from Two Rays and One Point
+Federico Camposeco, Torsten Sattler, Marc Pollefeys
+Learning to Hash with Binary Deep Neural Network
+Thanh-Toan Do, Anh-Dzung Doan, Ngai-Man Cheung
+Automatically Selecting Inference Algorithms for Discrete Energy Minimisation
+Paul Henderson, Vittorio Ferrari
+Ego2Top: Matching Viewers in Egocentric and Top-View Videos
+Shervin Ardeshir, Ali Borji
+Online Action Detection
+Roeland De Geest, Efstratios Gavves, Amir Ghodrati, Zhenyang Li, Cees Snoek, Tinne Tuytelaars
+Cross-Modal Supervision for Learning Active Speaker Detection in Video
+Punarjay Chakravarty, Tinne Tuytelaars
+Recurrent Temporal Deep Field for Semantic Video Labeling
+Peng Lei, Sinisa Todorovic
+Ultra-Resolving Face Images by Discriminative Generative Networks
+Xin Yu, Fatih Porikli
+A Discriminative Framework for Anomaly Detection in Large Videos
+Allison Del Giorno, J. Andrew Bagnell, Martial Hebert
+ContextLocNet: Context-Aware Deep Network Models for Weakly Supervised Localization
+Vadim Kantorov, Maxime Oquab, Minsu Cho, Ivan Laptev
+Network Flow Formulations for Learning Binary Hashing
+Lopamudra Mukherjee, Jiming Peng, Trevor Sigmund, Vikas Singh
+SPICE: Semantic Propositional Image Caption Evaluation
+Peter Anderson, Basura Fernando, Mark Johnson, Stephen Gould
+Transfer Neural Trees for Heterogeneous Domain Adaptation
+Wei-Yu Chen, Tzu-Ming Harry Hsu, Yao-Hung Hubert Tsai, Yu-Chiang Frank Wang, Ming-Syan Chen
+Tracking Persons-of-Interest via Adaptive Discriminative Features
+Shun Zhang, Yihong Gong, Jia-Bin Huang, Jongwoo Lim, Jinjun Wang, Narendra Ahuja et al.
+Spot On: Action Localization from Pointly-Supervised Proposals
+Pascal Mettes, Jan C. van Gemert, Cees G. M. Snoek
+Detecting Engagement in Egocentric Video
+Yu-Chuan Su, Kristen Grauman
+Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking
+Martin Danelljan, Andreas Robinson, Fahad Shahbaz Khan, Michael Felsberg
+Look-Ahead Before You Leap: End-to-End Active Recognition by Forecasting the Effect of Motion
+Dinesh Jayaraman, Kristen Grauman
+General Automatic Human Shape and Motion Capture Using Volumetric Contour Cues
+Helge Rhodin, Nadia Robertini, Dan Casas, Christian Richardt, Hans-Peter Seidel, Christian Theobalt
+Globally Continuous and Non-Markovian Crowd Activity Analysis from Videos
+He Wang, Carol O’Sullivan
+Joint Face Alignment and 3D Face Reconstruction
+Feng Liu, Dan Zeng, Qijun Zhao, Xiaoming Liu
+Keep It SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image
+Federica Bogo, Angjoo Kanazawa, Christoph Lassner, Peter Gehler, Javier Romero, Michael J. Black
+Do We Really Need to Collect Millions of Faces for Effective Face Recognition?
+Iacopo Masi, Anh Tuấn Trần, Tal Hassner, Jatuporn Toy Leksut, Gérard Medioni
+Generative Visual Manipulation on the Natural Image Manifold
+Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros
+Deep Cascaded Bi-Network for Face Hallucination
+Shizhan Zhu, Sifei Liu, Chen Change Loy, Xiaoou Tang
+Cluster Sparsity Field for Hyperspectral Imagery Denoising
+Lei Zhang, Wei Wei, Yanning Zhang, Chunhua Shen, Anton van den Hengel, Qinfeng Shi
+Zoom Better to See Clearer: Human and Object Parsing with Hierarchical Auto-Zoom Net
+Fangting Xia, Peng Wang, Liang-Chieh Chen, Alan L. Yuille
+Learning Common and Specific Features for RGB-D Semantic Segmentation with Deconvolutional Networks
+Jinghua Wang, Zhenhua Wang, Dacheng Tao, Simon See, Gang Wang
+MADMM: A Generic Algorithm for Non-smooth Optimization on Manifolds
+Artiom Kovnatsky, Klaus Glashoff, Michael M. Bronstein
+Interpreting the Ratio Criterion for Matching SIFT Descriptors
+Avi Kaplan, Tamar Avraham, Michael Lindenbaum
+Semi-supervised Learning Based on Joint Diffusion of Graph Functions and Laplacians
+Kwang In Kim
+Improving Semantic Embedding Consistency by Metric Learning for Zero-Shot Classiffication
+Maxime Bucher, Stéphane Herbin, Frédéric Jurie
+A Sequential Approach to 3D Human Pose Estimation: Separation of Localization and Identification of Body Joints
+Ho Yub Jung, Yumin Suh, Gyeongsik Moon, Kyoung Mu Lee
+A Novel Tiny Object Recognition Algorithm Based on Unit Statistical Curvature Feature
+Yimei Kang, Xiang Li
+Fine-Grained Material Classification Using Micro-geometry and Reflectance
+Christos Kampouris, Stefanos Zafeiriou, Abhijeet Ghosh, Sotiris Malassiotis
+The Conditional Lucas & Kanade Algorithm
+Chen-Hsuan Lin, Rui Zhu, Simon Lucey
+Where Should Saliency Models Look Next?
+Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Antonio Torralba, Frédo Durand
+Robust Face Alignment Using a Mixture of Invariant Experts
+Oncel Tuzel, Tim K. Marks, Salil Tambe
+Partial Linearization Based Optimization for Multi-class SVM
+Pritish Mohapatra, Puneet Kumar Dokania, C. V. Jawahar, M. Pawan Kumar
+Search-Based Depth Estimation via Coupled Dictionary Learning with Large-Margin Structure Inference
+Yan Zhang, Rongrong Ji, Xiaopeng Fan, Yan Wang, Feng Guo, Yue Gao et al.
+Scalable Metric Learning via Weighted Approximate Rank Component Analysis
+Cijo Jose, François Fleuret
+Spatio-Temporally Consistent Correspondence for Dense Dynamic Scene Modeling
+Dinghuang Ji, Enrique Dunn, Jan-Michael Frahm
+3D Image Reconstruction from X-Ray Measurements with Overlap
+Maria Klodt, Raphael Hauser
+DeeperCut: A Deeper, Stronger, and Faster Multi-person Pose Estimation Model
+Eldar Insafutdinov, Leonid Pishchulin, Bjoern Andres, Mykhaylo Andriluka, Bernt Schiele
+Resonant Deformable Matching: Simultaneous Registration and Reconstruction
+John Corring, Anand Rangarajan
+Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
+Mehdi Noroozi, Paolo Favaro
+COCO Attributes: Attributes for People, Animals, and Objects
+Genevieve Patterson, James Hays
+Temporally Robust Global Motion Compensation by Keypoint-Based Congealing
+S. Morteza Safdarnejad, Yousef Atoum, Xiaoming Liu
+Salient Deconvolutional Networks
+Aravindh Mahendran, Andrea Vedaldi
+Visualizing Image Priors
+Tamar Rott Shaham, Tomer Michaeli
+Exploiting Semantic Information and Deep Matching for Optical Flow
+Min Bai, Wenjie Luo, Kaustav Kundu, Raquel Urtasun
+Similarity Registration Problems for 2D/3D Ultrasound Calibration
+Francisco Vasconcelos, Donald Peebles, Sebastien Ourselin, Danail Stoyanov
+Adaptive Signal Recovery on Graphs via Harmonic Analysis for Experimental Design in Neuroimaging
+Won Hwa Kim, Seong Jae Hwang, Nagesh Adluru, Sterling C. Johnson, Vikas Singh
+A Benchmark for Automatic Visual Classification of Clinical Skin Disease Images
+Xiaoxiao Sun, Jufeng Yang, Ming Sun, Kai Wang
+Deep Learning 3D Shape Surfaces Using Geometry Images
+Ayan Sinha, Jing Bai, Karthik Ramani
+Deep Image Retrieval: Learning Global Representations for Image Search
+Albert Gordo, Jon Almazán, Jerome Revaud, Diane Larlus
+Building Scene Models by Completing and Hallucinating Depth and Semantics
+Miaomiao Liu, Xuming He, Mathieu Salzmann
+Weakly Supervised Learning of Heterogeneous Concepts in Videos
+Sohil Shah, Kuldeep Kulkarni, Arijit Biswas, Ankit Gandhi, Om Deshmukh, Larry S. Davis
+Learning Semantic Deformation Flows with 3D Convolutional Networks
+M. Ersin Yumer, Niloy J. Mitra
+Recurrent Instance Segmentation
+Bernardino Romera-Paredes, Philip Hilaire Sean Torr
+Individualness and Determinantal Point Processes for Pedestrian Detection
+Donghoon Lee, Geonho Cha, Ming-Hsuan Yang, Songhwai Oh
+Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera
+Hanme Kim, Stefan Leutenegger, Andrew J. Davison
+Single Image 3D Interpreter Network
+Jiajun Wu, Tianfan Xue, Joseph J. Lim, Yuandong Tian, Joshua B. Tenenbaum, Antonio Torralba et al.
+Dual Structured Light 3D Using a 1D Sensor
+Jian Wang, Aswin C. Sankaranarayanan, Mohit Gupta, Srinivasa G. Narasimhan
+Shape Acquisition and Registration for 3D Endoscope Based on Grid Pattern Projection
+Ryo Furukawa, Hiroki Morinaga, Yoji Sanomura, Shinji Tanaka, Shigeto Yoshida, Hiroshi Kawasaki
+Target Response Adaptation for Correlation Filter Tracking
+Adel Bibi, Matthias Mueller, Bernard Ghanem
+Learning Image Matching by Simply Watching Video
+Gucan Long, Laurent Kneip, Jose M. Alvarez, Hongdong Li, Xiaohu Zhang, Qifeng Yu
+A Distance for HMMs Based on Aggregated Wasserstein Metric and State Registration
+Yukun Chen, Jianbo Ye, Jia Li
+LIFT: Learned Invariant Feature Transform
+Kwang Moo Yi, Eduard Trulls, Vincent Lepetit, Pascal Fua
+Learning a Predictable and Generative Vector Representation for Objects
+Rohit Girdhar, David F. Fouhey, Mikel Rodriguez, Abhinav Gupta
+HouseCraft: Building Houses from Rental Ads and Street Views
+Hang Chu, Shenlong Wang, Raquel Urtasun, Sanja Fidler
+Superpixel-Based Two-View Deterministic Fitting for Multiple-Structure Data
+Guobao Xiao, Hanzi Wang, Yan Yan, David Suter
+Instance-Sensitive Fully Convolutional Networks
+Jifeng Dai, Kaiming He, Yi Li, Shaoqing Ren, Jian Sun
+Domain Adaptive Fisher Vector for Visual Recognition
+Li Niu, Jianfei Cai, Dong Xu
+Deep Robust Encoder Through Locality Preserving Low-Rank Dictionary
+Zhengming Ding, Ming Shao, Yun Fu
+Pattern Mining Saliency
+Yuqiu Kong, Lijun Wang, Xiuping Liu, Huchuan Lu, Xiang Ruan
+Streaming Video Segmentation via Short-Term Hierarchical Segmentation and Frame-by-Frame Markov Random Field Optimization
+Won-Dong Jang, Chang-Su Kim
+Learning to Learn: Model Regression Networks for Easy Small Sample Learning
+Yu-Xiong Wang, Martial Hebert
+Shape from Water: Bispectral Light Absorption for Depth Recovery
+Yuta Asano, Yinqiang Zheng, Ko Nishino, Imari Sato
+Learning Dynamic Hierarchical Models for Anytime Scene Labeling
+Buyu Liu, Xuming He
+Semantic 3D Reconstruction of Heads
+Fabio Maninchedda, Christian Häne, Bastien Jacquet, Amaël Delaunoy, Marc Pollefeys
+Human Attribute Recognition by Deep Hierarchical Contexts
+Yining Li, Chen Huang, Chen Change Loy, Xiaoou Tang
+Person Re-identification via Recurrent Feature Aggregation
+Yichao Yan, Bingbing Ni, Zhichao Song, Chao Ma, Yan Yan, Xiaokang Yang
+Biconvex Relaxation for Semidefinite Programming in Computer Vision
+Sohil Shah, Abhay Kumar Yadav, Carlos D. Castillo, David W. Jacobs, Christoph Studer, Tom Goldstein
+Image Co-segmentation Using Maximum Common Subgraph Matching and Region Co-growing
+Avik Hati, Subhasis Chaudhuri, Rajbabu Velmurugan
+End-to-End Localization and Ranking for Relative Attributes
+Krishna Kumar Singh, Yong Jae Lee
+Efficient Large Scale Image Classification via Prediction Score Decomposition
+Duy-Dinh Le, Tien-Dung Mai, Shin’ichi Satoh, Thanh Duc Ngo, Duc Anh Duong
+Stochastic Dykstra Algorithms for Metric Learning with Positive Definite Covariance Descriptors
+Tomoki Matsuzawa, Raissa Relator, Jun Sese, Tsuyoshi Kato
+MeshFlow: Minimum Latency Online Video Stabilization
+Shuaicheng Liu, Ping Tan, Lu Yuan, Jian Sun, Bing Zeng
+Large-Scale Training of Shadow Detectors with Noisily-Annotated Shadow Examples
+Tomás F. Yago Vicente, Le Hou, Chen-Ping Yu, Minh Hoai, Dimitris Samaras
+RNN Fisher Vectors for Action Recognition and Image Annotation
+Guy Lev, Gil Sadeh, Benjamin Klein, Lior Wolf
+CDT: Cooperative Detection and Tracking for Tracing Multiple Objects in Video Sequences
+Han-Ul Kim, Chang-Su Kim
+MARS: A Video Benchmark for Large-Scale Person Re-Identification
+Liang Zheng, Zhi Bie, Yifan Sun, Jingdong Wang, Chi Su, Shengjin Wang et al.
+Angry Crowds: Detecting Violent Events in Videos
+Sadegh Mohammadi, Alessandro Perina, Hamed Kiani, Vittorio Murino
+Sparse Recovery of Hyperspectral Signal from Natural RGB Images
+Boaz Arad, Ohad Ben-Shahar
+Light Field Segmentation Using a Ray-Based Graph Structure
+Matthieu Hog, Neus Sabater, Christine Guillemot
+Design of Kernels in Convolutional Neural Networks for Image Classification
+Zhun Sun, Mete Ozay, Takayuki Okatani
+Learning Visual Features from Large Weakly Supervised Data
+Armand Joulin, Laurens van der Maaten, Allan Jabri, Nicolas Vasilache
+3D Mask Face Anti-spoofing with Remote Photoplethysmography
+Siqi Liu, Pong C. Yuen, Shengping Zhang, Guoying Zhao
+Guided Matching Based on Statistical Optical Flow for Fast and Robust Correspondence Analysis
+Josef Maier, Martin Humenberger, Markus Murschitz, Oliver Zendel, Markus Vincze
+Pose Estimation Errors, the Ultimate Diagnosis
+Carolina Redondo-Cabrera, Roberto J. López-Sastre, Yu Xiang, Tinne Tuytelaars, Silvio Savarese
+A Siamese Long Short-Term Memory Architecture for Human Re-identification
+Rahul Rama Varior, Bing Shuai, Jiwen Lu, Dong Xu, Gang Wang
+Integration of Probabilistic Pose Estimates from Multiple Views
+Özgür Erkent, Dadhichi Shukla, Justus Piater
+SurfCut: Free-Boundary Surface Extraction
+Marei Algarni, Ganesh Sundaramoorthi
+CATS: Co-saliency Activated Tracklet Selection for Video Co-localization
+Koteswar Rao Jerripothula, Jianfei Cai, Junsong Yuan
+Online Human Action Detection Using Joint Classification-Regression Recurrent Neural Networks
+Yanghao Li, Cuiling Lan, Junliang Xing, Wenjun Zeng, Chunfeng Yuan, Jiaying Liu
+Jensen Bregman LogDet Divergence Optimal Filtering in the Manifold of Positive Definite Matrices
+Yin Wang, Octavia Camps, Mario Sznaier, Biel Roig Solvas
+SyB3R: A Realistic Synthetic Benchmark for 3D Reconstruction from Images
+Andreas Ley, Ronny Hänsch, Olaf Hellwich
+When is Rotations Averaging Hard?
+Kyle Wilson, David Bindel, Noah Snavely
+Capturing Dynamic Textured Surfaces of Moving Targets
+Ruizhe Wang, Lingyu Wei, Etienne Vouga, Qixing Huang, Duygu Ceylan, Gérard Medioni et al.
+ShapeFit and ShapeKick for Robust, Scalable Structure from Motion
+Thomas Goldstein, Paul Hand, Choongbum Lee, Vladislav Voroninski, Stefano Soatto
+Heat Diffusion Long-Short Term Memory Learning for 3D Shape Analysis
+Fan Zhu, Jin Xie, Yi Fang
+Multi-view 3D Models from Single Images with a Convolutional Network
+Maxim Tatarchenko, Alexey Dosovitskiy, Thomas Brox
+Extending Long Short-Term Memory for Multi-View Structured Learning
+Shyam Sundar Rajagopalan, Louis-Philippe Morency, Tadas Baltrus̆aitis, Roland Goecke
+Gated Bi-directional CNN for Object Detection
+Xingyu Zeng, Wanli Ouyang, Bin Yang, Junjie Yan, Xiaogang Wang
+Graph Based Skeleton Motion Representation and Similarity Measurement for Action Recognition
+Pei Wang, Chunfeng Yuan, Weiming Hu, Bing Li, Yanning Zhang
+Reliable Fusion of ToF and Stereo Depth Driven by Confidence Measures
+Giulio Marin, Pietro Zanuttigh, Stefano Mattoccia
+Fast, Exact and Multi-scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs
+Siddhartha Chandra, Iasonas Kokkinos
+Kernel-Based Supervised Discrete Hashing for Image Retrieval
+Xiaoshuang Shi, Fuyong Xing, Jinzheng Cai, Zizhao Zhang, Yuanpu Xie, Lin Yang
+Iterative Reference Driven Metric Learning for Signer Independent Isolated Sign Language Recognition
+Fang Yin, Xiujuan Chai, Xilin Chen
+Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering
+Huijuan Xu, Kate Saenko
+Relay Backpropagation for Effective Learning of Deep Convolutional Neural Networks
+Li Shen, Zhouchen Lin, Qingming Huang
+Counting in the Wild
+Carlos Arteta, Victor Lempitsky, Andrew Zisserman
+A Discriminative Feature Learning Approach for Deep Face Recognition
+Yandong Wen, Kaipeng Zhang, Zhifeng Li, Yu Qiao
+Network of Experts for Large-Scale Image Categorization
+Karim Ahmed, Mohammad Haris Baig, Lorenzo Torresani
+Zero-Shot Recognition via Structured Prediction
+Ziming Zhang, Venkatesh Saligrama
+What’s the Point: Semantic Segmentation with Point Supervision
+Amy Bearman, Olga Russakovsky, Vittorio Ferrari, Li Fei-Fei
+A Generalized Successive Shortest Paths Solver for Tracking Dividing Targets
+Carsten Haubold, Janez Aleš, Steffen Wolf, Fred A. Hamprecht
+Accurate and Linear Time Pose Estimation from Points and Lines
+Alexander Vakhitov, Jan Funke, Francesc Moreno-Noguer
+Pseudo-geometric Formulation for Fitting Equidistant Parallel Lines
+Faisal Azhar, Stephen Pollard
+Towards Perspective-Free Object Counting with Deep Learning
+Daniel Oñoro-Rubio, Roberto J. López-Sastre
+Information Bottleneck Domain Adaptation with Privileged Information for Visual Recognition
+Saeid Motiian, Gianfranco Doretto
+Template-Free 3D Reconstruction of Poorly-Textured Nonrigid Surfaces
+Xuan Wang, Mathieu Salzmann, Fei Wang, Jizhong Zhao
+FigureSeer: Parsing Result-Figures in Research Papers
+Noah Siegel, Zachary Horvitz, Roie Levin, Santosh Divvala, Ali Farhadi
+Approximate Search with Quantized Sparse Representations
+Himalaya Jain, Patrick Pérez, Rémi Gribonval, Joaquin Zepeda, Hervé Jégou
+Sympathy for the Details: Dense Trajectories and Hybrid Classification Architectures for Action Recognition
+César Roberto de Souza, Adrien Gaidon, Eleonora Vig, Antonio Manuel López
+Human Pose Estimation via Convolutional Part Heatmap Regression
+Adrian Bulat, Georgios Tzimiropoulos
+Collaborative Layer-Wise Discriminative Learning in Deep Neural Networks
+Xiaojie Jin, Yunpeng Chen, Jian Dong, Jiashi Feng, Shuicheng Yan
+Deep Decoupling of Defocus and Motion Blur for Dynamic Segmentation
+Abhijith Punnappurath, Yogesh Balaji, Mahesh Mohan, Ambasamudram Narayanan Rajagopalan
+Video Summarization with Long Short-Term Memory
+Ke Zhang, Wei-Lun Chao, Fei Sha, Kristen Grauman
+Leaving Some Stones Unturned: Dynamic Feature Prioritization for Activity Detection in Streaming Video
+Yu-Chuan Su, Kristen Grauman
+Robust and Accurate Line- and/or Point-Based Pose Estimation without Manhattan Assumptions
+Yohann Salaün , Renaud Marlet, Pascal Monasse
+MARLow: A Joint Multiplanar Autoregressive and Low-Rank Approach for Image Completion
+Mading Li, Jiaying Liu, Zhiwei Xiong, Xiaoyan Sun, Zongming Guo
+An Uncertain Future: Forecasting from Static Images Using Variational Autoencoders
+Jacob Walker, Carl Doersch, Abhinav Gupta, Martial Hebert
+Carried Object Detection Based on an Ensemble of Contour Exemplars
+Farnoosh Ghadiri, Robert Bergevin, Guillaume-Alexandre Bilodeau
+Query-Focused Extractive Video Summarization
+Aidean Sharghi, Boqing Gong, Mubarak Shah
+Temporal Segment Networks: Towards Good Practices for Deep Action Recognition
+Limin Wang, Yuanjun Xiong, Zhe Wang, Yu Qiao, Dahua Lin, Xiaoou Tang et al.
+PlaNet - Photo Geolocation with Convolutional Neural Networks
+Tobias Weyand, Ilya Kostrikov, James Philbin
+Detecting Text in Natural Image with Connectionist Text Proposal Network
+Zhi Tian, Weilin Huang, Tong He, Pan He, Yu Qiao
+Face Recognition Using a Unified 3D Morphable Model
+Guosheng Hu, Fei Yan, Chi-Ho Chan, Weihong Deng, William Christmas, Josef Kittler et al.
+Augmented Feedback in Semantic Segmentation Under Image Level Supervision
+Xiaojuan Qi, Zhengzhe Liu, Jianping Shi, Hengshuang Zhao, Jiaya Jia
+Linear Depth Estimation from an Uncalibrated, Monocular Polarisation Image
+William A. P. Smith, Ravi Ramamoorthi, Silvia Tozza
+Online Variational Bayesian Motion Averaging
+Guillaume Bourmaud
+Unified Depth Prediction and Intrinsic Image Decomposition from a Single Image via Joint Convolutional Neural Fields
+Seungryong Kim, Kihong Park, Kwanghoon Sohn, Stephen Lin
+ObjectNet3D: A Large Scale Database for 3D Object Recognition
+Yu Xiang, Wonhui Kim, Wei Chen, Jingwei Ji, Christopher Choy, Hao Su et al.
+Branching Gaussian Processes with Applications to Spatiotemporal Reconstruction of 3D Trees
+Kyle Simek, Ravishankar Palanivelu, Kobus Barnard
+Tracking Completion
+Yao Sui, Guanghui Wang, Yafei Tang, Li Zhang
+Inter-battery Topic Representation Learning
+Cheng Zhang, Hedvig Kjellström, Carl Henrik Ek
+Online Adaptation for Joint Scene and Object Classification
+Jawadul H. Bappy, Sujoy Paul, Amit K. Roy-Chowdhury
+Real-Time Facial Segmentation and Performance Capture from RGB Input
+Shunsuke Saito, Tianye Li, Hao Li
+Learning Temporal Transformations from Time-Lapse Videos
+Yipin Zhou, Tamara L. Berg
+Interactive Image Segmentation Using Constrained Dominant Sets
+Eyasu Zemene, Marcello Pelillo
+Deep Markov Random Field for Image Modeling
+Zhirong Wu, Dahua Lin, Xiaoou Tang
+A Symmetry Prior for Convex Variational 3D Reconstruction
+Pablo Speciale, Martin R. Oswald, Andrea Cohen, Marc Pollefeys
+SPLeaP: Soft Pooling of Learned Parts for Image Classification
+Praveen Kulkarni, Frédéric Jurie, Joaquin Zepeda, Patrick Pérez, Louis Chevallier
+Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation
+Qi Ye, Shanxin Yuan, Tae-Kyun Kim
+VolumeDeform: Real-Time Volumetric Non-rigid Reconstruction
+Matthias Innmann, Michael Zollhöfer, Matthias Nießner, Christian Theobalt, Marc Stamminger
+ππMatch: Monocular vSLAM and Piecewise Planar Reconstruction Using Fast Plane Correspondences
+Carolina Raposo, João P. Barreto
+Peripheral Expansion of Depth Information via Layout Estimation with Fisheye Camera
+Alejandro Perez-Yus, Gonzalo Lopez-Nicolas, Jose J. Guerrero
+Built-in Foreground/Background Prior for Weakly-Supervised Semantic Segmentation
+Fatemehsadat Saleh, Mohammad Sadegh Aliakbarian, Mathieu Salzmann, Lars Petersson, Stephen Gould, Jose M. Alvarez
+It’s Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos
+Pia Bideau, Erik Learned-Miller
+Kernelized Subspace Ranking for Saliency Detection
+Tiantian Wang, Lihe Zhang, Huchuan Lu, Chong Sun, Jinqing Qi
+Depth-Aware Motion Magnification
+Julian F. P. Kooij, Jan C. van Gemert
+Stacked Hourglass Networks for Human Pose Estimation
+Alejandro Newell, Kaiyu Yang, Jia Deng
+Real-Time Large-Scale Dense 3D Reconstruction with Loop Closure
+Olaf Kähler, Victor A. Prisacariu, David W. Murray
+Pixel-Level Domain Transfer
+Donggeun Yoo, Namil Kim, Sunggyun Park, Anthony S. Paek, In So Kweon
+Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression
+Zhenyang Wang, Zhidong Deng, Shiyao Wang
+Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes
+Alexandre Robicquet, Amir Sadeghian, Alexandre Alahi, Silvio Savarese
+Bayesian Image Based 3D Pose Estimation
+Marta Sanzari, Valsamis Ntouskos, Fiora Pirri
+Efficient and Robust Semi-supervised Learning Over a Sparse-Regularized Graph
+Hang Su, Jun Zhu, Zhaozheng Yin, Yinpeng Dong, Bo Zhang
+Novel Coplanar Line-Points Invariants for Robust Line Matching Across Views
+Qi Jia, Xinkai Gao, Xin Fan, Zhongxuan Luo, Haojie Li, Ziyao Chen
+Sparse Representation Based Complete Kernel Marginal Fisher Analysis Framework for Computational Art Painting Categorization
+Ajit Puthenputhussery, Qingfeng Liu, Chengjun Liu
+3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction
+Christopher B. Choy, Danfei Xu, JunYoung Gwak, Kevin Chen, Silvio Savarese
+Cascaded Continuous Regression for Real-Time Incremental Face Tracking
+Enrique Sánchez-Lozano, Brais Martinez, Georgios Tzimiropoulos, Michel Valstar
+Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning
+Yao Sui, Ziming Zhang, Guanghui Wang, Yafei Tang, Li Zhang
+Deep Self-correlation Descriptor for Dense Cross-Modal Correspondence
+Seungryong Kim, Dongbo Min, Stephen Lin, Kwanghoon Sohn
+Structured Matching for Phrase Localization
+Mingzhe Wang, Mahmoud Azab, Noriyuki Kojima, Rada Mihalcea, Jia Deng
+Crossing-Line Crowd Counting with Two-Phase Deep Neural Networks
+Zhuoyi Zhao, Hongsheng Li, Rui Zhao, Xiaogang Wang
+Revisiting Visual Question Answering Baselines
+Allan Jabri, Armand Joulin, Laurens van der Maaten
+Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue
+Ravi Garg, Vijay Kumar B.G., Gustavo Carneiro, Ian Reid
+A Continuous Optimization Approach for Efficient and Accurate Scene Flow
+Zhaoyang Lv, Chris Beall, Pablo F. Alcantarilla, Fuxin Li, Zsolt Kira, Frank Dellaert
+Improving Multi-frame Data Association with Sparse Representations for Robust Near-online Multi-object Tracking
+Loïc Fagot-Bouquet, Romaric Audigier, Yoann Dhome, Frédéric Lerasle
+Gated Siamese Convolutional Neural Network Architecture for Human Re-identification
+Rahul Rama Varior, Mrinal Haloi, Gang Wang
+Saliency Detection via Combining Region-Level and Pixel-Level Predictions with CNNs
+Youbao Tang, Xiangqian Wu
