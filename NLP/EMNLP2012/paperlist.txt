@@ -208,7 +208,7 @@ Forced Derivation Tree based Model Training to Statistical Machine Translation
 Nan Duan, Mu Li and Ming Zhou
 Multi-instance Multi-label Learning for Relation Extraction
 Mihai Surdeanu, Julie Tibshirani, Ramesh Nallapati and Christopher Manning
-An “AI readability” formula for French as a foreign language
+An "AI readability" formula for French as a foreign language
 Thomas François and Cédrick Fairon
 Dynamic Programming for Higher Order Parsing of Gap-Minding Trees
 Emily Pitler, Sampath Kannan and Mitchell Marcus
@@ -256,7 +256,7 @@ Discovering Diverse and Salient Threads in Document Collections
 Alex Kulesza, Jennifer Gillenwater and Ben Taskar
 Generalizing Sub-sentential Paraphrase Acquisition across Original Signal of Text Pairs
 Aurélien Max, Houda Bouamor and Anne Vilnat
-Parse, Price and Cut—Delayed Column and Row Generation for Graph Based Parsers
+Parse, Price and Cut-Delayed Column and Row Generation for Graph Based Parsers
 Sebastian Riedel, David Smith and Andrew McCallum
 Domain Adaptation for Coreference Resolution: An Adaptive Ensemble Approach
 Jian Bo Yang, Qi Mao, Qiao Liang Xiang, Ivor Wai-Hung Tsang, Kian Ming Adam Chai and Hai Leong Chieu
