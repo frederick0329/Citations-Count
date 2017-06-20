@@ -1,0 +1,644 @@
+No Oops, You Won’t Do It Again: Mechanisms for Self-correction in Crowdsourcing
+Nihar Shah, Dengyong Zhou ; PMLR 48:1-10
+Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues
+Nihar Shah, Sivaraman Balakrishnan, Aditya Guntuboyina, Martin Wainwright ; PMLR 48:11-20
+Uprooting and Rerooting Graphical Models
+Adrian Weller ; PMLR 48:21-29
+A Deep Learning Approach to Unsupervised Ensemble Learning
+Uri Shaham, Xiuyuan Cheng, Omer Dror, Ariel Jaffe, Boaz Nadler, Joseph Chang, Yuval Kluger ; PMLR 48:30-39
+Revisiting Semi-Supervised Learning with Graph Embeddings
+Zhilin Yang, William Cohen, Ruslan Salakhudinov ; PMLR 48:40-48
+Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization
+Chelsea Finn, Sergey Levine, Pieter Abbeel ; PMLR 48:49-58
+Diversity-Promoting Bayesian Learning of Latent Variable Models
+Pengtao Xie, Jun Zhu, Eric Xing ; PMLR 48:59-68
+Additive Approximations in High Dimensional Nonparametric Regression via the SALSA
+Kirthevasan Kandasamy, Yaoliang Yu ; PMLR 48:69-78
+Hawkes Processes with Stochastic Excitations
+Young Lee, Kar Wai Lim, Cheng Soon Ong ; PMLR 48:79-88
+Data-driven Rank Breaking for Efficient Rank Aggregation
+Ashish Khetan, Sewoong Oh ; PMLR 48:89-98
+Dropout distillation
+Samuel Rota Bulò, Lorenzo Porzi, Peter Kontschieder ; PMLR 48:99-107
+Metadata-conscious anonymous messaging
+Giulia Fanti, Peter Kairouz, Sewoong Oh, Kannan Ramchandran, Pramod Viswanath ; PMLR 48:108-116
+The Teaching Dimension of Linear Learners
+Ji Liu, Xiaojin Zhu, Hrag Ohannessian ; PMLR 48:117-126
+Truthful Univariate Estimators
+Ioannis Caragiannis, Ariel Procaccia, Nisarg Shah ; PMLR 48:127-135
+Why Regularized Auto-Encoders learn Sparse Representation?
+Devansh Arpit, Yingbo Zhou, Hung Ngo, Venu Govindaraju ; PMLR 48:136-144
+k-variates++: more pluses in the k-means++
+Richard Nock, Raphael Canyasse, Roksana Boreli, Frank Nielsen ; PMLR 48:145-154
+Multi-Player Bandits – a Musical Chairs Approach
+Jonathan Rosenski, Ohad Shamir, Liran Szlak ; PMLR 48:155-163
+The Information Sieve
+Greg Ver Steeg, Aram Galstyan ; PMLR 48:164-172
+Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin
+Dario Amodei, Sundaram Ananthanarayanan, Rishita Anubhai, Jingliang Bai, Eric Battenberg, Carl Case, Jared Casper, Bryan Catanzaro, Qiang Cheng, Guoliang Chen, Jie Chen, Jingdong Chen, Zhijie Chen, Mike Chrzanowski, Adam Coates, Greg Diamos, Ke Ding, Niandong Du, Erich Elsen, Jesse Engel, Weiwei Fang, Linxi Fan, Christopher Fougner, Liang Gao, Caixia Gong, Awni Hannun, Tony Han, Lappi Johannes, Bing Jiang, Cai Ju, Billy Jun, Patrick LeGresley, Libby Lin, Junjie Liu, Yang Liu, Weigao Li, Xiangang Li, Dongpeng Ma, Sharan Narang, Andrew Ng, Sherjil Ozair, Yiping Peng, Ryan Prenger, Sheng Qian, Zongfeng Quan, Jonathan Raiman, Vinay Rao, Sanjeev Satheesh, David Seetapun, Shubho Sengupta, Kavya Srinet, Anuroop Sriram, Haiyuan Tang, Liliang Tang, Chong Wang, Jidong Wang, Kaifu Wang, Yi Wang, Zhijian Wang, Zhiqian Wang, Shuang Wu, Likai Wei, Bo Xiao, Wen Xie, Yan Xie, Dani Yogatama, Bin Yuan, Jun Zhan, Zhenyao Zhu ; PMLR 48:173-182
+On the Consistency of Feature Selection With Lasso for Non-linear Targets
+Yue Zhang, Weihong Guo, Soumya Ray ; PMLR 48:183-191
+Minimum Regret Search for Single- and Multi-Task Optimization
+Jan Hendrik Metzen ; PMLR 48:192-200
+CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy
+Ran Gilad-Bachrach, Nathan Dowlin, Kim Laine, Kristin Lauter, Michael Naehrig, John Wernsing ; PMLR 48:201-210
+The Variational Nystrom method for large-scale spectral problems
+Max Vladymyrov, Miguel Carreira-Perpinan ; PMLR 48:211-220
+Multi-Bias Non-linear Activation in Deep Neural Networks
+Hongyang Li, Wanli Ouyang, Xiaogang Wang ; PMLR 48:221-229
+Asymmetric Multi-task Learning Based on Task Relatedness and Loss
+Giwoong Lee, Eunho Yang, Sung Hwang ; PMLR 48:230-238
+Accurate Robust and Efficient Error Estimation for Decision Trees
+Lixin Fan ; PMLR 48:239-247
+Fast Stochastic Algorithms for SVD and PCA: Convergence Properties and Convexity
+Ohad Shamir ; PMLR 48:248-256
+Convergence of Stochastic Gradient Descent for PCA
+Ohad Shamir ; PMLR 48:257-265
+Dealbreaker: A Nonlinear Latent Variable Model for Educational Data
+Andrew Lan, Tom Goldstein, Richard Baraniuk, Christoph Studer ; PMLR 48:266-275
+A Kernelized Stein Discrepancy for Goodness-of-fit Tests
+Qiang Liu, Jason Lee, Michael Jordan ; PMLR 48:276-284
+Variable Elimination in the Fourier Domain
+Yexiang Xue, Stefano Ermon, Ronan Le Bras, Carla, Bart Selman ; PMLR 48:285-294
+Low-Rank Matrix Approximation with Stability
+Dongsheng Li, Chao Chen, Qin Lv, Junchi Yan, Li Shang, Stephen Chu ; PMLR 48:295-303
+Linking losses for density ratio and class-probability estimation
+Aditya Menon, Cheng Soon Ong ; PMLR 48:304-313
+Stochastic Variance Reduction for Nonconvex Optimization
+Sashank J. Reddi, Ahmed Hefny, Suvrit Sra, Barnabas Poczos, Alex Smola ; PMLR 48:314-323
+Hierarchical Variational Models
+Rajesh Ranganath, Dustin Tran, David Blei ; PMLR 48:324-333
+Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams
+Roy Adams, Nazir Saleheen, Edison Thomaz, Abhinav Parate, Santosh Kumar, Benjamin Marlin ; PMLR 48:334-343
+Binary embeddings with structured hashed projections
+Anna Choromanska, Krzysztof Choromanski, Mariusz Bojarski, Tony Jebara, Sanjiv Kumar, Yann LeCun ; PMLR 48:344-353
+A Variational Analysis of Stochastic Gradient Algorithms
+Stephan Mandt, Matthew Hoffman, David Blei ; PMLR 48:354-363
+Adaptive Sampling for SGD by Exploiting Side Information
+Siddharth Gopal ; PMLR 48:364-372
+Learning from Multiway Data: Simple and Efficient Tensor Regression
+Rose Yu, Yan Liu ; PMLR 48:373-381
+A Distributed Variational Inference Framework for Unifying Parallel Sparse Gaussian Process Regression Models
+Trong Nghia Hoang, Quang Minh Hoang, Bryan Kian Hsiang Low ; PMLR 48:382-391
+Online Stochastic Linear Optimization under One-bit Feedback
+Lijun Zhang, Tianbao Yang, Rong Jin, Yichi Xiao, Zhi-hua Zhou ; PMLR 48:392-401
+Adaptive Algorithms for Online Convex Optimization with Long-term Constraints
+Rodolphe Jenatton, Jim Huang, Cedric Archambeau ; PMLR 48:402-411
+Actively Learning Hemimetrics with Applications to Eliciting User Preferences
+Adish Singla, Sebastian Tschiatschek, Andreas Krause ; PMLR 48:412-420
+Learning Simple Algorithms from Examples
+Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus ; PMLR 48:421-429
+Learning Physical Intuition of Block Towers by Example
+Adam Lerer, Sam Gross, Rob Fergus ; PMLR 48:430-438
+Structure Learning of Partitioned Markov Networks
+Song Liu, Taiji Suzuki, Masashi Sugiyama, Kenji Fukumizu ; PMLR 48:439-448
+Tracking Slowly Moving Clairvoyant: Optimal Dynamic Regret of Online Learning with True and Noisy Gradient
+Tianbao Yang, Lijun Zhang, Rong Jin, Jinfeng Yi ; PMLR 48:449-457
+Beyond CCA: Moment Matching for Multi-View Models
+Anastasia Podosinnikova, Francis Bach, Simon Lacoste-Julien ; PMLR 48:458-467
+Fast methods for estimating the Numerical rank of large matrices
+Shashanka Ubaru, Yousef Saad ; PMLR 48:468-477
+Unsupervised Deep Embedding for Clustering Analysis
+Junyuan Xie, Ross Girshick, Ali Farhadi ; PMLR 48:478-487
+Efficient Private Empirical Risk Minimization for High-dimensional Learning
+Shiva Prasad Kasiviswanathan, Hongxia Jin ; PMLR 48:488-497
+Parameter Estimation for Generalized Thurstone Choice Models
+Milan Vojnovic, Seyoung Yun ; PMLR 48:498-506
+Large-Margin Softmax Loss for Convolutional Neural Networks
+Weiyang Liu, Yandong Wen, Zhiding Yu, Meng Yang ; PMLR 48:507-516
+A Random Matrix Approach to Echo-State Neural Networks
+Romain Couillet, Gilles Wainrib, Hafiz Tiomoko Ali, Harry Sevi ; PMLR 48:517-525
+Supervised and Semi-Supervised Text Categorization using LSTM for Region Embeddings
+Rie Johnson, Tong Zhang ; PMLR 48:526-534
+Optimality of Belief Propagation for Crowdsourced Classification
+Jungseul Ok, Sewoong Oh, Jinwoo Shin, Yung Yi ; PMLR 48:535-544
+Stability of Controllers for Gaussian Process Forward Models
+Julia Vinogradska, Bastian Bischoff, Duy Nguyen-Tuong, Anne Romer, Henner Schmidt, Jan Peters ; PMLR 48:545-554
+Learning privately from multiparty data
+Jihun Hamm, Yingjun Cao, Mikhail Belkin ; PMLR 48:555-563
+Network Morphism
+Tao Wei, Changhu Wang, Yong Rui, Chang Wen Chen ; PMLR 48:564-572
+A Kronecker-factored approximate Fisher matrix for convolution layers
+Roger Grosse, James Martens ; PMLR 48:573-582
+Experimental Design on a Budget for Sparse Linear Models and Applications
+Sathya Narayanan Ravi, Vamsi Ithapu, Sterling Johnson, Vikas Singh ; PMLR 48:583-592
+Minding the Gaps for Block Frank-Wolfe Optimization of Structured SVMs
+Anton Osokin, Jean-Baptiste Alayrac, Isabella Lukasewitz, Puneet Dokania, Simon Lacoste-Julien ; PMLR 48:593-602
+Exact Exponent in Optimal Rates for Crowdsourcing
+Chao Gao, Yu Lu, Dengyong Zhou ; PMLR 48:603-611
+Augmenting Supervised Neural Networks with Unsupervised Objectives for Large-scale Image Classification
+Yuting Zhang, Kibok Lee, Honglak Lee ; PMLR 48:612-621
+Online Low-Rank Subspace Clustering by Basis Dictionary Pursuit
+Jie Shen, Ping Li, Huan Xu ; PMLR 48:622-631
+A Self-Correcting Variable-Metric Algorithm for Stochastic Optimization
+Frank Curtis ; PMLR 48:632-641
+Stochastic Quasi-Newton Langevin Monte Carlo
+Umut Simsekli, Roland Badeau, Taylan Cemgil, Gaël Richard ; PMLR 48:642-651
+Doubly Robust Off-policy Value Evaluation for Reinforcement Learning
+Nan Jiang, Lihong Li ; PMLR 48:652-661
+Fast Rate Analysis of Some Stochastic Optimization Algorithms
+Chao Qu, Huan Xu, Chong Ong ; PMLR 48:662-670
+Fast k-Nearest Neighbour Search via Dynamic Continuous Indexing
+Ke Li, Jitendra Malik ; PMLR 48:671-679
+Smooth Imitation Learning for Online Sequence Prediction
+Hoang Le, Andrew Kang, Yisong Yue, Peter Carr ; PMLR 48:680-688
+Community Recovery in Graphs with Locality
+Yuxin Chen, Govinda Kamath, Changho Suh, David Tse ; PMLR 48:689-698
+Variance Reduction for Faster Non-Convex Optimization
+Zeyuan Allen-Zhu, Elad Hazan ; PMLR 48:699-707
+Loss factorization, weakly supervised learning and label noise robustness
+Giorgio Patrini, Frank Nielsen, Richard Nock, Marcello Carioni ; PMLR 48:708-717
+Analysis of Deep Neural Networks with Extended Data Jacobian Matrix
+Shengjie Wang, Abdel-rahman Mohamed, Rich Caruana, Jeff Bilmes, Matthai Plilipose, Matthew Richardson, Krzysztof Geras, Gregor Urban, Ozlem Aslan ; PMLR 48:718-726
+Doubly Decomposing Nonparametric Tensor Regression
+Masaaki Imaizumi, Kohei Hayashi ; PMLR 48:727-736
+Hyperparameter optimization with approximate gradient
+Fabian Pedregosa ; PMLR 48:737-746
+SDCA without Duality, Regularization, and Individual Convexity
+Shai Shalev-Shwartz ; PMLR 48:747-754
+Heteroscedastic Sequences: Beyond Gaussianity
+Oren Anava, Shie Mannor ; PMLR 48:755-763
+A Neural Autoregressive Approach to Collaborative Filtering
+Yin Zheng, Bangsheng Tang, Wenkui Ding, Hanning Zhou ; PMLR 48:764-773
+On the Quality of the Initial Basin in Overspecified Neural Networks
+Itay Safran, Ohad Shamir ; PMLR 48:774-782
+Primal-Dual Rates and Certificates
+Celestine Dünner, Simone Forte, Martin Takac, Martin Jaggi ; PMLR 48:783-792
+Minimizing the Maximal Loss: How and Why
+Shai Shalev-Shwartz, Yonatan Wexler ; PMLR 48:793-801
+The Information-Theoretic Requirements of Subspace Clustering with Missing Data
+Daniel Pimentel-Alarcon, Robert Nowak ; PMLR 48:802-810
+Online Learning with Feedback Graphs Without the Graphs
+Alon Cohen, Tamir Hazan, Tomer Koren ; PMLR 48:811-819
+PAC learning of Probabilistic Automaton based on the Method of Moments
+Hadrien Glaude, Olivier Pietquin ; PMLR 48:820-829
+Estimating Structured Vector Autoregressive Models
+Igor Melnyk, Arindam Banerjee ; PMLR 48:830-839
+Mixing Rates for the Alternating Gibbs Sampler over Restricted Boltzmann Machines and Friends
+Christopher Tosh ; PMLR 48:840-849
+Polynomial Networks and Factorization Machines: New Insights and Efficient Training Algorithms
+Mathieu Blondel, Masakazu Ishihata, Akinori Fujino, Naonori Ueda ; PMLR 48:850-858
+A New PAC-Bayesian Perspective on Domain Adaptation
+Pascal Germain, Amaury Habrard, François Laviolette, Emilie Morvant ; PMLR 48:859-868
+Correlation Clustering and Biclustering with Locally Bounded Errors
+Gregory Puleo, Olgica Milenkovic ; PMLR 48:869-877
+PAC Lower Bounds and Efficient Algorithms for The Max K-Armed Bandit Problem
+Yahel David, Nahum Shimkin ; PMLR 48:878-887
+A Comparative Analysis and Study of Multiview CNN Models for Joint Object Categorization and Pose Estimation
+Mohamed Elhoseiny, Tarek El-Gaaly, Amr Bakry, Ahmed Elgammal ; PMLR 48:888-897
+BASC: Applying Bayesian Optimization to the Search for Global Minima on Potential Energy Surfaces
+Shane Carr, Roman Garnett, Cynthia Lo ; PMLR 48:898-907
+On the Iteration Complexity of Oblivious First-Order Optimization Algorithms
+Yossi Arjevani, Ohad Shamir ; PMLR 48:908-916
+Stochastic Variance Reduced Optimization for Nonconvex Sparse Learning
+Xingguo Li, Tuo Zhao, Raman Arora, Han Liu, Jarvis Haupt ; PMLR 48:917-925
+Analysis of Variational Bayesian Factorizations for Sparse and Low-Rank Estimation
+David Wipf ; PMLR 48:926-935
+Fast k-means with accurate bounds
+James Newling, Francois Fleuret ; PMLR 48:936-944
+Boolean Matrix Factorization and Noisy Completion via Message Passing
+Siamak Ravanbakhsh, Barnabas Poczos, Russell Greiner ; PMLR 48:945-954
+Convolutional Rectifier Networks as Generalized Tensor Decompositions
+Nadav Cohen, Amnon Shashua ; PMLR 48:955-963
+Low-rank Solutions of Linear Matrix Equations via Procrustes Flow
+Stephen Tu, Ross Boczar, Max Simchowitz, Mahdi Soltanolkotabi, Ben Recht ; PMLR 48:964-973
+Anytime Exploration for Multi-armed Bandits using Confidence Information
+Kwang-Sung Jun, Robert Nowak ; PMLR 48:974-982
+Structured Prediction Energy Networks
+David Belanger, Andrew McCallum ; PMLR 48:983-992
+L1-regularized Neural Networks are Improperly Learnable in Polynomial Time
+Yuchen Zhang, Jason D. Lee, Michael I. Jordan ; PMLR 48:993-1001
+Compressive Spectral Clustering
+Nicolas Tremblay, Gilles Puy, Remi Gribonval, Pierre Vandergheynst ; PMLR 48:1002-1011
+Low-rank tensor completion: a Riemannian manifold preconditioning approach
+Hiroyuki Kasai, Bamdev Mishra ; PMLR 48:1012-1021
+Provable Non-convex Phase Retrieval with Outliers: Median TruncatedWirtinger Flow
+Huishuai Zhang, Yuejie Chi, Yingbin Liang ; PMLR 48:1022-1031
+Estimating Maximum Expected Value through Gaussian Approximation
+Carlo D’Eramo, Marcello Restelli, Alessandro Nuara ; PMLR 48:1032-1040
+Representational Similarity Learning with Application to Brain Networks
+Urvashi Oswal, Christopher Cox, Matthew Lambon-Ralph, Timothy Rogers, Robert Nowak ; PMLR 48:1041-1049
+Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
+Yarin Gal, Zoubin Ghahramani ; PMLR 48:1050-1059
+Generative Adversarial Text to Image Synthesis
+Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee ; PMLR 48:1060-1069
+Dirichlet Process Mixture Model for Correcting Technical Variation in Single-Cell Gene Expression Data
+Sandhya Prabhakaran, Elham Azizi, Ambrose Carr, Dana Pe’er ; PMLR 48:1070-1079
+Improved SVRG for Non-Strongly-Convex or Sum-of-Non-Convex Objectives
+Zeyuan Allen-Zhu, Yang Yuan ; PMLR 48:1080-1089
+Sparse Parameter Recovery from Aggregated Data
+Avradeep Bhowmik, Joydeep Ghosh, Oluwasanmi Koyejo ; PMLR 48:1090-1099
+Deep Structured Energy Based Models for Anomaly Detection
+Shuangfei Zhai, Yu Cheng, Weining Lu, Zhongfei Zhang ; PMLR 48:1100-1109
+Even Faster Accelerated Coordinate Descent Using Non-Uniform Sampling
+Zeyuan Allen-Zhu, Zheng Qu, Peter Richtarik, Yang Yuan ; PMLR 48:1110-1119
+Unitary Evolution Recurrent Neural Networks
+Martin Arjovsky, Amar Shah, Yoshua Bengio ; PMLR 48:1120-1128
+Markov Latent Feature Models
+Aonan Zhang, John Paisley ; PMLR 48:1129-1137
+The Knowledge Gradient for Sequential Decision Making with Stochastic Binary Feedbacks
+Yingfei Wang, Chu Wang, Warren Powell ; PMLR 48:1138-1147
+A Simple and Provable Algorithm for Sparse Diagonal CCA
+Megasthenis Asteris, Anastasios Kyrillidis, Oluwasanmi Koyejo, Russell Poldrack ; PMLR 48:1148-1157
+Quadratic Optimization with Orthogonality Constraints: Explicit Lojasiewicz Exponent and Linear Convergence of Line-Search Methods
+Huikang Liu, Weijie Wu, Anthony Man-Cho So ; PMLR 48:1158-1167
+Normalization Propagation: A Parametric Technique for Removing Internal Covariate Shift in Deep Networks
+Devansh Arpit, Yingbo Zhou, Bhargava Kota, Venu Govindaraju ; PMLR 48:1168-1176
+Learning to Generate with Memory
+Chongxuan Li, Jun Zhu, Bo Zhang ; PMLR 48:1177-1186
+Learning End-to-end Video Classification with Rank-Pooling
+Basura Fernando, Stephen Gould ; PMLR 48:1187-1196
+Learning to Filter with Predictive State Inference Machines
+Wen Sun, Arun Venkatraman, Byron Boots, J.Andrew Bagnell ; PMLR 48:1197-1205
+A Subspace Learning Approach for High Dimensional Matrix Decomposition with Efficient Column/Row Sampling
+Mostafa Rahmani, Geroge Atia ; PMLR 48:1206-1214
+DCM Bandits: Learning to Rank with Multiple Clicks
+Sumeet Katariya, Branislav Kveton, Csaba Szepesvari, Zheng Wen ; PMLR 48:1215-1224
+Train faster, generalize better: Stability of stochastic gradient descent
+Moritz Hardt, Ben Recht, Yoram Singer ; PMLR 48:1225-1234
+Copeland Dueling Bandit Problem: Regret Lower Bound, Optimal Algorithm, and Computationally Efficient Algorithm
+Junpei Komiyama, Junya Honda, Hiroshi Nakagawa ; PMLR 48:1235-1244
+Contextual Combinatorial Cascading Bandits
+Shuai Li, Baoxiang Wang, Shengyu Zhang, Wei Chen ; PMLR 48:1245-1253
+Conservative Bandits
+Yifan Wu, Roshan Shariff, Tor Lattimore, Csaba Szepesvari ; PMLR 48:1254-1262
+Variance-Reduced and Projection-Free Stochastic Optimization
+Elad Hazan, Haipeng Luo ; PMLR 48:1263-1271
+Factored Temporal Sigmoid Belief Networks for Sequence Learning
+Jiaming Song, Zhe Gan, Lawrence Carin ; PMLR 48:1272-1281
+False Discovery Rate Control and Statistical Quality Assessment of Annotators in Crowdsourced Ranking
+QianQian Xu, Jiechao Xiong, Xiaochun Cao, Yuan Yao ; PMLR 48:1282-1291
+Strongly-Typed Recurrent Neural Networks
+David Balduzzi, Muhammad Ghifary ; PMLR 48:1292-1300
+Distributed Clustering of Linear Bandits in Peer to Peer Networks
+Nathan Korda, Balazs Szorenyi, Shuai Li ; PMLR 48:1301-1309
+Collapsed Variational Inference for Sum-Product Networks
+Han Zhao, Tameem Adel, Geoff Gordon, Brandon Amos ; PMLR 48:1310-1318
+On the Analysis of Complex Backup Strategies in Monte Carlo Tree Search
+Piyush Khandelwal, Elad Liebman, Scott Niekum, Peter Stone ; PMLR 48:1319-1328
+Benchmarking Deep Reinforcement Learning for Continuous Control
+Yan Duan, Xi Chen, Rein Houthooft, John Schulman, Pieter Abbeel ; PMLR 48:1329-1338
+K-Means Clustering with Distributed Dimensions
+Hu Ding, Yu Liu, Lingxiao Huang, Jian Li ; PMLR 48:1339-1348
+Texture Networks: Feed-forward Synthesis of Textures and Stylized Images
+Dmitry Ulyanov, Vadim Lebedev, Andrea, Victor Lempitsky ; PMLR 48:1349-1357
+Fast Constrained Submodular Maximization: Personalized Data Summarization
+Baharan Mirzasoleiman, Ashwinkumar Badanidiyuru, Amin Karbasi ; PMLR 48:1358-1367
+On the Statistical Limits of Convex Relaxations
+Zhaoran Wang, Quanquan Gu, Han Liu ; PMLR 48:1368-1377
+Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
+Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher ; PMLR 48:1378-1387
+Gossip Dual Averaging for Decentralized Optimization of Pairwise Functions
+Igor Colin, Aurelien Bellet, Joseph Salmon, Stéphan Clémençon ; PMLR 48:1388-1396
+Solving Ridge Regression using Sketched Preconditioned SVRG
+Alon Gonen, Francesco Orabona, Shai Shalev-Shwartz ; PMLR 48:1397-1405
+Cumulative Prospect Theory Meets Reinforcement Learning: Prediction and Control
+Prashanth L.A., Cheng Jie, Michael Fu, Steve Marcus, Csaba Szepesvari ; PMLR 48:1406-1415
+Estimating Accuracy from Unlabeled Data: A Bayesian Approach
+Emmanouil Antonios Platanios, Avinava Dubey, Tom Mitchell ; PMLR 48:1416-1425
+Non-negative Matrix Factorization under Heavy Noise
+Chiranjib Bhattacharya, Navin Goyal, Ravindran Kannan, Jagdeep Pani ; PMLR 48:1426-1434
+Extreme F-measure Maximization using Sparse Probability Estimates
+Kalina Jasinska, Krzysztof Dembczynski, Robert Busa-Fekete, Karlson Pfannschmidt, Timo Klerx, Eyke Hullermeier ; PMLR 48:1435-1444
+Auxiliary Deep Generative Models
+Lars Maaløe, Casper Kaae Sønderby, Søren Kaae Sønderby, Ole Winther ; PMLR 48:1445-1453
+Importance Sampling Tree for Large-scale Empirical Expectation
+Olivier Canevet, Cijo Jose, Francois Fleuret ; PMLR 48:1454-1462
+Starting Small - Learning with Adaptive Sample Sizes
+Hadi Daneshmand, Aurelien Lucchi, Thomas Hofmann ; PMLR 48:1463-1471
+Deep Gaussian Processes for Regression using Approximate Expectation Propagation
+Thang Bui, Daniel Hernandez-Lobato, Jose Hernandez-Lobato, Yingzhen Li, Richard Turner ; PMLR 48:1472-1481
+DR-ABC: Approximate Bayesian Computation with Kernel-Based Distribution Regression
+Jovana Mitrovic, Dino Sejdinovic, Yee-Whye Teh ; PMLR 48:1482-1491
+Predictive Entropy Search for Multi-objective Bayesian Optimization
+Daniel Hernandez-Lobato, Jose Hernandez-Lobato, Amar Shah, Ryan Adams ; PMLR 48:1492-1501
+Rich Component Analysis
+Rong Ge, James Zou ; PMLR 48:1502-1510
+Black-Box Alpha Divergence Minimization
+Jose Hernandez-Lobato, Yingzhen Li, Mark Rowland, Thang Bui, Daniel Hernandez-Lobato, Richard Turner ; PMLR 48:1511-1520
+One-Shot Generalization in Deep Generative Models
+Danilo Rezende, Shakir, Ivo Danihelka, Karol Gregor, Daan Wierstra ; PMLR 48:1521-1529
+Optimal Classification with Multivariate Losses
+Nagarajan Natarajan, Oluwasanmi Koyejo, Pradeep Ravikumar, Inderjit Dhillon ; PMLR 48:1530-1538
+A ranking approach to global optimization
+Cedric Malherbe, Emile Contal, Nicolas Vayatis ; PMLR 48:1539-1547
+Parallel and Distributed Block-Coordinate Frank-Wolfe Algorithms
+Yu-Xiang Wang, Veeranjaneyulu Sadhanala, Wei Dai, Willie Neiswanger, Suvrit Sra, Eric Xing ; PMLR 48:1548-1557
+Autoencoding beyond pixels using a learned similarity metric
+Anders Boesen Lindbo Larsen, Søren Kaae Sønderby, Hugo Larochelle, Ole Winther ; PMLR 48:1558-1566
+Ensuring Rapid Mixing and Low Bias for Asynchronous Gibbs Sampling
+Christopher De Sa, Chris Re, Kunle Olukotun ; PMLR 48:1567-1576
+Simultaneous Safe Screening of Features and Samples in Doubly Sparse Modeling
+Atsushi Shibagaki, Masayuki Karasuyama, Kohei Hatano, Ichiro Takeuchi ; PMLR 48:1577-1586
+Anytime optimal algorithms in stochastic multi-armed bandits
+Rémy Degenne, Vianney Perchet ; PMLR 48:1587-1595
+Bounded Off-Policy Evaluation with Missing Data for Course Recommendation and Curriculum Design
+William Hoiles, Mihaela Schaar ; PMLR 48:1596-1604
+On collapsed representation of hierarchical Completely Random Measures
+Gaurav Pandey, Ambedkar Dukkipati ; PMLR 48:1605-1613
+From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification
+Andre Martins, Ramon Astudillo ; PMLR 48:1614-1623
+Black-box Optimization with a Politician
+Sebastien Bubeck, Yin Tat Lee ; PMLR 48:1624-1631
+Gaussian process nonparametric tensor estimator and its minimax optimality
+Heishiro Kanagawa, Taiji Suzuki, Hayato Kobayashi, Nobuyuki Shimizu, Yukihiro Tagami ; PMLR 48:1632-1641
+No-Regret Algorithms for Heavy-Tailed Linear Bandits
+Andres Munoz Medina, Scott Yang ; PMLR 48:1642-1650
+Extended and Unscented Kitchen Sinks
+Edwin Bonilla, Daniel Steinberg, Alistair Reid ; PMLR 48:1651-1659
+Matrix Eigen-decomposition via Doubly Stochastic Riemannian Optimization
+Zhiqiang Xu, Peilin Zhao, Jianneng Cao, Xiaoli Li ; PMLR 48:1660-1669
+Recommendations as Treatments: Debiasing Learning and Evaluation
+Tobias Schnabel, Adith Swaminathan, Ashudeep Singh, Navin Chandak, Thorsten Joachims ; PMLR 48:1670-1679
+ForecastICU: A Prognostic Decision Support System for Timely Prediction of Intensive Care Unit Admission
+Jinsung Yoon, Ahmed Alaa, Scott Hu, Mihaela Schaar ; PMLR 48:1680-1689
+An optimal algorithm for the Thresholding Bandit Problem
+Andrea Locatelli, Maurilio Gutzeit, Alexandra Carpentier ; PMLR 48:1690-1698
+Fast Parameter Inference in Nonlinear Dynamical Systems using Iterative Gradient Matching
+Mu Niu, Simon Rogers, Maurizio Filippone, Dirk Husmeier ; PMLR 48:1699-1707
+Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors
+Christos Louizos, Max Welling ; PMLR 48:1708-1716
+Learning Granger Causality for Hawkes Processes
+Hongteng Xu, Mehrdad Farajtabar, Hongyuan Zha ; PMLR 48:1717-1726
+Neural Variational Inference for Text Processing
+Yishu Miao, Lei Yu, Phil Blunsom ; PMLR 48:1727-1736
+Dictionary Learning for Massive Matrix Factorization
+Arthur Mensch, Julien Mairal, Bertrand Thirion, Gael Varoquaux ; PMLR 48:1737-1746
+Pixel Recurrent Neural Networks
+Aaron Van Oord, Nal Kalchbrenner, Koray Kavukcuoglu ; PMLR 48:1747-1756
+Why Most Decisions Are Easy in Tetris—And Perhaps in Other Sequential Decision Problems, As Well
+Ozgur Simsek, Simon Algorta, Amit Kothiyal ; PMLR 48:1757-1765
+Gaussian quadrature for matrix inverse forms with applications
+Chengtao Li, Suvrit Sra, Stefanie Jegelka ; PMLR 48:1766-1775
+Train and Test Tightness of LP Relaxations in Structured Prediction
+Ofer Meshi, Mehrdad Mahdavi, Adrian Weller, David Sontag ; PMLR 48:1776-1785
+Stochastic Optimization for Multiview Representation Learning using Partial Least Squares
+Raman Arora, Poorya Mianjy, Teodor Marinov ; PMLR 48:1786-1794
+Hierarchical Compound Poisson Factorization
+Mehmet Basbug, Barbara Engelhardt ; PMLR 48:1795-1803
+Opponent Modeling in Deep Reinforcement Learning
+He He, Jordan Boyd-Graber, Kevin Kwok, Hal Daumé III ; PMLR 48:1804-1813
+No penalty no tears: Least squares in high-dimensional linear models
+Xiangyu Wang, David Dunson, Chenlei Leng ; PMLR 48:1814-1822
+SDNA: Stochastic Dual Newton Ascent for Empirical Risk Minimization
+Zheng Qu, Peter Richtarik, Martin Takac, Olivier Fercoq ; PMLR 48:1823-1832
+On Graduated Optimization for Stochastic Non-Convex Problems
+Elad Hazan, Kfir Yehuda Levy, Shai Shalev-Shwartz ; PMLR 48:1833-1841
+Meta-Learning with Memory-Augmented Neural Networks
+Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap ; PMLR 48:1842-1850
+The knockoff filter for FDR control in group-sparse and multitask regression
+Ran Dai, Rina Barber ; PMLR 48:1851-1859
+Softened Approximate Policy Iteration for Markov Games
+Julien Pérolat, Bilal Piot, Matthieu Geist, Bruno Scherrer, Olivier Pietquin ; PMLR 48:1860-1868
+Stochastic Block BFGS: Squeezing More Curvature out of Data
+Robert Gower, Donald Goldfarb, Peter Richtarik ; PMLR 48:1869-1878
+Differential Geometric Regularization for Supervised Learning of Classifiers
+Qinxun Bai, Steven Rosenberg, Zheng Wu, Stan Sclaroff ; PMLR 48:1879-1888
+Exploiting Cyclic Symmetry in Convolutional Neural Networks
+Sander Dieleman, Jeffrey De Fauw, Koray Kavukcuoglu ; PMLR 48:1889-1898
+Graying the black box: Understanding DQNs
+Tom Zahavy, Nir Ben-Zrihem, Shie Mannor ; PMLR 48:1899-1908
+The Sum-Product Theorem: A Foundation for Learning Tractable Models
+Abram Friesen, Pedro Domingos ; PMLR 48:1909-1918
+Pareto Frontier Learning with Expensive Correlated Objectives
+Amar Shah, Zoubin Ghahramani ; PMLR 48:1919-1927
+Asynchronous Methods for Deep Reinforcement Learning
+Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu ; PMLR 48:1928-1937
+A Simple and Strongly-Local Flow-Based Method for Cut Improvement
+Nate Veldt, David Gleich, Michael Mahoney ; PMLR 48:1938-1947
+Nonlinear Statistical Learning with Truncated Gaussian Graphical Models
+Qinliang Su, Xuejun Liao, Changyou Chen, Lawrence Carin ; PMLR 48:1948-1957
+Barron and Cover’s Theory in Supervised Learning and its Application to Lasso
+Masanori Kawakita, Jun’ichi Takeuchi ; PMLR 48:1958-1966
+Nonparametric Canonical Correlation Analysis
+Tomer Michaeli, Weiran Wang, Karen Livescu ; PMLR 48:1967-1976
+BISTRO: An Efficient Relaxation-Based Method for Contextual Bandits
+Alexander Rakhlin, Karthik Sridharan ; PMLR 48:1977-1985
+Associative Long Short-Term Memory
+Ivo Danihelka, Greg Wayne, Benigno Uria, Nal Kalchbrenner, Alex Graves ; PMLR 48:1986-1994
+Dueling Network Architectures for Deep Reinforcement Learning
+Ziyu Wang, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, Nando Freitas ; PMLR 48:1995-2003
+Persistence weighted Gaussian kernel for topological data analysis
+Genki Kusano, Yasuaki Hiraoka, Kenji Fukumizu ; PMLR 48:2004-2013
+Learning Convolutional Neural Networks for Graphs
+Mathias Niepert, Mohamed Ahmed, Konstantin Kutzkov ; PMLR 48:2014-2023
+Persistent RNNs: Stashing Recurrent Weights On-Chip
+Greg Diamos, Shubho Sengupta, Bryan Catanzaro, Mike Chrzanowski, Adam Coates, Erich Elsen, Jesse Engel, Awni Hannun, Sanjeev Satheesh ; PMLR 48:2024-2033
+Recurrent Orthogonal Networks and Long-Memory Tasks
+Mikael Henaff, Arthur Szlam, Yann LeCun ; PMLR 48:2034-2042
+The Arrow of Time in Multivariate Time Series
+Stefan Bauer, Bernhard Schölkopf, Jonas Peters ; PMLR 48:2043-2051
+Mixture Proportion Estimation via Kernel Embeddings of Distributions
+Harish Ramaswamy, Clayton Scott, Ambuj Tewari ; PMLR 48:2052-2060
+Fast DPP Sampling for Nystrom with Application to Kernel Methods
+Chengtao Li, Stefanie Jegelka, Suvrit Sra ; PMLR 48:2061-2070
+Complex Embeddings for Simple Link Prediction
+Théo Trouillon, Johannes Welbl, Sebastian Riedel, Eric Gaussier, Guillaume Bouchard ; PMLR 48:2071-2080
+Interactive Bayesian Hierarchical Clustering
+Sharad Vikram, Sanjoy Dasgupta ; PMLR 48:2081-2090
+A Convolutional Attention Network for Extreme Summarization of Source Code
+Miltiadis Allamanis, Hao Peng, Charles Sutton ; PMLR 48:2091-2100
+How to Fake Multiply by a Gaussian Matrix
+Michael Kapralov, Vamsi Potluru, David Woodruff ; PMLR 48:2101-2110
+Differentially Private Chi-Squared Hypothesis Testing: Goodness of Fit and Independence Testing
+Marco Gaboardi, Hyun Lim, Ryan Rogers, Salil Vadhan ; PMLR 48:2111-2120
+Pliable Rejection Sampling
+Akram Erraqabi, Michal Valko, Alexandra Carpentier, Odalric Maillard ; PMLR 48:2121-2129
+Differentially Private Policy Evaluation
+Borja Balle, Maziar Gomrokchi, Doina Precup ; PMLR 48:2130-2138
+Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning
+Philip Thomas, Emma Brunskill ; PMLR 48:2139-2148
+Discrete Deep Feature Extraction: A Theory and New Architectures
+Thomas Wiatowski, Michael Tschannen, Aleksandar Stanic, Philipp Grohs, Helmut Boelcskei ; PMLR 48:2149-2158
+Efficient Algorithms for Adversarial Contextual Learning
+Vasilis Syrgkanis, Akshay Krishnamurthy, Robert Schapire ; PMLR 48:2159-2168
+Training Deep Neural Networks via Direct Loss Minimization
+Yang Song, Alexander Schwing, Richard, Raquel Urtasun ; PMLR 48:2169-2177
+Sequence to Sequence Training of CTC-RNNs with Partial Windowing
+Kyuyeon Hwang, Wonyong Sung ; PMLR 48:2178-2187
+Variational Inference for Monte Carlo Objectives
+Andriy Mnih, Danilo Rezende ; PMLR 48:2188-2196
+Hierarchical Decision Making In Electricity Grid Management
+Gal Dalal, Elad Gilboa, Shie Mannor ; PMLR 48:2197-2206
+Learning Sparse Combinatorial Representations via Two-stage Submodular Maximization
+Eric Balkanski, Baharan Mirzasoleiman, Andreas Krause, Yaron Singer ; PMLR 48:2207-2216
+Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units
+Wenling Shang, Kihyuk Sohn, Diogo Almeida, Honglak Lee ; PMLR 48:2217-2225
+Isotonic Hawkes Processes
+Yichen Wang, Bo Xie, Nan Du, Le Song ; PMLR 48:2226-2234
+Cross-Graph Learning of Multi-Relational Associations
+Hanxiao Liu, Yiming Yang ; PMLR 48:2235-2243
+Markov-modulated Marked Poisson Processes for Check-in Data
+Jiangwei Pan, Vinayak Rao, Pankaj Agarwal, Alan Gelfand ; PMLR 48:2244-2253
+Beyond Parity Constraints: Fourier Analysis of Hash Functions for Inference
+Tudor Achim, Ashish Sabharwal, Stefano Ermon ; PMLR 48:2254-2262
+On the Power and Limits of Distance-Based Learning
+Periklis Papakonstantinou, Jia Xu, Guang Yang ; PMLR 48:2263-2271
+A Convex Atomic-Norm Approach to Multiple Sequence Alignment and Motif Discovery
+Ian En-Hsu Yen, Xin Lin, Jiong Zhang, Pradeep Ravikumar, Inderjit Dhillon ; PMLR 48:2272-2280
+Generalized Direct Change Estimation in Ising Model Structure
+Farideh Fazayeli, Arindam Banerjee ; PMLR 48:2281-2290
+Robust Principal Component Analysis with Side Information
+Kai-Yang Chiang, Cho-Jui Hsieh, Inderjit Dhillon ; PMLR 48:2291-2299
+Towards Faster Rates and Oracle Property for Low-Rank Matrix Estimation
+Huan Gui, Jiawei Han, Quanquan Gu ; PMLR 48:2300-2309
+Early and Reliable Event Detection Using Proximity Space Representation
+Maxime Sangnier, Jerome Gauthier, Alain Rakotomamonjy ; PMLR 48:2310-2319
+Stratified Sampling Meets Machine Learning
+Edo Liberty, Kevin Lang, Konstantin Shmakov ; PMLR 48:2320-2329
+Efficient Multi-Instance Learning for Activity Recognition from Time Series Data Using an Auto-Regressive Hidden Markov Model
+Xinze Guan, Raviv Raich, Weng-Keen Wong ; PMLR 48:2330-2339
+Generalization Properties and Implicit Regularization for Multiple Passes SGM
+Junhong Lin, Raffaello Camoriano, Lorenzo Rosasco ; PMLR 48:2340-2348
+Principal Component Projection Without Principal Component Analysis
+Roy Frostig, Cameron Musco, Christopher Musco, Aaron Sidford ; PMLR 48:2349-2357
+Recovery guarantee of weighted low-rank approximation via alternating minimization
+Yuanzhi Li, Yingyu Liang, Andrej Risteski ; PMLR 48:2358-2367
+Deconstructing the Ladder Network Architecture
+Mohammad Pezeshki, Linxi Fan, Philemon Brakel, Aaron Courville, Yoshua Bengio ; PMLR 48:2368-2376
+Generalization and Exploration via Randomized Value Functions
+Ian Osband, Benjamin Van Roy, Zheng Wen ; PMLR 48:2377-2386
+Evasion and Hardening of Tree Ensemble Classifiers
+Alex Kantchelian, J. D. Tygar, Anthony Joseph ; PMLR 48:2387-2396
+Dynamic Memory Networks for Visual and Textual Question Answering
+Caiming Xiong, Stephen Merity, Richard Socher ; PMLR 48:2397-2406
+Estimating Cosmological Parameters from the Dark Matter Distribution
+Siamak Ravanbakhsh, Junier Oliva, Sebastian Fromenteau, Layne Price, Shirley Ho, Jeff Schneider, Barnabas Poczos ; PMLR 48:2407-2416
+Learning Population-Level Diffusions with Generative RNNs
+Tatsunori Hashimoto, David Gifford, Tommi Jaakkola ; PMLR 48:2417-2426
+Expressiveness of Rectifier Networks
+Xingyuan Pan, Vivek Srikumar ; PMLR 48:2427-2435
+Discrete Distribution Estimation under Local Privacy
+Peter Kairouz, Keith Bonawitz, Daniel Ramage ; PMLR 48:2436-2444
+Square Root Graphical Models: Multivariate Generalizations of Univariate Exponential Families that Permit Positive Dependencies
+David Inouye, Pradeep Ravikumar, Inderjit Dhillon ; PMLR 48:2445-2453
+A Box-Constrained Approach for Hard Permutation Problems
+Cong Han Lim, Steve Wright ; PMLR 48:2454-2463
+Geometric Mean Metric Learning
+Pourya Zadeh, Reshad Hosseini, Suvrit Sra ; PMLR 48:2464-2471
+Sparse Nonlinear Regression: Parameter Estimation under Nonconvexity
+Zhuoran Yang, Zhaoran Wang, Han Liu, Yonina Eldar, Tong Zhang ; PMLR 48:2472-2481
+Conditional Bernoulli Mixtures for Multi-label Classification
+Cheng Li, Bingyu Wang, Virgil Pavlu, Javed Aslam ; PMLR 48:2482-2491
+Scalable Discrete Sampling as a Multi-Armed Bandit Problem
+Yutian Chen, Zoubin Ghahramani ; PMLR 48:2492-2501
+Recycling Randomness with Structure for Sublinear time Kernel Expansions
+Krzysztof Choromanski, Vikas Sindhwani ; PMLR 48:2502-2510
+Bidirectional Helmholtz Machines
+Jorg Bornschein, Samira Shabanian, Asja Fischer, Yoshua Bengio ; PMLR 48:2511-2519
+Faster Convex Optimization: Simulated Annealing with an Efficient Universal Barrier
+Jacob Abernethy, Elad Hazan ; PMLR 48:2520-2528
+Preconditioning Kernel Matrices
+Kurt Cutajar, Michael Osborne, John Cunningham, Maurizio Filippone ; PMLR 48:2529-2538
+Greedy Column Subset Selection: New Bounds and Distributed Algorithms
+Jason Altschuler, Aditya Bhaskara, Gang Fu, Vahab Mirrokni, Afshin Rostamizadeh, Morteza Zadimoghaddam ; PMLR 48:2539-2548
+Dynamic Capacity Networks
+Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville ; PMLR 48:2549-2558
+Pricing a Low-regret Seller
+Hoda Heidari, Mohammad Mahdian, Umar Syed, Sergei Vassilvitskii, Sadra Yazdanbod ; PMLR 48:2559-2567
+Estimation from Indirect Supervision with Linear Moments
+Aditi Raghunathan, Roy Frostig, John Duchi, Percy Liang ; PMLR 48:2568-2577
+Speeding up k-means by approximating Euclidean distances via block vectors
+Thomas Bottesch, Thomas Bühler, Markus Kächele ; PMLR 48:2578-2586
+Learning and Inference via Maximum Inner Product Search
+Stephen Mussmann, Stefano Ermon ; PMLR 48:2587-2596
+A Superlinearly-Convergent Proximal Newton-type Method for the Optimization of Finite Sums
+Anton Rodomanov, Dmitry Kropotov ; PMLR 48:2597-2605
+A Kernel Test of Goodness of Fit
+Kacper Chwialkowski, Heiko Strathmann, Arthur Gretton ; PMLR 48:2606-2615
+Interacting Particle Markov Chain Monte Carlo
+Tom Rainforth, Christian Naesseth, Fredrik Lindsten, Brooks Paige, Jan-Willem Vandemeent, Arnaud Doucet, Frank Wood ; PMLR 48:2616-2625
+Faster Eigenvector Computation via Shift-and-Invert Preconditioning
+Dan Garber, Elad Hazan, Chi Jin, Sham, Cameron Musco, Praneeth Netrapalli, Aaron Sidford ; PMLR 48:2626-2634
+A Theory of Generative ConvNet
+Jianwen Xie, Yang Lu, Song-Chun Zhu, Yingnian Wu ; PMLR 48:2635-2644
+Efficient Learning with a Family of Nonconvex Regularizers by Redistributing Nonconvexity
+Quanming Yao, James Kwok ; PMLR 48:2645-2654
+Computationally Efficient Nyström Approximation using Fast Transforms
+Si Si, Cho-Jui Hsieh, Inderjit Dhillon ; PMLR 48:2655-2663
+Gromov-Wasserstein Averaging of Kernel and Distance Matrices
+Gabriel Peyré, Marco Cuturi, Justin Solomon ; PMLR 48:2664-2672
+Robust Monte Carlo Sampling using Riemannian Nosé-Poincaré Hamiltonian Dynamics
+Anirban Roychowdhury, Brian Kulis, Srinivasan Parthasarathy ; PMLR 48:2673-2681
+The Segmented iHMM: A Simple, Efficient Hierarchical Infinite HMM
+Ardavan Saeedi, Matthew Hoffman, Matthew Johnson, Ryan Adams ; PMLR 48:2682-2691
+Meta–Gradient Boosted Decision Tree Model for Weight and Target Learning
+Yury Ustinovskiy, Valentina Fedorova, Gleb Gusev, Pavel Serdyukov ; PMLR 48:2692-2701
+Discriminative Embeddings of Latent Variable Models for Structured Data
+Hanjun Dai, Bo Dai, Le Song ; PMLR 48:2702-2711
+Robust Random Cut Forest Based Anomaly Detection on Streams
+Sudipto Guha, Nina Mishra, Gourav Roy, Okke Schrijvers ; PMLR 48:2712-2721
+Training Neural Networks Without Gradients: A Scalable ADMM Approach
+Gavin Taylor, Ryan Burmeister, Zheng Xu, Bharat Singh, Ankit Patel, Tom Goldstein ; PMLR 48:2722-2731
+Clustering High Dimensional Categorical Data via Topographical Features
+Chao Chen, Novi Quadrianto ; PMLR 48:2732-2740
+Efficient Algorithms for Large-scale Generalized Eigenvector Computation and Canonical Correlation Analysis
+Rong Ge, Chi Jin, Sham, Praneeth Netrapalli, Aaron Sidford ; PMLR 48:2741-2750
+Algorithms for Optimizing the Ratio of Submodular Functions
+Wenruo Bai, Rishabh Iyer, Kai Wei, Jeff Bilmes ; PMLR 48:2751-2759
+Model-Free Imitation Learning with Policy Optimization
+Jonathan Ho, Jayesh Gupta, Stefano Ermon ; PMLR 48:2760-2769
+ADIOS: Architectures Deep In Output Space
+Moustapha Cisse, Maruan Al-Shedivat, Samy Bengio ; PMLR 48:2770-2779
+Conditional Dependence via Shannon Capacity: Axioms, Estimators and Applications
+Weihao Gao, Sreeram Kannan, Sewoong Oh, Pramod Viswanath ; PMLR 48:2780-2789
+Control of Memory, Active Perception, and Action in Minecraft
+Junhyuk Oh, Valliappa Chockalingam, Satinder, Honglak Lee ; PMLR 48:2790-2799
+The Label Complexity of Mixed-Initiative Classifier Training
+Jina Suh, Xiaojin Zhu, Saleema Amershi ; PMLR 48:2800-2809
+Bayesian Poisson Tucker Decomposition for Learning the Structure of International Relations
+Aaron Schein, Mingyuan Zhou, David Blei, Hanna Wallach ; PMLR 48:2810-2819
+Tensor Decomposition via Joint Matrix Schur Decomposition
+Nicolo Colombo, Nikos Vlassis ; PMLR 48:2820-2828
+Continuous Deep Q-Learning with Model-based Acceleration
+Shixiang Gu, Timothy Lillicrap, Ilya Sutskever, Sergey Levine ; PMLR 48:2829-2838
+Domain Adaptation with Conditional Transferable Components
+Mingming Gong, Kun Zhang, Tongliang Liu, Dacheng Tao, Clark Glymour, Bernhard Schölkopf ; PMLR 48:2839-2848
+Fixed Point Quantization of Deep Convolutional Networks
+Darryl Lin, Sachin Talathi, Sreekanth Annapureddy ; PMLR 48:2849-2858
+Provable Algorithms for Inference in Topic Models
+Sanjeev Arora, Rong Ge, Frederic Koehler, Tengyu Ma, Ankur Moitra ; PMLR 48:2859-2867
+Epigraph projections for fast general convex programming
+Po-Wei Wang, Matt Wytock, Zico Kolter ; PMLR 48:2868-2877
+Fast Algorithms for Segmented Regression
+Jayadev Acharya, Ilias Diakonikolas, Jerry Li, Ludwig Schmidt ; PMLR 48:2878-2886
+Energetic Natural Gradient Descent
+Philip Thomas, Bruno Castro Silva, Christoph Dann, Emma Brunskill ; PMLR 48:2887-2895
+Partition Functions from Rao-Blackwellized Tempered Sampling
+David Carlson, Patrick Stinson, Ari Pakman, Liam Paninski ; PMLR 48:2896-2905
+Learning Mixtures of Plackett-Luce Models
+Zhibing Zhao, Peter Piech, Lirong Xia ; PMLR 48:2906-2914
+Near Optimal Behavior via Approximate State Abstraction
+David Abel, David Hershkowitz, Michael Littman ; PMLR 48:2915-2923
+Power of Ordered Hypothesis Testing
+Lihua Lei, William Fithian ; PMLR 48:2924-2932
+PHOG: Probabilistic Model for Code
+Pavol Bielik, Veselin Raychev, Martin Vechev ; PMLR 48:2933-2942
+Shifting Regret, Mirror Descent, and Matrices
+Andras Gyorgy, Csaba Szepesvari ; PMLR 48:2943-2951
+Scalable Gradient-Based Tuning of Continuous Regularization Hyperparameters
+Jelena Luketina, Tapani Raiko, Mathias Berglund, Klaus Greff ; PMLR 48:2952-2960
+Model-Free Trajectory Optimization for Reinforcement Learning
+Riad Akrour, Gerhard Neumann, Hany Abdulsamad, Abbas Abdolmaleki ; PMLR 48:2961-2970
+Controlling the distance to a Kemeny consensus without computing it
+Yunlong Jiao, Anna Korba, Eric Sibony ; PMLR 48:2971-2980
+Horizontally Scalable Submodular Maximization
+Mario Lucic, Olivier Bachem, Morteza Zadimoghaddam, Andreas Krause ; PMLR 48:2981-2989
+Group Equivariant Convolutional Networks
+Taco Cohen, Max Welling ; PMLR 48:2990-2999
+Stochastic Discrete Clenshaw-Curtis Quadrature
+Nico Piatkowski, Katharina Morik ; PMLR 48:3000-3009
+Correcting Forecasts with Multifactor Neural Attention
+Matthew Riemer, Aditya Vempaty, Flavio Calmon, Fenno Heath, Richard Hull, Elham Khabiri ; PMLR 48:3010-3019
+Learning Representations for Counterfactual Inference
+Fredrik Johansson, Uri Shalit, David Sontag ; PMLR 48:3020-3029
+Automatic Construction of Nonparametric Relational Regression Models for Multiple Time Series
+Yunseong Hwang, Anh Tong, Jaesik Choi ; PMLR 48:3030-3039
+Inference Networks for Sequential Monte Carlo in Graphical Models
+Brooks Paige, Frank Wood ; PMLR 48:3040-3049
+Slice Sampling on Hamiltonian Trajectories
+Benjamin Bloem-Reddy, John Cunningham ; PMLR 48:3050-3058
+Noisy Activation Functions
+Caglar Gulcehre, Marcin Moczulski, Misha Denil, Yoshua Bengio ; PMLR 48:3059-3068
+PD-Sparse : A Primal and Dual Sparse Approach to Extreme Multiclass and Multilabel Classification
+Ian En-Hsu Yen, Xiangru Huang, Pradeep Ravikumar, Kai Zhong, Inderjit Dhillon ; PMLR 48:3069-3077
