@@ -6,10 +6,9 @@ import time
 import numpy as np
 
 parser = argparse.ArgumentParser(description='number of citations crawler')
-parser.add_argument('-input_file', type=str, default='CV/CVPR2015/paperlist.txt')
-parser.add_argument('-start_line', type=int, default=946)
+parser.add_argument('-input_file', type=str, default='ML/ICML2016/paperlist.txt')
+parser.add_argument('-start_line', type=int, default=0)
 #parser.add_argument('-end_line', type=int, default=-1)
->>>>>>> a61988d4cc726db6930a313776454ff1368c2503
 args = parser.parse_args()
 
 def main():
