@@ -366,7 +366,7 @@ Dictionary Learning for Massive Matrix Factorization
 Arthur Mensch, Julien Mairal, Bertrand Thirion, Gael Varoquaux ; PMLR 48:1737-1746
 Pixel Recurrent Neural Networks
 Aaron Van Oord, Nal Kalchbrenner, Koray Kavukcuoglu ; PMLR 48:1747-1756
-Why Most Decisions Are Easy in Tetris—And Perhaps in Other Sequential Decision Problems, As Well
+Why Most Decisions Are Easy in Tetris-And Perhaps in Other Sequential Decision Problems, As Well
 Ozgur Simsek, Simon Algorta, Amit Kothiyal ; PMLR 48:1757-1765
 Gaussian quadrature for matrix inverse forms with applications
 Chengtao Li, Suvrit Sra, Stefanie Jegelka ; PMLR 48:1766-1775
@@ -408,7 +408,7 @@ A Simple and Strongly-Local Flow-Based Method for Cut Improvement
 Nate Veldt, David Gleich, Michael Mahoney ; PMLR 48:1938-1947
 Nonlinear Statistical Learning with Truncated Gaussian Graphical Models
 Qinliang Su, Xuejun Liao, Changyou Chen, Lawrence Carin ; PMLR 48:1948-1957
-Barron and Cover’s Theory in Supervised Learning and its Application to Lasso
+Barron and Cover's Theory in Supervised Learning and its Application to Lasso
 Masanori Kawakita, Jun’ichi Takeuchi ; PMLR 48:1958-1966
 Nonparametric Canonical Correlation Analysis
 Tomer Michaeli, Weiran Wang, Karen Livescu ; PMLR 48:1967-1976
@@ -554,15 +554,15 @@ A Theory of Generative ConvNet
 Jianwen Xie, Yang Lu, Song-Chun Zhu, Yingnian Wu ; PMLR 48:2635-2644
 Efficient Learning with a Family of Nonconvex Regularizers by Redistributing Nonconvexity
 Quanming Yao, James Kwok ; PMLR 48:2645-2654
-Computationally Efficient Nyström Approximation using Fast Transforms
+Computationally Efficient Nystrom Approximation using Fast Transforms
 Si Si, Cho-Jui Hsieh, Inderjit Dhillon ; PMLR 48:2655-2663
 Gromov-Wasserstein Averaging of Kernel and Distance Matrices
 Gabriel Peyré, Marco Cuturi, Justin Solomon ; PMLR 48:2664-2672
-Robust Monte Carlo Sampling using Riemannian Nosé-Poincaré Hamiltonian Dynamics
+Robust Monte Carlo Sampling using Riemannian Nose-Poincare Hamiltonian Dynamics
 Anirban Roychowdhury, Brian Kulis, Srinivasan Parthasarathy ; PMLR 48:2673-2681
 The Segmented iHMM: A Simple, Efficient Hierarchical Infinite HMM
 Ardavan Saeedi, Matthew Hoffman, Matthew Johnson, Ryan Adams ; PMLR 48:2682-2691
-Meta–Gradient Boosted Decision Tree Model for Weight and Target Learning
+Meta-Gradient Boosted Decision Tree Model for Weight and Target Learning
 Yury Ustinovskiy, Valentina Fedorova, Gleb Gusev, Pavel Serdyukov ; PMLR 48:2692-2701
 Discriminative Embeddings of Latent Variable Models for Structured Data
 Hanjun Dai, Bo Dai, Le Song ; PMLR 48:2702-2711
