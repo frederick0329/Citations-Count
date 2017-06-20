@@ -286,7 +286,7 @@ Complex Event Detection using Semantic Saliency and Nearly-Isotonic SVM
 Xiaojun Chang, Yi Yang, Eric Xing, Yaoliang Yu ; PMLR 37:1348-1357
 Rebuilding Factorized Information Criterion: Asymptotically Accurate Marginal Likelihood
 Kohei Hayashi, Shin-ichi Maeda, Ryohei Fujimaki ; PMLR 37:1358-1366
-Double Nyström Method: An Efficient and Accurate Nyström Scheme for Large-Scale Data Sets
+Double Nystrom Method: An Efficient and Accurate Nystrom Scheme for Large-Scale Data Sets
 Woosang Lim, Minhwan Kim, Haesun Park, Kyomin Jung ; PMLR 37:1367-1375
 The Composition Theorem for Differential Privacy
 Peter Kairouz, Sewoong Oh, Pramod Viswanath ; PMLR 37:1376-1385
@@ -318,7 +318,7 @@ Gongguo Tang, Parikshit Shah ; PMLR 37:1491-1500
 Zirui Zhou, Qi Zhang, Anthony Man-Cho So ; PMLR 37:1501-1510
 Consistent estimation of dynamic and multi-layer block models
 Qiuyi Han, Kevin Xu, Edoardo Airoldi ; PMLR 37:1511-1520
-On the Rate of Convergence and Error Bounds for LSTD(λ)
+On the Rate of Convergence and Error Bounds for LSTD(\lambda)
 Manel Tagorti, Bruno Scherrer ; PMLR 37:1521-1529
 Variational Inference with Normalizing Flows
 Danilo Rezende, Shakir Mohamed ; PMLR 37:1530-1538
