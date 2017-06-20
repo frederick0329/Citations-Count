@@ -28,7 +28,7 @@ Aligning context-based statistical models of language with brain activity during
 Leila Wehbe, Ashish Vaswani, Kevin Knight and Tom Mitchell
 A Cognitive Model of Semantic Network Learning
 Aida Nematzadeh, Afsaneh Fazly and Suzanne Stevenson
-Learning Abstract Concept Embeddings from Multi-Modal Data: Since You Probably Can’t See What I Mean
+Learning Abstract Concept Embeddings from Multi-Modal Data: Since You Probably Can't See What I Mean
 Felix Hill and Anna Korhonen
 Go Climb a Dependency Tree and Correct the Grammatical Errors
 Longkai Zhang and Houfeng WANG
@@ -58,7 +58,7 @@ An I-vector Based Approach to Compact Multi-Granularity Topic Spaces Representat
 Mohamed Morchid, Mohamed Bouallegue, Richard Dufour, Georges Linares, Driss Matrouf and Renato de Mori
 Explaining the Stars: Weighted Multiple-Instance Learning for Aspect-Based Sentiment Analysis
 Nikolaos Pappas and Andrei Popescu-Belis
-Sentiment Analysis on the People’s Daily
+Sentiment Analysis on the People's Daily
 Jiwei Li and Eduard Hovy
 A Joint Segmentation and Classification Framework for Sentiment Analysis
 Duyu Tang, Furu Wei, Bing Qin, Li Dong, Ting Liu and Ming Zhou
@@ -138,7 +138,7 @@ Neural Networks Leverage Corpus-wide Information for Part-of-speech Tagging
 Yuta Tsuboi
 System Combination for Grammatical Error Correction
 Raymond Hendy Susanto, Peter Phandi and Hwee Tou Ng
-Data Driven Grammatical Error Detection in Transcripts of Children’s Speech
+Data Driven Grammatical Error Detection in Transcripts of Children's Speech
 Eric Morley, Anna Eva Hallin and Brian Roark
 A* CCG Parsing with a Supertag-factored Model
 Mike Lewis and Mark Steedman
@@ -196,7 +196,7 @@ Low-dimensional Embeddings for Interpretable Anchor-based Topic Inference
 David Mimno and Moontae Lee
 Weakly-Supervised Learning with Cost-Augmented Contrastive Estimation
 Kevin Gimpel and Mohit Bansal
-Don’t Until the Final Verb Wait: Reinforcement Learning for Simultaneous Machine Translation
+Don't Until the Final Verb Wait: Reinforcement Learning for Simultaneous Machine Translation
 Alvin Grissom II, He He, Jordan Boyd-Graber, John Morgan and Hal Daumé III
 PCFG Induction for Unsupervised Parsing and Language Modelling
 James Scicluna and Colin de la Higuera
@@ -256,7 +256,7 @@ Combining String and Context Similarity for Bilingual Term Alignment from Compar
 Georgios Kontonatsios, Ioannis Korkontzelos, Jun’ichi Tsujii and Sophia Ananiadou
 Random Manhattan Integer Indexing: Incremental L1 Normed Vector Space Construction
 Behrang Q. Zadeh and Siegfried Handschuh
-Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
 Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk and Yoshua Bengio
 Type-based MCMC for Sampling Tree Fragments from Forests
 Xiaochang Peng and Daniel Gildea
@@ -444,5 +444,5 @@ CTPs: Contextual Temporal Profiles for Time Scoping Facts using State Change Det
 Derry Tanti Wijaya, Ndapandula Nakashole and Tom M. Mitchell
 Noisy Or-based model for Relation Extraction using Distant Supervision
 Ajay Nagesh, Gholamreza Haffari and Ganesh Ramakrishnan
-Summarizing Online Forum Discussions – Can Dialog Acts of Individual Messages Help?
+Summarizing Online Forum Discussions - Can Dialog Acts of Individual Messages Help?
 Sumit Bhatia, Prakhar Biyani and Prasenjit Mitra
