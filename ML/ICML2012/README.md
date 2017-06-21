@@ -1,0 +1,245 @@
+# ICML2012 papers
+## Last Updated: 2017-06-21
+- [ ] Building High-Level Features Using Large Scale Unsupervised Learning	1252
+- [ ] Conditional Likelihood Maximization: A Unifying Framework For Information Theoretic Feature Selection	430
+- [ ] Marginalized Denoising Autoencoders For Domain Adaptation	214
+- [ ] A Fast And Simple Algorithm For Training Neural Probabilistic Language Models	213
+- [ ] Modeling Temporal Dependencies In High-Dimensional Sequences: Application To Polyphonic Music Generation And Transcription	210
+- [ ] Revisiting K-Means: New Algorithms Via Bayesian Nonparametrics	200
+- [ ] High Dimensional Semiparametric Gaussian Copula Graphical Models	200
+- [ ] Learning Task Grouping And Overlap In Multi-Task Learning	169
+- [ ] Making Gradient Descent Optimal For Strongly Convex Stochastic Optimization	154
+- [ ] Fast Approximation Of Matrix Coherence And Statistical Leverage	149
+- [ ] Scene Parsing With Multiscale Feature Learning, Purity Trees, And Optimal Covers	145
+- [ ] A Joint Model Of Language And Perception For Grounded Attribute Learning	138
+- [ ] Bayesian Posterior Sampling Via Stochastic Gradient Fisher Scoring	123
+- [ ] Learning With Augmented Features For Heterogeneous Domain Adaptation	116
+- [ ] Poisoning Attacks Against Support Vector Machines	114
+- [ ] How To Grade A Test Without Knowing The Answers - A Bayesian Graphical Model For Adaptive Crowdsourcing And Aptitude Testing	113
+- [ ] Machine Learning That Matters	110
+- [ ] Collaborative Topic Regression With Social Matrix Factorization For Recommendation Systems	110
+- [ ] Variational Bayesian Inference With Stochastic Search	108
+- [ ] Exact Soft Confidence-Weighted Learning	106
+- [ ] Online Alternating Direction Method	105
+- [ ] Influence Maximization In Continuous Time Diffusion Networks	104
+- [ ] Sparse Stochastic Inference For Latent Dirichlet Allocation	104
+- [ ] Path Integral Policy Improvement With Covariance Matrix Adaptation	103
+- [ ] The Big Data Bootstrap	96
+- [ ] Estimation Of Simultaneously Sparse And Low Rank Matrices	89
+- [ ] Pac Subset Selection In Stochastic Multi-Armed Bandits	87
+- [ ] Learning To Label Aerial Images From Noisy Data	84
+- [ ] Parallelizing Exploration-Exploitation Tradeoffs With Gaussian Process Bandit Optimization	78
+- [ ] Learning Parameterized Skills	76
+- [ ] Learning Invariant Representations With Local Transformations	75
+- [ ] Evaluating Bayesian And L1 Approaches For Sparse Unsupervised Learning	74
+- [ ] Continuous Inverse Optimal Control With Locally Optimal Examples	72
+- [ ] An Infinite Latent Attribute Model For Network Data	72
+- [ ] Nonparametric Link Prediction In Dynamic Networks	71
+- [ ] Projection-Free Online Learning	69
+- [ ] The Greedy Miser: Learning Under Test-Time Budgets	68
+- [ ] Manifold Relevance Determination	67
+- [ ] Latent Collaborative Retrieval	64
+- [ ] Training Restricted Boltzmann Machines On Word Observations	63
+- [ ] Infinite Tucker Decomposition: Nonparametric Bayesian Models For Multiway Data Analysis	62
+- [ ] Max-Margin Nonparametric Latent Feature Models For Link Prediction	62
+- [ ] Information-Theoretical Learning Of Discriminative Clusters For Unsupervised Domain Adaptation	62
+- [ ] Small-Sample Brain Mapping: Sparse Recovery On Spatially Correlated Designs With Randomization And Clustering	61
+- [ ] Optimizing F-Measure: A Tale Of Two Approaches	61
+- [ ] Large-Scale Feature Learning With Spike-And-Slab Sparse Coding	60
+- [ ] On Causal And Anticausal Learning	59
+- [ ] Nonparametric Variational Inference	56
+- [ ] Efficient Structured Prediction With Latent Variables For General Graphical Models	55
+- [ ] Semi-Supervised Learning Of Class Balance Under Class-Prior Change By Distribution Matching	55
+- [ ] Learning Object Arrangements In 3D Scenes Using Human Context	55
+- [ ] Bayesian Optimal Active Search And Surveying	52
+- [ ] Complexity Analysis Of The Lasso Regularization Path	51
+- [ ] On The Equivalence Between Herding And Conditional Gradient Algorithms	50
+- [ ] Online Structured Prediction Via Coactive Learning	49
+- [ ] Efficient Active Algorithms For Hierarchical Clustering	49
+- [ ] Safe Exploration In Markov Decision Processes	48
+- [ ] Gaussian Process Regression Networks	46
+- [ ] Compact Hyperplane Hashing With Bilinear Functions	46
+- [ ] Modelling Transition Dynamics In Mdps With Rkhs Embeddings	45
+- [ ] A Hybrid Algorithm For Convex Semidefinite Optimization	45
+- [ ] Fast Classification Using Sparse Decision Dags	45
+- [ ] Exponential Regret Bounds For Gaussian Process Bandits With Deterministic Observations	45
+- [ ] Bayesian Efficient Multiple Kernel Learning	42
+- [ ] Online Bandit Learning Against An Adaptive Adversary: From Regret To Policy Regret	42
+- [ ] Efficient And Practical Stochastic Subgradient Descent For Nuclear Norm Regularization	41
+- [ ] A Generative Process For Contractive Auto-Encoders	40
+- [ ] Copula-Based Kernel Dependency Measures	40
+- [ ] Conditional Mean Embeddings As Regressors	40
+- [ ] Policy Gradients With Variance Related Risk Criteria	40
+- [ ] No-Regret Learning In Extensive-Form Games With Imperfect Recall	39
+- [ ] Local Loss Optimization In Operator Models: A New Insight Into Spectral Learning	39
+- [ ] The Landmark Selection Method For Multiple Output Prediction	39
+- [ ] Latent Multi-Group Membership Graph Model	38
+- [ ] Maximum Margin Output Coding	38
+- [ ] Fast Bounded Online Gradient Descent Algorithms For Scalable Kernel-Based Online Learning	38
+- [ ] On The Partition Function And Random Maximum A-Posteriori Perturbations	38
+- [ ] Submodular Inference Of Diffusion Networks From Multiple Trees	38
+- [ ] Information-Theoretic Semi-Supervised Metric Learning Via Entropy Regularization	37
+- [ ] On Multi-View Feature Learning	37
+- [ ] Agnostic System Identification For Model-Based Reinforcement Learning	37
+- [ ] Subgraph Matching Kernels For Attributed Graphs	37
+- [ ] Lognormal And Gamma Mixed Negative Binomial Regression	36
+- [ ] Similarity Learning For Provably Accurate Sparse Linear Classification	36
+- [ ] Convex Multitask Learning With Flexible Task Clusters	36
+- [ ] Is Margin Preserved After Random Projection?	35
+- [ ] Minimizing The Misclassification Error Rate Using A Surrogate Convex Loss	34
+- [ ] Greedy Algorithms For Sparse Reinforcement Learning	34
+- [ ] A Binary Classification Framework For Two-Stage Multiple Kernel Learning	33
+- [ ] Convergence Rates For Differentially Private Statistical Estimation	32
+- [ ] On-Line Portfolio Selection With Moving Average Reversion	32
+- [ ] Improved Information Gain Estimates For Decision Tree Induction	32
+- [ ] Communications Inspired Linear Discriminant Analysis	31
+- [ ] Semi-Supervised Collective Classification Via Hybrid Label Regularization	31
+- [ ] Approximate Modified Policy Iteration	31
+- [ ] Robust Classification With Adiabatic Quantum Optimization	30
+- [ ] Joint Optimization And Variable Selection Of High-Dimensional Gaussian Processes	30
+- [ ] Gap Filling In The Plant Kingdom-Trait Prediction Using Hierarchical Probabilistic Matrix Factorization	30
+- [ ] Two Manifold Problems With Applications To Nonlinear System Identification	30
+- [ ] Deep Mixtures Of Factor Analysers	29
+- [ ] A Convex Relaxation For Weakly Supervised Classifiers	29
+- [ ] Flexible Modeling Of Latent Task Structures In Multitask Learning	28
+- [ ] Distributed Parameter Estimation Via Pseudo-Likelihood	28
+- [ ] Monte Carlo Bayesian Reinforcement Learning	28
+- [ ] Clustering Using Max-Norm Constrained Optimization	28
+- [ ] Deep Lambertian Networks	27
+- [ ] An Online Boosting Algorithm With Theoretical Justifications	27
+- [ ] Multi-Level Lasso For Sparse Multi-Task Regression	27
+- [ ] Efficient Decomposed Learning For Structured Prediction	26
+- [ ] On The Difficulty Of Nearest Neighbor Search	26
+- [ ] Structured Learning From Partial Annotations	26
+- [ ] Hypothesis Testing Using Pairwise Distances And Associated Kernels	26
+- [ ] Analysis Of Kernel Mean Matching Under Covariate Shift	26
+- [ ] Unachievable Region In Precision-Recall Space And Its Effect On Empirical Evaluation	25
+- [ ] Robust Pca In High-Dimension: A Deterministic Approach	25
+- [ ] A Combinatorial Algebraic Approach For The Identifiability Of Low-Rank Matrix Completion	24
+- [ ] Rethinking Collapsed Variational Bayes Inference For Lda	24
+- [ ] An Adaptive Algorithm For Finite Stochastic Partial Monitoring	24
+- [ ] An Iterative Locally Linear Embedding Algorithm	24
+- [ ] Stability Of Matrix Factorization For Collaborative Filtering	23
+- [ ] Truelabel + Confusions: A Spectrum Of Probabilistic Models In Analyzing Multiple Ratings	23
+- [ ] Learning Efficient Structured Sparse Models	23
+- [ ] Predicting Accurate Probabilities With A Ranking Loss	23
+- [ ] Output Space Search For Structured Prediction	22
+- [ ] Hybrid Batch Bayesian Optimization	22
+- [ ] Dependent Hierarchical Normalized Random Measures For Dynamic Topic Modeling	22
+- [ ] A Dantzig Selector Approach To Temporal Difference Learning	22
+- [ ] Agglomerative Bregman Clustering	21
+- [ ] Copula Mixture Model For Dependency-Seeking Clustering	21
+- [ ] Consistent Multilabel Ranking Through Univariate Losses	20
+- [ ] A Complete Analysis Of The L_1,P Group-Lasso	20
+- [ ] A Simple Algorithm For Semi-Supervised Learning With Improved Generalization Error Bound	20
+- [ ] Variational Inference In Non-Negative Factorial Hidden Markov Models For Efficient Audio Source Separation	20
+- [ ] A Hierarchical Dirichlet Process Model With Multiple Levels Of Clustering For Human Eeg Seizure Modeling	20
+- [ ] Sparse Support Vector Infinite Push	19
+- [ ] Hierarchical Exploration For Accelerating Contextual Bandits	19
+- [ ] Distributed Tree Kernels	19
+- [ ] Clustering By Low-Rank Doubly Stochastic Matrix Decomposition	19
+- [ ] Sparse-Gev: Sparse Latent Space Model For Multivariate Extreme Value Time Serie Modeling	18
+- [ ] Incorporating Causal Prior Knowledge As Path-Constraints In Bayesian Networks And Maximal Ancestral Graphs	18
+- [ ] Lightning Does Not Strike Twice: Robust Mdps With Coupled Uncertainty	18
+- [ ] Cross Language Text Classification Via Subspace Co-Regularized Multi-View Learning	18
+- [ ] Pac-Bayesian Generalization Bound On Confusion Matrix For Multi-Class Classification	18
+- [ ] Compositional Planning Using Optimal Option Models	18
+- [ ] Learning The Dependence Graph Of Time Series With Latent Factors	18
+- [ ] Linear Regression With Limited Observation	18
+- [ ] State-Space Inference For Non-Linear Latent Force Models With Application To Satellite Orbit Prediction	18
+- [ ] Batch Active Learning Via Coordinated Matching	18
+- [ ] Sparse Additive Functional And Kernel Cca	18
+- [ ] An Efficient Approach To Sparse Linear Discriminant Analysis	17
+- [ ] Convergence Of The Em Algorithm For Gaussian Mixtures With Unbalanced Mixing Coefficients	17
+- [ ] Ensemble Methods For Convex Regression With Applications To Geometric Programming Based Circuit Design	17
+- [ ] Dimensionality Reduction By Local Discriminative Gaussians	17
+- [ ] Discovering Support And Affiliated Features From Very High Dimensions	17
+- [ ] Near-Optimal Brl Using Optimistic Local Transitions	16
+- [ ] Shortest Path Distance In Random K-Nearest Neighbor Graphs	16
+- [ ] Scaling Up Coordinate Descent Algorithms For Large L_1 Regularization Problems	16
+- [ ] Anytime Marginal Map Inference	16
+- [ ] Modeling Latent Variable Uncertainty For Loss-Based Learning	16
+- [ ] Multiple Kernel Learning From Noisy Labels By Stochastic Programming	15
+- [ ] Factorized Asymptotic Bayesian Hidden Markov Models	15
+- [ ] Adaptive Canonical Correlation Analysis Based On Matrix Manifolds	15
+- [ ] Levy Measure Decompositions For The Beta And Gamma Processes	14
+- [ ] The Nonparametric Metadata Dependent Relational Model	14
+- [ ] A Proximal-Gradient Homotopy Method For The L1-Regularized Least-Squares Problem	14
+- [ ] Decoupling Exploration And Exploitation In Multi-Armed Bandits	13
+- [ ] Group Sparse Additive Models	13
+- [ ] Dirichlet Process With Mixed Random Measures: A Nonparametric Topic Model For Labeled Data	13
+- [ ] Estimating The Hessian By Back-Propagating Curvature	13
+- [ ] Bayesian Nonexhaustive Learning For Online Discovery And Modeling Of Emerging Classes	13
+- [ ] Consistent Covariance Selection From Data With Missing Values	13
+- [ ] Gaussian Process Quantile Regression Using Expectation Propagation	12
+- [ ] Incorporating Domain Knowledge In Matching Problems Via Harmonic Analysis	12
+- [ ] Artist Agent: A Reinforcement Learning Approach To Automatic Stroke Generation In Oriental Ink Painting	12
+- [ ] Stochastic Smoothing For Nonsmooth Minimizations: Accelerating Sgd By Exploiting Structure	12
+- [ ] Efficient Euclidean Projections Onto The Intersection Of Norm Balls	11
+- [ ] Learning To Identify Regular Expressions That Describe Email Campaigns	11
+- [ ] Canonical Trends: Detecting Trend Setters In Web Data	11
+- [ ] Statistical Linear Estimation With Penalized Estimators: An Application To Reinforcement Learning	11
+- [ ] The Kernelized Stochastic Batch Perceptron	11
+- [ ] A Unified Robust Classification Model	11
+- [ ] A Convex Feature Learning Formulation For Latent Task Structure Discovery	10
+- [ ] Learning Force Control Policies For Compliant Robotic Manipulation	10
+- [ ] Plug-In Martingales For Testing Exchangeability On-Line	10
+- [ ] On The Sample Complexity Of Reinforcement Learning With A Generative Model	10
+- [ ] Modeling Images Using Transformed Indian Buffet Processes	10
+- [ ] Cross-Domain Multitask Learning With Latent Probit Models	9
+- [ ] Comparison-Based Learning With Rank Nets	9
+- [ ] Isoelastic Agents And Wealth Updates In Machine Learning Markets	9
+- [ ] Convergence Rates Of Biased Stochastic Optimization For Learning Sparse Ising Models	8
+- [ ] Fast Computation Of Subpath Kernel For Trees	8
+- [ ] Apprenticeship Learning For Model Parameters Of Partially Observable Environments	8
+- [ ] A Graphical Model Formulation Of Collaborative Filtering Neighbourhood Methods With Fast Maximum Entropy Training	8
+- [ ] Inferring Latent Structure From Mixed Real And Categorical Relational Data	8
+- [ ] Linear Off-Policy Actor-Critic	7
+- [ ] Learning The Experts For Online Sequence Prediction	7
+- [ ] Aoso-Logitboost: Adaptive One-Vs-One Logitboost For Multi-Class Problem	7
+- [ ] Quasi-Newton Methods: A New Direction	7
+- [ ] Clustering To Maximize The Ratio Of Split To Diameter	7
+- [ ] Exact Maximum Margin Structure Learning Of Bayesian Networks	6
+- [ ] On The Size Of The Online Kernel Sparsification Dictionary	6
+- [ ] Active Learning For Matching Problems	6
+- [ ] A Topic Model For Melodic Sequences	5
+- [ ] Fast Prediction Of New Feature Utility	5
+- [ ] Discriminative Probabilistic Prototype Learning	5
+- [ ] Groupwise Constrained Reconstruction For Subspace Clustering	5
+- [ ] Bayesian Conditional Cointegration	4
+- [ ] Approximate Principal Direction Trees	4
+- [ ] Regularizers Versus Losses For Nonlinear Dimensionality Reduction: A Factored View With New Convex Relaxations	4
+- [ ] Total Variation And Euler'S Elastica For Supervised Learning	4
+- [ ] Demand-Driven Clustering In Relational Domains For Predicting Adverse Drug Events	4
+- [ ] Randomized Smoothing For (Parallel) Stochastic Optimization	4
+- [ ] Variance Function Estimation In High-Dimensions	4
+- [ ] Bounded Planning In Passive Pomdps	4
+- [ ] Feature Selection Via Probabilistic Outputs	4
+- [ ] Lpqp For Map: Putting Lp Solvers To Better Use	4
+- [ ] A Bayesian Approach To Approximate Joint Diagonalization Of Square Matrices	4
+- [ ] High-Dimensional Covariance Decomposition Into Sparse Markov And Independence Domains	3
+- [ ] Large Scale Variational Bayesian Inference For Structured Scale Mixture Models	3
+- [ ] Tighter Variational Representations Of F-Divergences Via Restriction To Probability Measures	3
+- [ ] Sequential Nonparametric Regression	3
+- [ ] Conditional Sparse Coding And Grouped Multivariate Regression	3
+- [ ] Finding Botnets Using Minimal Graph Clusterings	2
+- [ ] A Split-Merge Framework For Comparing Clusterings	2
+- [ ] A Generalized Loop Correction Method For Approximate Inference In Graphical Models	2
+- [ ] Adaptive Regularization For Similarity Measures	2
+- [ ] The Most Persistent Soft-Clique In A Set Of Sampled Graphs	2
+- [ ] Predicting Consumer Behavior In Commerce Search	2
+- [ ] Approximate Dynamic Programming By Minimizing Distributionally Robust Bounds	2
+- [ ] Improved Estimation In Time Varying Models	2
+- [ ] The Convexity And Design Of Composite Multiclass Losses	2
+- [ ] Capturing Topical Content With Frequency And Exclusivity	1
+- [ ] On Local Regret	1
+- [ ] Smoothness And Structure Learning By Proxy	0
+- [ ] Improved Nystrom Low-Rank Decomposition With Priors	0
+- [ ] Bayesian Watermark Attacks	0
+- [ ] Utilizing Static Analysis And Code Generation To Accelerate Neural Networks	0
+- [ ] Fast Training Of Nonlinear Embedding Algorithms	0
+- [ ] Residual Components Analysis	-1
+- [ ] A Discrete Optimization Approach For Supervised Ranking With An Application To Reverse-Engineering Quality Ratings	-1
+- [ ] Using Cca To Improve Cca: A New Spectral Method For Estimating Vector Models Of Words	-1
+- [ ] Robust Multiple Manifold Structure Learning	-1
+- [ ] Predicting Manhole Events In New York City	-1
