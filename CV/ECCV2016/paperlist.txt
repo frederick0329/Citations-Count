@@ -18,7 +18,7 @@ SSHMT: Semi-supervised Hierarchical Merge Tree for Electron Microscopy Image Seg
 Ting Liu, Miaomiao Zhang, Mehran Javanmardi, Nisha Ramesh, Tolga Tasdizen
 Towards Viewpoint Invariant 3D Human Pose Estimation
 Albert Haque, Boya Peng, Zelun Luo, Alexandre Alahi, Serena Yeung, Li Fei-Fei
-Person Re-Identification by Unsupervised ℓ1ℓ1 Graph Learning
+Person Re-Identification by Unsupervised L1L1 Graph Learning
 Elyor Kodirov, Tao Xiang, Zhenyong Fu, Shaogang Gong
 Deep Learning the City: Quantifying Urban Perception at a Global Scale
 Abhimanyu Dubey, Nikhil Naik, Devi Parikh, Ramesh Raskar, César A. Hidalgo
@@ -102,7 +102,7 @@ Visual Relationship Detection with Language Priors
 Cewu Lu, Ranjay Krishna, Michael Bernstein, Li Fei-Fei
 The Curious Robot: Learning Visual Representations via Physical Interactions
 Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta
-Image Co-localization by Mimicking a Good Detector’s Confidence Score Distribution
+Image Co-localization by Mimicking a Good Detector's Confidence Score Distribution
 Yao Li, Lingqiao Liu, Chunhua Shen, Anton van den Hengel
 Facilitating and Exploring Planar Homogeneous Texture for Indoor Scene Understanding
 Shahzor Ahmad, Loong-Fah Cheong
@@ -188,7 +188,7 @@ Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 Justin Johnson, Alexandre Alahi, Li Fei-Fei
 An Efficient Fusion Move Algorithm for the Minimum Cost Lifted Multicut Problem
 Thorsten Beier, Björn Andres, Ullrich Köthe, Fred A. Hamprecht
-ℓ0ℓ0-Sparse Subspace Clustering
+L0L0-Sparse Subspace Clustering
 Yingzhen Yang, Jiashi Feng, Nebojsa Jojic, Jianchao Yang, Thomas S. Huang
 Normalized Cut Meets MRF
 Meng Tang, Dmitrii Marin, Ismail Ben Ayed, Yuri Boykov
@@ -344,7 +344,7 @@ A Diagram is Worth a Dozen Images
 Aniruddha Kembhavi, Mike Salvato, Eric Kolve, Minjoon Seo, Hannaneh Hajishirzi, Ali Farhadi
 Automatic Attribute Discovery with Neural Activations
 Sirion Vittayakorn, Takayuki Umeda, Kazuhiko Murasaki, Kyoko Sudo, Takayuki Okatani, Kota Yamaguchi
-“What Happens If...” Learning to Predict the Effect of Forces in Images
+"What Happens If..." Learning to Predict the Effect of Forces in Images
 Roozbeh Mottaghi, Mohammad Rastegari, Abhinav Gupta, Ali Farhadi
 View Synthesis by Appearance Flow
 Tinghui Zhou, Shubham Tulsiani, Weilun Sun, Jitendra Malik, Alexei A. Efros
@@ -692,7 +692,7 @@ Network of Experts for Large-Scale Image Categorization
 Karim Ahmed, Mohammad Haris Baig, Lorenzo Torresani
 Zero-Shot Recognition via Structured Prediction
 Ziming Zhang, Venkatesh Saligrama
-What’s the Point: Semantic Segmentation with Point Supervision
+What's the Point: Semantic Segmentation with Point Supervision
 Amy Bearman, Olga Russakovsky, Vittorio Ferrari, Li Fei-Fei
 A Generalized Successive Shortest Paths Solver for Tracking Dividing Targets
 Carsten Haubold, Janez Aleš, Steffen Wolf, Fred A. Hamprecht
@@ -774,13 +774,13 @@ Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Es
 Qi Ye, Shanxin Yuan, Tae-Kyun Kim
 VolumeDeform: Real-Time Volumetric Non-rigid Reconstruction
 Matthias Innmann, Michael Zollhöfer, Matthias Nießner, Christian Theobalt, Marc Stamminger
-ππMatch: Monocular vSLAM and Piecewise Planar Reconstruction Using Fast Plane Correspondences
+\pi\piMatch: Monocular vSLAM and Piecewise Planar Reconstruction Using Fast Plane Correspondences
 Carolina Raposo, João P. Barreto
 Peripheral Expansion of Depth Information via Layout Estimation with Fisheye Camera
 Alejandro Perez-Yus, Gonzalo Lopez-Nicolas, Jose J. Guerrero
 Built-in Foreground/Background Prior for Weakly-Supervised Semantic Segmentation
 Fatemehsadat Saleh, Mohammad Sadegh Aliakbarian, Mathieu Salzmann, Lars Petersson, Stephen Gould, Jose M. Alvarez
-It’s Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos
+It's Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos
 Pia Bideau, Erik Learned-Miller
 Kernelized Subspace Ranking for Saliency Detection
 Tiantian Wang, Lihe Zhang, Huchuan Lu, Chong Sun, Jinqing Qi
