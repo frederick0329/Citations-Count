@@ -82,13 +82,13 @@ Hybrid Batch Bayesian Optimization
 Javad Azimi, Ali Jalali, Xiaoli Zhang-Fern
 Efficient and Practical Stochastic Subgradient Descent for Nuclear Norm Regularization
 Haim Avron, Satyen Kale, Shiva Kasiviswanathan, Vikas Sindhwani
-Gap Filling in the Plant Kingdom—Trait Prediction Using Hierarchical Probabilistic Matrix Factorization
+Gap Filling in the Plant Kingdom-Trait Prediction Using Hierarchical Probabilistic Matrix Factorization
 Hanhuai Shan, Jens Kattge, Peter Reich, Arindam Banerjee, Franziska Schrodt, Markus Reichstein
 Sparse Support Vector Infinite Push
 Alain Rakotomamonjy
 A Dantzig Selector Approach to Temporal Difference Learning
 Matthieu Geist, Bruno Scherrer, Alessandro Lazaric, Mohammad Ghavamzadeh
-Scaling Up Coordinate Descent Algorithms for Large ℓ_1 Regularization Problems
+Scaling Up Coordinate Descent Algorithms for Large L_1 Regularization Problems
 Chad Scherrer, Mahantesh Halappanavar, Ambuj Tewari, David Haglin
 Cross-Domain Multitask Learning with Latent Probit Models
 Shaobo Han, Xuejun Liao, Lawrence Carin
@@ -204,7 +204,7 @@ A Topic Model for Melodic Sequences
 Athina Spiliopoulou, Amos Storkey
 Output Space Search for Structured Prediction
 Janardhan Rao Doppa, Alan Fern, Prasad Tadepalli
-How To Grade a Test Without Knowing the Answers — A Bayesian Graphical Model for Adaptive Crowdsourcing and Aptitude Testing
+How To Grade a Test Without Knowing the Answers - A Bayesian Graphical Model for Adaptive Crowdsourcing and Aptitude Testing
 Yoram Bachrach, Thore Graepel, Tom Minka, John Guiver
 Parallelizing Exploration-Exploitation Tradeoffs with Gaussian Process Bandit Optimization
 Thomas Desautels, Andreas Krause, Joel Burdick
