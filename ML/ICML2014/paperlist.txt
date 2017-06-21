@@ -332,7 +332,7 @@ Learning Mixtures of Linear Classifiers
 Yuekai Sun, Stratis Ioannidis, Andrea Montanari ; PMLR 32(2):721-729
 The Falling Factorial Basis and Its Statistical Applications
 Yu-Xiang Wang, Alex Smola, Ryan Tibshirani ; PMLR 32(2):730-738
-Nonmyopic ε-Bayes-Optimal Active Learning of Gaussian Processes
+Nonmyopic \epsilon-Bayes-Optimal Active Learning of Gaussian Processes
 Trong Nghia Hoang, Bryan Kian Hsiang Low, Patrick Jaillet, Mohan Kankanhalli ; PMLR 32(2):739-747
 A Unifying View of Representer Theorems
 Andreas Argyriou, Francesco Dinuzzo ; PMLR 32(2):748-756
