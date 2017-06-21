@@ -362,7 +362,7 @@ Infinite Positive Semidefinite Tensor Factorization for Source Separation of Mix
 Kazuyoshi Yoshii, Ryota Tomioka, Daichi Mochihashi, Masataka Goto ; PMLR 28(3):576-584
 A Unified Robust Regression Model for Lasso-like Algorithms
 Wenzhuo Yang, Huan Xu ; PMLR 28(3):585-593
-Quickly Boosting Decision Trees – Pruning Underachieving Features Early
+Quickly Boosting Decision Trees - Pruning Underachieving Features Early
 Ron Appel, Thomas Fuchs, Piotr Dollar, Pietro Perona ; PMLR 28(3):594-602
 On the Statistical Consistency of Algorithms for Binary Classification under Class Imbalance
 Aditya Menon, Harikrishna Narasimhan, Shivani Agarwal, Sanjay Chawla ; PMLR 28(3):603-611
@@ -472,7 +472,7 @@ Gaussian Process Kernels for Pattern Discovery and Extrapolation
 Andrew Wilson, Ryan Adams ; PMLR 28(3):1067-1075
 Anytime Representation Learning
 Zhixiang Xu, Matt Kusner, Gao Huang, Kilian Weinberger ; PMLR 28(3):1076-1084
-Algorithms for Direct 0–1 Loss Optimization in Binary Classification
+Algorithms for Direct 0-1 Loss Optimization in Binary Classification
 Tan Nguyen, Scott Sanner ; PMLR 28(3):1085-1093
 Top-k Selection based on Adaptive Sampling of Noisy Preferences
 Robert Busa-Fekete, Balazs Szorenyi, Weiwei Cheng, Paul Weng, Eyke Huellermeier ; PMLR 28(3):1094-1102
