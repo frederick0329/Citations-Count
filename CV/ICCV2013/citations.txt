@@ -90,3 +90,96 @@ Facial Action Unit Event Detection by Cascade of Tasks	35
 Cascaded Shape Space Pruning for Robust Facial Landmark Detection	24
 Efficient Higher-Order Clustering on the Grassmann Manifold	21
 A Scalable Unsupervised Feature Merging Approach to Efficient Dimensionality Reduction of High-Dimensional Visual Data	6
+Deformable Part Descriptors for Fine-Grained Recognition and Attribute Prediction	138
+Compensating for Motion during Direct-Global Separation	10
+Shufflets: Shared Mid-level Parts for Fast Object Detection	20
+GrabCut in One Cut	71
+Coupling Alignments with Recognition for Still-to-Video Face Recognition	22
+Stacked Predictive Sparse Coding for Classification of Distinct Regions in Tumor Histopathology	18
+Query-Adaptive Asymmetrical Dissimilarities for Visual Object Retrieval	37
+Direct Optimization of Frame-to-Frame Rotation	16
+Unsupervised Intrinsic Calibration from a Single Frame Using a "Plumb-Line" Approach	7
+Weakly Supervised Learning of Image Partitioning Using Decision Trees with Structured Split Criteria	5
+Discriminant Tracking Using Tensor Representation with Semi-supervised Improvement	13
+Adapting Classification Cascades to New Domains	11
+Collaborative Active Learning of a Kernel Machine Ensemble for Recognition	9
+Accurate and Robust 3D Facial Capture Using a Single RGBD Camera	19
+Domain Adaptive Classification	15
+GOSUS: Grassmannian Online Subspace Updates with Structured-Sparsity	40
+Analysis of Scores, Datasets, and Models in Visual Saliency Prediction	83
+A Color Constancy Model with Double-Opponency Mechanisms	24
+Latent Multitask Learning for View-Invariant Action Recognition	22
+Translating Video Content to Natural Language Descriptions	123
+Robust Dictionary Learning by Error Source Decomposition	11
+Accurate Blur Models vs. Image Priors in Single Image Super-resolution	41
+Monte Carlo Tree Search for Scheduling Activity Recognition	23
+Multi-stage Contextual Deep Learning for Pedestrian Detection	74
+Unbiased Metric Learning: On the Utilization of Multiple Datasets and Web Images for Softening Bias	10
+Pyramid Coding for Functional Scene Element Recognition in Video Scenes	1
+Fast Object Segmentation in Unconstrained Video	182
+Offline Mobile Instance Retrieval with a Small Memory Footprint	11
+Contextual Hypergraph Modeling for Salient Object Detection	76
+Automatic Kronecker Product Model Based Detection of Repeated Patterns in 2D Urban Images	6
+From Where and How to What We See	14
+Saliency Detection via Absorbing Markov Chain	229
+Semantic-Aware Co-indexing for Image Retrieval	71
+Stable Hyper-pooling and Query Expansion for Event Detection	14
+Predicting Sufficient Annotation Strength for Interactive Foreground Segmentation	31
+What is the Most Efficient Way to Select Nearest Neighbor Candidates for Fast Approximate Nearest Neighbor Search?	24
+Fast High Dimensional Vector Multiplication Face Recognition	91
+Group Norm for Learning Structured SVMs with Unstructured Latent Variables	6
+New Graph Structured Sparsity Model for Multi-label Image Annotations	21
+Real-Time Body Tracking with One Depth Camera and Inertial Sensors	33
+Image Segmentation with Cascaded Hierarchical Models and Logistic Disjunctive Normal Networks	36
+Low-Rank Sparse Coding for Image Classification	69
+Learning to Rank Using Privileged Information	72
+Extrinsic Camera Calibration without a Direct View Using Spherical Mirror	26
+Two-Point Gait: Decoupling Gait from Body Shape	11
+Robust Subspace Clustering via Half-Quadratic Minimization	23
+Category-Independent Object-Level Saliency Detection	62
+A Method of Perceptual-Based Shape Decomposition	9
+Bayesian Robust Matrix Factorization for Image and Video Processing	33
+Measuring Flow Complexity in Videos	14
+DeepFlow: Large Displacement Optical Flow with Deep Matching	269
+The Way They Move: Tracking Multiple Targets with Similar Appearance	103
+What Do You Do? Occupation Recognition in a Photo via Social Context	13
+Pose Estimation and Segmentation of People in 3D Movies	19
+Calibration-Free Gaze Estimation Using Human Gaze Patterns	28
+Lifting 3D Manhattan Lines from a Single Image	26
+A Framework for Shape Analysis via Hilbert Space Embedding	18
+Structured Forests for Fast Edge Detection	457
+Scene Text Localization and Recognition with Oriented Stroke Detection	119
+CoDeL: A Human Co-detection and Labeling Framework	9
+Exploiting Reflection Change for Automatic Reflection Removal	23
+Elastic Net Constraints for Shape Matching	31
+A New Adaptive Segmental Matching Measure for Human Activity Recognition	6
+A Generalized Iterated Shrinkage Algorithm for Non-convex Sparse Coding	79
+Robust Tucker Tensor Decomposition for Effective Image Representation	7
+Learning Graphs to Match	63
+SGTD: Structure Gradient and Texture Decorrelating Regularization for Image Decomposition	3
+Discovering Details and Scene Structure with Hierarchical Iconoid Shift	10
+Single-Patch Low-Rank Prior for Non-pointwise Impulse Noise Removal	5
+Separating Reflective and Fluorescent Components Using High Frequency Illumination in the Spectral Domain	13
+Learning to Predict Gaze in Egocentric Video	99
+Fine-Grained Categorization by Alignments	119
+Symbiotic Segmentation and Part Localization for Fine-Grained Categorization	124
+Learning People Detectors for Tracking in Crowded Scenes	59
+SIFTpack: A Compact Representation for Efficient SIFT Matching	8
+Forward Motion Deblurring	15
+HOGgles: Visualizing Object Detection Features	184
+Pictorial Human Spaces: How Well Do Humans Perceive a 3D Articulated Pose?	13
+EVSAC: Accelerating Hypotheses Generation by Modeling Matching Scores with Extreme Value Theory	21
+Conservation Tracking	55
+Multiview Photometric Stereo Using Planar Mesh Parameterization	24
+Handling Uncertain Tags in Visual Recognition	15
+Finding Causal Interactions in Video Sequences	8
+A Non-parametric Bayesian Network Prior of Human Pose	19
+Topology-Constrained Layered Tracking with Latent Flow	10
+Saliency Detection via Dense and Sparse Reconstruction	240
+Style-Aware Mid-level Representation for Discovering Visual Connections in Space and Time	72
+Synergistic Clustering of Image and Segment Descriptors for Unsupervised Scene Understanding	4
+Multi-channel Correlation Filters	74
+Image Set Classification Using Holistic Multiple Order Statistics Features and Localized Multi-kernel Metric Learning	76
+Modeling Occlusion by Discriminative AND-OR Structures	16
+Breaking the Chain: Liberation from the Temporal Markov Assumption for Tracking Human Poses	17
+ACTIVE: Activity Concept Transitions in Video Event Classification	49
