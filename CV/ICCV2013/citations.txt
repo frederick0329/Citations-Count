@@ -183,3 +183,95 @@ Image Set Classification Using Holistic Multiple Order Statistics Features and L
 Modeling Occlusion by Discriminative AND-OR Structures	16
 Breaking the Chain: Liberation from the Temporal Markov Assumption for Tracking Human Poses	17
 ACTIVE: Activity Concept Transitions in Video Event Classification	49
+A Joint Intensity and Depth Co-sparse Analysis Model for Depth Map Super-resolution	33
+Towards Understanding Action Recognition	132
+Go-ICP: Solving 3D Registration Efficiently and Globally Optimally	94
+Geometric Registration Based on Distortion Estimation	1
+Handwritten Word Spotting with Corrected Attributes	34
+Interactive Markerless Articulated Hand Motion Tracking Using RGB and Depth Data	82
+Network Principles for SfM: Disambiguating Repeated Structures with Local Context	30
+Improving Graph Matching via Density Maximization	10
+A Unified Rolling Shutter and Motion Blur Model for 3D Visual Registration	19
+Fibonacci Exposure Bracketing for High Dynamic Range Imaging	17
+Potts Model, Parametric Maxflow and K-Submodular Functions	22
+Target-Driven Moire Pattern Synthesis by Phase Modulation	1
+Implied Feedback: Learning Nuances of User Behavior in Image Search	10
+How Related Exemplars Help Complex Event Detection in Web Videos?	37
+Decomposing Bag of Words Histograms	5
+Higher Order Matching for Consistent Multiple Target Tracking	14
+Complementary Projection Hashing	28
+Super-resolution via Transform-Invariant Group-Sparse Regularization	21
+Inferring "Dark Matter" and "Dark Energy" from Videos	-1
+Optimal Orthogonal Basis and Image Assimilation: Motion Modeling	6
+Detecting Avocados to Zucchinis: What Have We Done, and Where Are We Going?	36
+Neighbor-to-Neighbor Search for Fast Coding of Feature Vectors	4
+Flattening Supervoxel Hierarchies by the Uniform Entropy Slice	35
+Find the Best Path: An Efficient and Accurate Classifier for Image Hierarchies	10
+Model Recommendation with Virtual Probes for Egocentric Hand Detection	41
+Video Motion for Every Visible Point	12
+Camera Alignment Using Trajectory Intersections in Unsynchronized Videos	1
+A Unified Video Segmentation Benchmark: Annotation, Metrics and Analysis	92
+Optical Flow via Locally Adaptive Fusion of Complementary Data Costs	28
+Shortest Paths with Curvature and Torsion	13
+Multi-view 3D Reconstruction from Uncalibrated Radially-Symmetric Cameras	4
+Illuminant Chromaticity from Image Sequences	11
+Allocentric Pose Estimation	3
+The Interestingness of Images	83
+Learning Maximum Margin Temporal Warping for Action Recognition	43
+Rolling Shutter Stereo	19
+Fast Sparsity-Based Orthogonal Dictionary Learning for Image Restoration	28
+Slice Sampling Particle Belief Propagation	2
+Training Deformable Part Models with Decorrelated Features	24
+Efficient Salient Region Detection with Soft Image Abstraction	285
+Video Segmentation by Tracking Many Figure-Ground Segments	123
+Bayesian 3D Tracking from Monocular Video	14
+Concurrent Action Detection with Structural Prediction	30
+Discriminatively Trained Templates for 3D Object Detection: A Real Time Scalable Approach	49
+The Moving Pose: An Efficient 3D Kinematics Descriptor for Low-Latency Action Recognition and Detection	151
+Learning a Dictionary of Shape Epitomes with Applications to Image Labeling	11
+Online Motion Segmentation Using Dynamic Label Propagation	8
+Sequential Bayesian Model Update under Structured Scene Prior for Semantic Road Scenes Labeling	9
+Directed Acyclic Graph Kernels for Action Recognition	20
+Strong Appearance and Expressive Spatial Models for Human Pose Estimation	95
+Revisiting Example Dependent Cost-Sensitive Learning with Decision Trees	11
+Matching Dry to Wet Materials	1
+On the Mean Curvature Flow on Graphs with Applications in Image and Manifold Processing	1
+Example-Based Facade Texture Synthesis	10
+SYM-FISH: A Symmetry-Aware Flip Invariant Sketch Histogram Shape Descriptor	28
+Robust Feature Set Matching for Partial Face Recognition	22
+Cross-View Action Recognition over Heterogeneous Feature Spaces	21
+Building Part-Based Object Detectors via 3D Geometry	28
+Active Visual Recognition with Expertise Estimation in Crowdsourcing	22
+Attribute Pivots for Guiding Relevance Feedback in Image Search	28
+Initialization-Insensitive Visual Tracking through Voting with Salient Local Features	19
+Refractive Structure-from-Motion on Underwater Images	22
+Semi-dense Visual Odometry for a Monocular Camera	172
+Characterizing Layouts of Outdoor Scenes Using Spatial Topic Processes	6
+A Deformable Mixture Parsing Model with Parselets	42
+Dictionary Learning and Sparse Coding on Grassmann Manifolds: An Extrinsic Solution	61
+Real-Time Articulated Hand Pose Estimation Using Semi-supervised Transductive Regression Forests	123
+Face Recognition Using Face Patch Networks	5
+Depth from Combining Defocus and Correspondence Using Light-Field Cameras	150
+Minimal Basis Facility Location for Subspace Segmentation	3
+Unsupervised Random Forest Manifold Alignment for Lipreading	43
+Visual Reranking through Weakly Supervised Multi-graph Learning	40
+Volumetric Semantic Segmentation Using Pyramid Context Features	11
+Transfer Feature Learning with Joint Distribution Adaptation	94
+A Novel Earth Mover's Distance Methodology for Image Matching with Gaussian Mixture Models	35
+Proportion Priors for Image Sequence Segmentation	13
+Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion	79
+Complex 3D General Object Reconstruction from Line Drawings	14
+From Large Scale Image Categorization to Entry-Level Categories	62
+Deterministic Fitting of Multiple Structures Using Iterative MaxFS with Inlier Scale Estimation	8
+Efficient and Robust Large-Scale Rotation Averaging	63
+Automatic Registration of RGB-D Scans via Salient Directions	24
+Video Co-segmentation for Meaningful Action Extraction	22
+Coherent Motion Segmentation in Moving Camera Videos Using Optical Flow Orientations	42
+Live Metric 3D Reconstruction on Mobile Phones	138
+Dynamic Structured Model Selection	16
+Ensemble Projection for Semi-supervised Image Classification	49
+Saliency Detection in Large Point Sets	24
+Segmentation Driven Object Detection with Fisher Vectors	104
+Joint Segmentation and Pose Tracking of Human in Natural Videos	8
+NYC3DCars: A Dataset of 3D Vehicles in Geographic Context	24
+Robust Trajectory Clustering for Motion Segmentation	13
