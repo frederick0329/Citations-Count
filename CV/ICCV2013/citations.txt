@@ -1,0 +1,92 @@
+Latent Task Adaptation with Large-Scale Hierarchies	7
+Image Co-segmentation via Consistent Functional Maps	37
+Manipulation Pattern Discovery: A Nonparametric Bayesian Approach	1
+Large-Scale Image Annotation by Efficient and Robust Kernel Metric Learning	35
+Hybrid Deep Learning for Face Verification	127
+Latent Data Association: Bayesian Model Selection for Multi-target Tracking	34
+Recursive Estimation of the Stein Center of SPD Matrices and Its Applications	10
+Real-Time Solution to the Absolute Pose Problem with Unknown Radial Distortion and Focal Length	28
+Sieving Regression Forest Votes for Facial Feature Detection in the Wild	56
+Constant Time Weighted Median Filtering for Stereo Matching and Beyond	118
+Feature Weighting via Optimal Thresholding for Video Analysis	32
+Restoring an Image Taken through a Window Covered with Dirt or Rain	78
+Tracking via Robust Multi-task Multi-view Joint Sparse Representation	87
+A Simple Model for Intrinsic Image Decomposition with Depth Cues	64
+Holistic Scene Understanding for 3D Object Detection with RGBD Cameras	120
+Pose-Free Facial Landmark Fitting via Optimized Part Mixtures and Cascaded Deformable Shape Model	121
+Online Robust Non-negative Dictionary Learning for Visual Tracking	125
+A Max-Margin Perspective on Sparse Representation-Based Classification	25
+Semantic Transform: Weakly Supervised Semantic Inference for Relating Visual Attributes	4
+Correlation Adaptive Subspace Segmentation by Trace Lasso	63
+DCSH - Matching Patches in RGBD Images	7
+Simultaneous Clustering and Tracklet Linking for Multi-face Tracking in Videos	27
+Subpixel Scanning Invariant to Indirect Lighting Using Quadratic Code Length	1
+PM-Huber: PatchMatch with Huber Regularization for Stereo Matching	49
+Relative Attributes for Large-Scale Abandoned Object Detection	23
+Random Grids: Fast Approximate Nearest Neighbors and Range Searching for Image Search	8
+Image Guided Depth Upsampling Using Anisotropic Total Generalized Variation	156
+3D Scene Understanding by Voxel-CRF	52
+No Matter Where You Are: Flexible Graph-Guided Multi-task Learning for Multi-view Head Pose Classification under Target Motion	95
+Dynamic Probabilistic Volumetric Models	9
+Predicting an Object Location Using a Global Image Representation	5
+Anchored Neighborhood Regression for Fast Example-Based Super-Resolution	285
+Robust Object Tracking with Online Multi-lifespan Dictionary Learning	41
+Finding the Best from the Second Bests - Inhibiting Subjective Bias in Evaluation of Visual Tracking Algorithms	51
+Write a Classifier: Zero-Shot Learning Using Purely Textual Descriptions	74
+Detecting Dynamic Objects with Multi-view Background Subtraction	11
+Face Recognition via Archetype Hull Ranking	10
+Compositional Models for Video Event Detection: A Multiple Kernel Learning Latent Variable Approach	48
+Nested Shape Descriptors	13
+Coarse-to-Fine Semantic Video Segmentation Using Supervoxel Trees	22
+Local Signal Equalization for Correspondence Matching	3
+On One-Shot Similarity Kernels: Explicit Feature Maps and Properties	0
+Combining the Right Features for Complex Event Recognition	38
+NEIL: Extracting Visual Knowledge from Web Data	243
+Joint Subspace Stabilization for Stereoscopic Video	20
+Learning CRFs for Image Parsing with Adaptive Subgradient Descent	4
+Box in the Box: Joint 3D Layout and Object Reasoning from Single Images	65
+A Global Linear Method for Camera Pose Registration	46
+Heterogeneous Image Features Integration via Multi-modal Semi-supervised Learning Model	22
+3DNN: Viewpoint Invariant 3D Geometry Matching for Scene Understanding	19
+Correntropy Induced L2 Graph for Robust Subspace Clustering	31
+Unsupervised Domain Adaptation by Domain Invariant Projection	107
+Large-Scale Multi-resolution Surface Reconstruction from RGB-D Sequences	68
+Detecting Curved Symmetric Parts Using a Deformable Disc Model	19
+Hierarchical Data-Driven Descent for Efficient Optimal Deformation Estimation	1
+Recognising Human-Object Interaction via Exemplar Based Modelling	14
+How Do You Tell a Blackbird from a Crow?	16
+Video Synopsis by Heterogeneous Multi-source Correlation	25
+Semantic Segmentation without Annotating Segments	27
+Action Recognition with Actons	73
+Exemplar Cut	6
+Discovering Object Functionality	23
+Saliency Detection: A Boolean Map Approach	202
+Active MAP Inference in CRFs for Efficient Semantic Segmentation	23
+PixelTrack: A Fast Adaptive Algorithm for Tracking Non-rigid Objects	74
+Class-Specific Simplex-Latent Dirichlet Allocation for Image Classification	2
+BOLD Features to Detect Texture-less Objects	34
+Bird Part Localization Using Exemplar-Based Models with Enforced Pose and Subcategory Consistency	32
+Multiple Non-rigid Surface Detection and Registration	1
+Drosophila Embryo Stage Annotation Using Label Propagation	3
+Parsing IKEA Objects: Fine Pose Estimation	90
+Corrected-Moment Illuminant Estimation	25
+Group Sparsity and Geometry Constrained Dictionary Learning for Action Recognition from Depth Maps	89
+Online Video SEEDS for Temporal Window Objectness	54
+Fast Subspace Search via Grassmannian Based Hashing	8
+Data-Driven 3D Primitives for Single Image Understanding	67
+Partial Enumeration and Curvature Regularization	8
+Fast Face Detector Training Using Tailored Views	5
+Image Retrieval Using Textual Cues	27
+Fluttering Pattern Generation Using Modified Legendre Sequence for Coded Exposure Imaging	10
+Prime Object Proposals with Randomized Prim's Algorithm	182
+Optimization Problems for Fast AAM Fitting in-the-Wild	102
+Semi-supervised Robust Dictionary Learning via Efficient l-Norms Minimization	18
+Cosegmentation and Cosketch by Unsupervised Learning	36
+Joint Learning of Discriminative Prototypes and Large Margin Nearest Neighbor Classifiers	8
+Joint Optimization for Consistent Multiple Graph Matching	25
+Scene Collaging: Analysis and Synthesis of Natural Images with Semantic Layers	24
+Quadruplet-Wise Image Similarity Learning	24
+Facial Action Unit Event Detection by Cascade of Tasks	35
+Cascaded Shape Space Pruning for Robust Facial Landmark Detection	24
+Efficient Higher-Order Clustering on the Grassmann Manifold	21
+A Scalable Unsupervised Feature Merging Approach to Efficient Dimensionality Reduction of High-Dimensional Visual Data	6
