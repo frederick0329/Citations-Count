@@ -58,7 +58,7 @@ Graph Degree Linkage: Agglomerative Clustering on a Directed Graph
 Wei Zhang (CUHK), Xiaogang Wang (The Chinese University of HK), Deli Zhao (CUHK), Xiaoou Tang
 Joint Image and Word Sense Discrimination For Image Retrieval
 Aurelien Lucchi (EPFL), Jason Weston (google)
-Supervised Earth Mover’s Distance Learning and Its Computer Vision Applications
+Supervised Earth Mover's Distance Learning and Its Computer Vision Applications
 Fan Wang (Stanford University), Leonidas Guibas (Stanford University)
 Metric Learning for Large Scale Image Classification: Generalizing to New Classes at Near-Zero Cost
 Thomas Mensink (INRIA Rhone Alpes), Jakob Verbeek, Gabriela Csurka (XRCE), Florent Perronnin (XRCE)
@@ -136,7 +136,7 @@ TriCoS: A Tri-level Class-Discriminative Co-Segmentation Method for Image Classi
 Yuning Chai (ETH Zurich), Esa Rahtu, Andrew Zisserman, VictorLempitsky, Luc Van Gool
 On Learning Higher-Order Consistency Potentials for Multi-class Pixel Labeling
 Kyoungup Park (ANU), Stephen Gould (ANU)
-Spectral Demons – Image Registration via Global Spectral Correspondence
+Spectral Demons - Image Registration via Global Spectral Correspondence
 Ã©e Lombaert (Polytechnique), Leo Grady (Siemens Corporate Research), Xavier Pennec (INRIA Sophia-Antipolis), Nicholas Ayache (INRIASophia-Antipolis), Farida Cheriet (Polytechnique)
 Multi-view Discriminant Analysis
 Meina Kan (ICT - GUCAS - China), Shiguang Shan (ICT - CAS), Haihong Zhang (Omron), Shihong Lao (Omron Company), xilin Chen
@@ -236,7 +236,7 @@ On Tensor-Based PDEs and their Corresponding Variational Formulations with Appli
 Freddie Ã…strÃ¶m (LinkÃ¶ping University), George Baravdish (LinkÃ¶ping University), Michael Felsberg (LinkÃ¶ping University)
 Size Matters: Exhaustive Geometric Verification for Image Retrieval
 Henrik Stewenius (Google), Steinar Gunderson (Google), Julien Pilet (Google)
-“Clustering by Composition” for Unsupervised Discovery of ImageCategories
+"Clustering by Composition" for Unsupervised Discovery of ImageCategories
 Alon Faktor (Weizmann Institute of Science), Michal Irani
 Joint Face Alignment with Non-Parametric Shape Models
 Brandon Smith (Univ. of Wisconsin %u2013 Madison), Li Zhang (Univ. of Wisconsin %u2013 Madison)
@@ -346,7 +346,7 @@ Efficient Monte Carlo sampler for detecting parametric objects in large scenes
 Yannick Verdié (INRIA), Florent Lafarge (INRIA)
 Exploiting the Circulant Structure of Tracking-by-detection with Kernels
 João F Henriques (ISR), Rui Caseiro (Institute Systems Robotics), Pedro Martins (ISR), Jorge Batista (Institute Systems Robotics - University Coimbra- Portugal)
-WαSH: Weighted α-Shapes for Local Feature Detection
+W\alphaSH: Weighted \alpha-Shapes for Local Feature Detection
 Christos Varytimidis (NTUA), Konstantinos Rapantzikos (NTUA), Yannis Avrithis (NTUA)
 Detecting and Localizing Activities at Different Scales under Budget
 Mohamed Amer (Oregon State University), Dan Xie (UCLA), Mingtian Zhao (UCLA), Yaofei Feng (OREGON STATE UNIVERSITY), Behrooz Mahasseni (OREGON STATEUNIVERSITY), Sinisa Todorovic (Oregon State University), Song-Chun Zhu (UCLA)
@@ -378,7 +378,7 @@ Beyond Bounding Boxes: Learning Object-Form by Model-driven Grouping
 Juan Antonio Monroy (IWR -University of Heidelberg), Bjorn Ommer
 Supervised Assessment of Segmentation Hierarchies
 Jordi Pont-Tuset (UPC), Ferran Marques (Universitat Politècnica de Catalunya)
-TreeCANN – k-d tree Coherence Approximate Nearest Neighbor algorithm
+TreeCANN - k-d tree Coherence Approximate Nearest Neighbor algorithm
 Igor Olonetsky (Tel Aviv University), Shai Avidan
 Jet-Based Local Image Descriptors
 Anders Boesen Lindbo Larsen (University of Copenhagen), Sune Darkner (diku.dk), Anders Dahl (dtu.dk), Kim Pedersen (diku.dk)
@@ -588,7 +588,7 @@ Dating Historical Color Images
 Frank Palermo (Carnegie Mellon University), Alyosha Efros (CMU)
 Estimation of Intrinsic Image Sequences from Image+Depth Video
 Kyong Joon Lee (Seoul National University), Qi Zhao (University of California – Santa Cruz), Xin Tong (Microsoft Research Asia), Minmin Gong (Microsoft Research Asia), Shahram Izadi (Microsoft Research Cambridge), Sang Uk Lee (Seoul National University), PingTan, Steve Lin
-What Makes a Good Detector? — Structured Priors for Learning From Few Examples
+What Makes a Good Detector? - Structured Priors for Learning From Few Examples
 Tianshi Gao (Stanford University), Michael Stark, Daphne Koller (Stanford University)
 Temporally Consistent 3D Scene Flow Estimation for Multi-View Data
 Jaesik Park (KAIST), Tae Hyun Oh (KAIST), Jiyoung Jung (KAIST), Yu-WingTai (KAIST), In So Kweon (KAIST)
@@ -614,7 +614,7 @@ A probabilistic derivative measure based on the distribution of intensity differ
 Youngbae Hwang (KETI)
 Enhancing Descriptor Approaches by a Template Structure for Face Recognition
 Liang Chen (Uni. of N. British Columbia), Ling Yan
-3D^2PM – 3D Deformable Part Models
+3D^2PM - 3D Deformable Part Models
 Bojan Pepik (Max Planck Informatics), Michael Stark, Peter Gehler, Bernt Schiele
 Latent Pyramidal Regions for Recognizing Scenes
 Fereshteh Sadeghi (University of Central Florida), Marshall Tappen (UCF)
@@ -798,7 +798,7 @@ Recording and playback of camera shake: benchmarking blind deconvolution with a 
 Rolf Koehler (MPI for Intelligent Systems), Michael Hirsch (MPI forIntelligent Systems), Stefan Harmeling (MPI for Intelligent Systems), BettyMohler, Bernhard SchË†lkopf (MPI for Intelligent Systems)
 Joint Image Classification and Annotation via Biased Random Walk on Tri-Relationship Graph
 Xiao Cai (UTA), Feiping Nie (UTA), Heng Huang (University of Texas atArlington)
-Real–Time Human Pose Tracking using Range Cameras
+Real-Time Human Pose Tracking using Range Cameras
 Varun Ganapathi (Google), Christian Plagemann (Google Research), DaphneKoller (Stanford University), Sebastian Thrun (Google)
 Spring Lattice Counting Grids: Scene recognition using deformable positional constraints
 Alessandro Perina (Microsoft Research), Nebojsa Jojic (Microsoft Research)
@@ -810,7 +810,7 @@ Learning-Based Symmetry Detection in Natural Images
 Stavros Tsogkas (Ecole Centrale de Paris), Iasonas Kokkinos (Ecole Centrale Paris/INRIA)
 Beyond the line of sight: labeling the underlying surfaces
 Ruiqi Guo (UIUC), Derek Hoiem (University of Illinois)
-Hand Pose Estimation and Hand Shape Classification using Multi–layered Randomized Decision Forests
+Hand Pose Estimation and Hand Shape Classification using Multi-layered Randomized Decision Forests
 Cem Keskin (Bo?aziÃi University), Yunus Emre Kara, Furkan KiraÃ§, Lale Akarun
 Nonmetric Priors for Continuous Multilabel Optimization
 Evgeny Strekalovskiy (Technical University Munich), Claudia Nieuwenhuis (TU München), Daniel Cremers
