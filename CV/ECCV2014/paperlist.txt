@@ -52,7 +52,7 @@ Tractable and Reliable Registration of 2D Point Sets
 Erik Ask, Olof Enqvist, Sweden, Linus Svärm, Fredrik Kahl
 Graduated Consistency-Regularized Optimization for Multi-Graph Matching
 Junchi Yan, Yin Li, Wei Liu, Hongyuan Zha, Xiaokang Yang
-Optical Flow Estimation with Channel Constancy (PDF, project, videos)
+Optical Flow Estimation with Channel Constancy
 Laura Sevilla-Lara, Deqing Sun, Erik Learned-Miller, Michael Black
 Non-Local Total Generalized Variation for Optical Flow Estimation
 Rene Ranftl, Kristian Bredies, Thomas Pock
@@ -116,7 +116,7 @@ Piecewise-Planar StereoScan: Structure and Motion from Plane Primitives
 Carolina Raposo, Ins. of Systems and Robotics, Michel Gonalves Antunes, Joao Barreto
 Nonrigid Surface Registration and Completion from RGBD Images
 Weipeng Xu, Mathieu Salzmann, Yongtian Wang, Yue Liu
-Unsupervised Dense Object Discovery, Detection, Tracking and Reconstruction (PDF, videos)
+Unsupervised Dense Object Discovery, Detection, Tracking and Reconstruction
 Lu Ma (GWU), Gabe Sibley
 Know Your Limits: Accuracy of Long Range Stereoscopic Object Measurements in Practice
 Peter Pinggera, David Pfeiffer, Uwe Franke, Daimler, Rudolf Mester
@@ -152,7 +152,7 @@ Consistent Re-identification in a Camera Network
 Abir Das (UC Riverside), Anirban Chakraborty (UC Riverside), Amit K. Roy-Chowdhury (UC Riverside)
 Surface Normal Deconvolution: Photometric Stereo for Optically Thick Translucent Objects
 Chika Inoshita, Yasuhiro Mukaigawa, Yasuyuki Matsushita, Yasushi Yagi
-Intrinsic Video (PDF, project, supplementary material, videos)
+Intrinsic Video
 Naejin Kong, Peter Gehler, Michael Black
 Robust and Accurate Non-Parametric Estimation of Reflectance using Basis Decomposition and Correction Functionsg
 Tobias Noell (DFKI), Johannes Koehler (DFKI), Didier Stricker (DFKI)
@@ -176,11 +176,11 @@ Robust Instance Recognition in Presence of Occlusion and Clutter
 Ujwal Bonde, Vijay Badrinarayanan, Roberto Cipolla
 Learning 6D Object Pose Estimation using 3D Object Coordinates
 Eric Brachmann, Alexander Krull, Frank Michel, Stefan Gumhold, Jamie Shotton, Carsten Rother
-Growing Regression Forests by Classification: Applications to Object Pose Estimation (PDF, code)
+Growing Regression Forests by Classification: Applications to Object Pose Estimation
 Kota Hara (UMD), Rama Chellappa (UMD)
 Stacked Deformable Part Model with Shape Regression for Object Part Localization
 Junjie Yan, Zhen Lei, Yang Yang, Stan Z. Li
-Transductive Multi-view Embedding forZero-Shot Recognition and Annotation (project, PDF, supplementary material)
+Transductive Multi-view Embedding forZero-Shot Recognition and Annotation
 Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Zhenyong Fu, Shaogang Gong
 Self-Explanatory Sparse Representation for Image Classification
 Baodi Liu, Yu-Xiong Wang, Bin Shen, Yu-Jin Zhang
@@ -200,7 +200,7 @@ Pose Filter based Hidden-CRF models for Activity Detection
 Prithviraj Banerjee, Ram Nevatia
 Action Recognition Using Super Sparse Coding Vector with Spatio-Temporal Awareness
 Xiaodong Yang, YingLi Tian
-HOPC: Histogram of Oriented Principal Components of 3D Pointclouds for Action Recognition (PDF, code, dataset)
+HOPC: Histogram of Oriented Principal Components of 3D Pointclouds for Action Recognition
 Hossein Rahmani, Arif Mahmood, Du Huynh, Ajmal Mian
 Natural action recognition using invariant 3D motion encoding
 Simon Hadfield, Karel Lebeda, Richard Bowden
@@ -214,7 +214,7 @@ Match Selection and Refinement for Highly Accurate Two-View Structure from Motio
 Zhe Liu, Pascal Monasse, Renaud Marlet, Ecole des Ponts ParisTech
 LSD-SLAM: Large-Scale Direct Monocular SLAMg
 Jakob Engel, Thomas SchÃ¶ps, Daniel Cremers
-The 3D jigsaw puzzle: mapping large indoor spaces (project, PDF)
+The 3D jigsaw puzzle: mapping large indoor spaces
 Ricardo Martin Brualla, Yanling He, Bryan Russell, Steve Seitz
 Pipe-Run Extraction and Reconstruction from Point Clouds
 Rongqi Qiu, Qian-Yi Zhou, Ulrich Neumann
@@ -222,7 +222,7 @@ Image-based 4-d Reconstruction Using 3-d Change Detection (PDF, supplementary ma
 Ali Osman Ulusoy, Joseph Mundy
 VocMatch: Efficient Multiview Correspondence for Structure from Motiong
 Michal Havlena (ETH Zurich), Konrad Schindler (ETH Zurich)
-Robust Global Translations with 1DSfM (project)
+Robust Global Translations with 1DSfM
 Kyle Wilson (Cornell University), Noah Snavely
 Comparing Salient Object Detection Results without Ground Truth
 Long Mai, Feng Liu
@@ -232,7 +232,7 @@ Saliency Detection with Flash and No-flash Image Pairs
 Shengfeng He, Rynson Lau
 Alpha Matting of Motion-Blurred Objects in Bracket Sequence Images
 Heesoo Myeong, Stephen Lin, Kyoung Mu Lee
-An Active Patch Model for Real World Texture and Appearance Classification (PDF, project,dataset)
+An Active Patch Model for Real World Texture and Appearance Classification
 Junhua Mao, Jun Zhu, Alan Yuille
 Material Classification based on Training Data Synthesized Using a BTF Database
 Michael Weinmann, Juergen Gall, Reinhard Klein
@@ -250,7 +250,7 @@ Rank Minimization with Structured Data Patterns
 Viktor Larsson, Carl Olsson, Erik Bylow, Fredrik Kahl
 Duality and the Continuous Graphical Model
 Alexander Fix, Sameer Agarwal
-Spectral Clustering with a Convex Regularizer on Millions of Images (project, PDF)
+Spectral Clustering with a Convex Regularizer on Millions of Images
 Maxwell Collins, Ji Liu, Jia Xu, Lopamudra Mukherjee
 Riemannian Sparse Coding of Positive Definite Matrices
 Anoop Cherian, Suvrit Sra
@@ -258,9 +258,9 @@ Robust Sparse Coding and Compressed Sensing with the Difference Map
 Will Landecker, Rick Chartrand, Simon DeDeo
 Object Co-Detection via Efficient Inference in a Fully-Connected CRF
 Zeeshan Hayder, Xuming He, Mathieu Salzmann
-Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition (PDF, code)
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-Context as Supervisory Signal: Discovering Objects with Predictable Contex (project, PDF, code)
+Context as Supervisory Signal: Discovering Objects with Predictable Contex
 Carl Doersch, Abhinav Gupta, Alexei Efros
 Learning to Hash with Partial Tags: Exploring Correlation Between Tags and Hashing Bits for Large Scale Image Retrieval
 Qifan Wang, Luo Si, Dan Zhang
@@ -276,17 +276,17 @@ Statistical and Spatial Consensus Collection for Detector Adaptation
 Enver Sangineto
 Deep Learning of Scene-specific Classifier for Pedestrian Detection
 Xingyu ZENG, Wanli Ouyang, Xiaogang Wang
-A Contour Completion Model for Augmenting Surface Reconstructions (project, PDF)
+A Contour Completion Model for Augmenting Surface Reconstructions
 Nathan Silberman, Lior Shapira (Microsoft Research), Ran Gal, Pushmeet Kohli
 Interactive Object Counting
 Carlos Arteta, Victor Lempitsky, Alison Noble, Andrew Zisserman
-Recognizing City Identity Via Attribute Analysis of Geo-tagged Images (project, PDF)
+Recognizing City Identity Via Attribute Analysis of Geo-tagged Images
 Bolei Zhou, Liu Liu, Aude Oliva, Antonio Torralba
 A Fast and Simple Algorithm for Producing Candidate Regions
 Boyan Bonev, Alan Yuille
 Closed-Form Approximate CRF Training for Scalable Image Segmentation
 Alexander Kolesnikov, Matthieu Guillaumin, Vittorio Ferrari, Christoph Lampert
-A Graph Theoretic Approach for Object Shape Representation in Compositional Hierarchies using a Hybrid Generative-Descriptive Model (project, PDF, code)
+A Graph Theoretic Approach for Object Shape Representation in Compositional Hierarchies using a Hybrid Generative-Descriptive Model
 Umit Rusen Aktas, Mete Ozay, Jeremy Wyatt, Ales Leonardis
 Finding Approximate Convex Shapes in RGBD Images
 Hao Jiang
@@ -294,7 +294,7 @@ ShapeForest: Building constrained Statistical Shape Models with Decision Trees
 Sasa Grbic, Siemens, Joshua Swee, Siemens, Razvan Ionasec
 Optimizing Ranking Measures for Compact Binary Code Learning
 Guosheng Lin, Chunhua Shen, Jianxin Wu
-Exploiting Low-rank Structure from Latent Domains for Domain Generalization (PDF, code, slides)
+Exploiting Low-rank Structure from Latent Domains for Domain Generalization
 Zheng Xu, Wen Li, Li Niu, Dong Xu
 Sparse Additive Subspace Clustering
 Xiao-Tong Yuan, Ping Li
@@ -324,7 +324,7 @@ Physically Grounded Spatio-Temporal Object Affordances
 Hema Koppula, Ashutosh Saxena
 Schwarps: Locally Projective Image Warps Based on 2D Schwarzian Derivatives
 Rahat Khan, auvergne, Daniel Pizarro-Perez, Adrien Bartoli
-gDLS: A Scalable Solution to the Generalized Pose and Scale Problem (PDF, code)
+gDLS: A Scalable Solution to the Generalized Pose and Scale Problem
 Chris Sweeney, Victor Fragoso, Tobias Hollerer, Matthew Turk
 Generalized Connectivity Constraints for Spatio-temporal Multi-View 3D Reconstruction
 Martin Oswald, Jan Stühmer, Daniel Cremers
@@ -346,7 +346,7 @@ Feature Disentangling Machine - A Novel Approach of Feature Selection and Disent
 Ping Liu, Joey Tianyi Zhou, Ivor Tsang, Zibo Meng
 Joint Unsupervised Face Alignment and Behaviour Analysis
 Lazaros Zafeiriou, Epameinondas Antonakos, Stefanos Zafeiriou, Maja Pantic
-Learning a Deep Convolutional Network for Image Super-Resolution (PDF, supplementary material, project)
+Learning a Deep Convolutional Network for Image Super-Resolution
 Chao Dong (Chinese University of Hong Kong), Chen Change Loy (Chinese University of Hong Kong), Kaiming He (Microsoft Research), Xiaoou Tang (Chinese University of Hong Kong)
 Discriminative Indexing for Probabilistic Image Patch Priors
 Yan Wang, Sunghyun Cho, Adobe, Jue Wang, Shih-Fu Chang
@@ -394,7 +394,7 @@ Improving Image-Sentence Embeddings Using Large Weakly Annotated Photo Collectio
 Yunchao Gong, Liwei Wang, Micah Hodosh, Julia Hockenmaier, Svetlana Lazebnik
 Strengthening the Effectiveness of Pedestrian Detection with Spatially Pooled Features
 Sakrapee Paisitkriangkrai, Chunhua Shen, Anton Van den Hengel
-Selecting Influential Examples: Active Learning with Expected Model Output Changes (PDF, videos, project)
+Selecting Influential Examples: Active Learning with Expected Model Output Changes
 Alexander Freytag, Erik Rodner, Joachim Denzler
 Efficient Sparsity Estimation via Marginal-Lasso Coding
 Tzu-Yi Hung, Jiwen Lu, Yap-Peng Tan, Singapore, Shenghua Gao
@@ -408,9 +408,9 @@ Video Object Discovery and Co-segmentation with Extremely Weak Supervision
 Le Wang, Gang Hua, Rahul Sukthankar, Jianru Xue, Nanning Zheng
 Supervoxel-Consistent Foreground Propagation in Video
 Suyog Jain, Kristen Grauman
-Clustering with Hypergraphs: The Case for Large Hyperedges (PDF, code)
+Clustering with Hypergraphs: The Case for Large Hyperedges
 Pulak Purkait, Tat-Jun Chin, Hanno Ackermann, David Suter
-Person Re-Identification by Video Ranking (PDF, dataset, project)
+Person Re-Identification by Video Ranking
 Taiqing Wang, Shaogang Gong, Xiatian Zhu, Shengjin Wang
 Bayesian Nonparametric Intrinsic Image Decomposition
 Jason Chang, Randi Cabezas, John Fisher
@@ -440,7 +440,7 @@ Deep Network Cascade for Image Super-resolution
 Zhen Cui, Hong Chang, Shiguang Shan, Bineng Zhong, Xilin Chen
 Spectral Edge Image Fusion: Theory and Applications
 David Connah, Mark Drew, Graham Finlayson
-Spatio-Chromatic Opponent Features (PDF, code)
+Spatio-Chromatic Opponent Features
 Ioannis Alexiou, Anil Bharath
 Modeling Perceptual Color Differences by Local Metric Learning
 Michaël Perrot, Amaury Habrard, Damien Muselet, Marc Sebban
@@ -460,7 +460,7 @@ Interreflection Removal Using Fluorescence
 Ying Fu, Antony Lam, Yasuyuki Matsushita, Imari Sato, Yoichi Sato
 Intrinsic Face Image Decomposition with Human Face Priors (PDF, poster, videos)
 Chen Li (Zhejiang University), Kun Zhou (Zhejiang University), Stephen Lin (Microsoft Research)
-Recovering Scene Geometry under Wavy Fluid via Distortion and Defocus Analysis (project, PDF, supplementary material, videos, videos)
+Recovering Scene Geometry under Wavy Fluid via Distortion and Defocus Analysis
 Mingjie Zhang (Tsinghua University), Xing Lin (Tsinghua University), Mohit Gupta (Columbia University), Jinli Suo (Tsinghua University), Qionghai Dai (Tsinghua University)
 Human Detection using Learned Part Alphabet and Pose Dictionary
 Cong Yao, Xiang Bai, Wenyu Liu, Longin Jan Latecki
@@ -472,7 +472,7 @@ Towards Uni?ed Object Detection and Segmentation
 Jian Dong, Qiang Chen, Shuicheng Yan, Alan Yuille
 Foreground Consistent Human Pose Estimation using Branch and Bound
 Jens Puwein, Luca Ballan, Remo Ziegler, Vizrt, Marc Pollefeys
-Human Pose Estimation with Fields of Parts (project, PDF)
+Human Pose Estimation with Fields of Parts
 Martin Kiefel, Peter Gehler
 Unsupervised Video Adaptation for Parsing Human Motion
 Haoquan Shen, Shoou-I Yu, Yi Yang, Deyu Meng, Alex Hauptmann
@@ -480,7 +480,7 @@ Training object class detectors from eye tracking data
 Dim Papadopoulos, Alasdair D. Clarke, Frank Keller, Vittorio Ferrari
 Depth Based Object Detection from Partial Pose Estimation of Symmetric Objects
 Ehud Barnea, Ohad Ben-Shahar
-Edge Boxes: Locating Object Proposals from Edges (PDF, slides)
+Edge Boxes: Locating Object Proposals from Edges
 Larry Zitnick, Piotr Dollï¿½r
 Training Deformable Object Models for Human Detection based on Alignment and Clustering
 Benjamin Drayer, Thomas Brox
@@ -498,7 +498,7 @@ Non-Associative Higher-Order Markov Networks for Point Cloud Classification
 Mohammad Najafi, Sarah Taghavi Namin, Mathieu Salzmann, Lars Petersson
 Learning Where To Classify In Multi-View Semantic Segmentation
 Hayko Riemenschneider, Andras Bodis-Szomoru, Julien Weissenberg, Luc Van Gool
-Stixmantics: A Medium-Level Model for Real-Time Semantic Scene Understanding (PDF, dataset)
+Stixmantics: A Medium-Level Model for Real-Time Semantic Scene Understanding
 Timo ScharwÃ¤chter, Markus Enzweiler, Uwe Franke, Stefan Roth
 Sparse Dictionaries for Semantic Segmentation
 Lingling Tao, Fatih Porikli, Rene Vidal
@@ -536,7 +536,7 @@ Statistical pose averaging with non-isotropic and incomplete relative measuremen
 Roberto Tron, Kostas Daniilidis
 A Pot of Gold: Rainbows as a Calibration Cue
 Scott Workman, Radu Mihail, Nathan Jacobs
-Let There Be Color! Large-Scale Texturing of 3D Reconstructions (PDF, project, videos)
+Let There Be Color! Large-Scale Texturing of 3D Reconstructions
 Michael Waechter, Nils Moehrle, Michael Goesele
 All-In-Focus Synthetic Aperture Imaging
 Tao Yang, Yanning Zhang, Jingyi Yu, Jing Li, Wenguang Ma, Xiaomin Tong, Rui Yu Lingyan Ran
@@ -544,31 +544,31 @@ Photo Uncrop
 Qi Shan, Brian Curless, Yasutaka Furukawa, Carlos Hernandez, Steve Seitz
 Solving Square Jigsaw Puzzles with Loop Constraintsg
 Kilho Son, James Hays, David Cooper
-Geometric Calibration of Micro-Lens-Based Light-Field Cameras using Line Features (PDF, supplementary material, project, code, dataset, bibtex) - formely: Geometric Calibration of Micro-Lens-Based Light-Field Cameras
+Geometric Calibration of Micro-Lens-Based Light-Field Cameras using Line Features
 Yunsu Bok (KAIST), Hae-Gon Jeon (KAIST), In So Kweon (KAIST)
-Spatio-temporal Matching for Human Detection in Video (PDF, slides, videos, results)
+Spatio-temporal Matching for Human Detection in Video
 Feng Zhou (CMU), Fernando de la Torre (CMU)
 Collaborative Facial Landmark Localization for Transferring Annotations Across Datasets
 Brandon Smith, Madison, Li Zhang
-Facial Landmark Detection by Deep Multi-task Learning (PDF, technical report, videos, project)
+Facial Landmark Detection by Deep Multi-task Learning
 Zhanpeng Zhang (Chinese University of Hong Kong), Ping Luo (Chinese University of Hong Kong), Chen Change Loy (Chinese University of Hong Kong), Xiaoou Tang (Chinese University of Hong Kong)
 Joint Cascade Face Detection and Alignment
 Dong Chen, Shaoqing Ren, Yichen Wei, Xudong Cao, Jian Sun
-Weighted Block-Sparse Low Rank Representation for Face Clustering in Videos (project, code, PDF, bibtex)
+Weighted Block-Sparse Low Rank Representation for Face Clustering in Videos
 Shijie Xiao, Mingkui Tan, Dong Xu
 Crowd Tracking with Dynamic Evolution of Group Structures
 Feng Zhu, Xiaogang Wang, Nenghai Yu
-Tracking using Multilevel Quantizations (PDF, project, bibtex)
+Tracking using Multilevel Quantizations
 Zhibin Hong, Chaohui Wang, Xue Mei, Danil Prokhorov, Dacheng Tao
 Occlusing and Motion Reasoning for Long-term Tracking
 Yang Hua, Karteek Alahari, Cordelia Schmid
-MEEM: Robust Tracking via Multiple Experts using Entropy Minimization (PDF, project, supplementary material)
+MEEM: Robust Tracking via Multiple Experts using Entropy Minimization
 Jianming Zhang, Shugao Ma, Stan Sclaroff
 Robust Motion Segmentation with Unknown Correspondences
 Pan Ji, Hongdong Li, Mathieu Salzmann, Yuchao Dai
 Monocular Multiview Object Tracking with 3D Aspect Parts
 Yu Xiang, Changkyu Song, Roozbeh Mottaghi, Silvio Savarese
-Modeling Blurred Video with Layers (PDF, supplementary material, videos)
+Modeling Blurred Video with Layers
 Jonas Wulff, Michael Black
 Efficient Image and Video Co-localization with Frank-Wolfe Algorithm
 Armand Joulin, Kevin Tang, Fei-Fei Li
@@ -588,13 +588,13 @@ Towards Transparent Systems: Semantic Characterization of Failure Modes
 Aayush Bansal, Ali Farhadi, Devi Parikh, Virginia Tech
 Orientation covariant aggregation of local descriptors with embeddings
 Giorgos Tolias, Teddy Furon, Herve Jegou
-Similarity-invariant Sketch-based Image Retrieval in Large Databases (PDF, poster)
+Similarity-invariant Sketch-based Image Retrieval in Large Databases
 Sarthak Parui, Anurag Mittal
-Discovering Object Classes from Activities (PDF, dataset)
+Discovering Object Classes from Activities
 Abhilash Srikantha, Juergen Gall
 Weakly Supervised Object Localization with Latent Category Learning
 Chong Wang, Weiqiang Ren, Kaiqi Huang, Tieniu Tan
-Food-101 - Mining Discriminative Components with Random Forests (PDF, dataset)
+Food-101 - Mining Discriminative Components with Random Forests
 Lukas Bossard (ETH Zurich), Matthieu Guillaumin (ETH Zurich), Luc Van Gool (ETH Zurich)
 Latent-Class Hough Forests for 3D Object Detection and Pose Estimation
 Alykhan Tejani, Danhang Tang, Rigas Kouskouridas, Tae-Kyun Kim
@@ -620,15 +620,15 @@ GIS-assisted Object Detection and geospatial localization, Shervin Ardeshir
 Amir Roshan Zamir, Mubarak Shah
 Context-based Pedestrian Path Prediction
 Julian Kooij, Nicolas Schneider, Fabian Flohr, Dariu Gavrila, Daimler
-Sliding Shapes for 3D Object Detection in Depth Images (project,code,dataset,supplementary material,results, PDF, videos)
+Sliding Shapes for 3D Object Detection in Depth Images
 Shuran Song (Princeton University), Jianxiong Xiao (Princeton University)
 Integrating Context and Occlusion for Car Detection by Hierarchical And-Or Model
 Bo Li, Tianfu Wu, Song-Chun Zhu
-PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding (PDF, code,dataset,project,results,supplementary material,software, videos)
+PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding
 Yinda Zhang (Princeton University), Shuran Song (Princeton University), Ping Tan, Jianxiong Xiao (Princeton University)
 Unfolding an Indoor Origami Worldg
 David Ford Fouhey, Abhinav Gupta, Martial Hebert (Robotics Institute, Carnegie Mellon University)
-Joint Semantic Segmentation and 3D Reconstruction from Monocular Video (PDF, project, bibtex, supplementary material, abstract, videos)
+Joint Semantic Segmentation and 3D Reconstruction from Monocular Video
 Abhijit Kundu, Yin Li, Frank Dellaert, Fuxin Li, James Rehg
 A New Variational Framework for Multiview Surface Reconstruction
 Ben Semerjian, Urban Robotics
@@ -644,7 +644,7 @@ Real-Time Exemplar-Based Face Sketch Synthesis
 Yibing Song, Linchao Bao, Qingxiong Yang, Ming-Hsuan Yang
 Domain-adaptive Discriminative One-shot Learning of Gestures
 Tomas Pfister, James Charles, Andrew Zisserman
-Person Re-Identification using Kernel-based Metric Learning Methods (project)
+Person Re-Identification using Kernel-based Metric Learning Methods
 Fei Xiong, Mengran Gou, Octavia Camps, Mario Sznaier
 Saliency in crowd
 Ming Jiang, Juan Xu, Qi Zhao
@@ -652,13 +652,13 @@ Webpage Saliency
 Chengyao Shen, Qi Zhao
 Deblurring Face Images with Exemplars
 Jinshan Pan, Zhe Hu, Ming-Hsuan Yang
-Sparse Spatio-spectral Representation for Hyperspectral Image Super-Resolution (code,supplementary material, PDF)
+Sparse Spatio-spectral Representation for Hyperspectral Image Super-Resolution
 Naveed Akhtar, Faisal Shafait, Ajmal Mian
 Hybrid Image Deblurring by Fusing Edge and Power Spectrum Information
 Tao Yue, Sunghyun Cho, Adobe, Jue Wang, Qionghai Dai
 Affine Subspace Representation for Feature Description
 Zhenhua Wang, Bin Fan, Fuchao Wu
-A Generative Model for the Joint Registration of Multiple Point Sets (project)
+A Generative Model for the Joint Registration of Multiple Point Sets
 Georgios Evangelidis, Dionyssos Kounades Bastian, Radu Horaud, Emmanouil Psarakis
 Change Detection in the Presence of Motion Blur and Rolling Shutter Effect
 Vijay Rengarajan, Rajagopalan Ambasamudram, Rangarajan Aravind
@@ -666,7 +666,7 @@ An Analysis of Errors in Graph-based Keypoint Matching and Proposed Solutions
 Toby Collins, Pablo Mesejo, Adrien Bartoli,Auvergne
 OpenDR: An Approximate Differentiable Renderer
 Matthew M. Loper, Michael J. Black
-A Superior Tracking Approach: Building a strong Tracker through Fusion (PDF, supplementary material, software)
+A Superior Tracking Approach: Building a strong Tracker through Fusion
 Christian Bailer (DFKI), Alain Pagani (DFKI), Didier Stricker (DFKI)
 Training-Based Spectral Reconstruction from a Single RGB Image
 Rang Nguyen, Dilip Prasad, Michael Brown
@@ -708,7 +708,7 @@ Salient Montages from Unconstrained Videos
 Min Sun, Ali Farhadi, Ben Taskar, Steve Seitz
 Action-Reaction: Forecasting the Dynamics of Human Interaction
 De-An Huang, Kris Kitani
-Creating Summaries from User Videos (PDF, project, bibtex)
+Creating Summaries from User Videos
 Michael Gygli, Helmut Grabner, Hayko Riemenschneider, Luc Van Gool
 Spatiotemporal Background Subtraction Using Minimum Spanning Tree and Optical Flow
 Mingliang Chen, Qingxiong Yang, Qing Li, Wang Gang, Ming-Hsuan Yang
