@@ -13,7 +13,9 @@
 - [ ] Part-Based R-Cnns For Fine-Grained Category Detection	270
 - [ ] Fast Visual Tracking Via Dense Spatio-Temporal Context Learning	233
 - [ ] Facial Landmark Detection By Deep Multi-Task Learning	230
+- [ ] Geodesic Object Proposals	199
 - [ ] Person Re-Identification Using Kernel-Based Metric Learning Methods	186
+- [ ] Face Detection Without Bells And Whistles	184
 - [ ] Meem: Robust Tracking Via Multiple Experts Using Entropy Minimization	181
 - [ ] Deep Features For Text Spotting	169
 - [ ] Action Recognition With Stacked Fisher Vectors	165
@@ -78,6 +80,7 @@
 - [ ] Boosting Vlad With Supervised Dictionary Learning And High-Orderstatistics	40
 - [ ] Tracking Interacting Objects Optimally Using Integer Programming	40
 - [ ] Action Recognition Using Super Sparse Coding Vector With Spatio-Temporal Awareness	40
+- [ ] Towards Unified Object Detection And Segmentation	40
 - [ ] Integrating Context And Occlusion For Car Detection By Hierarchical And-Or Model	39
 - [ ] Deep Learning Of Scene-Specific Classifier For Pedestrian Detection	39
 - [ ] Video Object Co-Segmentation By Regulated Maximum Weight Cliques	39
@@ -100,8 +103,8 @@
 - [ ] Recognizing City Identity Via Attribute Analysis Of Geo-Tagged Images	34
 - [ ] Real-Time Exemplar-Based Face Sketch Synthesis	33
 - [ ] Opendr: An Approximate Differentiable Renderer	33
-- [ ] Dense Semi-Rigid Scene Flow Estimation From Rgbd Images	32
 - [ ] Simultaneous Feature And Dictionary Learning For Image Set Based Face Recognition	32
+- [ ] Dense Semi-Rigid Scene Flow Estimation From Rgbd Images	32
 - [ ] Interactive Object Counting	32
 - [ ] Tracking Using Multilevel Quantizations	32
 - [ ] View-Consistent 3D Scene Flow Estimation Over Multiple Frames	32
@@ -124,10 +127,10 @@
 - [ ] Sequential Max-Margin Event Detectors	26
 - [ ] Online Graph-Based Tracking	26
 - [ ] Scene Chronology	26
-- [ ] Finding Coherent Motions And Semantic Regions In Crowd Scenes: A Diffusion And Clustering Approachg	25
 - [ ] A Contour Completion Model For Augmenting Surface Reconstructions	25
 - [ ] Graduated Consistency-Regularized Optimization For Multi-Graph Matching	25
 - [ ] Shape From Light Field Meets Robust Pca	25
+- [ ] Finding Coherent Motions And Semantic Regions In Crowd Scenes: A Diffusion And Clustering Approachg	25
 - [ ] Material Classification Based On Training Data Synthesized Using A Btf Database	25
 - [ ] Spatio-Temporal Matching For Human Detection In Video	25
 - [ ] Physically Grounded Spatio-Temporal Object Affordances	25
@@ -295,6 +298,7 @@
 - [ ] Photo Uncrop	6
 - [ ] Progressive Mode-Seeking On Graphs For Sparse Feature Matching	6
 - [ ] Semantic Aware Video Transcription Using Random Forest Classifiers	6
+- [ ] Numerical Inversion Of Srnfs For Efficient Elastic Shape Analysis Of Star-Shaped Objects	6
 - [ ] Foreground Consistent Human Pose Estimation Using Branch And Bound	6
 - [ ] A Closer Look At Context: From Coxels To The Contextual Emergence Of Object Saliency	6
 - [ ] Towards Transparent Systems: Semantic Characterization Of Failure Modes	5
@@ -313,6 +317,7 @@
 - [ ] Discovering Video Clusters From Visual Features And Noisy Tags	4
 - [ ] Interreflection Removal Using Fluorescence	4
 - [ ] Hand Waving Away Scale	4
+- [ ] Planar Structure Matching Under Projective Uncertainty For Geolocation	4
 - [ ] Sparse Dictionaries For Semantic Segmentation	4
 - [ ] Automatic Single-View Calibration And Rectification From Parallel Planar Curves	4
 - [ ] A Novel Topic-Level Random Walk Framework For Scene Image Co-Segmentation	4
@@ -321,7 +326,6 @@
 - [ ] Intrinsic Textures For Relightable Free-Viewpoint Video	4
 - [ ] Accurate Intrinsic Calibration Of Depth Camera With Cuboids	4
 - [ ] Radial Bright Channel Prior For Single Image Vignetting Correction	4
-- [ ] Planar Structure Matching Under Projective Uncertainty For Geolocation	4
 - [ ] Duality And The Continuous Graphical Model	4
 - [ ] On Shape And Material Recovery From Motion	4
 - [ ] Discriminative Indexing For Probabilistic Image Patch Priors	4
@@ -357,9 +361,5 @@
 - [ ] Dejavu: Motion Prediction In Static Images	-1
 - [ ] Consistent Matting For Light Field Image	-1
 - [ ] Using Isometry To Quickly Detect False 3D-2D Correspondences	-1
-- [ ] Face Detection Without Bells And Whistlesg	-1
-- [ ] Geodesic Object Proposalsg	-1
-- [ ] Attributes Make Sense On Segmented Objectsg	-1
-- [ ] Numerical Inversion Of Srnfs For Ef?Cient Elastic Shape Analysis Of Star-Shaped Objects	-1
-- [ ] Towards Uni?Ed Object Detection And Segmentation	-1
+- [ ] Attributes Make Sense On Segmented Objects	-1
 - [ ] Riemannian Sparse Coding Of Positive Definite Matrices	-1

@@ -206,7 +206,7 @@ Supervoxel-Consistent Foreground Propagation in Video	58
 Clustering with Hypergraphs: The Case for Large Hyperedges	14
 Person Re-Identification by Video Ranking	106
 Bayesian Nonparametric Intrinsic Image Decomposition	7
-Face detection without bells and whistlesg	-1
+Face detection without bells and whistles	184
 On image contours of projective shapes	1
 Programmable Automotive Headlights	10
 ROCHADE: Robust Checkerboard Advanced Detection for Camera Calibration	13
@@ -233,7 +233,7 @@ Recovering Scene Geometry under Wavy Fluid via Distortion and Defocus Analysis	1
 Human Detection using Learned Part Alphabet and Pose Dictionary	23
 SPADE: Scalar Product Accelerator by Integer Decomposition for Object Detection	6
 Detecting Snap Points in Egocentric Video with a Web Photo Prior	41
-Towards Uni?ed Object Detection and Segmentation	-1
+Towards Unified Object Detection and Segmentation	40
 Foreground Consistent Human Pose Estimation using Branch and Bound	6
 Human Pose Estimation with Fields of Parts	43
 Unsupervised Video Adaptation for Parsing Human Motion	12
@@ -245,7 +245,7 @@ Predicting Actions from Static Scenes	15
 Exploiting Privileged Information from Web Data for Image Cagegorization	23
 Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling	34
 Discriminatively Trained Dense Surface Normal Estimation	35
-Numerical Inversion of SRNFs for Ef?cient Elastic Shape Analysis of Star-Shaped Objects	-1
+Numerical Inversion of SRNFs for Efficient Elastic Shape Analysis of Star-Shaped Objects	6
 Non-Associative Higher-Order Markov Networks for Point Cloud Classification	18
 Learning Where To Classify In Multi-View Semantic Segmentation	23
 Stixmantics: A Medium-Level Model for Real-Time Semantic Scene Understanding	28
@@ -260,7 +260,7 @@ Model-Free Segmentation and Grasp Selection of Unknown Stacked Objects	5
 Convexity Shape Prior for Segmentation	16
 Pseudo-Bound Optimization for Binary Energies	17
 A Closer Look at Context: From Coxels to the Contextual Emergence of Object Saliency	6
-Geodesic Object Proposalsg	-1
+Geodesic Object Proposals	199
 Microsoft COCO: Common Objects in Context	1095
 Efficient Joint Segmentation, Occlusion Labeling, Stereo and Flow Estimation	119
 Robust Bundle Adjustment Revisited	23
@@ -290,7 +290,7 @@ Co-Sparse Textural Similarity for Interactive Segmentation	9
 A Convergent Incoherent Dictionary Learning Algorithm for Sparse Coding	14
 Free-Shape Polygonal Object Localization	6
 Interactively Guiding Semi-Supervised Clustering via Attribute-based Explanations	14
-Attributes make sense on segmented objectsg	-1
+Attributes make sense on segmented objects	-1
 Towards Transparent Systems: Semantic Characterization of Failure Modes	5
 Orientation covariant aggregation of local descriptors with embeddings	20
 Similarity-invariant Sketch-based Image Retrieval in Large Databases	18

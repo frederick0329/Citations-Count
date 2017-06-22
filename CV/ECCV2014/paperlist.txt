@@ -414,7 +414,7 @@ Person Re-Identification by Video Ranking
 Taiqing Wang, Shaogang Gong, Xiatian Zhu, Shengjin Wang
 Bayesian Nonparametric Intrinsic Image Decomposition
 Jason Chang, Randi Cabezas, John Fisher
-Face detection without bells and whistlesg
+Face detection without bells and whistles
 Markus Mathias, Rodrigo Benenson, Marco Pedersoli, Luc Van Gool
 On image contours of projective shapes
 Jean Ponce, Martial Hebert
@@ -468,7 +468,7 @@ SPADE: Scalar Product Accelerator by Integer Decomposition for Object Detection
 Mitsuru Ambai, Inc., Ikuro Sato, Inc.
 Detecting Snap Points in Egocentric Video with a Web Photo Prior
 Bo Xiong, Kristen Grauman
-Towards Uni?ed Object Detection and Segmentation
+Towards Unified Object Detection and Segmentation
 Jian Dong, Qiang Chen, Shuicheng Yan, Alan Yuille
 Foreground Consistent Human Pose Estimation using Branch and Bound
 Jens Puwein, Luca Ballan, Remo Ziegler, Vizrt, Marc Pollefeys
@@ -492,7 +492,7 @@ Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling
 Anran Wang, Jiwen Lu, Wang Gang, Jianfei Cai, Tat-Jen Cham
 Discriminatively Trained Dense Surface Normal Estimation
 Lubor Ladicky, Bernhard Zeisl, Marc Pollefeys
-Numerical Inversion of SRNFs for Ef?cient Elastic Shape Analysis of Star-Shaped Objects
+Numerical Inversion of SRNFs for Efficient Elastic Shape Analysis of Star-Shaped Objects
 Qian Xie, Ian Jermyn, Inria, Sebastian Kurtek, Anuj Srivastava
 Non-Associative Higher-Order Markov Networks for Point Cloud Classification
 Mohammad Najafi, Sarah Taghavi Namin, Mathieu Salzmann, Lars Petersson
@@ -522,7 +522,7 @@ Pseudo-Bound Optimization for Binary Energies
 Meng Tang, Ismail Ben Ayed, Yuri Boykov
 A Closer Look at Context: From Coxels to the Contextual Emergence of Object Saliency
 Rotem Mairon, Ohad Ben-Shahar
-Geodesic Object Proposalsg
+Geodesic Object Proposals
 Philipp KrÃ¤henbÃ¼hl, Vladlen Koltun
 Microsoft COCO: Common Objects in Context
 Tsung-Yi Lin, Cornell Tech, Michael Maire, Caltech, Serge Belongie, Cornell Tech, James Hays, Pietro Perona, Caltech, Deva Ramanan, Piotr Dollï¿½r, Larry Zitnick
@@ -582,7 +582,7 @@ Free-Shape Polygonal Object Localization
 Xiaolu Sun, Mario Christoudias, Pascal Fua
 Interactively Guiding Semi-Supervised Clustering via Attribute-based Explanations
 Shrenik Lad, Virginia Tech, Devi Parikh, Virginia Tech
-Attributes make sense on segmented objectsg
+Attributes make sense on segmented objects
 Zhenyang Li, Efstratios Gavves, Thomas Mensink, Cees Snoek
 Towards Transparent Systems: Semantic Characterization of Failure Modes
 Aayush Bansal, Ali Farhadi, Devi Parikh, Virginia Tech
