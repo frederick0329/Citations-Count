@@ -1,9 +1,8 @@
 # ACL2016 papers
-## Last Updated: 2017-06-17
+## Last Updated: 2017-06-25
 - [ ] Neural Machine Translation Of Rare Words With Subword Units	124
 - [ ] Globally Normalized Transition-Based Neural Networks	107
 - [ ] A Thorough Examination Of The Cnn / Daily Mail Reading Comprehension Task	64
-- [ ] A Character-Level Decoder Without Explicit Segmentation For Neural Machine Translation	59
 - [ ] Character-Based Neural Machine Translation	55
 - [ ] Minimum Risk Training For Neural Machine Translation	52
 - [ ] Improving Neural Machine Translation Models With Monolingual Data	48
@@ -29,6 +28,7 @@
 - [ ] Neural Summarization By Extracting Sentences And Words	17
 - [ ] Latent Predictor Networks For Code Generation	17
 - [ ] Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus	16
+- [ ] A Character-Level Decoder Without Explicit Segmentation For Neural Machine Translation	16
 - [ ] Tree-To-Sequence Attentional Neural Machine Translation	16
 - [ ] Data Recombination For Neural Semantic Parsing	15
 - [ ] Wikireading: A Novel Large-Scale Language Understanding Task Over Wikipedia	15
