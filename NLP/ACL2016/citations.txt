@@ -243,7 +243,7 @@ Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Class
 Automatic Semantic Classification of German Preposition Types: Comparing Hard and Soft Clustering Approaches across Features	0
 Beyond Privacy: The Social Impact of Natural Language Processing	-1
 Bootstrapped Text-level Named Entity Recognition for Literature	1
-Character-based Neural Machine Translation	55
+Character-based Neural Machine Translation	31
 Claim Synthesis via Predicate Recycling	1
 Coarse-grained Argumentation Features for Scoring Persuasive Essays	2
 Convergence of Syntactic Complexity in Conversation	1

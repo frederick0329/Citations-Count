@@ -3,7 +3,6 @@
 - [ ] Neural Machine Translation Of Rare Words With Subword Units	124
 - [ ] Globally Normalized Transition-Based Neural Networks	107
 - [ ] A Thorough Examination Of The Cnn / Daily Mail Reading Comprehension Task	64
-- [ ] Character-Based Neural Machine Translation	55
 - [ ] Minimum Risk Training For Neural Machine Translation	52
 - [ ] Improving Neural Machine Translation Models With Monolingual Data	48
 - [ ] End-To-End Sequence Labeling Via Bi-Directional Lstm-Cnns-Crf	48
@@ -15,6 +14,7 @@
 - [ ] Pointing The Unknown Words	36
 - [ ] Modeling Coverage For Neural Machine Translation	35
 - [ ] Language To Logical Form With Neural Attention	33
+- [ ] Character-Based Neural Machine Translation	31
 - [ ] Diachronic Word Embeddings Reveal Laws Of Semantic Change	26
 - [ ] Natural Language Inference By Tree-Based Convolution And Heuristic Matching	21
 - [ ] End-To-End Relation Extraction Using Lstms On Sequences And Tree Structures	19
